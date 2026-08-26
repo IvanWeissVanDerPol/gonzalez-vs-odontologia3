@@ -323,11 +323,59 @@
 | Acción | Para quién | Plazo |
 |---|---|---|
 | Backup de evidencia | Gabi | Esta semana |
-| Firma de poder | Gabi | Esta semana |
+| Firma del poder | Gabi + Carlos | Esta semana |
 | Plantillas procesales | Carlos | Esta semana |
 | Alertas automatizadas | Carlos | Esta semana |
 | Plan financiero | Gabi + Carlos | Este mes |
 | Monitoreo trimestral | Carlos | Trimestral |
+
+---
+
+## 10. Plan de acción inmediato (mejoras del análisis multiperspectiva)
+
+### 10.1. Esta semana
+
+- [ ] **Firma del poder** — sin esto Carlos no puede actuar.
+- [ ] **Backup cifrado** — Drive + disco externo + VeraCrypt.
+- [ ] **Preservar celular** — no resetear, no actualizar apps.
+- [ ] **Cambiar contraseñas + 2FA** — email, banco, redes.
+- [ ] **Completar cuestionario** (`55-cuestionario-gabi-LLENO.md`).
+
+### 10.2. Primer mes
+
+- [ ] **Contratar perito informático** — para certificar integridad de audios.
+- [ ] **Identificar Coordinadora y "licenciado"** — nombre completo + apellido.
+- [ ] **Solicitar pericia contable** — para demostrar el fraude financiero.
+- [ ] **Embargo preventivo** — con la demanda.
+- [ ] **Iniciar oficios** — IPS, SET, Registro Público, Viceministerio.
+- [ ] **Conciliación administrativa** — primer paso procesal.
+
+### 10.3. Primer trimestre
+
+- [ ] **Apoyo psicológico para Gabi** — psicólogo con experiencia en litigios.
+- [ ] **Identificar otros profesionales** — con cautela, posible acción colectiva.
+- [ ] **Certificados del Círculo** — habilitación de Gabi y Roque.
+- [ ] **Examen ocupacional** — hepatitis B/C, HIV, ergonomía.
+- [ ] **Plan financiero personal** — fondo de emergencia + ingresos alternativos.
+- [ ] **Mantener alianzas** — con colegas que puedan ser aliados.
+
+### 10.4. Trimestres siguientes
+
+- [ ] Pericia informática definitiva
+- [ ] Inspección MTESS
+- [ ] Informe Círculo de Odontólogos
+- [ ] OSINT sobre Roque
+- [ ] Embargo específico del consultorio
+- [ ] Historias clínicas
+- [ ] Monitoreo Boletín de Registros
+- [ ] Acción penal (solo si fracasa la laboral)
+- [ ] Acción colectiva (solo si hay otros profesionales)
+- [ ] Regularización fiscal de Gabi ante SET
+- [ ] Plan de contingencia si Roque cierra
+- [ ] Co-patrocinio de la novia abogada
+- [ ] Backup de abogado
+
+**Total: 25 mejoras identificadas por los 40 analistas.**
 
 ---
 

@@ -50,6 +50,16 @@ Que se declare judicialmente la existencia de una **relación laboral dependient
 
 6. **Arts. 14 y 21 del Código Civil.** El contrato fue un negocio jurídico celebrado en fraude a la ley, cuyo objeto era evadir las obligaciones laborales y previsionales del empleador. El abuso del derecho no está permitido.
 
+7. **Estabilidad absoluta (Art. 94 CT).** La actora cuenta con más de diez años de antigüedad, por lo que goza de estabilidad absoluta y no puede ser despedida sin autorización judicial previa. El cese del 14/07/2026 carece de eficacia jurídica y debe ser declarado nulo.
+
+8. **Cargo del firmante (prueba indiciaria).** En la carta del 26/03/2025 el Sr. Ramírez Nizza firma como "Director-Presidente/Director General"; en la carta del 18/06/2026 firma como "Auditor Odontólogo". La variación del cargo no afecta su responsabilidad, pero el título "Auditor" implica una relación jerárquica técnica sobre los profesionales de la clínica, lo que descarta la autonomía profesional.
+
+9. **Inexistencia de contrafirma.** El contrato de Prestación de Servicios no fue contra-firmado por la demandada en la copia que retiene la actora. Esta asimetría documental refuerza la falta de bilateralidad y la informalidad del negocio jurídico.
+
+10. **Asistencia obligatoria (Art. 16 CT).** La actora ha declarado (audio 82) que debía concurrir al consultorio aunque no tuviera pacientes asignados, percepción que la demandada reconocía mediante el control de puntualidad documentado en las cartas de apercibimiento. Esta conducta es incompatible con la autonomía profesional del Art. 145-149 CT.
+
+11. **Manifestación verbal del personal de recursos humanos (Art. 287 CP).** El personal de recursos humanos de la demandada manifestó verbalmente a la actora (audio 43): "no pagamos nada, todo está estipulado en el contrato". Esta confesión extrajudicial ratifica el dolo de la demandada y configura el tipo penal de fraude procesal (Art. 287 CP).
+
 ### B. Estabilidad absoluta
 
 7. **Art. 94 del Código del Trabajo.** La actora cuenta con más de diez años de antigüedad en la demandada. Goza de estabilidad absoluta y no puede ser despedida sin autorización judicial previa.

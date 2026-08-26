@@ -7,10 +7,10 @@ cce25326e08d55d5c3fbbc3251eea18405032387371b49a7f32f9424b6a218ec       14330  02
 c092b359c25eca5af50aa5e4b7a5ab24dbcfb4bf6e9b327d1f4085d7b514cfe1         889  02-hechos/README.md
 452699fbe6dd90a69cd0b073df44f6a99889a214dfefda2498d33d161613d2c1       14153  03-legal/02-tesis-juridica.md
 f892ce0309b313703a96148132a2379e17d61c4a0c6bd47f5dec4e2fbc16593d       11784  03-legal/13-jurisprudencia.md
-b743f3e5d77b6196375dad1d713505dab33ead3099a4fec707f3385c1d788247       12057  03-legal/16-borrador-demanda.md
+1f60e2848a245fbd95d30f97070d0a80a3683747d755fc0bfaf6b6e5bd981792       13714  03-legal/16-borrador-demanda.md
 648fcfc7bb7ff4c73d74843438a6a04a929467e8f440547cff0e9a2470049b0c        8061  03-legal/21-brief-legal.md
 76923d336da125174d4751a9bc65ea7201d54a93548eb89af04c0958ac72077f        1145  03-legal/README.md
-6c31226150134987edd2f1720ef80a9f2cca1212891394390a43482bd2135f94       11172  04-estrategia/05-estrategia-procesal.md
+63a5058d7e65ac2df111a0a00e5ade7a297e93a63155fe690a5523573166abcb       12748  04-estrategia/05-estrategia-procesal.md
 3327ad3cf0c32b99b7f6275a26b92ed4bde06b5a7a1723fbb9b3017e176eddd4        9205  04-estrategia/06-prescripcion-y-plazos.md
 0ddb9d99f738350931895677051e643224a0addc96d20f31aec4e07f88459f58        7972  04-estrategia/09-riesgos-y-contratargumentos.md
 90abb302c1f528a12459deb49ac946892d5eead77c5dfc41dd959d7a0b4121b9        5393  04-estrategia/10-checklist-de-acuerdo.md
@@ -42,7 +42,7 @@ a14033c5b420607ce600667144d5fb0f7b86da4b315199d6f4c5106580a512ed       10362  08
 f3daf8654faa7a9cc41117b0925378c0088c62ca159ce4cf0f751fd1ced6ae07        8329  10-riesgos-personales/28-analisis-riesgos-gabi.md
 4d4d8f6f9581e70fc85cc9c2a5f3820deb097bbc279ec2dcd553fa62b4488d47        7134  10-riesgos-personales/33-seguridad-personal.md
 84693e2b25fbcf4d44211ecacb43415256ea370b552f4bc8025004c22739d50b         864  10-riesgos-personales/README.md
-0d2d5e1971a532c99b90f234bd231e06d9578820cdd76fda387cdf4858b4d4c8        9611  11-arquitectura-caso/20-plan-upgrade.md
+01317151288c560311bf2600a66343bfb0f6aec4b5666454df20456a78c4724a       11571  11-arquitectura-caso/20-plan-upgrade.md
 acbe4cbd3b51b72d5c37429af0feb43c9e529d8fa5564ca0cccea02bf2566725        1093  11-arquitectura-caso/README.md
 40a356750581d086c3bddb00812acd913ecaa593df75c8f0df30f4a43282abed        3336  12-evidencia/README.md
 4c17cc8ecea0f753af4eb6691e5e3a8d7037d1f3bbd3204253b33f2f3dab9f9f        8559  12-evidencia/_chat.txt
@@ -171,5 +171,9 @@ dd24dc38fff4ac4ae577966ca62f12db7214bc15aed2c8703eb3c859f3a9d3f3        5696  13
 750f4b3594e2edbb746202c28e9e02a16bcf9582f31b5a49ac14688886c1762f      100702  55-cuestionario-gabi-LLENO.md
 083c6f5f742206749ed36ef895665989fcc92adc52e38f27b8d2a5a0804de15c       21564  55-cuestionario-para-gabi.md
 2821de56b6666c1152eeadb3210f8031b398bad4dfb2184577188f94a87a1c58       52607  56-analisis-40-roles.md
-9905261bad3e9450dfae89fa6d829992baec1e4116cc365bbcc91fa8aadb943e        8945  ESTRUCTURA.md
-475a3c0fdc46dd3c3f811c1bf89a0d9ba940aa94a178c558375a95f15b75a802        6552  README.md
+b25433efc76118fa317d526f5afdb3241810a4ed812ec4da73f17e438f8ab48d       10707  57-checklist-de-mejoras.md
+adca49f8109de8b6e3a5da2e9f9592b277f46df278b6563dbbd4d9739f0b6387       12332  58-plan-de-accion.md
+5666c43efa40cdf8853025da9348037fb364631a615be1447bc43fdfb0d5cdbb       11673  59-protocolo-de-emergencia.md
+dc52d361633e771e8cee6d7f04d4a33dd48d81baf4cd1eb8ed518aeb67fb7f2d       10300  60-guia-rapida-para-gabi.md
+e6f7dbf639d383517684f2de565fc0de0adef8b654178a296e2b6790d8a19797        9459  ESTRUCTURA.md
+f859bffcd0a7c90cb6492e9cc86cc7abc247c3b7cd60c5d33f8a6e388b422382        7618  README.md

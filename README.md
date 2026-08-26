@@ -12,11 +12,12 @@
 Expediente completo y estratégico con:
 
 - **40 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales.
+- **+ 5 docs operativos** (checklist de mejoras, plan de acción, protocolo de emergencia, guía rápida, cuestionario con opciones).
 - **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).
 - **38 audios originales** (`.opus`, `12-evidencia/audios/`).
 - **76 transcripciones** (Whisper + corregidas, en `12-evidencia/transcripciones-*`).
 - **1 chat completo** (`12-evidencia/_chat.txt`).
-- **SHA-256** de los 166 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
+- **SHA-256** de los 175 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
 
 ---
 
@@ -39,7 +40,12 @@ gonzalez-vs-odontologia3/
 ├── 10-riesgos-personales/             ← matriz de riesgos + seguridad personal
 ├── 11-arquitectura-caso/              ← backups, alertas, monitoreo, contingencia
 ├── 12-evidencia/                      ← evidencia original INMUTABLE
-└── 13-templates-procesales/           ← formularios listos para Carlos
+├── 13-templates-procesales/           ← formularios listos para Carlos
+├── 57-checklist-de-mejoras.md         ← 35 mejoras priorizadas
+├── 58-plan-de-accion.md               ← timeline 12 meses
+├── 59-protocolo-de-emergencia.md      ← 14 escenarios de crisis
+├── 60-guia-rapida-para-gabi.md        ← hoja de ruta personal
+└── 55-cuestionario-gabi-LLENO.md      ← cuestionario con opciones
 ```
 
 Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
@@ -79,6 +85,12 @@ Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
 8. `13-templates-procesales/37-oficios.md` (8 oficios listos para enviar).
 9. `13-templates-procesales/38-cartas-documento.md` (cartas documento).
 10. `13-templates-procesales/39-interrogatorios.md` (preguntas para audiencias).
+11. `56-analisis-40-roles.md` (40 profesionales analizando el caso).
+12. `57-checklist-de-mejoras.md` (35 mejoras priorizadas).
+13. `58-plan-de-accion.md` (timeline de 12 meses).
+14. `59-protocolo-de-emergencia.md` (14 escenarios de crisis).
+15. `60-guia-rapida-para-gabi.md` (hoja de ruta personal).
+16. `55-cuestionario-gabi-LLENO.md` (cuestionario con opciones para Gabi).
 
 ### Si sos la cliente (Dra. Gabi)
 
@@ -87,6 +99,9 @@ Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
 3. `07-comunicacion/19-plan-comunicaciones.md` (qué decir en cada canal).
 4. `11-arquitectura-caso/20-plan-upgrade.md` (acciones inmediatas).
 5. `10-riesgos-personales/33-seguridad-personal.md` (cuidado integral).
+6. `55-cuestionario-gabi-LLENO.md` (cuestionario con opciones para vos).
+7. `60-guia-rapida-para-gabi.md` (tu hoja de ruta personal).
+8. `59-protocolo-de-emergencia.md` (qué hacer en cada crisis).
 
 ### Si sos un tercero revisor
 

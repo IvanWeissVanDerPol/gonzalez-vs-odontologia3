@@ -98,6 +98,16 @@ gonzalez-vs-odontologia3/
     └── 39-interrogatorios.md          ← preguntas para confesional/testifical
 ```
 
+```
+Archivos en la raíz:
+├── 55-cuestionario-gabi-LLENO.md      ← cuestionario con opciones para Gabi (4831 líneas)
+├── 56-analisis-40-roles.md            ← 40 profesionales analizando el caso (1211 líneas)
+├── 57-checklist-de-mejoras.md         ← 35 mejoras priorizadas
+├── 58-plan-de-accion.md               ← timeline 12 meses
+├── 59-protocolo-de-emergencia.md      ← 14 escenarios de crisis
+└── 60-guia-rapida-para-gabi.md        ← hoja de ruta personal
+```
+
 ---
 
 ## Conteo

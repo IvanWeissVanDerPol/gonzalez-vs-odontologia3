@@ -298,4 +298,28 @@ Por los aportes evadidos. El IPS puede iniciar una acción de cobro propia contr
 
 ---
 
+## 14. Mejoras derivadas del análisis multiperspectiva (40 roles)
+
+Después del análisis de 40 profesionales (jueces, abogados, psicólogos, contadores, periodistas, académicos, tecnólogos, etc.), se incorporaron las siguientes mejoras:
+
+1. **Pericia informática de los audios** (recomendada por 7 roles) — debe hacerse ANTES de la audiencia preliminar para certificar cadena de custodia.
+2. **Embargo preventivo** (recomendado por 6 roles) — solicitar con la presentación de la demanda.
+3. **Identificación formal de Coordinadora y "licenciado"** (5 roles) — testigos clave.
+4. **Pericia contable** (5 roles) — para probar el flujo de pagos y el fraude financiero.
+5. **Apoyo psicológico para Gabi** (4 roles) — desde el inicio del proceso.
+6. **Inspección del MTESS** (3 roles) — generar presión adicional sobre la demandada.
+7. **Certificados del Círculo de Odontólogos** (3 roles) — opinión institucional sobre el modelo de Roque.
+8. **Monitoreo del Boletín de Registros** (3 roles) — para detectar cambios en la S.A.
+9. **Análisis OSINT de Roque** (1 rol) — para conocer su perfil y eventuales vínculos.
+10. **Plan de contingencia** (múltiples roles) — si Roque cierra la clínica, cambia de razón social, etc.
+
+## 15. Veredicto del análisis multiperspectiva
+
+**Consenso:** 85-95% de probabilidad de éxito.
+**VPN esperado:** Gs. 90.7M netos.
+**Riesgo máximo:** Gs. 17.7M.
+**Recomendación final:** proceder con la estrategia descrita, ejecutar todas las mejoras prioritarias, mantener el caso privado hasta sentencia firme.
+
+---
+
 *Ver [`06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el detalle de los plazos fatales, y [`../09-areas-investigacion/07-seguridad-social-y-tributos.md`](./07-seguridad-social-y-tributos.md) para el impacto en IPS y SET.*
