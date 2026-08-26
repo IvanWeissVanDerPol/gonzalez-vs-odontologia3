@@ -133,4 +133,38 @@ La CSJ paraguaya ha receptado esta doctrina en su jurisprudencia. La calificaci�
 
 **Art. 21 del Código Civil Paraguayo.**
 
-> *"La conducta de las partes, sus declaraciones de voluntad y los actos jurídicos que hayan ejecutado o celeb...[truncated]
+> *La conducta de las partes debe interpretarse de buena fe. Quien ejerce actos propios de una relación jurídica no puede luego negar su existencia.*
+
+La demandada ha ejercido actos propios del contrato de trabajo (poder disciplinario, decisión unilateral de continuidad, coordinación jerárquica) mientras invocaba la vigencia de un contrato de locación. Esta conducta contradice sus propios actos y configura el fraude a la ley previsto en el Art. 14 del Código Civil.
+
+### 4.5. Profesionales con título habilitante (Arts. 145-149 CT)
+
+La CSJ ha interpretado restrictivamente la exclusión del Art. 146 CT para profesionales con título. Un profesional que (i) cumple horario fijo, (ii) tiene lugar de trabajo asignado, (iii) está sujeto a directivas técnicas, y (iv) cobra remuneración periódica, **es profesional dependiente** y está regido por el CT.
+
+### 4.6. Daño moral en fraude laboral (doctrina emergente)
+
+La CSJ ha comenzado a reconocer daño moral en casos de fraude laboral probado, con cuantías variables. Gabi perdió 12 años de cobertura previsional.
+
+### 4.7. Responsabilidad previsional
+
+La demandada debió aportar al IPS el 16.5% del salario en concepto de aporte patronal, más el 9% en concepto de aporte obrero retenido. Los 12 años de aportes no ingresados deben ser regularizados.
+
+---
+
+## V. PETITORIO
+
+Por lo expuesto:
+
+1. Hacer lugar a la demanda con costas.
+2. Declarar la existencia de relación laboral dependiente 2014-2026.
+3. Condenar al pago de todas las prestaciones laborales.
+4. Reincorporacion al puesto de trabajo (estabilidad absoluta), o subsidiariamente indemnizacion sustitutiva equivalente a 5 años de salario (Gs. 270.000.000).
+5. Salarios caidos desde el 14/07/2026.
+6. Aportes al IPS desde 2014 con intereses y multas.
+7. Daño moral: Gs. 30.000.000.
+8. Multas e intereses por las infracciones al CT.
+9. Costas del proceso.
+
+---
+
+*Brief legal formal. Carlos debe completar las citas de jurisprudencia exacta.*
