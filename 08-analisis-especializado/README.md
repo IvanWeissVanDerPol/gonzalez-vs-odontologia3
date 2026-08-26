@@ -6,14 +6,14 @@ Análisis verticales sobre temas técnicos que requieren conocimiento específic
 
 | Doc | Materia |
 |---|---|
-| `../../../../../../08-analisis-especializado/15-solvencia.md` | Patrimonio de la demandada + Roque + riesgos de cobro |
-| `../../../../../../08-analisis-especializado/23-analisis-tecnico-odontologico.md` | 3 especialidades de Gabi, bioseguridad, riesgos del trabajo |
-| `../../../../../../08-analisis-especializado/24-analisis-penal.md` | Tipos penales aplicables (estafa procesal, fraude procesal) |
-| `../../../../../../08-analisis-especializado/25-analisis-previsional.md` | IPS, jubilación perdida, daño previsional Gs. 259M |
-| `../../../../../../08-analisis-especializado/26-analisis-tributario.md` | IRP, IVA, doble imposición, denuncia a la SET |
-| `../../../../../../08-analisis-especializado/27-analisis-administrativo.md` | MTESS, Viceministerio, IPS, SET, Defensoría, CGR |
-| `../../../../../../08-analisis-especializado/29-analisis-comparado.md` | Doctrina PY vs AR/BR/CL (pejotização, trabajo no registrado) |
-| `../../../../../../08-analisis-especializado/32-analisis-proyecto.md` | Viabilidad del consultorio propio, costos, riesgos comerciales |
+| `15-solvencia.md` | Patrimonio de la demandada + Roque + riesgos de cobro |
+| `23-analisis-tecnico-odontologico.md` | 3 especialidades de Gabi, bioseguridad, riesgos del trabajo |
+| `24-analisis-penal.md` | Tipos penales aplicables (estafa procesal, fraude procesal) |
+| `25-analisis-previsional.md` | IPS, jubilación perdida, daño previsional Gs. 259M |
+| `26-analisis-tributario.md` | IRP, IVA, doble imposición, denuncia a la SET |
+| `27-analisis-administrativo.md` | MTESS, Viceministerio, IPS, SET, Defensoría, CGR |
+| `29-analisis-comparado.md` | Doctrina PY vs AR/BR/CL (pejotização, trabajo no registrado) |
+| `32-analisis-proyecto.md` | Viabilidad del consultorio propio, costos, riesgos comerciales |
 
 ## Cómo usar
 

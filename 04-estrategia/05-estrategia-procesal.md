@@ -54,7 +54,7 @@
 ### 2.2. Mientras se esperan los oficios
 
 - Perfeccionar la transcripción de los audios (revisión manual de errores de Whisper).
-- Cuantificar el crédito laboral definitivo (ver `../../../../../../05-cuantificacion/03-cuantificacion.md`).
+- Cuantificar el crédito laboral definitivo (ver `../05-cuantificacion/03-cuantificacion.md`).
 - Redactar el escrito de conciliación administrativa.
 - Preparar el escrito de demanda en borrador.
 
@@ -100,10 +100,10 @@ Con un crédito laboral superior a Gs. 100M, corresponde la **vía ordinaria**.
 ### 4.3. Escrito de demanda (estructura sugerida)
 
 1. **Objeto:** reconocimiento de relación laboral + cobro de prestaciones + reincorporación o indemnización sustitutiva.
-2. **Hechos:** detallado según `../../../../../../02-hechos/01-hechos-y-cronologia.md`.
+2. **Hechos:** detallado según `../02-hechos/01-hechos-y-cronologia.md`.
 3. **Derecho:** invocar Arts. 4, 6, 9, 16, 65, 86, 91, 94, 121, 122, 218, 243, 283 CT; Art. 6° Decreto 11.292/60; Arts. 14 y 21 CC; Arts. 86–89 CP.
-4. **Prueba:** según `../../../../../../02-hechos/04-pruebas.md`.
-5. **Petitorio:** según §8 de `../../../../../../03-legal/02-tesis-juridica.md`.
+4. **Prueba:** según `../02-hechos/04-pruebas.md`.
+5. **Petitorio:** según §8 de `../03-legal/02-tesis-juridica.md`.
 
 ### 4.4. Cuantía demandada
 
@@ -298,4 +298,4 @@ Por los aportes evadidos. El IPS puede iniciar una acción de cobro propia contr
 
 ---
 
-*Ver [`../../../../../../04-estrategia/06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el detalle de los plazos fatales, y [`../../../../../../09-areas-investigacion/07-seguridad-social-y-tributos.md`](./07-seguridad-social-y-tributos.md) para el impacto en IPS y SET.*
+*Ver [`06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el detalle de los plazos fatales, y [`../09-areas-investigacion/07-seguridad-social-y-tributos.md`](./07-seguridad-social-y-tributos.md) para el impacto en IPS y SET.*

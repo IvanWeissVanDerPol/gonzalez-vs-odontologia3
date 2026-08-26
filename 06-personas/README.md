@@ -6,9 +6,9 @@ Quién es quién en el caso. Análisis de perfiles, redes y tácticas de negocia
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../06-personas/11-comunicaciones-y-negociacion.md` | Tácticas de negociación BATNA/anclaje + perfiles básicos |
-| `../../../../../../06-personas/14-perfiles-psicologicos.md` | Big Five + DISC + estilo de comunicación de cada actor |
-| `../../../../../../06-personas/31-analisis-red-social.md` | Aliados, testigos potenciales, riesgos sociales, coaliciones |
+| `11-comunicaciones-y-negociacion.md` | Tácticas de negociación BATNA/anclaje + perfiles básicos |
+| `14-perfiles-psicologicos.md` | Big Five + DISC + estilo de comunicación de cada actor |
+| `31-analisis-red-social.md` | Aliados, testigos potenciales, riesgos sociales, coaliciones |
 
 ## Actores cubiertos
 
@@ -21,9 +21,9 @@ Quién es quién en el caso. Análisis de perfiles, redes y tácticas de negocia
 
 ## Cómo usar
 
-1. `../../../../../../06-personas/14-perfiles-psicologicos.md` primero (entender a cada quien).
-2. `../../../../../../06-personas/31-analisis-red-social.md` para el mapa de coaliciones.
-3. `../../../../../../06-personas/11-comunicaciones-y-negociacion.md` para las tácticas de negociación.
+1. `14-perfiles-psicologicos.md` primero (entender a cada quien).
+2. `31-analisis-red-social.md` para el mapa de coaliciones.
+3. `11-comunicaciones-y-negociacion.md` para las tácticas de negociación.
 
 ## Conexión con otras carpetas
 

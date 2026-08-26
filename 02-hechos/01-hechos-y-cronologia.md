@@ -199,4 +199,4 @@ Gabi contacta a Carlos y le envía:
 4. **Solicitar al Viceministerio del Trabajo** si la clínica fue inspeccionada alguna vez.
 5. **Recibir declaración testimonial** de Manuel (si así lo decidiera Gabi y él aceptara).
 
-Ver [`../../../../../../02-hechos/04-pruebas.md`](./04-pruebas.md) para el detalle del plan probatorio completo.
+Ver [`04-pruebas.md`](./04-pruebas.md) para el detalle del plan probatorio completo.

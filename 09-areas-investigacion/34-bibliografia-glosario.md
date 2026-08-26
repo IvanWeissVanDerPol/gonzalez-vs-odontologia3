@@ -335,7 +335,7 @@ URL: https://www.csj.gov.py/sentencias/buscador
 
 ## 5. Cronologia procesal del caso
 
-Ver `../../../../../../02-hechos/01-hechos-y-cronologia.md` para detalles.
+Ver `../02-hechos/01-hechos-y-cronologia.md` para detalles.
 
 Resumen:
 

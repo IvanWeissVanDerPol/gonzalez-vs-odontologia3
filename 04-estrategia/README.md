@@ -6,19 +6,19 @@ Plan paso a paso para el litigio, gestión de plazos, riesgos y negociación con
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../04-estrategia/05-estrategia-procesal.md` | Plan procesal completo (firma poder → sentencia → ejecución) |
-| `../../../../../../04-estrategia/06-prescripcion-y-plazos.md` | Calendario de vencimientos (322 días restantes al 17/08/2026) |
-| `../../../../../../04-estrategia/09-riesgos-y-contratargumentos.md` | Tesis defensivas probables de la demandada + respuestas |
-| `../../../../../../04-estrategia/10-checklist-de-acuerdo.md` | Checklist para negociar acuerdo transaccional |
-| `../../../../../../04-estrategia/30-analisis-adversarial.md` | Cómo pensará Roque, 10 líneas defensivas anticipadas con respuestas |
+| `05-estrategia-procesal.md` | Plan procesal completo (firma poder → sentencia → ejecución) |
+| `06-prescripcion-y-plazos.md` | Calendario de vencimientos (322 días restantes al 17/08/2026) |
+| `09-riesgos-y-contratargumentos.md` | Tesis defensivas probables de la demandada + respuestas |
+| `10-checklist-de-acuerdo.md` | Checklist para negociar acuerdo transaccional |
+| `30-analisis-adversarial.md` | Cómo pensará Roque, 10 líneas defensivas anticipadas con respuestas |
 
 ## Cómo usar
 
-1. `../../../../../../04-estrategia/06-prescripcion-y-plazos.md` primero (ver qué urge).
-2. `../../../../../../04-estrategia/05-estrategia-procesal.md` para el plan completo.
-3. `../../../../../../04-estrategia/30-analisis-adversarial.md` para anticipar al adversario.
-4. `../../../../../../04-estrategia/09-riesgos-y-contratargumentos.md` para preparar respuestas.
-5. `../../../../../../04-estrategia/10-checklist-de-acuerdo.md` cuando llegue el momento de negociar.
+1. `06-prescripcion-y-plazos.md` primero (ver qué urge).
+2. `05-estrategia-procesal.md` para el plan completo.
+3. `30-analisis-adversarial.md` para anticipar al adversario.
+4. `09-riesgos-y-contratargumentos.md` para preparar respuestas.
+5. `10-checklist-de-acuerdo.md` cuando llegue el momento de negociar.
 
 ## Conexión con otras carpetas
 

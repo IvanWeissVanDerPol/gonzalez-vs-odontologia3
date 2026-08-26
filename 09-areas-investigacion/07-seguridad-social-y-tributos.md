@@ -224,4 +224,4 @@ El resarcimiento no es solo monetario: es **regularización previsional**, que l
 
 ---
 
-*Ver [`../../../../../../05-cuantificacion/03-cuantificacion.md`](./03-cuantificacion.md) para la cuantificación completa del crédito laboral.*
+*Ver [`../05-cuantificacion/03-cuantificacion.md`](./03-cuantificacion.md) para la cuantificación completa del crédito laboral.*

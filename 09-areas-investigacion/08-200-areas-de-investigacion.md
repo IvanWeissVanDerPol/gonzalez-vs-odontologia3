@@ -8,7 +8,7 @@
 
 | # | Área | Para qué sirve | Cómo abordar |
 |---|---|---|---|
-| 1 | Línea de tiempo día por día del chat 2026-07-10 → 2026-08-17 | Reconstruir la dinámica procesal previa al juicio | Ya reconstruida en `../../../../../../02-hechos/01-hechos-y-cronologia.md`. |
+| 1 | Línea de tiempo día por día del chat 2026-07-10 → 2026-08-17 | Reconstruir la dinámica procesal previa al juicio | Ya reconstruida en `../02-hechos/01-hechos-y-cronologia.md`. |
 | 2 | Identificación completa de las partes | Acreditar personalidad | Solicitar CI de Gabi, RUC y representación legal de Odontología 3 S.A. |
 | 3 | Fecha exacta de ingreso (2014) | Determinar antigüedad | Verificar con libro de asistencia de la clínica o pericia contable. |
 | 4 | Fecha efectiva de desvinculación | Habilita cómputo de prescripción | Audio 85 confirma 14/07/2026. |

@@ -314,7 +314,7 @@ Gabi puede presentar denuncia anónima ante la SET por:
 
 ### 10.2. Aplicación al caso
 
-**Ver análisis penal detallado en `../../../../../../08-analisis-especializado/24-analisis-penal.md`.**
+**Ver análisis penal detallado en `24-analisis-penal.md`.**
 
 **Resumen:**
 

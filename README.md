@@ -11,12 +11,12 @@
 
 Expediente completo y estratégico con:
 
-- **35 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado y tecnológico.
+- **40 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales.
 - **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).
 - **38 audios originales** (`.opus`, `12-evidencia/audios/`).
 - **76 transcripciones** (Whisper + corregidas, en `12-evidencia/transcripciones-*`).
 - **1 chat completo** (`12-evidencia/_chat.txt`).
-- **SHA-256** de los 153 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
+- **SHA-256** de los 166 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
 
 ---
 
@@ -38,7 +38,8 @@ gonzalez-vs-odontologia3/
 ├── 09-areas-investigacion/            ← 200 áreas + bibliografía + glosario
 ├── 10-riesgos-personales/             ← matriz de riesgos + seguridad personal
 ├── 11-arquitectura-caso/              ← backups, alertas, monitoreo, contingencia
-└── 12-evidencia/                      ← evidencia original INMUTABLE
+├── 12-evidencia/                      ← evidencia original INMUTABLE
+└── 13-templates-procesales/           ← formularios listos para Carlos
 ```
 
 Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
@@ -72,7 +73,12 @@ Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
 4. `03-legal/13-jurisprudencia.md` (citas a verificar en el Buscador de la CSJ).
 5. `04-estrategia/05-estrategia-procesal.md` (plan paso a paso).
 6. `04-estrategia/06-prescripcion-y-plazos.md` (qué urge).
-7. `09-areas-investigacion/34-bibliografia-glosario.md` (bibliografía + glosario + búsqueda jurisprudencia).
+5. `09-areas-investigacion/34-bibliografia-glosario.md` (bibliografía + glosario + búsqueda jurisprudencia).
+6. `13-templates-procesales/35-poder-para-juicios.md` (poder listo para Gabi firmar).
+7. `13-templates-procesales/36-escrito-conciliacion.md` (escrito de conciliación administrativa).
+8. `13-templates-procesales/37-oficios.md` (8 oficios listos para enviar).
+9. `13-templates-procesales/38-cartas-documento.md` (cartas documento).
+10. `13-templates-procesales/39-interrogatorios.md` (preguntas para audiencias).
 
 ### Si sos la cliente (Dra. Gabi)
 
@@ -105,6 +111,7 @@ Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
 | **Áreas de investigación** | 3 | `09-areas-investigacion/` |
 | **Riesgos personales** | 2 | `10-riesgos-personales/` |
 | **Arquitectura del caso** | 1 | `11-arquitectura-caso/` |
+| **Templates procesales** | 5 | `13-templates-procesales/` |
 
 ---
 

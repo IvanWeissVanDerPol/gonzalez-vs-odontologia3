@@ -6,7 +6,7 @@ Infraestructura operativa: backups, alertas, plantillas, monitoreo, contingencia
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../11-arquitectura-caso/20-plan-upgrade.md` | Plan de tecnología, automatización, monitoreo, alertas, plan de contingencia trimestral |
+| `20-plan-upgrade.md` | Plan de tecnología, automatización, monitoreo, alertas, plan de contingencia trimestral |
 
 ## Áreas cubiertas
 

@@ -4,23 +4,22 @@
 
 ## Contenido
 
-```
-12-evidencia/
-├── README.md                      este archivo
-├── MANIFEST-SHA256.txt            hash de los 153 archivos
-├── _chat.txt                      chat completo Gabi-Carlos
-├── audios/                        38 audios originales .opus
-├── cartas-escaneadas/             2 cartas (escaneadas)
-├── transcripciones-whisper/       38 transcripciones Whisper sin corregir
-└── transcripciones-corregidas/    38 transcripciones Whisper corregidas
-```
+| Carpeta / archivo | Qué es | Cantidad |
+|---|---|---|
+| `MANIFEST-SHA256.txt` | Hash SHA-256 de los 166 archivos | 1 |
+| `_chat.txt` | Chat completo de WhatsApp entre Gabi y Carlos | 1 |
+| `audios/` | Audios originales del chat (.opus) | 38 |
+| `cartas-escaneadas/` | Cartas escaneadas enviadas por la demandada | 2 |
+| `transcripciones-whisper/` | Transcripciones automáticas Whisper | 38 |
+| `transcripciones-corregidas/` | Transcripciones Whisper corregidas manualmente | 38 |
+| `README.md` | Este archivo | 1 |
 
 ## Cadena de custodia
 
 Todos los archivos tienen un hash SHA-256 calculado al momento de la descarga del Drive original.
 
 - Algoritmo: SHA-256.
-- Cantidad: 153 archivos.
+- Cantidad: 166 archivos.
 - Última verificación: ver `git log`.
 
 Para verificar la integridad:
@@ -75,3 +74,13 @@ Chat completo de WhatsApp entre Gabi y su abogado patrocinante (Dr. Carlos). 1 a
 - ✅ Referenciar los archivos en la demanda.
 - ✅ Hacer backup cifrado externo.
 - ✅ Presentar como prueba en el juicio (los originales son las cartas escaneadas y los audios).
+
+## Conexión con otras carpetas
+
+Esta carpeta es transversal al caso: los archivos de aquí son referenciados desde los análisis, los templates y los escritos judiciales.
+
+- **Legal** (`../03-legal/`) — usa los audios y cartas como prueba.
+- **Hechos** (`../02-hechos/`) — mapea cada hecho a un archivo de esta carpeta.
+- **Estrategia** (`../04-estrategia/`) — define el orden de presentación de las pruebas.
+- **Cuantificación** (`../05-cuantificacion/`) — usa el contrato para calcular la antigüedad.
+- **Análisis especializado** (`../08-analisis-especializado/`) — usa las cartas para análisis técnico.

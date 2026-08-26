@@ -6,13 +6,13 @@ Cuánto se pide y qué valor tiene el caso en términos financieros.
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../05-cuantificacion/03-cuantificacion.md` | Memoria de cálculo por rubro (Gs. 124M–681M) |
-| `../../../../../../05-cuantificacion/18-modelo-financiero.md` | VPN por escenario + análisis de sensibilidad + ROI |
+| `03-cuantificacion.md` | Memoria de cálculo por rubro (Gs. 124M–681M) |
+| `18-modelo-financiero.md` | VPN por escenario + análisis de sensibilidad + ROI |
 
 ## Cómo usar
 
-1. `../../../../../../05-cuantificacion/03-cuantificacion.md` para el detalle por rubro.
-2. `../../../../../../05-cuantificacion/18-modelo-financiero.md` para entender la economía del caso.
+1. `03-cuantificacion.md` para el detalle por rubro.
+2. `18-modelo-financiero.md` para entender la economía del caso.
 
 ## TL;DR
 

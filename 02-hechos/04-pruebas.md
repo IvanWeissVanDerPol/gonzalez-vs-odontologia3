@@ -298,4 +298,4 @@ Whisper small para español rioplatense confunde sistemáticamente:
 
 **Esta semana:** Gabi debe (i) guardar los originales en papel de las cartas (no solo las fotos), (ii) localizar cualquier copia del contrato o recibos que conserve, (iii) autorizar a Carlos a iniciar los oficios al IPS y a la SET.
 
-Ver [`../../../../../../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md).
+Ver [`../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md).

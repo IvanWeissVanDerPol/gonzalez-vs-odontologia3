@@ -6,13 +6,13 @@ Riesgos personales, profesionales, emocionales, financieros y de seguridad para 
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../10-riesgos-personales/28-analisis-riesgos-gabi.md` | Matriz de riesgos personales/profesionales/emocionales/financieros/legales/sociales/físicos con mitigaciones |
-| `../../../../../../10-riesgos-personales/33-seguridad-personal.md` | Seguridad física, digital, emocional, financiera, jurídica + plan de crisis |
+| `28-analisis-riesgos-gabi.md` | Matriz de riesgos personales/profesionales/emocionales/financieros/legales/sociales/físicos con mitigaciones |
+| `33-seguridad-personal.md` | Seguridad física, digital, emocional, financiera, jurídica + plan de crisis |
 
 ## Cómo usar
 
-1. `../../../../../../10-riesgos-personales/28-analisis-riesgos-gabi.md` para ver el panorama completo de riesgos.
-2. `../../../../../../10-riesgos-personales/33-seguridad-personal.md` para los protocolos prácticos.
+1. `28-analisis-riesgos-gabi.md` para ver el panorama completo de riesgos.
+2. `33-seguridad-personal.md` para los protocolos prácticos.
 
 ## Conexión con otras carpetas
 

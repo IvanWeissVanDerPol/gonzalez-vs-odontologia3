@@ -134,7 +134,7 @@ Si la clínica cierra o se vacía de bienes, la sentencia será inejecutable.
 
 Si Gabi pierde (probabilidad ~5% según Carlos), debe pagar honorarios de su abogado y costas (estimado: Gs. 5–15M).
 
-**Mitigación:** análisis costo-beneficio ya hecho en `../../../../../../05-cuantificacion/03-cuantificacion.md`.
+**Mitigación:** análisis costo-beneficio ya hecho en `../05-cuantificacion/03-cuantificacion.md`.
 
 ### 4.3. Daño fiscal a Gabi
 

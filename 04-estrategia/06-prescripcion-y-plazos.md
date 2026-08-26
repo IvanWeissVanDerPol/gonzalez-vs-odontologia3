@@ -242,4 +242,4 @@ Si la prueba anticipada (oficios al IPS, SET, etc.) no se produce en **30 días*
 
 ---
 
-*Ver [`../../../../../../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el detalle del plan procesal completo.*
+*Ver [`05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el detalle del plan procesal completo.*

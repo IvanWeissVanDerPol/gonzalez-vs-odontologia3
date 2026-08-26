@@ -6,15 +6,15 @@ Los hechos del caso y el inventario probatorio. Esta es la base factual sobre la
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../02-hechos/01-hechos-y-cronologia.md` | Cronología completa del caso (2014–2026) con fuentes |
-| `../../../../../../02-hechos/04-pruebas.md` | Inventario de prueba disponible + prueba a producir |
-| `../../../../../../02-hechos/12-mapa-evidencia.md` | Cada afirmación del caso � su fuente exacta (chat, audios, cartas) |
+| `01-hechos-y-cronologia.md` | Cronología completa del caso (2014–2026) con fuentes |
+| `04-pruebas.md` | Inventario de prueba disponible + prueba a producir |
+| `12-mapa-evidencia.md` | Cada afirmación del caso � su fuente exacta (chat, audios, cartas) |
 
 ## Cómo usar
 
-1. Leer `../../../../../../02-hechos/01-hechos-y-cronologia.md` para entender qué pasó.
-2. Si hay duda sobre un dato: verificar en `../../../../../../02-hechos/12-mapa-evidencia.md`.
-3. Para la prueba a producir, ver `../../../../../../02-hechos/04-pruebas.md`.
+1. Leer `01-hechos-y-cronologia.md` para entender qué pasó.
+2. Si hay duda sobre un dato: verificar en `12-mapa-evidencia.md`.
+3. Para la prueba a producir, ver `04-pruebas.md`.
 
 ## Conexión con otras carpetas
 

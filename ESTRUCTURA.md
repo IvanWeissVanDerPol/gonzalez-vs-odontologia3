@@ -14,80 +14,88 @@ gonzalez-vs-odontologia3/
 │
 ├── 01-entrada/                        ← qué leer primero
 │   ├── README.md
-│   ├── ../../../../../01-entrada/00-resumen-ejecutivo.md        (resumen 1 página)
-│   └── ../../../../../01-entrada/22-indice.md                   (índice general + glosario)
+│   ├── 01-entrada/00-resumen-ejecutivo.md        (resumen 1 página)
+│   └── 01-entrada/22-indice.md                   (índice general + glosario)
 │
 ├── 02-hechos/                         ← qué pasó + prueba
 │   ├── README.md
-│   ├── ../../../../../02-hechos/01-hechos-y-cronologia.md
-│   ├── ../../../../../02-hechos/04-pruebas.md
-│   └── ../../../../../02-hechos/12-mapa-evidencia.md
+│   ├── 02-hechos/01-hechos-y-cronologia.md
+│   ├── 02-hechos/04-pruebas.md
+│   └── 02-hechos/12-mapa-evidencia.md
 │
 ├── 03-legal/                          ← argumentación jurídica
 │   ├── README.md
-│   ├── ../../../../../03-legal/02-tesis-juridica.md
-│   ├── ../../../../../03-legal/13-jurisprudencia.md
-│   ├── ../../../../../03-legal/16-borrador-demanda.md
-│   └── ../../../../../03-legal/21-brief-legal.md
+│   ├── 03-legal/02-tesis-juridica.md
+│   ├── 03-legal/13-jurisprudencia.md
+│   ├── 03-legal/16-borrador-demanda.md
+│   └── 03-legal/21-brief-legal.md
 │
 ├── 04-estrategia/                     ← estrategia procesal
 │   ├── README.md
-│   ├── ../../../../../04-estrategia/05-estrategia-procesal.md
-│   ├── ../../../../../04-estrategia/06-prescripcion-y-plazos.md
-│   ├── ../../../../../04-estrategia/09-riesgos-y-contratargumentos.md
-│   ├── ../../../../../04-estrategia/10-checklist-de-acuerdo.md
-│   └── ../../../../../04-estrategia/30-analisis-adversarial.md
+│   ├── 04-estrategia/05-estrategia-procesal.md
+│   ├── 04-estrategia/06-prescripcion-y-plazos.md
+│   ├── 04-estrategia/09-riesgos-y-contratargumentos.md
+│   ├── 04-estrategia/10-checklist-de-acuerdo.md
+│   └── 04-estrategia/30-analisis-adversarial.md
 │
 ├── 05-cuantificacion/                 ← cuánto se pide
 │   ├── README.md
-│   ├── ../../../../../05-cuantificacion/03-cuantificacion.md
-│   └── ../../../../../05-cuantificacion/18-modelo-financiero.md
+│   ├── 05-cuantificacion/03-cuantificacion.md
+│   └── 05-cuantificacion/18-modelo-financiero.md
 │
 ├── 06-personas/                       ← quién es quién
 │   ├── README.md
-│   ├── ../../../../../06-personas/11-comunicaciones-y-negociacion.md
-│   ├── ../../../../../06-personas/14-perfiles-psicologicos.md
-│   └── ../../../../../06-personas/31-analisis-red-social.md
+│   ├── 06-personas/11-comunicaciones-y-negociacion.md
+│   ├── 06-personas/14-perfiles-psicologicos.md
+│   └── 06-personas/31-analisis-red-social.md
 │
 ├── 07-comunicacion/                   ← cómo se comunica
 │   ├── README.md
-│   ├── ../../../../../07-comunicacion/17-plan-medios.md
-│   └── ../../../../../07-comunicacion/19-plan-comunicaciones.md
+│   ├── 07-comunicacion/17-plan-medios.md
+│   └── 07-comunicacion/19-plan-comunicaciones.md
 │
 ├── 08-analisis-especializado/         ← análisis verticales
 │   ├── README.md
-│   ├── ../../../../../08-analisis-especializado/15-solvencia.md
-│   ├── ../../../../../08-analisis-especializado/23-analisis-tecnico-odontologico.md
-│   ├── ../../../../../08-analisis-especializado/24-analisis-penal.md
-│   ├── ../../../../../08-analisis-especializado/25-analisis-previsional.md
-│   ├── ../../../../../08-analisis-especializado/26-analisis-tributario.md
-│   ├── ../../../../../08-analisis-especializado/27-analisis-administrativo.md
-│   ├── ../../../../../08-analisis-especializado/29-analisis-comparado.md
-│   └── ../../../../../08-analisis-especializado/32-analisis-proyecto.md
+│   ├── 08-analisis-especializado/15-solvencia.md
+│   ├── 08-analisis-especializado/23-analisis-tecnico-odontologico.md
+│   ├── 08-analisis-especializado/24-analisis-penal.md
+│   ├── 08-analisis-especializado/25-analisis-previsional.md
+│   ├── 08-analisis-especializado/26-analisis-tributario.md
+│   ├── 08-analisis-especializado/27-analisis-administrativo.md
+│   ├── 08-analisis-especializado/29-analisis-comparado.md
+│   └── 08-analisis-especializado/32-analisis-proyecto.md
 │
 ├── 09-areas-investigacion/            ← qué hay que investigar
 │   ├── README.md
-│   ├── ../../../../../09-areas-investigacion/07-seguridad-social-y-tributos.md
-│   ├── ../../../../../09-areas-investigacion/08-200-areas-de-investigacion.md
-│   └── ../../../../../09-areas-investigacion/34-bibliografia-glosario.md
+│   ├── 09-areas-investigacion/07-seguridad-social-y-tributos.md
+│   ├── 09-areas-investigacion/08-200-areas-de-investigacion.md
+│   └── 09-areas-investigacion/34-bibliografia-glosario.md
 │
 ├── 10-riesgos-personales/             ← qué puede salir mal para Gabi
 │   ├── README.md
-│   ├── ../../../../../10-riesgos-personales/28-analisis-riesgos-gabi.md
-│   └── ../../../../../10-riesgos-personales/33-seguridad-personal.md
+│   ├── 10-riesgos-personales/28-analisis-riesgos-gabi.md
+│   └── 10-riesgos-personales/33-seguridad-personal.md
 │
 ├── 11-arquitectura-caso/              ← infraestructura operativa
 │   ├── README.md
-│   └── ../../../../../11-arquitectura-caso/20-plan-upgrade.md
+│   └── 20-plan-upgrade.md
 │
-└── 12-evidencia/                      ← evidencia original (inmutable)
-    ├── README.md                      ← cadena de custodia
-    ├── MANIFEST-SHA256.txt            ← hash de los 153 archivos
-    ├── _chat.txt                      ← chat completo Gabi-Carlos
-    ├── audios/                        ← 38 audios originales .opus
-    ├── cartas-escaneadas/             ← 2 cartas (escaneadas)
-    ├── transcripciones-whisper/       ← 38 transcripciones Whisper
-    └── transcripciones-corregidas/    ← 38 transcripciones corregidas
+├── 12-evidencia/                      ← evidencia original (inmutable)
+│   ├── README.md                      ← cadena de custodia
+│   ├── MANIFEST-SHA256.txt            ← hash de los 153 archivos
+│   ├── _chat.txt                      ← chat completo Gabi-Carlos
+│   ├── audios/                        ← 38 audios originales .opus
+│   ├── cartas-escaneadas/             ← 2 cartas (escaneadas)
+│   ├── transcripciones-whisper/       ← 38 transcripciones Whisper
+│   └── transcripciones-corregidas/    ← 38 transcripciones corregidas
+│
+└── 13-templates-procesales/           ← formularios listos para usar
+    ├── README.md                      ← índice de templates
+    ├── 35-poder-para-juicios.md       ← poder para Carlos
+    ├── 36-escrito-conciliacion.md     ← reclamo ante Viceministerio
+    ├── 37-oficios.md                  ← 8 oficios (IPS, SET, etc.)
+    ├── 38-cartas-documento.md         ← 6 cartas documento
+    └── 39-interrogatorios.md          ← preguntas para confesional/testifical
 ```
 
 ---
@@ -108,7 +116,8 @@ gonzalez-vs-odontologia3/
 | `10-riesgos-personales/` | 2 docs + README |
 | `11-arquitectura-caso/` | 1 doc + README |
 | `12-evidencia/` | 153 archivos (manifiesto + 38 audios + 2 cartas + 76 transcripciones + chat + README) |
-| **TOTAL** | **36 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
+| `13-templates-procesales/` | 5 docs + README |
+| **TOTAL** | **40 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
 
 ---
 
@@ -153,6 +162,11 @@ Los documentos conservan su numeración original (00–34) para mantener trazabi
 | 32 | analisis-proyecto | `08-analisis-especializado/` |
 | 33 | seguridad-personal | `10-riesgos-personales/` |
 | 34 | bibliografia-glosario | `09-areas-investigacion/` |
+| 35 | poder-para-juicios | `13-templates-procesales/` |
+| 36 | escrito-conciliacion | `13-templates-procesales/` |
+| 37 | oficios | `13-templates-procesales/` |
+| 38 | cartas-documento | `13-templates-procesales/` |
+| 39 | interrogatorios | `13-templates-procesales/` |
 
 ---
 

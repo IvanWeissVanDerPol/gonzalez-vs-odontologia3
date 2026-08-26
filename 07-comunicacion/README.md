@@ -6,8 +6,8 @@ Cómo se comunica el caso hacia adentro y hacia afuera. Decisiones de medios y m
 
 | Doc | Qué es |
 |---|---|
-| `../../../../../../07-comunicacion/17-plan-medios.md` | Cuándo y cómo hacer público el caso, escenarios A/B/C, crisis |
-| `../../../../../../07-comunicacion/19-plan-comunicaciones.md` | Manual táctico canal × canal, fase × fase, mensajes pre-armados |
+| `17-plan-medios.md` | Cuándo y cómo hacer público el caso, escenarios A/B/C, crisis |
+| `19-plan-comunicaciones.md` | Manual táctico canal × canal, fase × fase, mensajes pre-armados |
 
 ## Regla de oro
 
@@ -15,8 +15,8 @@ Cómo se comunica el caso hacia adentro y hacia afuera. Decisiones de medios y m
 
 ## Cómo usar
 
-1. `../../../../../../07-comunicacion/19-plan-comunicaciones.md` para saber qué decir en cada canal.
-2. `../../../../../../07-comunicacion/17-plan-medios.md` para las decisiones de cuándo ir a la prensa.
+1. `19-plan-comunicaciones.md` para saber qué decir en cada canal.
+2. `17-plan-medios.md` para las decisiones de cuándo ir a la prensa.
 
 ## Conexión con otras carpetas
 

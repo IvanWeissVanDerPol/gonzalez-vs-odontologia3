@@ -266,4 +266,4 @@ Presentar demanda por **Gs. 300.000.000** (parte alta del rango), pidiendo:
 
 ---
 
-*Ver [`../../../../../../02-hechos/04-pruebas.md`](./04-pruebas.md) para el plan de producción de prueba, y [`../../../../../../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el plan procesal paso a paso.*
+*Ver [`../02-hechos/04-pruebas.md`](./04-pruebas.md) para el plan de producción de prueba, y [`../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el plan procesal paso a paso.*
