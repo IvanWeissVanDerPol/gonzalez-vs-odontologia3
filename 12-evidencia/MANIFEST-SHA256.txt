@@ -167,6 +167,19 @@ dd24dc38fff4ac4ae577966ca62f12db7214bc15aed2c8703eb3c859f3a9d3f3        5696  13
 8041eb3ba4d70f3fa226ab5245fea64a66797a448e195cc28ea3a3d2537110c2        8501  13-templates-procesales/37-oficios.md
 34bc8890632064964a2e85641f8ceb7355d30cc1bd5700530487247c7a0f73c8       10516  13-templates-procesales/38-cartas-documento.md
 35d082457ff82bb2a9a1f31fea22880db8f2b156fc9f7882ba6b8438dcec636f       14313  13-templates-procesales/39-interrogatorios.md
+2ef065ac3977499b625904c61b9d1745273d7ddaf6ee7c8f0f9abc182ecaec0f        6155  13-templates-procesales/40-embargo-preventivo.md
+4ccf6e28c483cd827077c675a23c57d546444416b81039ea7ef6e3324085c1d3        9519  13-templates-procesales/41-escrito-de-prueba.md
+58fd12d9f21fc237b2581f2704ba0113fb8774b129caf28cd92284e199697b75        9788  13-templates-procesales/42-escrito-de-alegatos.md
+c64f28a3b3c371b56bafda0ec2e408f5d6b1491f763717a797c3528dcd92d66e        7200  13-templates-procesales/43-recurso-de-apelacion.md
+e1fbf95aae0d1da82388ea0bfe26feba5e333626fa1f7be0ee67c72e74f5e8d7        5864  13-templates-procesales/44-recurso-de-casacion.md
+8b3adf63c6ea200b57ea19cac77fff8887e89fc25484ba00e1be16fdd040bdea        6813  13-templates-procesales/45-querella-penal.md
+5f0eabf79bf7db4f91ac63655b92992328dfaba79d8ccad7e2664178cd13bb4e        9562  13-templates-procesales/46-investigacion-registro-publico.md
+9e2bc9a9cb76aa25400f7382f21f3a4e6f1d9a38fb7644b66f8a553eb5c614bf        7514  13-templates-procesales/47-osint-de-roque.md
+ee93a23e69d4295d6f3dafea0d40de2008d11c591e7285306c4c8f597507264b        7031  13-templates-procesales/48-guia-declaracion-audiencia.md
+a6ca92c4413cb6f415128a93d0cad940c02197a112ca54784d0c89237ec3c45c        6794  13-templates-procesales/49-mapa-peritos-asuncion.md
+57ef47137a159a22383bcbe0f0dd8ccab0afbe36ecc5da947d8903a3694ac303        6625  13-templates-procesales/50-analisis-circulo-odontologos.md
+3441404cf6b84d4bd67a87359ba3e9cca882fdc3cc1b02ce81065c3e8bdbbdaf        6867  13-templates-procesales/51-investigacion-colegas.md
+5fd34b8932b6245090107ec7698b3f868c02c571fb720f019be0ce10e8df0eed       11696  13-templates-procesales/52-busqueda-jurisprudencia-csj.md
 15e94b763b933e6a95ffc1627af31781fa8ce46e9f9f7b8305788e5a879eb0f7        2728  13-templates-procesales/README.md
 750f4b3594e2edbb746202c28e9e02a16bcf9582f31b5a49ac14688886c1762f      100702  55-cuestionario-gabi-LLENO.md
 083c6f5f742206749ed36ef895665989fcc92adc52e38f27b8d2a5a0804de15c       21564  55-cuestionario-para-gabi.md
@@ -175,5 +188,7 @@ b25433efc76118fa317d526f5afdb3241810a4ed812ec4da73f17e438f8ab48d       10707  57
 adca49f8109de8b6e3a5da2e9f9592b277f46df278b6563dbbd4d9739f0b6387       12332  58-plan-de-accion.md
 5666c43efa40cdf8853025da9348037fb364631a615be1447bc43fdfb0d5cdbb       11673  59-protocolo-de-emergencia.md
 dc52d361633e771e8cee6d7f04d4a33dd48d81baf4cd1eb8ed518aeb67fb7f2d       10300  60-guia-rapida-para-gabi.md
+711843ba640c1521753b64ca2abfd42dd689c093b64f7473a6b28e65a76109cf       12837  61-gap-analysis.md
+47a312100e36afdcd521bb689a451d65cf12a94f479bf49a3f34a519227aac4a       15261  62-investigacion-profund.md
 e6f7dbf639d383517684f2de565fc0de0adef8b654178a296e2b6790d8a19797        9459  ESTRUCTURA.md
 f859bffcd0a7c90cb6492e9cc86cc7abc247c3b7cd60c5d33f8a6e388b422382        7618  README.md

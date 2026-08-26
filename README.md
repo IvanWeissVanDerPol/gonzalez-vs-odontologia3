@@ -12,12 +12,14 @@
 Expediente completo y estratégico con:
 
 - **40 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales.
-- **+ 5 docs operativos** (checklist de mejoras, plan de acción, protocolo de emergencia, guía rápida, cuestionario con opciones).
+- **+ 13 templates procesales** (poder, conciliación, oficios, cartas, interrogatorios, embargo, prueba, alegatos, apelación, casación, querella, investigación, OSINT, etc.).
+- **+ 6 docs operativos** (gap analysis, plan de acción, protocolo emergencia, guía rápida, cuestionario con opciones, investigación profunda).
+- **+ 1 análisis multiperspectiva** (40 profesionales).
 - **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).
 - **38 audios originales** (`.opus`, `12-evidencia/audios/`).
 - **76 transcripciones** (Whisper + corregidas, en `12-evidencia/transcripciones-*`).
 - **1 chat completo** (`12-evidencia/_chat.txt`).
-- **SHA-256** de los 175 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
+- **SHA-256** de los 194 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
 
 ---
 
