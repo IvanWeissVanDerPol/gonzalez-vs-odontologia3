@@ -11,16 +11,16 @@
 | Doc | Contenido | Para quién |
 |---|---|---|
 | `README.md` | Descripción del repositorio y aviso de privacidad | Todos |
-| `00-resumen-ejecutivo.md` | 1 página con la decisión clave | Carlos y Gabi |
+| `../../../../../../01-entrada/00-resumen-ejecutivo.md` | 1 página con la decisión clave | Carlos y Gabi |
 | `22-indice.md` | Este documento | Todos |
 
 ### Hechos y prueba
 
 | Doc | Contenido |
 |---|---|
-| `01-hechos-y-cronologia.md` | Cronología completa, hechos acreditados |
-| `12-mapa-evidencia.md` | Cada afirmación con su fuente exacta (audios, cartas, chat) |
-| `04-pruebas.md` | Inventario probatorio y prueba a producir |
+| `../../../../../../02-hechos/01-hechos-y-cronologia.md` | Cronología completa, hechos acreditados |
+| `../../../../../../02-hechos/12-mapa-evidencia.md` | Cada afirmación con su fuente exacta (audios, cartas, chat) |
+| `../../../../../../02-hechos/04-pruebas.md` | Inventario probatorio y prueba a producir |
 | `transcripciones_corregidas/` | 38 audios transcritos y corregidos |
 | `transcripciones/` | 38 audios transcritos por Whisper (sin corregir) |
 | `evidencia/` | 38 audios originales + 2 cartas escaneadas + SHA256SUMS |
@@ -31,59 +31,59 @@
 
 | Doc | Contenido |
 |---|---|
-| `02-tesis-juridica.md` | Argumentación jurídica principal |
-| `13-jurisprudencia.md` | Mapa de precedentes aplicables |
-| `21-brief-legal.md` | Versión formal con citas completas |
-| `16-borrador-demanda.md` | Borrador listo para Carlos convertir en demanda |
+| `../../../../../../03-legal/02-tesis-juridica.md` | Argumentación jurídica principal |
+| `../../../../../../03-legal/13-jurisprudencia.md` | Mapa de precedentes aplicables |
+| `../../../../../../03-legal/21-brief-legal.md` | Versión formal con citas completas |
+| `../../../../../../03-legal/16-borrador-demanda.md` | Borrador listo para Carlos convertir en demanda |
 
 ### Estrategia
 
 | Doc | Contenido |
 |---|---|
-| `05-estrategia-procesal.md` | Plan procesal paso a paso |
-| `09-riesgos-y-contratargumentos.md` | Tesis defensivas y respuestas |
-| `06-prescripcion-y-plazos.md` | Calendario de vencimientos |
-| `10-checklist-de-acuerdo.md` | Checklist para negociar |
+| `../../../../../../04-estrategia/05-estrategia-procesal.md` | Plan procesal paso a paso |
+| `../../../../../../04-estrategia/09-riesgos-y-contratargumentos.md` | Tesis defensivas y respuestas |
+| `../../../../../../04-estrategia/06-prescripcion-y-plazos.md` | Calendario de vencimientos |
+| `../../../../../../04-estrategia/10-checklist-de-acuerdo.md` | Checklist para negociar |
 
 ### Cuantificación
 
 | Doc | Contenido |
 |---|---|
-| `03-cuantificacion.md` | Memoria de cálculo detallada |
-| `18-modelo-financiero.md` | Análisis de escenarios con VPN |
-| `07-seguridad-social-y-tributos.md` | IPS, SET, MTESS |
+| `../../../../../../05-cuantificacion/03-cuantificacion.md` | Memoria de cálculo detallada |
+| `../../../../../../05-cuantificacion/18-modelo-financiero.md` | Análisis de escenarios con VPN |
+| `../../../../../../09-areas-investigacion/07-seguridad-social-y-tributos.md` | IPS, SET, MTESS |
 
 ### Personas y dinámicas
 
 | Doc | Contenido |
 |---|---|
-| `14-perfiles-psicologicos.md` | Big Five + DISC de cada parte |
-| `11-comunicaciones-y-negociacion.md` | Tácticas y plan de comunicación |
+| `../../../../../../06-personas/14-perfiles-psicologicos.md` | Big Five + DISC de cada parte |
+| `../../../../../../06-personas/11-comunicaciones-y-negociacion.md` | Tácticas y plan de comunicación |
 
 ### Comunicación
 
 | Doc | Contenido |
 |---|---|
-| `17-plan-medios.md` | Cuándo y cómo hacer público el caso |
-| `19-plan-comunicaciones.md` | Manual táctico canal por canal |
+| `../../../../../../07-comunicacion/17-plan-medios.md` | Cuándo y cómo hacer público el caso |
+| `../../../../../../07-comunicacion/19-plan-comunicaciones.md` | Manual táctico canal por canal |
 
 ### Solvencia
 
 | Doc | Contenido |
 |---|---|
-| `15-solvencia.md` | Patrimonio de la demandada y Roque |
+| `../../../../../../08-analisis-especializado/15-solvencia.md` | Patrimonio de la demandada y Roque |
 
 ### Investigación
 
 | Doc | Contenido |
 |---|---|
-| `08-200-areas-de-investigacion.md` | Taxonomía A–J de las 200 áreas |
+| `../../../../../../09-areas-investigacion/08-200-areas-de-investigacion.md` | Taxonomía A–J de las 200 áreas |
 
 ### Tecnología
 
 | Doc | Contenido |
 |---|---|
-| `20-plan-upgrade.md` | Automatizaciones, alertas, monitoreo |
+| `../../../../../../11-arquitectura-caso/20-plan-upgrade.md` | Automatizaciones, alertas, monitoreo |
 
 ---
 
@@ -273,7 +273,7 @@
 
 ## Cronología del caso
 
-Para la cronología detallada, ver `01-hechos-y-cronologia.md`. Resumen:
+Para la cronología detallada, ver `../../../../../../02-hechos/01-hechos-y-cronologia.md`. Resumen:
 
 - **2014**: Inicio de la relación con Odontología 3 S.A.
 - **2014–2025**: 12 años de servicios bajo contrato de "locación".

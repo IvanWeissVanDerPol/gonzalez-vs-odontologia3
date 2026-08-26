@@ -6,7 +6,7 @@
 
 ## 1. Antes de la conciliación
 
-- [ ] Cuantificación mínima y máxima estimada (ver `03-cuantificacion.md`).
+- [ ] Cuantificación mínima y máxima estimada (ver `../../../../../../05-cuantificacion/03-cuantificacion.md`).
 - [ ] Identificación de los **rubros irrenunciables**: antigüedad (Art. 91), preaviso (Art. 86), vacaciones proporcionales, aguinaldo proporcional.
 - [ ] Identificación de los **rubros negociables**: estabilidad absoluta, daño moral, daño punitivo, aportes al IPS, honorarios.
 - [ ] Definir la **base mínima** que Gabi aceptaría.
@@ -21,7 +21,7 @@
 - [ ] No firmar nada sin consultar a Gabi.
 - [ ] Tener a Gabi **disponible por teléfono** para decisiones rápidas.
 - [ ] No revelar el monto mínimo aceptable.
-- [ ] Usar la técnica del **"ancla"** (ver `11-comunicaciones-y-negociacion.md`): pedir el máximo posible.
+- [ ] Usar la técnica del **"ancla"** (ver `../../../../../../06-personas/11-comunicaciones-y-negociacion.md`): pedir el máximo posible.
 - [ ] Registrar todo por escrito.
 
 ## 3. Forma del acuerdo
@@ -106,4 +106,4 @@
 
 ---
 
-*Por desarrollar — `11-comunicaciones-y-negociacion.md` cubre el detalle de tácticas, anclaje, BATNA, perfiles de negociador y dinámicas de poder.*
+*Por desarrollar — `../../../../../../06-personas/11-comunicaciones-y-negociacion.md` cubre el detalle de tácticas, anclaje, BATNA, perfiles de negociador y dinámicas de poder.*

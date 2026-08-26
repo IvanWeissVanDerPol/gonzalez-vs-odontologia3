@@ -155,7 +155,7 @@ La demandada **invocó la cláusula décima del contrato de PS** (carta 26/03/20
 
 **Origen:** Recomendación 198 de la OIT (2006) sobre la relación de trabajo.
 
-**Aplicación en Paraguay:** Si bien no está expresamente codificada, la CSJ la ha receptado en numerosos precedentes (ver [`08-200-areas-de-investigacion.md`](./08-200-areas-de-investigacion.md) área 159-175).
+**Aplicación en Paraguay:** Si bien no está expresamente codificada, la CSJ la ha receptado en numerosos precedentes (ver [`../../../../../../09-areas-investigacion/08-200-areas-de-investigacion.md`](./08-200-areas-de-investigacion.md) área 159-175).
 
 > *"En caso de divergencia entre la realidad y la forma jurídica adoptada por las partes, debe prevalecer la realidad."*
 
@@ -167,7 +167,7 @@ La demandada **invocó la cláusula décima del contrato de PS** (carta 26/03/20
 
 ### 8.1. Tesis principal — Recharacterización
 
-Demandar el reconocimiento de la relación laboral subyacente y, en consecuencia, todas las prestaciones laborales correspondientes (ver [`03-cuantificacion.md`](./03-cuantificacion.md)).
+Demandar el reconocimiento de la relación laboral subyacente y, en consecuencia, todas las prestaciones laborales correspondientes (ver [`../../../../../../05-cuantificacion/03-cuantificacion.md`](./03-cuantificacion.md)).
 
 ### 8.2. Tesis subsidiaria — Nulidad del despido por violación de la estabilidad
 
@@ -209,7 +209,7 @@ Paralela a la acción laboral: reclamar la reparación integral del daño (Art. 
 | "Gabi atendía sus propios pacientes" | La clientela es de la clínica (consultorio, agenda, dirección de la atención). |
 | "El contrato era válido" | Carecía de firma del empleador y de inscripción en IPS. |
 
-Ver [`09-riesgos-y-contratargumentos.md`](./09-riesgos-y-contratargumentos.md) para el detalle completo.
+Ver [`../../../../../../04-estrategia/09-riesgos-y-contratargumentos.md`](./09-riesgos-y-contratargumentos.md) para el detalle completo.
 
 ---
 
@@ -225,4 +225,4 @@ La probabilidad de éxito en una demanda laboral es **alta** (Carlos: "es muy di
 
 El riesgo principal es el **quantum** (que se liquide por debajo del valor real del crédito) o la **dificultad de cobro** post-sentencia.
 
-Ver [`05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el plan procesal completo.
+Ver [`../../../../../../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el plan procesal completo.
