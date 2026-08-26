@@ -180,7 +180,7 @@ a6ca92c4413cb6f415128a93d0cad940c02197a112ca54784d0c89237ec3c45c        6794  13
 57ef47137a159a22383bcbe0f0dd8ccab0afbe36ecc5da947d8903a3694ac303        6625  13-templates-procesales/50-analisis-circulo-odontologos.md
 3441404cf6b84d4bd67a87359ba3e9cca882fdc3cc1b02ce81065c3e8bdbbdaf        6867  13-templates-procesales/51-investigacion-colegas.md
 5fd34b8932b6245090107ec7698b3f868c02c571fb720f019be0ce10e8df0eed       11696  13-templates-procesales/52-busqueda-jurisprudencia-csj.md
-15e94b763b933e6a95ffc1627af31781fa8ce46e9f9f7b8305788e5a879eb0f7        2728  13-templates-procesales/README.md
+c1eef549b7a97eb1612cbaa5d08a2ad4846ed7dfeb878783a9b76757df64dc63        4245  13-templates-procesales/README.md
 750f4b3594e2edbb746202c28e9e02a16bcf9582f31b5a49ac14688886c1762f      100702  55-cuestionario-gabi-LLENO.md
 083c6f5f742206749ed36ef895665989fcc92adc52e38f27b8d2a5a0804de15c       21564  55-cuestionario-para-gabi.md
 2821de56b6666c1152eeadb3210f8031b398bad4dfb2184577188f94a87a1c58       52607  56-analisis-40-roles.md
@@ -190,5 +190,16 @@ adca49f8109de8b6e3a5da2e9f9592b277f46df278b6563dbbd4d9739f0b6387       12332  58
 dc52d361633e771e8cee6d7f04d4a33dd48d81baf4cd1eb8ed518aeb67fb7f2d       10300  60-guia-rapida-para-gabi.md
 711843ba640c1521753b64ca2abfd42dd689c093b64f7473a6b28e65a76109cf       12837  61-gap-analysis.md
 47a312100e36afdcd521bb689a451d65cf12a94f479bf49a3f34a519227aac4a       15261  62-investigacion-profund.md
+2ebfc0d0290575953b841c25a31bd61404c11ea588c24072db9a7e6985ea0e33       11856  63-datos-reales-pendientes.md
+d741f9dd3ec528500d84a65a23d34d65c6bf523b0ac38bc4d86c809cf06b3030       10618  64-analisis-licitaciones-publicas.md
+4df5351dc14c005adf0539f7b3ebf63417a2f32a024fee24df3242d60217993a        8520  65-analisis-jurisprudencia-internacional.md
+b8da86339366741fa8e980930601ef599b87ca1ad08ef090cfcdb6912a1d2b5e       10198  66-bloque-constitucionalidad.md
+8d4c6a0b1581b0ccebbc0b9efe0c86786c9a4df76a7fe420fdb6c7429eb8d17c        6946  67-analisis-juez-asuncion.md
+bdbfcfc156c2a712aef16a3f9261b97fe8123119e5acdd88392d26c05ebd1170        6572  68-presupuesto-total-caso.md
+f6cd446733e5c94f0e9988fe57e1f821894cd407b31d0f69952a787878f660f7        7900  69-cronograma-realista.md
+60a7f3b5c5c647ad0b2be0154f06a3990109dee24af0c0daee09a9fffdbf6e0a        6826  70-impacto-post-sentencia.md
+a23ec1844bd01c78f266c145bde192d6ee91baff24b901fa434f8212d57e50b4        7141  71-checklist-diario-gabi.md
+327651d1d142b46ecebae8d77a7e30bfe32397b7f8734c11d2b96083c7a4c96a        7079  72-analisis-redes-asia.md
+849ceb5b3393a64c0319672fe69bdc9be2f2db23868ce4c34a8606d54a3dd8f3        9865  73-escenarios-negativos.md
 e6f7dbf639d383517684f2de565fc0de0adef8b654178a296e2b6790d8a19797        9459  ESTRUCTURA.md
-f859bffcd0a7c90cb6492e9cc86cc7abc247c3b7cd60c5d33f8a6e388b422382        7618  README.md
+1ed9283e1f3ffa6b58d7290f03a14d3d089a7eae2fad2fc1964300d0caa0ed42        8026  README.md
