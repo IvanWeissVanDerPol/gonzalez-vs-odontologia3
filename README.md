@@ -11,8 +11,8 @@
 
 Expediente completo y estratégico con:
 
-- **40 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales.
-- **+ 13 templates procesales** (poder, conciliación, oficios, cartas, interrogatorios, embargo, prueba, alegatos, apelación, casación, querella, investigación, OSINT, etc.).
+- **55 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales (incluye 15 nuevos derivados del cuestionario v2 completado el 12/09/2026).
+- **+ 15 templates procesales** (poder, conciliación, oficios, cartas, interrogatorios, embargo, prueba, alegatos, apelación, casación, querella, investigación, OSINT, invitación colegas, identificación testigos, etc.).
 - **+ 12 docs operativos y estratégicos** (gap analysis, plan de acción, protocolo, guía, cuestionario, investigación profunda, licitaciones, jurisprudencia internacional, bloque constitucionalidad, juez, presupuesto, cronograma, impacto post-sentencia, checklist diario, redes, escenarios negativos).
 - **+ 1 análisis multiperspectiva** (40 profesionales).
 - **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).

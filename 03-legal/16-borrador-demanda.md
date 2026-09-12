@@ -199,13 +199,23 @@ Solicito se libre oficio a:
 
 ## IX. DOMICILIO PROCESAL
 
-Constituyo domicilio procesal en [a completar], y domicilio electrónico en [a completar].
+Constituyo domicilio procesal en [a completar por Carlos], y domicilio electrónico en **gabigpane@gmail.com** (conforme Art. 91 CPT).
 
 ---
 
 **SERÁ JUSTICIA.**
 
-[Asunción, fecha]
+Asunción, [fecha a completar por Carlos al momento de presentación]
 
-[Firma de la actora]
-[Firma y sello del abogado patrocinante]
+[Firma de la actora — Dra. Gabriella María González Pane, C.I. N° 1.375.421]
+[Firma y sello del abogado patrocinante — Dr. Carlos [Apellido], Matrícula N° ___]
+
+---
+
+> **NOTAS PARA CARLOS (al cierre del documento):**
+>
+> 1. Confirmar tu apellido y número de matrícula del Colegio de Abogados antes de imprimir.
+> 2. Completar la fecha exacta de ingreso a Odontología 3 S.A. (la actora estima entre junio y julio de 2014 — corroborar con oficio al IPS o Régimen de Asegurados, ya que ese dato no figura en el expediente y debe ser acreditado fehacientemente para cómputo exacto de antigüedad).
+> 3. Confirmar si el poder para juicios ya fue firmado por Gabi — el cuestionario v2 §7.1.6 indica que aún NO está firmado al 12/09/2026. Sin poder vigente esta demanda no puede presentarse.
+> 4. Considerar si se acumula acción contra Asismed (seguro privado que contrataba con la clínica) — ver [`../05-cuantificacion/19-analisis-asismed.md`](../05-cuantificacion/19-analisis-asismed.md).
+> 5. Evaluar procedencia de acción colectiva — ver [`../08-analisis-especializado/33-accion-colectiva.md`](../08-analisis-especializado/33-accion-colectiva.md).

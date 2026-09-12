@@ -15,8 +15,10 @@
 | Especialidades | 3 especialidades + doctorado | Audio 55 ("tengo 3 especialidades, un doctorado… 20 años de carrera") |
 | Antigüedad en la demandada | ~12,5 años (ingreso 2014, cese 14/07/2026) | Audio 30, audio 85 |
 | Domicilio real | A confirmar (no surge del expediente) | — |
-| Cédula de identidad | A solicitar | — |
-| Registro profesional | A confirmar (número de registro en el Ministerio de Salud) | — |
+| Cédula de identidad | **1.375.421** | archive_owner.json (gaby-lab-results) |
+| Registro profesional | Círculo de Odontólogos del Paraguay — **Matrícula N° 3.618** | Cuestionario v2 §1.2.3 |
+| Domicilio real actual | **Cerro Corá N° 62, Luque, Departamento Central** | Cuestionario v2 §1.1.7 |
+| Email | gabigpane@gmail.com | Cuestionario v2 §1.1.9 |
 
 ### 1.2. La empleadora
 
@@ -28,14 +30,23 @@
 | Cargo según carta 18/06/2026 | "Auditor Odontólogo" | Carta |
 | Cargo según carta 26/03/2025 | "Director – Presidente/Director General" | Carta |
 | ⚠️ Inconsistencia | Un mismo individuo usa dos cargos distintos | Análisis |
-| Domicilio | Consultorio en Asunción (probable) | A confirmar |
+| Domicilio fiscal principal | **Mcal. Estigarribia N° 1414 casi Pai Pérez, Barrio San Roque, Asunción** (consultorio principal) | Cuestionario v2 §4.2.1 |
+| Otras clínicas | Al menos **3 clínicas** operadas por la demandada en Asunción y área metropolitana | Cuestionario v2 §8.1.1 — "más de 50 [profesionales] entre las 3 clínicas" |
 | Objeto social | Servicios odontológicos | Implícito |
 
 > **Observación crítica.** Que el firmante se presente con dos cargos distintos según el documento genera duda razonable sobre quién está habilitado para representar a la sociedad y abre la puerta a una **nulidad de los actos** si el firmante no era representante legal al momento de firmar las cartas. Esto es **una línea defensiva a verificar** con el Registro Público de Comercio.
 
 ### 1.3. El abogado patrocinante
 
-**Dr. Carlos** (apellido no surge del chat). Habla con Gabi entre el 10/07/2026 y el 17/08/2026. Estrategia y cálculo de cuantificación están documentados en audios 48, 58, 60, 72, 73, 97, 99.
+**Dr. Carlos** (apellido y matrícula **NO FIGURAN** en el expediente — el chat de WhatsApp sólo registra el display "Dr. Carlos Abog"). Habla con Gabi entre el 10/07/2026 y el 17/08/2026. Estrategia y cálculo de cuantificación están documentados en audios 48, 58, 60, 72, 73, 97, 99. **Acción:** Carlos debe completar su identificación en el escrito de demanda antes de presentación. Cuestionario v2 §7.1.6 confirma que el **poder para juicios aún NO ha sido firmado por Gabi al 12/09/2026**.
+
+### 1.4. Asismed (tercero relacionado — seguro privado)
+
+**Asismed** es un seguro médico privado que contrató servicios odontológicos con Odontología 3 S.A. durante varios años. El contrato preveía un **pago fijo mensual** a la clínica por la atención de los asegurados, que se repartía entre los odontólogos del plantel.
+
+- **Cambio relevante en 2025:** Asismed dejó de pagar el fijo (cuestionario v2 §5.1.7 + audio 36) — coincidente con la caída de ingresos de Gabi de 5M → 4M.
+- **Implicación jurídica:** Asismed podría ser **tercero legitimado pasivo** en parte del crédito (ver [`../05-cuantificacion/19-analisis-asismed.md`](../05-cuantificacion/19-analisis-asismed.md)).
+- **Acción:** Carlos debe investigar si Asismed tiene registros de los odontólogos que prestaban servicio bajo el contrato con la clínica.
 
 ---
 
@@ -123,9 +134,20 @@ Gabi contacta a Carlos y le envía:
 
 > **Carlos confirma:** Gabi tiene estabilidad absoluta. La prescripción aplicable es la de 1 año (Art. 146 CT). **Plazo fatal: 14/07/2027.**
 
+### 1.5. Testigos clave identificados (cuestionario v2 Parte 8)
+
+| Persona | Rol en la clínica | Relevancia probatoria |
+|---|---|---|
+| **Lic. Viviana Colman** | Coordinadora General (carta 18/06/2026) | Testigo directo del poder de dirección; era quien convocaba a reuniones y gestionaba la agenda de los odontólogos. |
+| **Lic. Verónica Amarilla** | Personal de Recursos Humanos | **Autora de la confesión extrajudicial "no pagamos nada, todo está estipulado en el contrato"** (audio 43). Smoking gun. |
+| **Sr. Luis Arévalo** | Contador de la clínica | Testigo del flujo de pagos, retenciones y de la **ausencia de aportes al IPS** durante 12 años. |
+| **Dr. Roque S. Ramírez Nizza** | Representante legal (firmante con dos cargos distintos) | Demandado principal; target del confesional. |
+| **Manuel Amelio** | Ex-pareja de Gabi, vínculo de ingreso al consultorio | Testigo de la naturaleza personal/familiar del vínculo laboral. Tibio a declarar. |
+| **15+ colegas nombrados** | Odontólogos del plantel actual | Víctimas potenciales del mismo fraude. Base para acción colectiva (ver [`../08-analisis-especializado/33-accion-colectiva.md`](../08-analisis-especializado/33-accion-colectiva.md)). |
+
 ### Pendientes inmediatos (al 26/08/2026)
 
-- Firma del poder por Gabi.
+- Firma del poder por Gabi. ⚠️ **AÚN PENDIENTE al 12/09/2026** (cuestionario v2 §7.1.6).
 - Inicio del procedimiento de conciliación administrativa.
 - Solicitud de certificados al IPS y a la SET.
 
@@ -155,6 +177,23 @@ Gabi contacta a Carlos y le envía:
 | H18 | Carlos diagnosticó: "lo tuyo es diferente por tu estabilidad, o sea, tenés ese superior a diez años" | Estabilidad absoluta | Audio 97 |
 | H19 | Carlos dijo que la prescripción aplicable es de 1 año | Plazo de prescripción | Audio 97 |
 | H20 | Gabi se incorporó por gestión de Manuel, conocido de Roque en la masonería | Vínculo personal previo | Audio 55 |
+| H21 | El contrato de PS se aplicó "a todos igual" a 50+ profesionales | Patrón masivo de fraude | Chat 10/7/26 19:13:09 |
+| H22 | Odontología 3 operaba al menos 3 clínicas | Alcance geográfico del fraude | Cuestionario v2 §8.1.1 |
+| H23 | El contrato fue firmado para poder licitar ante el Estado | Finalidad fraudulenta del PS | Audio 36 |
+| H24 | La reunión final con Roque (en consultorio O3) tuvo grabación de audio por Gabi | **Smoking gun** — admisión verbal del despido | Cuestionario v2 §6.6.8 |
+| H25 | El contrato fue entregado a Gabi sin contrafirma del empleador | Vicio de forma | Audio 41; cuestionario v2 §3.2.5 |
+| H26 | El "licenciado" (Verónica Amarilla) negó expresamente cualquier indemnización | Confesión extrajudicial | Audio 43; cuestionario v2 §6.5 |
+| H27 | Asismed cambió las condiciones de pago en 2025 (de fijo a variable) | Coincide con caída de ingresos de Gabi | Cuestionario v2 §5.1.7, audio 36 |
+| H28 | La facturación al paciente la realizaba la clínica, no Gabi | Cliente de la clínica, no de Gabi | Cuestionario v2 §4.4.6 |
+| H29 | Los pacientes eran asignados por la clínica (call center) | La clínica controla la oferta | Cuestionario v2 §4.4.2, §4.4.11 |
+| H30 | Gabi aplicaba anestesia, decidíaoperatoria y estética; realizaba diagnóstico radiográfico | Trabajo personalísimo, no delegable | Cuestionario v2 §4.5 |
+| H31 | Gabi percibía 40% a la clínica y 60% a ella en algunos casos; en otros 50/50 | Modelo mixto fijo + porcentaje, NO honorarios profesionales | Cuestionario v2 §4.4.8, §5.1.6 |
+| H32 | La clínica proveyó sillón dental, equipo de rayos X, software de gestión y formularios de historia clínica | Inversiones del empleador, no del prestador autónomo | Cuestionario v2 §4.3 |
+| H33 | Gabi provisionaba sus propios instrumentos, materiales de consumo, EPP y basura patológica | Asunción irregular de costos por el prestador (falso independiente) | Cuestionario v2 §4.3.2-§4.3.9 |
+| H34 | No se realizó examen preocupacional, ni periódicos, ni de egreso en 12 años | Incumplimiento adicional del CT + MSP | Cuestionario v2 §16.3 |
+| H35 | La clínica pagó 8 licitaciones públicas con nombres de odontólogos del plantel (MOPC, Cámara de Diputados, SENACSA, Relaciones Exteriores, Vicepresidencia, BNF, Ministerio del Interior) | Uso de Gabi y otros profesionales como "plantilla" para acceder a contrataciones públicas | Cuestionario v2 §14.1.2, audio 36 |
+| H36 | El ingreso mensual descendió de 8M (2014) → 7 → 6 → 5 → 4M (2026) sin justificación objetiva | Reducción unilateral por la empleadora | Chat 20:32:41-50; audios 49, 59, 62, 72 |
+| H37 | El "no" de la clínica a cualquier indemnización incluyó denegación de preaviso, antigüedad, aguinaldo y vacaciones | Reconocimiento expreso de incumplimiento total | Audio 43 |
 
 ---
 
@@ -191,6 +230,16 @@ Gabi contacta a Carlos y le envía:
 
 ---
 
+## 6. Ángulo penal preliminar (audios 36, 43; cuestionario v2 Parte 14)
+
+A la luz de los hechos acreditados, existen al menos tres tipos penales cuya investigación puede iniciarse de oficio o por querella:
+
+1. **Estafa laboral** (Art. 187 CP): uso del contrato PS para defraudar a Gabi en sus prestaciones durante 12 años.
+2. **Apropiación indebida / retención indebida de aportes** (Arts. 196 y concordantes CP): si la clínica retuvo y no ingresó al IPS.
+3. **Fraude en licitaciones públicas** (Art. 196 bis y concordantes; Ley 2051/03 de Contrataciones Públicas): si las DDJJ o pliegos contenían información falsa sobre la situación previsional de los profesionales listados.
+
+**Acción:** Carlos debe evaluar si activa la **vía penal como amenaza táctica en la negociación** (recomendación: no al inicio, sí como palanca una vez presentada la demanda laboral — ver [`../04-estrategia/05-estrategia-procesal.md`](../04-estrategia/05-estrategia-procesal.md) §9).
+
 ## Siguientes pasos del expediente
 
 1. **Cruzar con IPS** si Gabi figura como asegurada activa o inactiva.
@@ -198,5 +247,8 @@ Gabi contacta a Carlos y le envía:
 3. **Solicitar al Registro Público de Comercio** las escrituras de constitución y los poderes del Dr. Roque Ramírez Nizza.
 4. **Solicitar al Viceministerio del Trabajo** si la clínica fue inspeccionada alguna vez.
 5. **Recibir declaración testimonial** de Manuel (si así lo decidiera Gabi y él aceptara).
+6. **Solicitar a Asismed** copia del contrato con Odontología 3 S.A. y de los listados de profesionales que prestaban servicio bajo ese contrato (tercero legitimado pasivo parcial).
+7. **Cruzar contra DNCP** los 8 organismos nombrados por Gabi (MOPC, Cámara de Diputados, SENACSA, Relaciones Exteriores, Vicepresidencia, BNF, Ministerio del Interior) — ver [`../09-areas-investigacion/35-cruce-dncp-odontologia3.md`](../09-areas-investigacion/35-cruce-dncp-odontologia3.md).
+8. **Activar pericia informática** sobre los 38 audios + la grabación de la reunión con Roque (cuestionario v2 §6.6.8) ANTES de la audiencia preliminar.
 
 Ver [`04-pruebas.md`](./04-pruebas.md) para el detalle del plan probatorio completo.

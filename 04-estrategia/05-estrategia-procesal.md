@@ -71,14 +71,17 @@ La **Ley N° 842/63** establece la **conciliación administrativa previa y oblig
 
 ### 3.2. Estrategia
 
-**Objetivo mínimo en conciliación:** Gs. 80M (parte baja del rango) con cláusula de confidencialidad.
+**Objetivo mínimo en conciliación (ACTUALIZADO — cuestionario v2 §9.3):** **Gs. 150M** con cláusula de confidencialidad y pago contado o a muy corto plazo (Gabi no acepta cuotas).
 
-**Objetivo aceptable:** Gs. 100–150M con:
-- Pago en 3 cuotas mensuales.
+**Objetivo aceptable:** **Gs. 180–220M** con:
+- Pago contado o en máximo 2 cuotas.
 - Cláusula confidencial.
 - Renuncia recíproca a acciones (Gabi no demanda por más, demandada no denuncia penalmente).
+- Aporte retroactivo al IPS regularizado por la demandada.
 
-**Objetivo máximo:** Gs. 200M con todas las prestaciones detalladas.
+**Objetivo máximo:** **Gs. 250M+** con todas las prestaciones detalladas y aporte retroactivo completo al IPS.
+
+> **Por qué se sube el piso:** Gabi declaró explícitamente (cuestionario v2 §9.3) que su mínimo aceptable es **Gs. 150–200M**, que no acepta cuotas, que no puede esperar mucho (actualmente en "defaull" económico) y que prefiere indemnización sobre reincorporación. Una negociación que arranque por debajo de Gs. 150M será rechazada por Gabi.
 
 ### 3.3. Si la conciliación fracasa
 
@@ -94,7 +97,9 @@ Con un crédito laboral superior a Gs. 100M, corresponde la **vía ordinaria**.
 
 ### 4.2. Fuero competente
 
-- **Juzgado del Trabajo de turno** (en Asunción si la demandada tiene domicilio en Asunción).
+- **Juzgado del Trabajo de turno** (en Asunción si la demandada tiene domicilio en Asunción — confirmado: domicilio fiscal principal en Mcal. Estigarribia 1414 casi Pai Pérez, Barrio San Roque, Asunción).
+- La demandada opera al menos **3 clínicas** en Asunción y área metropolitana (cuestionario v2 §8.1.1). Aunque sólo una de ellas (la principal) figura como domicilio fiscal, la competencia del juzgado laboral de Asunción se mantiene porque (i) las otras clínicas funcionan como sucursales de la misma persona jurídica y (ii) el fuero laboral se rige por el lugar de prestación efectiva de servicios (Art. 8 CPT).
+- **Riesgo procesal:** la demandada podría plantear excepción de incompetencia territorial si pretende que una de las otras clínicas es "domicilio real". Carlos debe estar preparado para acreditar que las 3 clínicas son la misma persona jurídica y que Gabi siempre prestó en Asunción.
 - **Tribunal de Apelación del Trabajo** (segunda instancia).
 
 ### 4.3. Escrito de demanda (estructura sugerida)
@@ -112,11 +117,36 @@ Con un crédito laboral superior a Gs. 100M, corresponde la **vía ordinaria**.
 ### 4.5. Medida cautelar
 
 **Solicitar embargo preventivo** sobre los bienes de Odontología 3 S.A.:
-- El inmueble donde funciona el consultorio (probablemente alquilado, a verificar).
-- Equipos odontológicos.
+- El inmueble donde funciona el consultorio (alquilado — verificar contrato y propietario del inmueble).
+- Equipos odontológicos (sillón dental compartido, equipo de rayos X).
 - Cuentas bancarias.
+- **Bienes del Dr. Roque S. Ramírez Nizza a título personal** (ver [`../08-analisis-especializado/33-accion-colectiva.md`](../08-analisis-especializado/33-accion-colectiva.md) §4 — hipótesis de inoponibilidad de la personalidad jurídica).
 
 **Riesgo:** si la medida es rechazada por no acreditarse el riesgo de insolvencia, no afecta la demanda principal pero obliga a esperar la sentencia para ejecutar.
+
+### 4.6. Acción colectiva / Litisconsorcio (NUEVO — cuestionario v2 §8.1.2)
+
+**Hechos habilitantes:**
+- Odontología 3 S.A. tenía más de 50 profesionales en 3 clínicas (cuestionario v2 §8.1.1).
+- El contrato de PS era **idéntico para todos** — Gabi declaró en chat 10/7/26 19:13:09 "a todos igual", y Carlos confirmó que el contrato era un template tipo ChatGPT.
+- 15+ colegas han sido identificados por nombre (Victoria Barrios, Virginia Giménez, Esther Alonso, Berenice Gamell, Óscar Barreto, Yolanda Campuzano, Vamila Hernández, Diana Bergmann, Luis Meza, Blanca Santacruz, Roberto De Jesús, Ruth Lima, Rubén Rivarola, María Gloria Acosta, Delia Ortiz, Nidia Ortiz, Marian Machuca, Mauricio Montedomeck, César Torres).
+- "El 99.9 por ciento siempre se quejaba" del trato (cuestionario v2 §8.1.6).
+
+**Estrategia procesal — dos opciones:**
+
+**Opción A — Litisconsorcio facultativo simple (Art. 93 CPC):**
+- Gabi invita a2-5 colegas a sumarse como co-demandantes en la misma demanda.
+- Ventaja: multiplica presión probatoria sin necesidad de acción colectiva formal.
+- Riesgo: cada co-demandante necesita su propio poder y matrícula; aumentan las partes y la complejidad de la audiencia.
+
+**Opción B — Acción colectiva formal (ley procesal vigente, aún incipiente en Paraguay):**
+- Mayor inversión procesal inicial; requiere協議会 con elViceministerio.
+- Si funciona: sentencia con efectos para todos los profesionales en la misma situación.
+- Carlos debe evaluar si hay antecedentes de acciones colectivas laborales exitosas en Paraguay.
+
+> **Recomendación táctica inmediata:** Carlos debe sondear (con discreción, sin comprometer la estrategia de Gabi) si al menos 3-5 colegas estarían dispuestos a sumarse como litisconsortes. Ver template en [`../13-templates-procesales/53-carta-invitacion-colegas.md`](../13-templates-procesales/53-carta-invitacion-colegas.md).
+
+> **Implicación en cuantificación:** la acción colectiva **no incrementa directamente** el crédito individual de Gabi, pero **multiplica la presión sobre la demandada** y por tanto aumenta la probabilidad de un acuerdo individual favorable para Gabi en el rango Gs. 200M+.
 
 ---
 
@@ -290,11 +320,11 @@ Por los aportes evadidos. El IPS puede iniciar una acción de cobro propia contr
 
 ## 13. Decisiones críticas pendientes (con Carlos)
 
-1. **¿Aceptar acuerdo transaccional en Gs. 80–100M?** Oferta probable de la demandada.
-2. **¿Solicitar embargo preventivo al inicio del juicio?** Sí, recomendado.
-3. **¿Activar la vía penal?** No al inicio. Solo como amenaza táctica.
-4. **¿Citar a Manuel como testigo?** No, salvo cambio de opinión de Gabi.
-5. **¿Incorporar a otros odontólogos como litisconsortes?** Sí, si los hay. Mayor fuerza probatoria.
+1. **¿Aceptar acuerdo transaccional en Gs. 150–180M?** Oferta probable de la demandada tras la audiencia preliminar. **Gabi exige piso Gs. 150M contado** (cuestionario v2 §9.3.1, §9.3.6).
+2. **¿Solicitar embargo preventivo al inicio del juicio?** Sí, recomendado. Ahora ampliado a bienes personales del Dr. Roque (inoponibilidad de personalidad jurídica).
+3. **¿Activar la vía penal?** No al inicio. Solo como amenaza táctica en audiencia preliminar (ver §9).
+4. **¿Citar a Manuel como testigo?** No, salvo cambio de opinión de Gabi. Él está tibio.
+5. **¿Incorporar a otros odontólogos como litisconsortes?** **Sí — prioridad alta.** Iniciar contactos discretos con 3-5 colegas (Berenice Gamell, Ruth Lima, Marian Machuca, Esther Alonso, Blanca Santacruz son candidatos por permanencia y vínculo).
 
 ---
 
@@ -315,11 +345,16 @@ Después del análisis de 40 profesionales (jueces, abogados, psicólogos, conta
 
 ## 15. Veredicto del análisis multiperspectiva
 
-**Consenso:** 85-95% de probabilidad de éxito.
-**VPN esperado:** Gs. 90.7M netos.
-**Riesgo máximo:** Gs. 17.7M.
-**Recomendación final:** proceder con la estrategia descrita, ejecutar todas las mejoras prioritarias, mantener el caso privado hasta sentencia firme.
+**Consenso:** 85-95% de probabilidad de éxito en pretensión declarativa + cobro de prestaciones.
+**VPN esperado (actualizado con Asismed + daño moral por salud + acción colectiva):** **Gs. 150–180M netos** en escenario de conciliación temprana; **Gs. 200–250M netos** si se sostiene la negociación hasta audiencia preliminar.
+**Riesgo máximo:** Gs. 17,7M (costas si pierde).
+**Recomendación final:**
+1. Proceder con la estrategia descrita.
+2. Ejecutar todas las mejoras prioritarias.
+3. **Piso duro en negociación: Gs. 150M contado.** No aceptar menos sin consultar a Gabi.
+4. Activar el ángulo de **acción colectiva** lo antes posible (es el multiplicador de presión más fuerte disponible).
+5. Mantener el caso privado hasta sentencia firme.
 
 ---
 
-*Ver [`06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el detalle de los plazos fatales, y [`../09-areas-investigacion/07-seguridad-social-y-tributos.md`](./07-seguridad-social-y-tributos.md) para el impacto en IPS y SET.*
+*Ver [`06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el detalle de los plazos fatales, y [`../09-areas-investigacion/07-seguridad-social-y-tributos.md`](../09-areas-investigacion/07-seguridad-social-y-tributos.md) para el impacto en IPS y SET.*

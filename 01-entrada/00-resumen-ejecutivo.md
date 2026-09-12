@@ -107,4 +107,4 @@ Eso es **fraude laboral** y hay recharacterización legal disponible.
 
 **Firma del poder.** Sin el poder, Carlos no puede iniciar nada. Audio 101 confirma que Gabi todavía no firmó.
 
-Ver [`../04-estrategia/06-prescripcion-y-plazos.md`](./06-prescripcion-y-plazos.md) para el calendario completo de vencimientos.
+Ver [`../04-estrategia/06-prescripcion-y-plazos.md`](../04-estrategia/06-prescripcion-y-plazos.md) para el calendario completo de vencimientos.

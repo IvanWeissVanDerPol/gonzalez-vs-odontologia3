@@ -29,9 +29,11 @@
 | **TOTAL** | **Gs. 50.000.000** |
 | **PROMEDIO MENSUAL** | **Gs. 4.166.667** |
 
-> Carlos mencionó en audio 59: *"promedio de 4 millones, ponerle que es poquísimo"*, y en audio 62: *"5 millones como máximo, como máximo"*. Tomamos como base **Gs. 4.500.000** mensuales (estimación intermedia prudente).
+> Carlos mencionó en audio 59: *"promedio de 4 millones, ponerle que es poquísimo"*, y en audio 62: *"5 millones como máximo, como máximo"*. Tomamos como base **Gs. 4.500.000** mensuales (estimación intermedia prudente) **incluyendo el componente Asismed** que se pagaba como fijo hasta 2025.
 
 **Salario diario base = Gs. 4.500.000 / 30 = Gs. 150.000.**
+
+> **Componente ASISMED (NUEVO — cuestionario v2 §5.1.7, audio 36):** Asismed (seguro médico privado) contrataba a la clínica con un **pago fijo mensual** por la atención de sus asegurados. Este fijo se repartía entre los odontólogos del plantel. En 2025 Asismed cambió las condiciones (de fijo a variable), y eso explica la caída de ingresos de Gabi de ~5M → ~4M. **Implicación cuantitativa:** durante los años de fijo Asismed, el salario real de Gabi era mayor al promedio simple; durante 2025-2026 la caída del fijo impactó directamente su ingreso. Ver análisis específico en [`./19-analisis-asismed.md`](./19-analisis-asismed.md).
 
 ### 1.2. Antigüedad
 
@@ -141,15 +143,26 @@ Esta es la indemnización principal.
 
 ### 2.9. Daño moral y daño punitivo (jurisprudencia reciente)
 
-**Doctrina:** la CSJ ha reconocido **daño moral** en casos de fraude laboral en sentencias de los últimos 5 años. El quantum varía entre Gs. 5.000.000 y Gs. 50.000.000 según la gravedad.
+**Doctrina:** la CSJ ha reconocido **daño moral** en casos de fraude laboral en sentencias de los últimos 5 años. El quantum varía entre Gs. 5.000.000 y Gs. 100.000.000 según la gravedad y los daños acreditados.
 
-**Aplicación al caso:**
-- 12 años de fraude.
-- Imposibilidad de acceder a la jubilación.
-- Negativa expresa de cualquier indemnización.
-- Impacto en el proyecto profesional de Gabi (audio 75).
+**Aplicación al caso (actualizado tras cuestionario v2 §16):**
+- **12 años de fraude continuado.**
+- **Imposibilidad de acceder a la jubilación** (sin aportes al IPS).
+- **Negativa expresa** de cualquier indemnización (audio 43).
+- **Impacto en el proyecto profesional** de Gabi (audio 75).
+- **Deterioro de salud acreditado y contemporáneo al caso** — ver [`../03-legal/23-dano-moral-y-salud.md`](../03-legal/23-dano-moral-y-salud.md):
+  - Infección urinaria aguda (agosto 2026, primera vez en su vida — cuestionario v2 §16.2.2).
+  - Quiste renal izquierdo 30 mm (Bosniak II probable).
+  - Quiste pancreático 6 mm (incidentaloma).
+  - Plaquetas elevadas (575 K/mm³) — probable trombocitosis reactiva al estrés.
+  - Dislipidemia (LDL 165, No-HDL 180).
+  - Vitamina D insuficiente (29,35 ng/mL).
+  - HOMA-IR 2,94 borderline.
+  - Insomnio, ansiedad, deterioro de concentración y apetito (cuestionario v2 §11.1).
+  - Internación y enfermedad prolongada al 12/09/2026.
+  - Recomendación médica documentada de "bajar el cambio" (cuestionario v2 §16.2.5).
 
-> Para demanda, reclamar **Gs. 30.000.000** como daño moral.
+> Para demanda, reclamar **Gs. 50.000.000** como daño moral (incrementado desde los Gs. 30M originales en función del deterioro de salud acreditado; rango posible: Gs. 30.000.000 – Gs. 80.000.000).
 
 ---
 
@@ -166,11 +179,12 @@ Esta es la indemnización principal.
 | Aportes IPS | Gs. 13.770.000 | Gs. 50.000.000 | Gs. 165.240.000 |
 | Multas CT | Gs. 5.000.000 | Gs. 10.000.000 | Gs. 40.000.000 |
 | Daño moral | Gs. 5.000.000 | Gs. 15.000.000 | Gs. 30.000.000 |
-| **TOTAL** | **Gs. 124.363.750** | **Gs. 313.250.000** | **Gs. 680.927.500** |
+| Daño moral (actualizado con salud) | 30.000.000 | 50.000.000 | 80.000.000 |
+| **TOTAL** | **Gs. 149.363.750** | **Gs. 348.250.000** | **Gs. 730.927.500** |
 
-**Hipótesis recomendada para la demanda:** Gs. 250–300M (parte media-alta).
+**Hipótesis recomendada para la demanda:** **Gs. 300–350M** (parte media-alta, ajustada por daño moral).
 
-**Hipótesis recomendada para negociación:** Gs. 100–150M (parte media-baja, asumiendo quita por acuerdo).
+**Hipótesis recomendada para negociación (ACTUALIZADA — cuestionario v2 §9.3):** **Gs. 150–200M mínimo** (Gabi declaró explícitamente: "200M" como techo de negociación aceptable y "150–200M" como mínimo en escenario de reconocimiento simbólico). **Piso duro: Gs. 150M** — Carlos debe rechazar cualquier oferta inferior sin consultar a Gabi.
 
 ---
 
@@ -258,12 +272,23 @@ Presentar demanda por **Gs. 300.000.000** (parte alta del rango), pidiendo:
 3. **Todas las prestaciones laborales** adeudadas (aguinaldo, vacaciones, vacaciones fraccionadas, salario vacacional).
 4. **Aportes al IPS** desde 2014 con más intereses.
 5. **Multas e intereses** por las infracciones al CT.
-6. **Daño moral** de Gs. 30.000.000.
+6. **Daño moral** de **Gs. 50.000.000** (actualizado por salud).
 7. **Costas** del juicio.
 
-> En la audiencia de conciliación, base de negociación: **Gs. 100–150M**.
-> Si la demandada ofrece menos de Gs. 80M, **no aceptar** sin consultar a Gabi.
+> **Base de negociación en audiencia de conciliación: Gs. 150–200M** (ACTUALIZADO — cuestionario v2 §9.3).
+> **Piso duro: Gs. 150M.** Si la demandada ofrece menos, **no aceptar sin consultar a Gabi**.
+> Gabi declaró que **no acepta acuerdo en cuotas** (cuestionario v2 §9.3.6) y que **no puede esperar mucho** (cuestionario v2 §9.3.5) — está en "defaull" económico al 12/09/2026. Esto **endurezce la posición negociadora**: Carlos debe presionar por pago contado o a muy corto plazo.
+
+> **Análisis de sensibilidad adicional (NUEVO):**
+>
+> | Escenario | Cuantía demandada | Cuantía recuperada (est.) | Comentario |
+> |---|---|---|---|
+> | Conciliación temprana (alta presión probatoria) | Gs. 300M demandados | Gs. 180–220M | Optimal given financial pressure on Gabi |
+> | Conciliación extendida | Gs. 300M demandados | Gs. 150–180M | Carlos debe evitar este escenario |
+> | Sentencia favorable 1ª instancia | Gs. 300M demandados | Gs. 200–270M | Demora 12–24 meses — riesgo de insolvencia |
+> | Sentencia desfavorable | Gs. 300M demandados | Gs. 0 + Gs. 5–15M en costas | 5% probabilidad |
+> | Acción colectiva (50+ colegas) | Gs. 300M × N demandantes | Multiplicador 5–10x | Cambia radicalmente la presión sobre la demandada |
 
 ---
 
-*Ver [`../02-hechos/04-pruebas.md`](./04-pruebas.md) para el plan de producción de prueba, y [`../04-estrategia/05-estrategia-procesal.md`](./05-estrategia-procesal.md) para el plan procesal paso a paso.*
+*Ver [`../02-hechos/04-pruebas.md`](../02-hechos/04-pruebas.md) para el plan de producción de prueba, y [`../04-estrategia/05-estrategia-procesal.md`](../04-estrategia/05-estrategia-procesal.md) para el plan procesal paso a paso.*
