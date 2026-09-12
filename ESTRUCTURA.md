@@ -147,7 +147,7 @@ Archivos en la raíz:
 | `11-arquitectura-caso/` | 1 doc + README |
 | `12-evidencia/` | 153 archivos (manifiesto + 38 audios + 2 cartas + 76 transcripciones + chat + README) |
 | `13-templates-procesales/` | 7 docs + README |
-| **TOTAL** | **62 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
+| **TOTAL** | **64 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
 
 ---
 
@@ -292,7 +292,9 @@ Los documentos conservan su numeración original (00–34) para mantener trazabi
 - `05-cuantificacion/03-cuantificacion.md` — Asismed, daño moral, sensibilidad.
 - `04-estrategia/05-estrategia-procesal.md` — conciliación, 3 clínicas, acción colectiva, decisiones críticas.
 - `09-areas-investigacion/35-cruce-dncp-odontologia3.md` — DATOS VERIFICADOS: 73 adj ₲147B en 17 organismos
-- `09-areas-investigacion/36-intelligence-report.md` — NUEVO: reporte completo de inteligencia pública
+- `09-areas-investigacion/36-intelligence-report.md`
+- `04-estrategia/81-master-negotiation-playbook.md`
+- `04-estrategia/82-tactical-prep-checklist.md` — NUEVO: reporte completo de inteligencia pública
 - `13-templates-procesales/47-osint-de-roque.md` — datos verificados del representante legal
 - `13-templates-procesales/46-investigacion-registro-publico.md` — datos verificados del RUC y composición
 
