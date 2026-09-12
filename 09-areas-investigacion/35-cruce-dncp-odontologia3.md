@@ -2,6 +2,18 @@
 
 > *Investigación del ángulo de fraude en licitaciones públicas: cruce de los 8 organismos nombrados por Gabi con el portal de la Dirección Nacional de Contrataciones Públicas (DNCP).*
 
+> **🎯 ACTUALIZADO AL 12/09/2026 CON DATOS VERIFICADOS.**
+>
+> **Razón Social:** ODONTOLOGIA 3 TRES S.A. (no solo "Odontología 3 S.A.")
+> **RUC:** **80010293-2**
+> **Representante Legal:** ROQUE SAMUEL RAMIREZ NIZZA
+> **Total adjudicaciones verificadas:** **73**
+> **Monto total adjudicado:** **₲ 146,903,298,000** (~ USD 19.5M)
+> **17 organismos públicos diferentes**
+> **Sanciones en DNCP:** Ninguna
+> **Listado completo de adjudicaciones:** ver `12-evidencia/dncp-adjudicaciones-odontologia3.md`
+> **Análisis estratégico completo:** ver `36-intelligence-report.md` (este mismo folder)
+
 ---
 
 ## 1. Hechos relevantes (cuestionario v2 §14)

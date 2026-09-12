@@ -16,6 +16,25 @@ Conocer mejor al demandado para:
 
 ---
 
+## ⚠️ DATOS VERIFICADOS AL 12/09/2026 (inteligencia pública)
+
+> **Ver `09-areas-investigacion/36-intelligence-report.md` para el reporte completo.**
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Nombre completo | **ROQUE SAMUEL RAMIREZ NIZZA** | DNCP |
+| Cargo DNCP | Representante Legal | DNCP |
+| Cargo en carta 26/03/2025 | Director-Presidente / Director General | Carta escaneada |
+| Cargo en carta 18/06/2026 | Auditor Odontólogo | Carta escaneada |
+| Especialidad declarada | Odontología General (no especialista) | odontologia3.com |
+| WhatsApp comercial | (0971) 907 913 | odontologia3.com |
+| Cargo real (de hecho) | Director / dueño desde 1989 (heredó el negocio familiar) | odontologia3.com |
+| Antecedentes de prensa (fraude) | 2 denuncias MOPC (2023, 2024) | La Nación, ABC, Última Hora |
+| Familiares en la clínica | Dr. Mario Ramírez (mismo apellido, rehabilitador oral) | odontologia3.com |
+| Patrimonio embargable | Identificable vía Registro Público + Padrón | — |
+
+---
+
 ## A. Redes sociales
 
 ### A.1. Facebook

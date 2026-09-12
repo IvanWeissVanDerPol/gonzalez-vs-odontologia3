@@ -142,12 +142,12 @@ Archivos en la raíz:
 | `06-personas/` | 3 docs + README |
 | `07-comunicacion/` | 2 docs + README |
 | `08-analisis-especializado/` | 8 docs + README |
-| `09-areas-investigacion/` | 3 docs + README |
+| `09-areas-investigacion/` | 4 docs + README |
 | `10-riesgos-personales/` | 2 docs + README |
 | `11-arquitectura-caso/` | 1 doc + README |
 | `12-evidencia/` | 153 archivos (manifiesto + 38 audios + 2 cartas + 76 transcripciones + chat + README) |
 | `13-templates-procesales/` | 7 docs + README |
-| **TOTAL** | **61 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
+| **TOTAL** | **62 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
 
 ---
 
@@ -184,6 +184,7 @@ Los documentos conservan su numeración original (00–34) para mantener trazabi
 | 33 | accion-colectiva | `08-analisis-especializado/` |
 | 34 | inconsistencia-representacion | `08-analisis-especializado/` |
 | 35 | cruce-dncp-odontologia3 | `09-areas-investigacion/` |
+| 36 | intelligence-report | `09-areas-investigacion/` (NUEVO v3 — datos verificados DNCP) |
 | 74 | jurisprudencia-comparada | `03-legal/` (recuperado scratchpad) |
 | 75 | doctrina-laboral-paraguaya | `03-legal/` (recuperado scratchpad) |
 | 76 | conciliacion-profundizada | `04-estrategia/` (recuperado scratchpad) |
@@ -284,9 +285,23 @@ Los documentos conservan su numeración original (00–34) para mantener trazabi
 - `4-preguntas-para-Carlos.md`
 - `5-plan-de-trabajo-futuro.md`
 
-**Documentos actualizados (4):**
+**Documentos actualizados (4 + 4 inteligencia):**
 
 - `03-legal/16-borrador-demanda.md` — placeholders completados, testigos identificados, daño moral actualizado.
 - `02-hechos/01-hechos-y-cronologia.md` — domicilio, 3 clínicas, Asismed, 17 nuevos hechos probados.
 - `05-cuantificacion/03-cuantificacion.md` — Asismed, daño moral, sensibilidad.
 - `04-estrategia/05-estrategia-procesal.md` — conciliación, 3 clínicas, acción colectiva, decisiones críticas.
+- `09-areas-investigacion/35-cruce-dncp-odontologia3.md` — DATOS VERIFICADOS: 73 adj ₲147B en 17 organismos
+- `09-areas-investigacion/36-intelligence-report.md` — NUEVO: reporte completo de inteligencia pública
+- `13-templates-procesales/47-osint-de-roque.md` — datos verificados del representante legal
+- `13-templates-procesales/46-investigacion-registro-publico.md` — datos verificados del RUC y composición
+
+**Datos verificados públicamente (12/09/2026):**
+
+- **Razón Social:** ODONTOLOGIA 3 TRES S.A.
+- **RUC:** 80010293-2
+- **Representante Legal:** ROQUE SAMUEL RAMIREZ NIZZA
+- **Total adjudicaciones DNCP:** 73 por ₲ 146,903,298,000 en 17 organismos públicos
+- **Cobertura de prensa:** 2 denuncias MOPC (2023, 2024) + ABC + Última Hora + La Nación + El Nacional
+- **Profesionales públicos:** 22+ identificables en odontologia3.com (cuestionario v2 daba 19)
+- **Sitio web:** odontologia3.com (más de 150 profesionales declarados, 90+ consultorios, 600+ pacientes/día)

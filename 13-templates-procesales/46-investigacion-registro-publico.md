@@ -18,7 +18,44 @@ Obtener toda la información pública disponible sobre:
 
 ## A. Odontología 3 S.A. — Datos básicos
 
-### A.1. RUC (obtenido vía oficio a la SET)
+### ⚠️ DATOS VERIFICADOS AL 12/09/2026 (inteligencia pública)
+
+> **Ver `09-areas-investigacion/36-intelligence-report.md` para el reporte completo.**
+
+| Campo | Valor verificado |
+|---|---|
+| Razón Social | **ODONTOLOGIA 3 TRES S.A.** |
+| RUC | **80010293-2** |
+| Representante Legal | **ROQUE SAMUEL RAMIREZ NIZZA** |
+| Tipo | S.A. (Sociedad Anónima) |
+| Domicilio fiscal | **Mcal. Estigarribia 1414, Asunción** |
+| Teléfono | (021) 200 175 |
+| Email | avaldezdem@o3.com.py |
+| Inscripción como proveedor del Estado | **17-08-2010** |
+| Categorías inscriptas DNCP | 6 (Seguros) + 17 (Equipos médicos) |
+| Sanciones DNCP | Ninguna |
+| Unidad Vanguard | Lanzada marzo 2019 — prepaga odontológica |
+| Unidad Scultura | Laboratorio dental (2016) |
+| Unidad Casa del Odontólogo | Insumos odontológicos (2016) |
+| Unidad Clínica Santé | Segunda clínica (2017) |
+| Unidad Clínica San José | Tercera clínica |
+| Unidad Tecnodent | Laboratorio digital CAD/CAM (enero 2020) |
+
+### Verificaciones pendientes (solicitar al Registro Público)
+
+- [ ] Composición accionaria (socios actuales e históricos)
+- [ ] Capital social suscrito e integrado
+- [ ] Modificaciones de estatutos
+- [ ] Poderes del Dr. Roque S. Ramírez Nizza
+- [ ] Si Roque es socio/administrador de las otras unidades (Scultura, Vanguard, Tecnodent, Casa del Odontólogo)
+- [ ] Embargos e inhibiciones previas sobre la S.A.
+- [ ] Antecedentes de modificaciones de domicilio
+- [ ] Antecedentes de modificaciones de razón social
+- [ ] Modificaciones de objeto social
+
+---
+
+## A.1. RUC (obtenido vía oficio a la SET)
 
 | Campo | Valor |
 |---|---|
