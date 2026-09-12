@@ -142,12 +142,12 @@ Archivos en la raíz:
 | `06-personas/` | 3 docs + README |
 | `07-comunicacion/` | 2 docs + README |
 | `08-analisis-especializado/` | 8 docs + README |
-| `09-areas-investigacion/` | 4 docs + README |
+| `09-areas-investigacion/` | 5 docs + README |
 | `10-riesgos-personales/` | 2 docs + README |
 | `11-arquitectura-caso/` | 1 doc + README |
 | `12-evidencia/` | 153 archivos (manifiesto + 38 audios + 2 cartas + 76 transcripciones + chat + README) |
 | `13-templates-procesales/` | 7 docs + README |
-| **TOTAL** | **64 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
+| **TOTAL** | **67 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
 
 ---
 
