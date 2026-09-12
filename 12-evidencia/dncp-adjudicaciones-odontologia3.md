@@ -8,6 +8,40 @@
 > **Total adjudicaciones:** 73
 > **Monto total adjudicado:** ₲ 146,903,298,000 (~ USD 19.5M al cambio paralelo)
 
+## Tipos de procedimiento (de las 73 adjudicaciones)
+
+| Tipo | # | Descripción |
+|---|---|---|
+| **LPN** (Licitación Pública Nacional) | 51 | Procedimiento competitivo estándar |
+| **CO** (Concurso de Ofertas) | 16 | Procedimiento simplificado (montos menores) |
+| **CD** (Contratación Directa) | 6 | Sin competencia — invitación directa |
+
+## Categorías temáticas
+
+| Categoría | # Adjudicaciones |
+|---|---|
+| **Seguros** | 30 |
+| **Equipos, Productos e instrumentales Médicos y de Laboratorio / Servicios asistenciales de salud** | 41 |
+| **Servicios financieros** | 2 |
+
+## Top 5 adjudicaciones individuales por monto
+
+| ID Licitación | Convocante | Monto (Gs) |
+|---|---|---|
+| **377252** | MOPC | ₲14,400,000,000 (aprox.) |
+| **359309** | MOPC | ₲11,200,000,000 |
+| **338621** | MOPC | ₲11,160,000,000 |
+| **306960** | MOPC | ₲8,170,000,000 |
+| **290168** | MOPC | ₲7,450,000,000 |
+
+> **Lectura:** El MOPC concentra las adjudicaciones más grandes (servicio continuo a funcionarios, probablemente pólizas anuales de seguro odontológico).
+
+## Participaciones totales (no adjudicadas)
+
+- **Total participaciones:** **72** (ofertas presentadas en licitaciones; no todas adjudicadas)
+- **Monto estimado participado:** **₲ 542,000,000,000** (₲542B)
+- **Implicación:** Odontología 3 intenta ganar **muchas más licitaciones de las que gana**. La tasa de adjudicación es ~50% (73 de 145).
+
 ## Resumen por convocante
 
 | Convocante | # Adjudicaciones | Total (Gs) |
