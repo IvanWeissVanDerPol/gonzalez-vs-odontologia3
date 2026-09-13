@@ -1331,6 +1331,635 @@ Para cada uno:
 
 ---
 
+
+
+## Pregunta 39 — Estabilidad absoluta: reposición en el puesto vs indemnización
+
+**🔴 BLOQUEANTE — Gabi tiene 10+ años (confirmado), entonces tiene DOS opciones procesales.**
+
+### Contexto legal
+
+El Art. 94 del Código del Trabajo establece que un trabajador con **10+ años de antigüedad** goza de **estabilidad absoluta**: el empleador NO puede despedirlo sin autorización judicial previa. Si lo hace (como Roque el 14/07/2026), el despido es **nulo** y el trabajador tiene derecho a:
+
+**Opción A — REPOSICIÓN** (volver al puesto)
+- Gabi vuelve a trabajar a O3 con todas las garantías
+- Roque paga los salarios caídos (desde 14/07/2026 hasta la reincorporación)
+- El vínculo laboral continúa como si nada hubiera pasado
+
+**Opción B — INDEMNIZACIÓN SUSTITUTIVA** (no volver + cobrar)
+- Indemnización equivalente a 2 años de salario (Art. 95 CT)
+- + todas las prestaciones adeudadas (aguinaldo, vacaciones, IPS, etc.)
+- + daño moral
+- Total estimado: ₲1.000-2.000M
+
+### Lo que necesito saber
+
+**Sobre tu decisión:**
+
+- [ ] **¿Querés volver a trabajar a O3?** (sí/no/no sé)
+- [ ] **Si Roque te ofreciera volver mañana, ¿aceptarías?**
+- [ ] **¿Tenés miedo de volver?** (¿Roque te puede acosar?)
+- [ ] **¿Preferís que te indemnicen y cerrar este capítulo?**
+- [ ] **¿Tenés trabajo alternativo?** (¿la opción B es viable?)
+
+**Sobre los argumentos:**
+
+- [ ] **¿Gabi sabe que la reposición es un derecho?** (sí/no/no sé)
+- [ ] **¿Prefieres pedir SOLO reposición, SOLO indemnización, o AMBAS?**
+- [ ] **Si Carlos pide AMBAS (reposición + indemnización), ¿estás de acuerdo?**
+
+### Por qué Carlos NECESITA esta respuesta
+
+- **Estrategia procesal**: si pedís reposición y O3 no acepta, automáticamente hay indemnización sustitutiva + salarios caídos. Si pedís solo indemnización, no hay opción de volver.
+- **Ancla de negociación**: si Roque sabe que querés volver, te presiona con poco dinero. Si sabe que querés dinero, negocia más seriamente.
+- **Quantum**: reposición = ₲0 inmediato + salarios caídos. Indemnización = ₲1.000-2.000M.
+
+---
+
+## Pregunta 40 — Querella penal: ¿querés que Roque vaya preso?
+
+**🔴 BLOQUEANTE — La querella penal es opcional pero tiene consecuencias graves para vos.**
+
+### Contexto
+
+La querella penal se presenta ante la **Fiscalía** y solicita que Roque sea **investigado y eventualmente condenado**. Los delitos aplicables según el análisis del repo:
+
+- **Art. 196 CP** — Retención indebida de aportes al IPS (2-5 años cárcel)
+- **Art. 239 CP** — Asociación ilícita (si se prueba el patrón familiar)
+- **Art. 187 CP** — Estafa (aprovechamiento fraudulento)
+- **Art. 199 CP** — Infracción a la Ley Laboral (multas)
+- **Art. 161 CP** — Omisión de aportes previsionales
+
+### Implicaciones de querellar penalmente
+
+**A favor:**
+- **Presión máxima** sobre Roque (puede ir preso)
+- **Inhabilidad DNCP Art. 72** (no puede contratar con el Estado)
+- **Patrimonio ejecutable ampliado** (no puede ocultar bienes)
+- **Satisfacción moral** para Gabi
+- **Mensaje sistémico** (otros exempleados se animan)
+
+**En contra:**
+- **Costo emocional** (Gabi declara en fiscalía, puede ser larga)
+- **Tiempo procesal** (1-3 años adicional)
+- **Riesgo de victimización secundaria** (medios, presión pública)
+- **Represalia de Roque** (contrademanda, presión sobre colegas)
+- **Riesgo fiscal para Gabi** (si vos también evadiste IPS, hay co-imputación)
+
+### Lo que necesito saber
+
+**Tu decisión:**
+
+- [ ] **¿Querés querellar penalmente a Roque?** (sí/no/no sé)
+- [ ] **¿Querés querellar también a Gloria?**
+- [ ] **¿Querés querellar a los contadores/asesores externos?**
+- [ ] **¿Hasta dónde estás dispuesta a a llegar?** (reposición + querella + querella penal patrimonial)
+
+**Sobre tu situación fiscal:**
+
+- [ ] **¿Vos evadiste algo al IPS o a la SET?** (sé honesta)
+- [ ] **¿Tenías RUC activo durante los 12 años?** (sí/no)
+- [ ] **¿Declaraste IRP anualmente?** (sí/no)
+- [ ] **¿Emitiste facturas falsas alguna vez?** (concepts como "consultoría" en vez de "atenatación odontológica")
+- [ ] **¿Usaste testaferros para factzar?**
+
+**Sobre el riesgo de victimización secundaria:**
+
+- [ ] **¿Estás dispuesta a declarar en fiscalía?** (cara a cara con el fiscal)
+- [ ] **¿Aceptás que se haga público?**
+- [ ] **¿Tenés apoyo emocional para soportar el proceso?**
+- [ ] **¿Querés que se haga sin publicidad?** (querella privada)
+
+### Por qué Carlos NECESITA esta respuesta
+
+- **Define el alcance de la demanda**: si querés querella penal, hay que presentarla dentro de los plazos de prescripción penal.
+- **Cambia la estrategia de conciliación**: si Roque sabe que vas por penal, negocia más seriamente.
+- **Activa nuevas líneas de investigación**: pericia contable, oficio a SET, etc.
+
+---
+
+## Pregunta 41 — Embargo preventivo: ¿qué bienes tiene Roque para embargar?
+
+**🔴 BLOQUEANTE — Necesitamos saber si Roque tiene patrimonio ejecutable antes de pedir embargo.**
+
+### Contexto
+
+El embargo preventivo (Art. 624 CPC) congela bienes del demandado para garantizar el pago de la sentencia. Si Roque no tiene bienes, el embargo es inútil.
+
+De la inteligencia sabemos:
+- 3 clínicas (Asunción, Sajonia, Villa Morra)
+- ₲147B adjudicados en DNCP (flujo de caja constante)
+- 22 profesionales públicos
+- Producto Vanguard
+- Mario Ramírez (hijo) podría tener participación accionaria
+
+### Lo que necesito saber
+
+**Bienes inmuebles:**
+
+- [ ] **¿Roque tiene casa propia?** (Asunción, dónde)
+- [ ] **¿Tiene departamentos / lotes / campos?**
+- [ ] **¿Tiene las clínicas a su nombre o de la S.A.?**
+- [ ] **¿Las clínicas están hipotecadas?**
+
+**Bienes muebles:**
+
+- [ ] **¿Roque tiene autos de alta gama?** (Mercedes, BMW, etc.)
+- [ ] **¿Tiene yates, caballos, arte?**
+- [ ] **¿Tiene cuentas en bancos internacionales?**
+
+**Empresas:**
+
+- [ ] **¿Las clínicas son de Roque personalmente o de S.A.?**
+- [ ] **¿Hay otras empresas a su nombre?**
+- [ ] **¿Tiene participación en otros negocios?**
+
+**Movimientos recientes (fraude procesal):**
+
+- [ ] **¿Roque vendió propiedades en los últimos 12 meses?**
+- [ ] **¿Roque transfirió acciones a familiares?**
+- [ ] **¿Se abrieron nuevas S.A. con otros nombres?**
+- [ ] **¿Hay rumores de venta de la clínica?**
+
+**Sobre el hijo Mario:**
+
+- [ ] **¿Mario tiene bienes a su nombre?**
+- [ ] **¿Mario figura en alguna S.A.?**
+- [ ] **¿Las otras clínicas son de Mario?**
+
+### Por qué importa
+
+- Si Roque NO tiene bienes → **embargo inútil** (hay que presionar con otra cosa)
+- Si Roque TIENE bienes → embargo preventivo bien diseñado
+- Si hay movimientos sospechosos → **inhibición general de vender** (medida cautelar innovativa)
+
+---
+
+## Pregunta 42 — La confesional de Roque: ¿qué le preguntarías?
+
+**🟡 IMPORTANTE — Carlos necesita preparar las posiciones para la confesional.**
+
+### Contexto
+
+En la audiencia de vista de causa, Roque debe **absolver posiciones** (contestar preguntas bajo juramento). Si miente, comete **falso testimonio** (Art. 243 CP). Esto es una oportunidad ÚNICA para obtener admisiones.
+
+### Lo que necesito saber
+
+**Sobre las preguntas que queremos hacerle:**
+
+- [ ] **¿Tenés preguntas específicas para Roque?** (ej: "¿Por qué no le pagaba IPS a Gabi?")
+- [ ] **¿Querés preguntarle algo personal?** (para satisfacción moral)
+- [ ] **¿Querés que Carlos prepare las preguntas o preferís vos?**
+
+**Sobre el tono:**
+
+- [ ] **¿Querés que Carlos sea agresivo en la confesional?**
+- [ ] **¿O querés un tono más conciliador?**
+- [ ] **¿Querés estar presente en la confesional?**
+
+### Tópicos clave que Carlos podría preguntar (orientativos)
+
+No necesitás responder — pero esto es lo que Carlos va a preguntar:
+
+1. ¿Roque reconoce que Gabi trabajó 12+ años en O3? (sí/no)
+2. ¿Roque emitió las cartas del 26/3/25 y 18/6/26? (sí/no)
+3. ¿Roque sabía que Gabi no estaba en IPS? (sí/no)
+4. ¿Roque inscribió a otros profesionales en IPS? (sí/no — para mostrar patrón)
+5. ¿Roque conocía el chat de WhatsApp con Viviana del 14/7/26? (sí/no)
+6. ¿Roque sabía de la grabación de la reunión del 18/6/26? (sí/no)
+7. ¿Roque contrató a su hijo Mario bajo el mismo modelo? (sí/no)
+8. ¿Roque autorizó la reforma del consultorio de Gabi? (sí/no)
+
+---
+
+## Pregunta 43 — Notificación, plazos procesales y vencimientos
+
+**🔴 BLOQUEANTE — Necesito fechas exactas para calcular prescripción y plazos.**
+
+### Contexto
+
+El plazo de **prescripción** de la acción laboral es de **1 año desde el cese** (Art. 136 CT). El cese fue el 14/07/2026 → prescribe el **14/07/2027**.
+
+Hay otros plazos importantes:
+- **Conciliación administrativa previa** (obligatoria) — 5 días hábiles desde la presentación
+- **Audiencia de vista de causa** — 6-12 meses desde la demanda
+- **Apelación** — 5 días desde la sentencia
+- **Casación** — 10 días desde la sentencia de segunda instancia
+- **Ejecución** — 30 días desde sentencia firme
+
+### Lo que necesito saber
+
+**Sobre la conciliación administrativa:**
+
+- [ ] **¿Cuándo se presenta la conciliación?** (fecha objetivo: lunes 16/09)
+- [ ] **¿Carlos ya tiene el poder firmado?**
+- [ ] **¿Gabi puede ir a la audiencia?**
+
+**Sobre el proceso judicial:**
+
+- [ ] **¿Cuál es el juzgado del trabajo de Asunción que nos tocaría?**
+- [ ] **¿Hay algún juez específico que queramos evitar?** (por experiencias previas)
+- [ ] **¿Hay recusación en mente?**
+
+**Sobre la prescripción penal:**
+
+- [ ] **¿Los hechos del 26/3/2025 prescriben en penal?** (Art. 110 CP — 5 años para hechos graves)
+- [ ] **¿Los hechos del 18/6/2026 prescriben en penal?**
+
+### Por qué Carlos NECESITA esta respuesta
+
+- **Calendario procesal exacto** — fechas límite para cada acción
+- **Plan de contingencia** si se vence algún plazo
+- **Coordinación con conciliación administrativa** (obligatoria antes de demandar)
+
+---
+
+## Pregunta 44 — Si la conciliación funciona, ¿qué acuerdo querés?
+
+**🟡 IMPORTANTE — Carlos necesita saber qué cláusulas son innegociables para vos.**
+
+### Contexto
+
+Si la conciliación funciona, hay un acuerdo. Carlos tiene claro el lado legal, pero necesita tu input sobre:
+
+- **Monto mínimo aceptable** (ya lo tenemos: ₲600M)
+- **Forma de pago** (contado vs cuotas vs mixto)
+- **Confidencialidad** (qué pasa si se filtra)
+- **Cláusulas especiales** (carta de recomendación, no-contacto, etc.)
+- **Tiempo de cumplimiento** (cuándo se paga)
+
+### Lo que necesito saber
+
+**Sobre el monto y forma de pago:**
+
+- [ ] **Mínimo aceptable final:** ₲______
+- [ ] **Objetivo realista:** ₲______
+- [ ] **Forma de pago aceptable:**
+  - [ ] Todo al contado (en la audiencia)
+  - [ ] 50% contado + 50% en 30 días
+  - [ ] 30% contado + 70% en cuotas (cuántas cuotas?)
+  - [ ] Cheque de pago diferido
+  - [ ] Transferencia bancaria verificable
+- [ ] **Aceptás cuotas si las cuotas son a corto plazo (1-3 meses)?**
+- [ ] **Aceptás cuotas a mediano plazo (3-12 meses)?**
+- [ ] **NO aceptás cuotas** (solo contado, ya lo dijiste pero confirmá)
+
+**Sobre confidencialidad y comunicaciones:**
+
+- [ ] **Aceptás confidencialidad?** (Roque no habla del acuerdo públicamente)
+- [ ] **Aceptás vos confidencialidad?** (no hablás del acuerdo)
+- [ ] **Aceptás que el acuerdo NO incluya disculpas públicas?**
+- [ ] **Aceptás que NO haya carta de recomendación?**
+
+**Sobre el cumplimiento:**
+
+- [ ] **Si Roque no paga, ¿qué plazo de gracia le das?**
+- [ ] **Si Roque incumple, ¿querés ejecución inmediata?**
+- [ ] **Si el acuerdo es por cuotas, ¿qué pasa si falla una cuota?**
+
+**Sobre el cierre emocional:**
+
+- [ ] **¿Querés una reunión cara a cara con Roque al cerrar?**
+- [ ] **¿Querés que te pida disculpas verbales?**
+- [ ] **¿Querés firma de "reconocimiento de la relación laboral"?**
+- [ ] **¿O querés cerrar rápido sin más interacción?**
+
+### Por qué importa
+
+- Define la **posición negociadora** de Carlos
+- Evita aceptar un acuerdo que después no podés cumplir
+- Permite planificar el **calendario de pago**
+
+---
+
+## Pregunta 45 — Si el caso se hace público, ¿qué pasa con vos?
+
+**🟡 IMPORTANTE — Cobertura de prensa / redes sociales.**
+
+### Contexto
+
+Si Gabi decide hacer público el caso (entrevista, comunicado, redes), hay riesgos y beneficios. La inteligencia dice que **hay first-mover advantage** (ningún medio cubrió O3 negativamente).
+
+### Lo que necesito saber
+
+- [ ] **¿Querés que se haga público?** (sí/no/no sé)
+- [ ] **¿Tenés algún periodista de confianza?** (nombre, contacto)
+- [ ] **¿Querés que Carlos organice una rueda de prensa?**
+- [ ] **¿Aceptás una entrevista anónima?**
+- [ ] **¿Querés que se publique tu nombre o prefieres el caso anónimo?**
+- [ ] **¿Querés aparecer vos o solo otras víctimas?**
+- [ ] **¿Tenés redes sociales activas?** (Twitter, Instagram, LinkedIn, TikTok)
+- [ ] **¿Querés que alguien maneje tus redes durante el caso?**
+- [ ] **¿Tu familia está enterada? ¿Te apoya?**
+
+### Lo que Carlos puede hacer
+
+- **Aconsejarte sobre los riesgos** (chantaje, victimización secundaria)
+- **Coordinar con prensa** si vos decidís hacerlo público
+- **Conectarte con víctimas potenciales** si querés acción colectiva
+- **Apoyarte en comunicación** (preparar tu declaración pública)
+
+---
+
+## Pregunta 46 — Tu familia, apoyo emocional y red de contención
+
+**🔴 BLOQUEANTE — Para que Carlos sepa si podés sostener un proceso largo.**
+
+### Contexto
+
+Un juicio laboral dura **1-3 años** + apelación + casación = hasta **5 años**. Necesitás red de apoyo.
+
+### Lo que necesito saber
+
+**Sobre tu red inmediata:**
+
+- [ ] **¿Con quién vivís?**
+- [ ] **¿Tenés hijos? ¿De qué edades?**
+- [ ] **¿Tenés pareja / esposo/a?**
+- [ ] **¿Algún familiar está enfermo o necesita tu cuidado?**
+- [ ] **¿Tenés mascotas que dependan de vos?**
+
+**Sobre apoyo emocional:**
+
+- [ ] **¿Tenés sicólogo/a actualmente?**
+- [ ] **¿Tenés amigo/a o familiar de confianza?**
+- [ ] **¿Tenés grupo de apoyo (religioso, etc.)?**
+- [ ] **¿Tenés hobbies o actividades que te distraen?**
+
+**Sobre logística:**
+
+- [ ] **¿Podés ausentarte del trabajo para audiencias?**
+- [ ] **¿Podés viajar si hay audiencias en otra ciudad?**
+- [ ] **¿Tenés quién cuide a tus hijos / familia si tenés que ir a audiencias?**
+
+### Por qué importa
+
+- Si no tenés red de apoyo → **Carlos debe considerar proceso más corto** (conciliación agresiva)
+- Si tenés buena red → **podés sostener un juicio largo**
+- **Emocionalmente**: el proceso es duro, no podés sola
+
+---
+
+## Pregunta 47 — Tu salud detallada y deterioro acreditable
+
+**🟡 IMPORTANTE — Para daño moral alto (₲30-80M posible).**
+
+### Contexto
+
+El daño moral se calcula según el deterioro acreditable. Ya tenemos:
+- Sicólogo (informe existe)
+- Internación (cuándo, dónde)
+- Medicación (cuál)
+- Quiste renal, plaquetas altas, dislipidemia
+
+### Lo que necesito saber
+
+**Sobre la salud actual:**
+
+- [ ] **¿Cuál es tu peso actual vs. el de hace 1 año?**
+- [ ] **¿Tenés problemas de sueño?** (cuántas horas dormís por noche)
+- [ ] **¿Tenés taquicardia, dolor de pecho, problemas respiratorios?**
+- [ ] **¿Tenés problemas digestivos?**
+- [ ] **¿Tenés caída de cabello?**
+- [ ] **¿Tenés problemas dermatológicos?**
+- [ ] **¿Tenés problemas ginecológicos?** (irregularidades, etc.)
+- [ ] **¿Tenés tratamiento psicológico actualmente?** (frecuencia)
+
+**Sobre la salud laboral específica:**
+
+- [ ] **¿Tuviste accidentes laborales en O3?** (pinchazos, caídas, etc.)
+- [ ] **¿Tuviste ergonómicos?** (dolor de espalda, cuello, muñecas)
+- [ ] **¿Usabas EPP?** (guantes, mascarilla, gafas)
+- [ ] **¿Tenías vacunas Hepatitis B?**
+
+**Sobre el empeoramiento por el caso:**
+
+- [ ] **¿Tu salud mejoró, empeoró o se mantuvo desde julio?**
+- [ ] **¿Necesitaste atención médica de urgencia?**
+- [ ] **¿Tuviste ideas suicidas?**
+- [ ] **¿Tomaste psicofármacos nuevos?**
+
+### Por qué importa
+
+- Daño moral **escala con el deterioro** acreditable
+- Si el deterioro es **específico y documentado**, el juez otorga más
+- Si el deterioro es **general** ("estoy estresada"), el juez otorga menos
+
+---
+
+## Pregunta 48 — Tu perfil fiscal exacto para la querella penal
+
+**🔴 BLOQUEANTE — Si querés querella penal, hay que evaluar tu propio riesgo fiscal.**
+
+### Contexto
+
+Quererellando a Roque por evasión de IPS puede exponerte a vos también. Es importante saber si:
+- Vos también evadiste (facturando como independiente)
+- O si sos víctima completa (te indujeron al modelo PS)
+
+### Lo que necesito saber
+
+**Sobre tu RUC y facturación:**
+
+- [ ] **¿Cuándo abriste tu RUC?** (fecha)
+- [ ] **¿A nombre tuyo o de alguien más?**
+- [ ] **¿Tu RUC está activo o lo cerraste?**
+- [ ] **¿Qué actividad declaraste?** (odontología, consultoría, etc.)
+- [ ] **¿Facturabas mensualmente a O3 o por acto?**
+- [ ] **¿Cuánto facturabas al mes?** (rango)
+- [ ] **¿Cuánto facturabas al año?** (rango)
+
+**Sobre impuestos:**
+
+- [ ] **¿Declarabas IRP anualmente?**
+- [ ] **¿Cuánto declarabas?**
+- [ ] **¿Tenías contador?**
+- [ ] **¿Pagabas IVA?** (rango)
+
+**Sobre IPS:**
+
+- [ ] **¿Alguna vez te inscribiste en IPS como independiente?**
+- [ ] **¿Tenías IPS ahora (post-O3)?**
+- [ ] **¿Cuánto aportaste?**
+- [ ] **¿Tenés obra social privada?**
+
+**Sobre riesgo penal propio:**
+
+- [ ] **¿Te hicieron firmar facturas con conceptos falsos?** (ej: "consultoría" en vez de "atenatación odontológica")
+- [ ] **¿Conocías el fraude previsional de O3 cuando estabas dentro?**
+- [ ] **¿Reportaste algo a la SET o al IPS en algún momento?**
+- [ ] **¿Alguien en O3 te dijo "no te preocupes por el IPS, nosotros nos arreglamos"?**
+
+### Por qué Carlos NECESITA esta info
+
+- **Antes de querellar penalmente**, Carlos tiene que verificar que vos no estés expuesta
+- Si hay riesgo → **regularización previa** antes de querella (pago retroactivo)
+- Si no hay riesgo → Carlos puede ir con todo
+
+---
+
+## Pregunta 49 — Testigos institucionales y del Círculo de Odontólogos
+
+**🟡 IMPORTANTE — Más allá de colegas directos, hay testigos institucionales.**
+
+### Contexto
+
+El Círculo de Odontólogos del Paraguay es la entidad reguladora. Roque, Mario, Gabi y muchos otros son matriculados ahí. El Círculo puede:
+- Verificar matrículas (Roque, Mario, Aida Amarilla)
+- Testificar sobre la reputación del denunciado
+- Certificar la condición de "odontólogo titulado"
+
+### Lo que necesito saber
+
+**Sobre el Círculo:**
+
+- [ ] **¿Gabi está al día con la matrícula?**
+- [ ] **¿Conoces a algún directivo del Círculo?**
+- [ ] **¿Sabes si Roque tiene denuncias éticas en el Círculo?**
+- [ ] **¿Hay algún procedimiento disciplinario contra Roque?**
+
+**Sobre la Superintendencia de Salud:**
+
+- [ ] **¿La clínica está habilitada por la Superintendencia de Salud?**
+- [ ] **¿Tiene habilitación municipal vigente?**
+- [ ] **¿Cumple normas de bioseguridad?**
+
+**Sobre el Ministerio del Trabajo:**
+
+- [ ] **¿Tuviste alguna inspección previa en O3?**
+- [ ] **¿Conoces al inspector del MTESS de la zona?**
+- [ ] **¿Hay quejas previas contra O3 en el MTESS?**
+
+**Sobre la DNCP (licitaciones):**
+
+- [ ] **¿Conoces a algún funcionario de DNCP?**
+- [ ] **¿O3 tuvo sanciones por incumplimiento de contratos públicos?**
+
+### Por qué importa
+
+- El Círculo puede **certificar que Gabi es odontóloga titulada**
+- MTESS puede haber **inspeccionado O3** (registros previos)
+- DNCP puede **inhabilitar a Roque** si hay condena
+
+---
+
+## Pregunta 50 — Tu perfil para pericia médica forense
+
+**🟡 IMPORTANTE — Si vamos a juicio, hay que prepararse para pericia.**
+
+### Contexto
+
+En el juicio, el juez puede ordenar **pericia médica** (un médico designado por el juzgado examina a Gabi). El perito médico hace un informe vinculante.
+
+### Lo que necesito saber
+
+**Sobre tu salud para la pericia:**
+
+- [ ] **¿Tenés todos los estudios médicos archivados?** (análisis, radiografías, etc.)
+- [ ] **¿Podés mostrar una curva de peso/tensión/estado de ánimo antes y después del caso?**
+- [ ] **¿Tenés informes de la internación (si hubo)?**
+- [ ] **¿Tu sicólogo está dispuesto a declarar en el juicio?**
+
+**Sobre el daño moral futuro:**
+
+- [ ] **¿Considerás que vas a necesitar sicólogo de por vida?**
+- [ ] **¿Hay secuela permanente del daño?**
+- [ ] **¿Tu salud podría empeorar si seguís en O3?**
+
+### Por qué importa
+
+- Si la pericia es favorable (gran daño acreditado), el juez otorga más
+- Si la pericia es desfavorable, hay que tener **pruebas documentales** que la compensen
+
+---
+
+## Pregunta 51 — Cobertura de riesgos: seguro, abogado suplente, etc.
+
+**🟢 REFINAMIENTO — Para protegerte en escenarios extremos.**
+
+### Contexto
+
+El proceso puede tener imprevistos:
+- Carlos se incapacita
+- Roque te demanda por difamación
+- La contraparte usa sicólogos o periodismo agresivo
+
+### Lo que necesito saber
+
+**Sobre seguros:**
+
+- [ ] **¿Tenés seguro de gastos legales?**
+- [ ] **¿Tenés seguro médico privado?**
+- [ ] **¿Tenés seguro de vida o invalidez?**
+
+**Sobre abogado suplente:**
+
+- [ ] **¿Conoces a otro abogado laboralista además de Carlos?**
+- [ ] **¿El Colegio de Abogados tiene servicio de sustituto?**
+
+**Sobre escenarios de crisis:**
+
+- [ ] **Si Roque te demanda por difamación, ¿podrías defenderte?**
+- [ ] **¿Tenés acceso a sicólogo de urgencia?**
+- [ ] **¿Tenés a quién llamar en caso de amenaza directa?**
+
+### Por qué importa
+
+- **Plan de contingencia** si Carlos no puede continuar
+- **Cobertura legal** ante eventual contrademanda
+- **Red de seguridad emocional** en crisis
+
+---
+
+## Pregunta 52 — Otras víctimas y acción colectiva
+
+**🟢 REFINAMIENTO — Si querés sumarte a otros exempleados.**
+
+### Contexto
+
+Ya hay 22+ profesionales identificados en la web de O3. Si sumamos 3-5 exempleados con el mismo patrón, podemos pedir acción colectiva.
+
+### Lo que necesito saber
+
+- [ ] **¿Gabi quiere sumarse a otros exempleados?** (sí/no)
+- [ ] **¿Gabi conoce personalmente a alguien en la misma situación?**
+- [ ] **¿Gabi hablaría con otros exempleados si Carlos los contacta?**
+- [ ] **¿Gabi prefiere ir sola vs. acción colectiva?**
+
+### Lo que Carlos puede hacer
+
+- **Contactar exempleados** con el consentimiento de Gabi
+- **Plantilla de carta invitación** (ya existe en 13-templates/53)
+- **Evaluar si la acción colectiva suma o resta fuerza al caso**
+
+---
+
+## Pregunta 53 — Tu disponibilidad real de tiempo y energía
+
+**🟢 REFINAMIENTO — Para coordinar las audiencias y los plazos.**
+
+### Contexto
+
+Carlos necesita saber cuándo podés asistir a audiencias, oficios, reuniones.
+
+### Lo que necesito saber
+
+- [ ] **¿Cuántas horas por semana podés dedicarle al caso?**
+- [ ] **¿Tenés trabajo actual?** (sí/no, dónde)
+- [ ] **¿Podés tomarte licencias del trabajo por audiencias?**
+- [ ] **¿Tenés computadora con acceso a internet?**
+- [ ] **¿Tenés impresora?**
+- [ ] **¿Podés hacer videollamadas con Carlos?**
+- [ ] **¿Cuál es tu mejor horario para reuniones?**
+
+### Por qué importa
+
+- **Coordinación eficiente** — no perder tu tiempo
+- **Planificación realista** — si tenés poco tiempo, menos preguntas pendientes
+
+
+---
+
 # 📋 Resumen ejecutivo: qué necesito de vos
 
 ## 🔴 Esta semana (antes del viernes 26/09/2026)
@@ -1361,12 +1990,23 @@ Para cada uno:
 | 17 | Tu reputación | Estrategia pública/privada |
 | 18 | Escenarios de salida | Decisiones bajo incertidumbre |
 
-### 🟢 Refinamiento (Q19-30, cuando puedas)
+### 🟢 Refinamiento (Q19-38, cuando puedas) + Estrategia procesal (Q39-53)
 
-Las preguntas 19 a 30 cubren parentesco + estructura familiar + sucesión. Son importantes pero no urgentes. Contestá cuando puedas:
+**Refinamiento básico (Q19-38):**
+Las preguntas 19 a 38 cubren parentesco + estructura familiar + sucesión + chats de WhatsApp. Son importantes pero no urgentes. Contestá cuando puedas:
 
 - **Q19-26** vienen del cuestionario 57 original + actualización parentesco confirmado
-- **Q27-30** son nuevas preguntas específicas sobre la estructura familiar/nepotismo
+- **Q27-30** estructura societaria y sucesoria
+- **Q31-38** nuevos testigos (Pati, Chone, Gloria) + contexto WhatsApp
+
+**Estrategia procesal (Q39-53):**
+Las preguntas 39 a 53 cubren decisiones estratégicas clave. **Algunas son BLOQUEANTES** (39, 40, 41, 43, 46, 48). Contestá las bloqueantes primero, las demás después.
+
+- **Q39-41** Decisiones estratégicas grandes: estabilidad absoluta (reposición vs indemnización), querella penal, embargo
+- **Q42-44** Preparación procesal: confesional, plazos, escenarios de acuerdo
+- **Q45-47** Tu decisión personal: prensa, red de apoyo, salud detallada
+- **Q48-50** Querella penal y pericia médica
+- **Q51-53** Cobertura y disponibilidad
 
 | # | Pregunta | Tema |
 |---|---|---|
@@ -1414,7 +2054,14 @@ Todo lo que escribas está protegido por:
 
 Gabi: este caso es **más fuerte** que cuando empezaste el cuestionario 55. Tenemos ₲147B adjudicados que muestran el patrón masivo. Tenemos 22+ profesionales públicamente identificables. Tenemos prensa virgen (first-mover advantage). Tenemos inteligencia sobre el fraude previsional masivo.
 
-Las 30 preguntas de este cuestionario unificado (59) **maximizan la presión sobre Roque** y **minimizan el riesgo para vos**. Las primeras 10 son urgentes; las 11-18 son importantes; las 19-30 son de refinamiento (parentesco + estructura familiar).
+Las **53 preguntas** de este cuestionario unificado (59) **maximizan la presión sobre Roque** y **minimizan el riesgo para vos**:
+
+- **🔴 1-18** (18 preguntas) — Hechos, evidencia, estrategia
+- **🔴 19-30** (12 preguntas) — Parentesco, estructura familiar (muchas son BLOQUEANTES por la info confirmada Mario=hijo)
+- **🔴 31-38** (8 preguntas) — Testigos WhatsApp y contexto del cese
+- **🔴 39-53** (15 preguntas) — Decisiones estratégicas grandes: estabilidad absoluta, querella penal, embargo, plazos, acuerdo, prensa, red de apoyo, salud, fiscal, Círculo, pericia, riesgos, acción colectiva, tiempo
+
+**Total: 18 + 12 + 8 + 15 = 53 preguntas, ~500 checkboxes**
 
 Si algo no te cierra, si tenés miedo de alguna pregunta, si necesitás hablar con Carlos antes de contestar — **no dudes en pedirlo**. Estamos en esto juntas.
 
@@ -1427,4 +2074,4 @@ Un saludo,
 
 *Documento de profundización. Tus respuestas se agregan al caso y alimentan la estrategia de Carlos.*
 
-*Versión: 1.1 — 13/09/2026 (consolidado 57 + 58 + parentesco confirmado)*
+*Versión: 1.2 — 13/09/2026 (consolidado 57 + 58 + parentesco + chats WhatsApp + 15 preguntas estratégicas)*

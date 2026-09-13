@@ -321,7 +321,7 @@ a6ca92c4413cb6f415128a93d0cad940c02197a112ca54784d0c89237ec3c45c      6794  13-t
 3b46b4ea36c7593f690f41dc5da8e2cde2ebe8b29884d396eb7fc1e64cd410e9      7444  13-templates-procesales/54-oficios-identificacion-testigos.md
 087ec7c8cd7ff96b504f0b0f5870b14da105d42b71d73d15fac2eec46fe43e47      3840  13-templates-procesales/README.md
 141af9c769762d16747e367c83cf4886cdd7cc88a4e6f6e385fb163046a623b3     23682  14-guia-para-gabi/55-cuestionario-RESPONDIDO.md
-40caf22913bb05fcebdbe6a533b6003b4e40963e6944cc3b9fdcd3e18e97cc05     69567  14-guia-para-gabi/59-cuestionario-activo.md
+e1553adf043e8706273babd933f23d2930ac230791b0a0997cf9d49289c7e0cc     94071  14-guia-para-gabi/59-cuestionario-activo.md
 f71a67e1b2caa63c5e772c71ca8dc7767209ab7b1d6d32113c87565ad828558d     12479  14-guia-para-gabi/71-guia-operativa.md
 316dbf644345474dacb05a80471eab46b87be22998b0cb8d86ec789f76327fb9      1900  14-guia-para-gabi/README.md
 402fb73aa8698a9e96c305baebde7d98367c3a3126e5bb83e25c98bdba3005da      8820  ESTRUCTURA.md
