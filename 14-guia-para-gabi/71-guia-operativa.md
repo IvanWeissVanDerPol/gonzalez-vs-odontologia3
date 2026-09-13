@@ -1,6 +1,6 @@
-# 71 · Checklist Diario y Semanal para Gabi
+# 71 · Guía Operativa + Checklist Diario para Gabi (consolidado)
 
-> *Tu guía de tareas diarias, semanales y mensuales. Para no perder ningún detalle importante.*
+> *Este documento consolida la antigua guía rápida (`60-guia-rapida-para-gabi.md`) con el checklist diario/semanal/mensual (`71-checklist-diario-gabi.md`). Es la única referencia operativa que Gabi necesita para su día a día del caso.*
 
 ---
 
@@ -271,3 +271,179 @@
 *Documento operativo para Gabi. Imprimir y tener a mano.*
 
 # Fin del checklist
+
+
+---
+
+# Apéndice: Guía Rápida y Plan de 1 Semana
+
+> *Las siguientes secciones vienen del antiguo `60-guia-rapida-para-gabi.md`. Complementan el checklist diario con orientación general sobre qué hacer, qué no hacer, y cómo manejar situaciones específicas.*
+
+---
+
+## Las 5 cosas que tenés que hacer esta semana
+
+### 1. Firmar el poder para Carlos (URGENTE)
+
+**Qué:** el documento que autoriza a Carlos a actuar en tu nombre.
+
+**Cómo:**
+1. Imprimir el modelo en `13-templates-procesales/35-poder-para-juicios.md`.
+2. Llenar tus datos (C.I., domicilio, etc.).
+3. Firmar con dos testigos.
+4. Entregar a Carlos.
+5. Guardar una copia.
+
+**Plazo:** esta semana, sin falta.
+
+---
+
+### 2. Hacer backup de toda la evidencia (URGENTE)
+
+**Qué:** copia de seguridad de todos los archivos del caso.
+
+**Cómo:**
+1. Crear una carpeta en Google Drive o Dropbox llamada "caso-odontologia3".
+2. Copiar todos los archivos: audios, cartas, fotos, mensajes, etc.
+3. Activar cifrado (si tu cuenta Drive lo permite).
+4. Hacer una segunda copia en un disco duro externo.
+
+**Plazo:** esta semana.
+
+---
+
+### 3. Preservar tu celular (URGENTE)
+
+**Qué:** no romper la cadena de custodia.
+
+**Cómo:**
+1. NO resetear el celular.
+2. NO actualizar apps (especialmente WhatsApp).
+3. Guardar el celular en un lugar seguro (caja fuerte, armario con llave).
+4. Si tenés que usar otro celular: usar una app de respaldo de WhatsApp pero NO borrar.
+
+**Plazo:** inmediato, ya.
+
+---
+
+### 4. Completar el cuestionario (URGENTE)
+
+**Qué:** responder el documento `55-cuestionario-gabi-LLENO.md` con tus datos.
+
+**Cómo:**
+1. Abrir el documento.
+2. Marcar con [X] la opción correcta en cada pregunta.
+3. No inventar: si no recordás, poné "no sé".
+4. Enviar a Carlos al terminar.
+
+**Plazo:** esta semana (mínimo la Parte 1-5).
+
+---
+
+### 5. Cambiar contraseñas + 2FA (URGENTE)
+
+**Qué:** asegurar tus cuentas digitales.
+
+**Cómo:**
+1. Cambiar la contraseña del email principal.
+2. Cambiar la contraseña de WhatsApp.
+3. Cambiar la contraseña del banco.
+4. Activar 2FA en todo (códigos por SMS o app autenticadora).
+5. Usar un gestor de contraseñas (Bitwarden es gratis).
+
+**Plazo:** esta semana.
+
+---
+
+
+---
+
+## Cómo hablar con tu abogado
+
+### Reglas de oro
+
+1. **Toda comunicación legal pasa por Carlos.** No hables directo con Roque o su personal.
+2. **Documentá todo.** Si tenés una conversación importante con Carlos, anotá los puntos clave.
+3. **Sos responsable de la prueba.** Carlos te ayuda a procesarla, pero vos sos la fuente.
+4. **Preguntá lo que no entiendas.** No firmes nada sin entender.
+5. **Sos paciente pero firme.** Los casos laborales tardan.
+
+### Cuándo llamar a Carlos
+
+- **Urgente (llamar inmediato):** amenazas, filtración, robo, emergencia.
+- **Importante (en 24 hs):** nueva evidencia, contacto de Roque, oferta de acuerdo.
+- **Rutinario (próxima reunión):** preguntas, dudas, avances.
+
+### Cuándo NO llamar a Carlos
+
+- Para contar chismes del Círculo.
+- Para decisiones de tu vida personal.
+- Para consultas médicas o psicológicas.
+- Para emergencias (911).
+
+---
+
+
+---
+
+## Cómo protegerte emocionalmente
+
+### Lo que necesitás
+
+1. **Un psicólogo.** Buscar uno con experiencia en litigios o trauma. Una sesión por semana mínimo.
+2. **Una red de apoyo.** Familia, amigos, pareja. Hablá con ellos del caso cuando lo necesites.
+3. **Actividad física.** Caminar, nadar, yoga. Tres veces por semana mínimo.
+4. **Un proyecto.** El consultorio propio es tu proyecto. Avanzá con él cada semana.
+5. **Descanso.** Dormí 7-8 horas. El juicio no se gana en una noche.
+
+### Lo que tenés que evitar
+
+1. **Aislarte.** Aunque te den ganas, no te quedes sola con el caso.
+2. **Hablar del caso con Roque o su personal.** Ni siquiera para "arreglar las cosas en buenos términos".
+3. **Publicar el caso en redes sociales.** Ni siquiera "anónimo".
+4. **Hablar con periodistas** sin aprobación de Carlos.
+5. **Tomar decisiones legales importantes** en un mal día emocional. Esperá 24 horas.
+
+---
+
+
+---
+
+## Las 10 cosas que NO tenés que hacer
+
+1. ❌ No publiques el caso en redes sociales.
+2. ❌ No hables con periodistas sin autorización de Carlos.
+3. � No firmes nada sin leer y entender.
+4. ❌ No aceptes ofertas de Roque sin consultar a Carlos.
+5. ❌ No hables con la Coordinadora o el "licenciado" sin autorización.
+6. ❌ No borres audios, mensajes o fotos.
+7. ❌ No resetees tu celular.
+8. ❌ No gastes grandes sumas antes de tener la indemnización.
+9. ❌ No te aísles socialmente.
+10. ❌ No tomes decisiones legales importantes en mal día emocional.
+
+---
+
+
+---
+
+## Resumen: tu plan de 1 semana
+
+| Día | Acción | Tiempo |
+|---|---|---|
+| **Día 1** | Backup cifrado de archivos | 1 hora |
+| **Día 1** | Preservar celular (caja fuerte) | 5 min |
+| **Día 2** | Cambiar contraseñas + 2FA | 1 hora |
+| **Día 3** | Reunión con Carlos + firmar poder | 1 hora |
+| **Día 4** | Empezar cuestionario (Parte 1-5) | 2 horas |
+| **Día 5** | Continuar cuestionario (Parte 6-9) | 2 horas |
+| **Día 6** | Terminar cuestionario (Parte 10-14) | 2 horas |
+| **Día 7** | Descanso | — |
+
+**Total: ~10 horas en una semana. Es manejable.**
+
+---
+
+
+---
+

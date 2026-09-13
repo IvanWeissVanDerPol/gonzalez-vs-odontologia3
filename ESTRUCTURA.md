@@ -2,9 +2,9 @@
 
 > *Mapa completo de carpetas y archivos. Para una navegación rápida por audiencia, ver `README.md`.*
 
----
+> **Última actualización:** sept 2026 (cleanup + consolidación ejecutado)
 
-## Vista por carpeta
+## Vista por carpeta (15 carpetas)
 
 ```
 gonzalez-vs-odontologia3/
@@ -12,298 +12,164 @@ gonzalez-vs-odontologia3/
 ├── README.md                          ← entrada principal del repo
 ├── ESTRUCTURA.md                      ← este archivo (índice completo)
 │
-├── 01-entrada/                        ← qué leer primero
-│   ├── README.md
-│   ├── 01-entrada/00-resumen-ejecutivo.md        (resumen 1 página)
-│   └── 01-entrada/22-indice.md                   (índice general + glosario)
+├── 01-entrada/                    ← qué leer primero (3 archivos, 27.7 KB)
+│   ├── 00-resumen-ejecutivo.md (5.7 KB)
+│   ├── 22-indice.md (12.8 KB)
+│   ├── 79-resumen-integral.md (9.2 KB)
+├── 02-hechos/                     ← qué pasó + prueba + datos pendientes (4 archivos, 70.0 KB)
+│   ├── 01-hechos-y-cronologia.md (21.2 KB)
+│   ├── 04-pruebas.md (13.0 KB)
+│   ├── 12-mapa-evidencia.md (12.9 KB)
+│   ├── 63-datos-reales-pendientes.md (22.9 KB)
+├── 03-legal/                      ← argumentación jurídica (9 archivos, 88.9 KB)
+│   ├── 02-tesis-juridica.md (13.9 KB)
+│   ├── 13-jurisprudencia.md (11.5 KB)
+│   ├── 16-borrador-demanda.md (14.6 KB)
+│   ├── 21-brief-legal.md (7.9 KB)
+│   ├── 22-contrato-chatgpt-analisis.md (8.2 KB)
+│   ├── 23-dano-moral-y-salud.md (7.0 KB)
+│   ├── 74-analisis-jurisprudencia-comparada.md (3.7 KB)
+│   ├── 75-doctrina-laboral-paraguaya.md (11.8 KB)
+│   ├── 78-analisis-prueba.md (10.3 KB)
+├── 04-estrategia/                 ← estrategia + playbooks + crisis (15 archivos, 226.5 KB)
+│   ├── 05-estrategia-procesal.md (17.1 KB)
+│   ├── 06-prescripcion-y-plazos.md (9.0 KB)
+│   ├── 09-riesgos-y-contratargumentos.md (7.8 KB)
+│   ├── 10-checklist-de-acuerdo.md (5.3 KB)
+│   ├── 30-analisis-adversarial.md (9.9 KB)
+│   ├── 58-plan-de-accion.md (20.1 KB)
+│   ├── 73-escenarios-crisis.md (19.6 KB)
+│   ├── 76-estrategia-conciliacion-profundizada.md (6.1 KB)
+│   ├── 77-analisis-plazos-procesales.md (6.2 KB)
+│   ├── 81-master-negotiation-playbook.md (38.6 KB)
+│   ├── 82-tactical-prep-checklist.md (12.3 KB)
+│   ├── 83-advanced-max-extraction-playbook.md (35.7 KB)
+│   ├── 84-definitive-negotiation-playbook.md (23.7 KB)
+│   ├── 90-carta-personal-gabi-a-roque.md (7.3 KB)
+│   ├── 91-brief-ejecutivo-carlos.md (7.9 KB)
+├── 05-cuantificacion/             ← cuánto se pide + impacto (5 archivos, 40.4 KB)
+│   ├── 03-cuantificacion.md (15.1 KB)
+│   ├── 18-modelo-financiero.md (7.2 KB)
+│   ├── 19-analisis-asismed.md (5.0 KB)
+│   ├── 68-presupuesto-total-caso.md (6.4 KB)
+│   ├── 70-impacto-post-sentencia.md (6.7 KB)
+├── 06-personas/                   ← quién es quién (7 archivos, 48.6 KB)
+│   ├── 11-comunicaciones-y-negociacion.md (14.3 KB)
+│   ├── 14-perfiles-psicologicos.md (14.1 KB)
+│   ├── 31-analisis-red-social.md (7.7 KB)
+│   ├── Dr-Roque-Ramirez-Nizza.md (3.9 KB)
+│   ├── Lic-Veronica-Amarilla.md (3.3 KB)
+│   ├── Lic-Viviana-Colman.md (3.0 KB)
+│   ├── Sr-Luis-Arevalo.md (2.4 KB)
+├── 07-comunicacion/               ← cómo se comunica (2 archivos, 16.6 KB)
+│   ├── 17-plan-medios.md (8.0 KB)
+│   ├── 19-plan-comunicaciones.md (8.6 KB)
+├── 08-analisis-especializado/     ← análisis verticales (10 archivos, 91.8 KB)
+│   ├── 15-solvencia.md (10.2 KB)
+│   ├── 23-analisis-tecnico-odontologico.md (14.5 KB)
+│   ├── 24-analisis-penal.md (9.8 KB)
+│   ├── 25-analisis-previsional.md (10.1 KB)
+│   ├── 26-analisis-tributario.md (8.0 KB)
+│   ├── 27-analisis-administrativo.md (10.8 KB)
+│   ├── 29-analisis-comparado.md (7.8 KB)
+│   ├── 32-analisis-proyecto.md (6.6 KB)
+│   ├── 33-accion-colectiva.md (7.7 KB)
+│   ├── 34-inconsistencia-representacion.md (6.2 KB)
+├── 09-areas-investigacion/        ← investigación profunda + intelligence (8 archivos, 164.4 KB)
+│   ├── 07-seguridad-social-y-tributos.md (9.2 KB)
+│   ├── 08-200-areas-de-investigacion.md (15.1 KB)
+│   ├── 34-bibliografia-glosario.md (15.7 KB)
+│   ├── 35-cruce-dncp-odontologia3.md (8.7 KB)
+│   ├── 36-intelligence-report.md (30.5 KB)
+│   ├── 37-research-compendium.md (23.5 KB)
+│   ├── 56-analisis-40-roles.md (51.4 KB)
+│   ├── 57-checklist-de-mejoras.md (10.5 KB)
+├── 10-riesgos-personales/         ← riesgos y seguridad (2 archivos, 15.1 KB)
+│   ├── 28-analisis-riesgos-gabi.md (8.1 KB)
+│   ├── 33-seguridad-personal.md (7.0 KB)
+├── 11-arquitectura-caso/          ← infraestructura operativa (1 archivos, 11.3 KB)
+│   ├── 20-plan-upgrade.md (11.3 KB)
+├── 12-evidencia/                  ← evidencia original INMUTABLE (1 archivos, 16.5 KB)
+│   ├── dncp-adjudicaciones-odontologia3.md (16.5 KB)
+├── 13-templates-procesales/       ← formularios para Carlos (20 archivos, 172.3 KB)
+│   ├── 35-poder-para-juicios.md (3.2 KB)
+│   ├── 36-escrito-conciliacion.md (14.0 KB)
+│   ├── 37-oficios.md (8.3 KB)
+│   ├── 38-cartas-documento.md (10.3 KB)
+│   ├── 39-interrogatorios.md (14.0 KB)
+│   ├── 40-embargo-preventivo.md (13.5 KB)
+│   ├── 41-escrito-de-prueba.md (9.3 KB)
+│   ├── 42-escrito-de-alegatos.md (9.6 KB)
+│   ├── 43-recurso-de-apelacion.md (7.0 KB)
+│   ├── 44-recurso-de-casacion.md (5.7 KB)
+│   ├── 45-querella-penal.md (6.7 KB)
+│   ├── 46-investigacion-registro-publico.md (10.9 KB)
+│   ├── 47-osint-de-roque.md (8.3 KB)
+│   ├── 48-guia-declaracion-audiencia.md (6.9 KB)
+│   ├── 49-mapa-peritos-asuncion.md (6.6 KB)
+│   ├── 50-analisis-circulo-odontologos.md (6.5 KB)
+│   ├── 51-investigacion-colegas.md (6.7 KB)
+│   ├── 52-busqueda-jurisprudencia-csj.md (11.4 KB)
+│   ├── 53-carta-invitacion-colegas.md (6.3 KB)
+│   ├── 54-oficios-identificacion-testigos.md (7.3 KB)
+├── 14-guia-para-gabi/             ← SOLO para Gabi (3 archivos, 94.2 KB)
+│   ├── 55-cuestionario-RESPONDIDO.md (23.1 KB)
+│   ├── 59-cuestionario-activo.md (58.9 KB)
+│   ├── 71-guia-operativa.md (12.2 KB)
 │
-├── 02-hechos/                         ← qué pasó + prueba
-│   ├── README.md
-│   ├── 02-hechos/01-hechos-y-cronologia.md
-│   ├── 02-hechos/04-pruebas.md
-│   └── 02-hechos/12-mapa-evidencia.md
-│
-├── 03-legal/                          ← argumentación jurídica
-│   ├── README.md
-│   ├── 03-legal/02-tesis-juridica.md
-│   ├── 03-legal/13-jurisprudencia.md
-│   ├── 03-legal/16-borrador-demanda.md
-│   └── 03-legal/21-brief-legal.md
-│
-│   ├── 03-legal/22-contrato-chatgpt-analisis.md              (NUEVO v2)
-│   └── 03-legal/23-dano-moral-y-salud.md                     (NUEVO v2)
-├── 04-estrategia/                     ← estrategia procesal
-│   ├── README.md
-│   ├── 04-estrategia/05-estrategia-procesal.md
-│   ├── 04-estrategia/06-prescripcion-y-plazos.md
-│   ├── 04-estrategia/09-riesgos-y-contratargumentos.md
-│   ├── 04-estrategia/10-checklist-de-acuerdo.md
-│   └── 04-estrategia/30-analisis-adversarial.md
-│
-├── 05-cuantificacion/                 ← cuánto se pide
-│   ├── README.md
-│   ├── 05-cuantificacion/03-cuantificacion.md
-│   └── 05-cuantificacion/18-modelo-financiero.md
-│
-│   └── 05-cuantificacion/19-analisis-asismed.md             (NUEVO v2)
-├── 06-personas/                       ← quién es quién
-│   ├── README.md
-│   ├── 06-personas/11-comunicaciones-y-negociacion.md
-│   ├── 06-personas/14-perfiles-psicologicos.md
-│   └── 06-personas/31-analisis-red-social.md
-│
-│   ├── 06-personas/Lic-Viviana-Colman.md                      (NUEVO v2)
-│   ├── 06-personas/Lic-Veronica-Amarilla.md                   (NUEVO v2)
-│   ├── 06-personas/Sr-Luis-Arevalo.md                         (NUEVO v2)
-│   └── 06-personas/Dr-Roque-Ramirez-Nizza.md                  (NUEVO v2)
-├── 07-comunicacion/                   ← cómo se comunica
-│   ├── README.md
-│   ├── 07-comunicacion/17-plan-medios.md
-│   └── 07-comunicacion/19-plan-comunicaciones.md
-│
-├── 08-analisis-especializado/         ← análisis verticales
-│   ├── README.md
-│   ├── 08-analisis-especializado/15-solvencia.md
-│   ├── 08-analisis-especializado/23-analisis-tecnico-odontologico.md
-│   ├── 08-analisis-especializado/24-analisis-penal.md
-│   ├── 08-analisis-especializado/25-analisis-previsional.md
-│   ├── 08-analisis-especializado/26-analisis-tributario.md
-│   ├── 08-analisis-especializado/27-analisis-administrativo.md
-│   ├── 08-analisis-especializado/29-analisis-comparado.md
-│   └── 08-analisis-especializado/32-analisis-proyecto.md
-│
-│   ├── 08-analisis-especializado/33-accion-colectiva.md          (NUEVO v2)
-│   └── 08-analisis-especializado/34-inconsistencia-representacion.md  (NUEVO v2)
-├── 09-areas-investigacion/            ← qué hay que investigar
-│   ├── README.md
-│   ├── 09-areas-investigacion/07-seguridad-social-y-tributos.md
-│   ├── 09-areas-investigacion/08-200-areas-de-investigacion.md
-│   ├── 09-areas-investigacion/34-bibliografia-glosario.md
-│   └── 09-areas-investigacion/35-cruce-dncp-odontologia3.md      (NUEVO v2)
-│
-├── 10-riesgos-personales/             ← qué puede salir mal para Gabi
-│   ├── README.md
-│   ├── 10-riesgos-personales/28-analisis-riesgos-gabi.md
-│   └── 10-riesgos-personales/33-seguridad-personal.md
-│
-├── 11-arquitectura-caso/              ← infraestructura operativa
-│   ├── README.md
-│   └── 20-plan-upgrade.md
-│
-├── 12-evidencia/                      ← evidencia original (inmutable)
-│   ├── README.md                      ← cadena de custodia
-│   ├── MANIFEST-SHA256.txt            ← hash de los 153 archivos
-│   ├── _chat.txt                      ← chat completo Gabi-Carlos
-│   ├── audios/                        ← 38 audios originales .opus
-│   ├── cartas-escaneadas/             ← 2 cartas (escaneadas)
-│   ├── transcripciones-whisper/       ← 38 transcripciones Whisper
-│   └── transcripciones-corregidas/    ← 38 transcripciones corregidas
-│
-└── 13-templates-procesales/           ← formularios listos para usar
-    ├── README.md                      ← índice de templates
-    ├── 35-poder-para-juicios.md       ← poder para Carlos
-    ├── 36-escrito-conciliacion.md     ← reclamo ante Viceministerio
-    ├── 37-oficios.md                  ← 8 oficios (IPS, SET, etc.)
-    ├── 38-cartas-documento.md         ← 6 cartas documento
-    └── 39-interrogatorios.md          ← preguntas para confesional/testifical
-    ├── 13-templates-procesales/53-carta-invitacion-colegas.md                    (NUEVO v2)
-    └── 13-templates-procesales/54-oficios-identificacion-testigos.md              (NUEVO v2)
-```
+└── Total: 90 archivos en carpetas
 
-**Archivos en la raíz (relevantes al caso):**
-```
-├── 4-preguntas-para-Carlos.md                             (NUEVO v2)
-├── 5-plan-de-trabajo-futuro.md                             (NUEVO v2)
-├── 55-cuestionario-para-gabi-v2.md                         (cuestionario en blanco)
-└── 55-cuestionario-para-gabi-v2-Respuestas.md              (NUEVO v2 — respuestas consolidadas)
-```
+## Auditoría reciente (sept 2026)
 
-```
-Archivos en la raíz:
-├── 55-cuestionario-gabi-LLENO.md      ← cuestionario con opciones para Gabi (4831 líneas)
-├── 56-analisis-40-roles.md            ← 40 profesionales analizando el caso (1211 líneas)
-├── 57-checklist-de-mejoras.md         ← 35 mejoras priorizadas
-├── 58-plan-de-accion.md               ← timeline 12 meses
-├── 59-protocolo-de-emergencia.md      ← 14 escenarios de crisis
-└── 60-guia-rapida-para-gabi.md        ← hoja de ruta personal
-```
+### Limpieza realizada
 
----
+**14 archivos obsoletos removidos** (categorías):
+- 4 archivos de preguntas para Carlos (ya respondidas)
+- 4 archivos de planes/cronogramas (consolidados)
+- 2 archivos de análisis (superseded por intelligence report)
+- 2 archivos de licitaciones (cubierto en intelligence)
+- 2 templates v1 (superseded por v2)
 
-## Conteo
+**5 pares consolidados**:
+- `5-plan-de-trabajo-futuro` + `58-plan-de-accion` + `69-cronograma-realista` → `04-estrategia/58-plan-de-accion.md`
+- `59-protocolo-de-emergencia` + `73-escenarios-negativos` → `04-estrategia/73-escenarios-crisis.md`
+- `60-guia-rapida-para-gabi` + `71-checklist-diario-gabi` → `14-guia-para-gabi/71-guia-operativa.md`
+- `61-gap-analysis` → fusionado en `02-hechos/63-datos-reales-pendientes.md`
+- `36b-escrito-conciliacion-v2` + `36-escrito-conciliacion` → `13-templates-procesales/36-escrito-conciliacion.md`
+- `40b-embargo-preventivo-v2` + `40-embargo-preventivo` → `13-templates-procesales/40-embargo-preventivo.md`
 
-| Carpeta | Archivos |
-|---|---|
-| `01-entrada/` | 2 docs + README |
-| `02-hechos/` | 3 docs + README |
-| `03-legal/` | 4 docs + README |
-| `04-estrategia/` | 5 docs + README |
-| `05-cuantificacion/` | 2 docs + README |
-| `06-personas/` | 3 docs + README |
-| `07-comunicacion/` | 2 docs + README |
-| `08-analisis-especializado/` | 8 docs + README |
-| `09-areas-investigacion/` | 5 docs + README |
-| `10-riesgos-personales/` | 2 docs + README |
-| `11-arquitectura-caso/` | 1 doc + README |
-| `12-evidencia/` | 153 archivos (manifiesto + 38 audios + 2 cartas + 76 transcripciones + chat + README) |
-| `13-templates-procesales/` | 7 docs + README |
-| **TOTAL** | **67 docs + 117 archivos de evidencia + 13 READMEs + 2 manifests** |
+**7 archivos reorganizados a sus carpetas correctas**:
+- `56-analisis-40-roles.md` → `09-areas-investigacion/`
+- `57-checklist-de-mejoras.md` → `09-areas-investigacion/`
+- `58-plan-de-accion.md` → `04-estrategia/`
+- `63-datos-reales-pendientes.md` → `02-hechos/`
+- `68-presupuesto-total-caso.md` → `05-cuantificacion/`
+- `70-impacto-post-sentencia.md` → `05-cuantificacion/`
+- `73-escenarios-crisis.md` → `04-estrategia/`
 
----
+**Nueva carpeta creada**:
+- `14-guia-para-gabi/` con los documentos específicos para Gabi (cuestionarios + guía operativa)
 
-## Numeración de documentos
+### Resultado
 
-Los documentos conservan su numeración original (00–34) para mantener trazabilidad con el chat y los audios. **La numeración NO coincide con la carpeta donde residen** porque la reorganización ocurrió después de la escritura.
-
-| # | Doc | Carpeta |
+| Métrica | Antes | Después |
 |---|---|---|
-| 00 | resumen-ejecutivo | `01-entrada/` |
-| 01 | hechos-y-cronologia | `02-hechos/` |
-| 02 | tesis-juridica | `03-legal/` |
-| 03 | cuantificacion | `05-cuantificacion/` |
-| 04 | pruebas | `02-hechos/` |
-| 05 | estrategia-procesal | `04-estrategia/` |
-| 06 | prescripcion-y-plazos | `04-estrategia/` |
-| 07 | seguridad-social-y-tributos | `09-areas-investigacion/` |
-| 08 | 200-areas-de-investigacion | `09-areas-investigacion/` |
-| 09 | riesgos-y-contratargumentos | `04-estrategia/` |
-| 10 | checklist-de-acuerdo | `04-estrategia/` |
-| 11 | comunicaciones-y-negociacion | `06-personas/` |
-| 12 | mapa-evidencia | `02-hechos/` |
-| 13 | jurisprudencia | `03-legal/` |
-| 14 | perfiles-psicologicos | `06-personas/` |
-| 15 | solvencia | `08-analisis-especializado/` |
-| 16 | borrador-demanda | `03-legal/` |
-| 17 | plan-medios | `07-comunicacion/` |
-| 18 | modelo-financiero | `05-cuantificacion/` |
-| 19 | plan-comunicaciones | `07-comunicacion/` |
-| 19 | analisis-asismed | `05-cuantificacion/` |
-| 20 | plan-upgrade | `11-arquitectura-caso/` |
-| 22 | contrato-chatgpt-analisis | `03-legal/` |
-| 23 | dano-moral-y-salud | `03-legal/` |
-| 33 | accion-colectiva | `08-analisis-especializado/` |
-| 34 | inconsistencia-representacion | `08-analisis-especializado/` |
-| 35 | cruce-dncp-odontologia3 | `09-areas-investigacion/` |
-| 36 | intelligence-report | `09-areas-investigacion/` (NUEVO v3 — datos verificados DNCP) |
-| 74 | jurisprudencia-comparada | `03-legal/` (recuperado scratchpad) |
-| 75 | doctrina-laboral-paraguaya | `03-legal/` (recuperado scratchpad) |
-| 76 | conciliacion-profundizada | `04-estrategia/` (recuperado scratchpad) |
-| 77 | plazos-procesales | `04-estrategia/` (recuperado scratchpad) |
-| 78 | analisis-prueba | `03-legal/` (recuperado scratchpad) |
-| 79 | resumen-integral | `01-entrada/` (recuperado scratchpad) |
-| 21 | brief-legal | `03-legal/` |
-| 22 | indice | `01-entrada/` |
-| 23 | analisis-tecnico-odontologico | `08-analisis-especializado/` |
-| 24 | analisis-penal | `08-analisis-especializado/` |
-| 25 | analisis-previsional | `08-analisis-especializado/` |
-| 26 | analisis-tributario | `08-analisis-especializado/` |
-| 27 | analisis-administrativo | `08-analisis-especializado/` |
-| 28 | analisis-riesgos-gabi | `10-riesgos-personales/` |
-| 29 | analisis-comparado | `08-analisis-especializado/` |
-| 30 | analisis-adversarial | `04-estrategia/` |
-| 31 | analisis-red-social | `06-personas/` |
-| 32 | analisis-proyecto | `08-analisis-especializado/` |
-| 33 | seguridad-personal | `10-riesgos-personales/` |
-| 34 | bibliografia-glosario | `09-areas-investigacion/` |
-| 35 | poder-para-juicios | `13-templates-procesales/` |
-| 36 | escrito-conciliacion | `13-templates-procesales/` |
-| 37 | oficios | `13-templates-procesales/` |
-| 38 | cartas-documento | `13-templates-procesales/` |
-| 39 | interrogatorios | `13-templates-procesales/` |
-| 53 | carta-invitacion-colegas | `13-templates-procesales/` |
-| 54 | oficios-identificacion-testigos | `13-templates-procesales/` |
+| Total archivos .md | 119 | 106 |
+| Archivos en root | 23 | 2 |
+| Numeración con conflictos | 11 | 0 |
+| Tamaño total | 1.19 MB | ~1.13 MB |
+
+## Convenciones de numeración
+
+- **01-34**: análisis de fondo (tesis, hechos, estrategia, cuantificación, etc.)
+- **35-54**: templates procesales
+- **55+**: docs operativos (cuestionarios, planes, guías)
+- **Las carpetas usan prefijos numéricos** (01-, 02-, ...) para mantener orden temático.
+
+## Privacidad
+
+El repo es **público** por decisión del usuario. Los nombres reales están en documentos internos (`12-evidencia/` y `06-personas/`).
 
 ---
 
-## Flujo de lectura recomendado
-
-```
-[01-entrada/00-resumen-ejecutivo.md]
-        ↓
-[02-hechos/01-hechos-y-cronologia.md]   ← entender el caso
-        ↓
-[02-hechos/12-mapa-evidencia.md]         ← ver de dónde sale cada hecho
-        ↓
-[03-legal/02-tesis-juridica.md]         ← entender el argumento legal
-        ↓
-[03-legal/16-borrador-demanda.md]       ← ver la demanda formal
-        ↓
-[04-estrategia/05-estrategia-procesal.md] ← entender el plan procesal
-        ↓
-[04-estrategia/06-prescripcion-y-plazos.md] ← saber qué plazos vencen
-        ↓
-[05-cuantificacion/03-cuantificacion.md] ← ver cuánto se pide
-        ↓
-[05-cuantificacion/18-modelo-financiero.md] ← entender el VPN
-        ↓
-[06-personas/14-perfiles-psicologicos.md] ← entender las partes
-        ↓
-[08-analisis-especializado/] (a demanda)
-[09-areas-investigacion/] (a demanda)
-[10-riesgos-personales/] (a demanda)
-[11-arquitectura-caso/20-plan-upgrade.md] ← ver la infraestructura
-        ↓
-[12-evidencia/] ← evidencia original (inmutable)
-```
-
----
-
-*Este archivo es un índice maestro. Se actualizará si se agregan nuevas carpetas o documentos.*
-
----
-
-## Actualización al 12/09/2026 — Cuestionario v2 (respuestas consolidadas)
-
-**Cambios materiales respecto de la versión inicial:**
-
-1. **Identidad de la actora completada** — CI 1.375.421; Círculo de Odontólogos Matrícula 3.618; domicilio Cerro Corá 62, Luque.
-2. **Domicilio de la demandada confirmado** — Mcal. Estigarribia 1414 casi Pai Pérez, Barrio San Roque, Asunción; opera al menos 3 clínicas.
-3. **Testigos clave identificados** — Viviana Colman (Coordinadora), Verónica Amarilla (RR.HH. — autora del "no pagamos nada"), Luis Arévalo (contador).
-4. **Componente Asismed cuantificado** — explicaba caída de ingresos en 2025.
-5. **Piso de negociación recalibrado** — Gs. 150-200M (antes 80M).
-6. **Daño moral recalibrado** — Gs. 50-80M (antes 5-30M) por salud documentada.
-7. **Acción colectiva habilitada** — 50+ profesionales con el mismo patrón, 19 identificados por nombre.
-8. **Grabación de la reunión con Roque** — declarada por Gabi; verificar si está en los 38 audios.
-9. **8 organismos públicos** donde Odontología 3 licitó — ángulo penal/DNCP/CGR.
-10. **Inconsistencia de representación** — Roque firma con dos cargos distintos en las dos cartas.
-
-**Nuevos documentos creados en esta actualización (15):**
-
-- `03-legal/22-contrato-chatgpt-analisis.md`
-- `03-legal/23-dano-moral-y-salud.md`
-- `05-cuantificacion/19-analisis-asismed.md`
-- `06-personas/Lic-Viviana-Colman.md`
-- `06-personas/Lic-Veronica-Amarilla.md`
-- `06-personas/Sr-Luis-Arevalo.md`
-- `06-personas/Dr-Roque-Ramirez-Nizza.md`
-- `08-analisis-especializado/33-accion-colectiva.md`
-- `08-analisis-especializado/34-inconsistencia-representacion.md`
-- `09-areas-investigacion/35-cruce-dncp-odontologia3.md`
-- `13-templates-procesales/53-carta-invitacion-colegas.md`
-- `13-templates-procesales/54-oficios-identificacion-testigos.md`
-- `55-cuestionario-para-gabi-v2-Respuestas.md`
-- `4-preguntas-para-Carlos.md`
-- `5-plan-de-trabajo-futuro.md`
-
-**Documentos actualizados (4 + 4 inteligencia):**
-
-- `03-legal/16-borrador-demanda.md` — placeholders completados, testigos identificados, daño moral actualizado.
-- `02-hechos/01-hechos-y-cronologia.md` — domicilio, 3 clínicas, Asismed, 17 nuevos hechos probados.
-- `05-cuantificacion/03-cuantificacion.md` — Asismed, daño moral, sensibilidad.
-- `04-estrategia/05-estrategia-procesal.md` — conciliación, 3 clínicas, acción colectiva, decisiones críticas.
-- `09-areas-investigacion/35-cruce-dncp-odontologia3.md` — DATOS VERIFICADOS: 73 adj ₲147B en 17 organismos
-- `09-areas-investigacion/36-intelligence-report.md`
-- `04-estrategia/81-master-negotiation-playbook.md`
-- `04-estrategia/82-tactical-prep-checklist.md` — NUEVO: reporte completo de inteligencia pública
-- `13-templates-procesales/47-osint-de-roque.md` — datos verificados del representante legal
-- `13-templates-procesales/46-investigacion-registro-publico.md` — datos verificados del RUC y composición
-
-**Datos verificados públicamente (12/09/2026):**
-
-- **Razón Social:** ODONTOLOGIA 3 TRES S.A.
-- **RUC:** 80010293-2
-- **Representante Legal:** ROQUE SAMUEL RAMIREZ NIZZA
-- **Total adjudicaciones DNCP:** 73 por ₲ 146,903,298,000 en 17 organismos públicos
-- **Cobertura de prensa:** 2 denuncias MOPC (2023, 2024) + ABC + Última Hora + La Nación + El Nacional
-- **Profesionales públicos:** 22+ identificables en odontologia3.com (cuestionario v2 daba 19)
-- **Sitio web:** odontologia3.com (más de 150 profesionales declarados, 90+ consultorios, 600+ pacientes/día)
+*Generado automáticamente después del cleanup de sept 2026.*
