@@ -1,4 +1,6 @@
-# 55 · Cuestionario Detallado para Gaby — v2 — RESPUESTAS COMPLETADAS
+# 55 · Cuestionario Gabi — RESPONDIDO (v2, set 2026)
+
+> *Versión respondida del cuestionario inicial. Este archivo es el único RESPONDIDO. Los cuestionarios pendientes son el consolidado 57+58.*
 
 > *Versión consolidada del cuestionario v2 con las respuestas de Gabi (12/09/2026). Sirve como single source of truth para Carlos.*
 

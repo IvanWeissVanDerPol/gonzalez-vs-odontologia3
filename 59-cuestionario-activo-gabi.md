@@ -1,6 +1,6 @@
-# 58 · Cuestionario Avanzado de Clarificación — Profundización con Nueva Inteligencia
+# 59 · Cuestionario Activo Gabi (consolidado 57 + 58 — preguntas pendientes unificadas)
 
-> *Gabi: este es un tercer cuestionario. El primero (55) ya está respondido. El segundo (57) está pendiente. Este (58) cubre áreas que aparecieron DESPUÉS — cuando investigamos a fondo la clínica en la DNCP, en la prensa y en tu propia web pública. Cada pregunta tiene contexto, por qué importa, qué cambia según tu respuesta, y cómo impacta en la demanda o el acuerdo.*
+> *Gabi: este es el **cuestionario activo unificado**. El primero (55) ya está respondido. Las preguntas de seguimiento quedaron consolidadas acá — las que ya estaban en 57 + las nuevas de 58. Cada pregunta tiene contexto, por qué importa, qué cambia según tu respuesta, y cómo impacta en la demanda o el acuerdo.*
 >
 > *Podés contestar en cualquier orden. Las BLOQUEANTES (🔴) las necesito esta semana (antes del viernes 26/09). Las IMPORTANTES (🟡) las necesito en 2 semanas (antes del viernes 10/10). Las de REFINAMIENTO (🟢) son para mejorar la estrategia pero no bloquean.*
 >
@@ -671,6 +671,208 @@ Esta pregunta es prospectiva. Quiero entender qué pasa si el caso va por distin
 
 ---
 
+
+
+---
+
+# 🟢 PREGUNTAS DE SEGUIMIENTO ADICIONALES (de cuestionario 57, no cubiertas en 58)
+
+> *Estas preguntas vienen del cuestionario 57 original. Las que ya estaban mejor cubiertas en 58 fueron consolidadas ahí. Las que siguen siendo relevantes pero no críticas aparecen acá. Contestá cuando puedas — sin apuro.*
+
+## Pregunta 19 — El parentesco de "Ramírez" y "Amarilla" en la clínica
+
+**🔴 IMPORTANTE PARA DECIDIR SI RECUSAMOS TESTIGOS.**
+
+### Contexto
+
+En la **página web pública de Odontología 3** ([odontologia3.com/profesionales](https://odontologia3.com/profesionales/)) están listados, entre otros:
+
+- **Dr. Roque Ramírez Nizza** — Director (representante legal)
+- **Dr. Mario Ramírez** — Rehabilitación oral y máster en prótesis dental
+- **Lic. Verónica Amarilla** — Recursos Humanos (autora del "no pagamos nada")
+- **Dra. Aida Amarilla** — Operatoria dental
+
+Hay **dos apellidos que se repiten**. Eso puede significar:
+1. **Parentesco real** (Roque y Mario son hermanos/primos; Verónica y Aida son familia)
+2. **Coincidencia** (los apellidos Ramírez y Amarilla son comunes en Paraguay)
+
+### Por qué importa procesalmente
+
+**Si son parientes:**
+- Roque tiene **conflicto de interés** para disciplinar a su propio familiar.
+- Verónica (RR.HH. que negó la indemnización) podría tener conflicto de interés para testificar contra su propia familiar odontóloga.
+- Carlos puede pedir **recusación de testigo** (solicitar que Verónica no declare porque su testimonio beneficiaría a una familiar).
+- También es **prueba del patrón familiar/empresa familiar**: la clínica opera como un clan, no como una empresa formal.
+
+**Si NO son parientes:**
+- No podemos recusar a Verónica (necesitamos su declaración porque es el smoking gun del "no pagamos nada").
+- Perdemos el argumento de empresa familiar.
+
+### Lo que necesito saber
+
+- [ ] ¿Sospechás o sabés que Roque y Mario Ramírez son parientes? ¿Hermanos? ¿Primos? ¿Pareja?
+- [ ] ¿Sospechás o sabés que Verónica Amarilla y Aida Amarilla son familia? ¿Madre e hija? ¿Hermanas? ¿Tías?
+- [ ] ¿Alguien en la clínica los llamaba "la hija de...", "la hermana de...", "el primo de..."? ¿Algún comentario que sugiriera parentesco?
+- [ ] ¿Otros apellidos repetidos en la clínica? (Por ejemplo, hay un "Dr. Mario Ibarrola" en la web — ¿hay más Ibarrollas?)
+- [ ] ¿Hay algún caso conocido de que una persona de la clínica sea contratada después por familiaridad (no por meritocracia)?
+
+### Si no podés confirmar parentesco
+
+Si realmente no sabés, también es información útil: **decile a Carlos y no se recusa a nadie**. Seguimos con la estrategia normal. La pregunta es solo para **explorar** una línea procesal.
+
+---
+
+
+
+---
+
+## Pregunta 20 — Sobre los audios clave y otros que puedas tener
+
+**🔴 PARA COMPLETAR LA PRUEBA.**
+
+### Contexto
+
+Carlos ya tiene los **38 audios** transcriptos en `12-evidencia/transcripciones/`. Pero hay audios clave que podrían ser aún más fuertes:
+
+- **Audio 82 (13/07/2026 13:15)** — el "yo igual me tengo que ir" (asistencia obligatoria)
+- **Audio 49 (10/07/2026 19:40)** — el "tengo grabado donde él me está diciendo que me saca" (mención de la otra grabación)
+- **Audio 43 (10/07/2026 19:18)** — el "no pagamos nada" (Verónica Amarilla)
+- **Audio 75 (12/07/2026 13:04)** — el "ellos me echaron" (constructive dismissal)
+- **Audio 55 (10/07/2026 20:04)** — el "decidió sacarme" (admisión de Roque)
+- **Audio 41 (10/07/2026 19:16)** — el "él firmaba teoría pero deshacerse" (no contrafirmaba)
+- **Audio 36 (10/07/2026 19:14)** — el "se firma el contrato porque íbamos a entrar en licitación" (admisión del fraude)
+
+### Por qué importa
+
+Estos audios son **el corazón probatorio del caso**. Si están bien transcriptos, Carlos puede citarlos verbatim en la demanda y en la audiencia. Si hay errores en Whisper o están incompletos, hay que corregirlos manualmente antes de usarlos.
+
+### Lo que necesito saber
+
+- [ ] **¿Las transcripciones en `12-evidencia/transcripciones-corregidas/` están revisadas y completas?** ¿O son transcripciones automáticas de Whisper sin revisar?
+- [ ] **¿Hay audios adicionales (no en los 38) que vos consideres críticos?** Por ejemplo, audios con otros exempleados, audios con pacientes quejándose, audios con colegas hablando del fraude.
+- [ ] **¿Algún audio menciona explícitamente las palabras "sueldo", "salario", "aguinaldo", "vacaciones", "IPS", "indemnización"?** (necesitamos que las palabras estén dichas, no inferidas)
+- [ ] **¿Tenés conversaciones de WhatsApp con Roque o con Verónica que podrían usarse?** (audios de chat de voz o capturas)
+
+### Cómo revisar
+
+Si tenés tiempo, **escuchá los audios 36, 41, 43, 49, 55, 75, 82 y 85** (los más críticos) y confirmá si la transcripción es correcta. Cualquier error o frase que falte, marcala para Carlos.
+
+---
+
+
+
+---
+
+## Pregunta 21 — El parentesco de la masonería y Manuel
+
+### Contexto
+
+En el audio 55 mencionaste que Manuel conocía a Roque por la masonería. Esto es **irrelevante legalmente** (no es discriminación ni motivo legal de despido) pero **es narrativamente poderoso** y útil para entender la naturaleza personal del vínculo.
+
+### Lo que necesito saber
+
+- [ ] ¿Manuel sigue en la masonería hoy?
+- [ ] ¿Roque sigue activo?
+- [ ] ¿Hay otros odontólogos en la clínica con vínculos masónicos?
+- [ ] ¿La masonería fue un factor para que Manuel te recomendara? ¿Vos lo viviste como un "favor"?
+- [ ] ¿Manuel está dispuesto a testificar si Carlos lo cita? (ya estaba tibio — ahora con esto más)
+
+---
+
+
+
+---
+
+## Pregunta 22 — La clínica donde trabajabas (organización interna)
+
+### Lo que necesito saber
+
+- [ ] ¿Cuántos recepcionistas había en tu piso (4to piso)?
+- [ ] ¿Cuántos odontólogos trabajaban simultáneamente en tu piso?
+- [ ] ¿Quién te pasaba los pacientes (call center, recepcionista, Coordinadora)?
+- [ ] ¿Tenías un sillón dental asignado o compartido?
+- [ ] ¿La sala de espera era común con otros pisos o exclusiva del tuyo?
+- [ ] ¿Cuántas veces por semana ibas a la clínica?
+- [ ] ¿Había reuniones de equipo? ¿Con qué frecuencia? ¿Quién las dirigía?
+- [ ] ¿Había uniformes o vestimenta específica requerida?
+- [ ] ¿Había protocolo escrito para casos especiales? (urgencias, complicaciones)
+- [ ] ¿Tenías alguna responsabilidad administrativa (gestión de stock, cobros, etc.) además de la atención clínica?
+
+---
+
+
+
+---
+
+## Pregunta 23 — El Círculo de Odontólogos
+
+- [ ] ¿Estás al día con la matrícula del Círculo? (3.618)
+- [ ] ¿Tienes sanciones o antecedentes disciplinarios?
+- [ ] ¿Conoces a Roque de actividades del Círculo? (charlas, eventos)
+- [ ] ¿Hay otros odontólogos del Círculo que trabajen o hayan trabajado en O3?
+- [ ] ¿El Círculo sabe algo del modus operandi de Roque?
+
+---
+
+
+
+---
+
+## Pregunta 24 — La salud laboral específica
+
+- [ ] ¿Te realizaron examen preocupacional al inicio (2014)? ¿Dónde quedó registrado?
+- [ ] ¿Te realizaron exámenes periódicos durante los 12 años?
+- [ ] ¿Te realizaron examen de egreso?
+- [ ] ¿Tienes hepatitis B testeada?
+- [ ] ¿Tienes HIV testeado?
+- [ ] ¿Tuviste algún accidente laboral (pinchazo con aguja, exposición a material biológico)?
+- [ ] ¿Recibiste formación en bioseguridad de O3?
+- [ ] ¿Quién proveía los EPP (guantes, mascarillas, gafas)?
+
+---
+
+
+
+---
+
+## Pregunta 25 — Los correos y mensajes electrónicos
+
+- [ ] ¿Tienes mails con la clínica?
+- [ ] ¿Tienes mails con Roque directamente?
+- [ ] ¿Tienes mails con Verónica Amarilla o Viviana Colman?
+- [ ] ¿Tienes mails con Carlos antes del chat (si usaron mail)?
+- [ ] ¿Tienes mensajes de WhatsApp directos con Roque (no con Carlos)?
+- [ ] ¿Tienes SMS relevantes con la clínica?
+
+---
+
+## Pregunta 26 — La reunión cara a cara con Roque (la del 18/06/2026)
+
+> *Esta pregunta viene del cuestionario 57 original. Aunque ya preguntamos por la grabación en el cuestionario 58, hay detalles sobre la reunión misma que necesitamos precisar.*
+
+### Contexto
+
+Aunque ya preguntamos por la grabación en este cuestionario (ver pregunta anterior), necesitamos más detalles sobre la reunión misma para entender bien la mecánica del despido tácito.
+
+### Lo que necesito saber
+
+- [ ] **¿Cuánto duró?**
+- [ ] **¿Dónde fue?** (consultorio de Roque, sala de reuniones, etc.)
+- [ ] **¿Quién la convocó?**
+- [ ] **¿Vos fuiste voluntariamente o te citaron?**
+- [ ] **¿Llevaste algún papel o documento?**
+- [ ] **¿Roque te amenazó con algo específico?**
+- [ ] **¿Te ofreció algo?** (indemnización, otro puesto, acuerdo)
+- [ ] **¿Vos le contestaste verbalmente algo que conste en la grabación?**
+- [ ] **¿Cuándo exacto fue?** (mañana, tarde, hora)
+
+---
+
+
+
+
+---
+
 # 📋 Resumen ejecutivo: qué necesito de vos
 
 ## 🔴 Esta semana (antes del viernes 26/09/2026)
@@ -701,7 +903,23 @@ Esta pregunta es prospectiva. Quiero entender qué pasa si el caso va por distin
 | 17 | Tu reputación | Estrategia pública/privada |
 | 18 | Escenarios de salida | Decisiones bajo incertidumbre |
 
+### 🟢 Refinamiento (Q19-26, cuando puedas)
+
+Las preguntas 19 a 26 vienen del cuestionario 57 original. Son importantes pero no urgentes. Contestá cuando puedas:
+
+| # | Pregunta | Tema |
+|---|---|---|
+| 19 | Parentesco Ramírez/Amarilla | Recusación de testigos |
+| 20 | Audios clave | Revisión de transcripciones |
+| 21 | Manuel y masonería | Contexto del vínculo |
+| 22 | Clínica — organización interna | Detalles del día a día |
+| 23 | Círculo de Odontólogos | Redes profesionales |
+| 24 | Salud laboral específica | EPP + bioseguridad |
+| 25 | Correos y mensajes | Prueba digital |
+| 26 | Reunión cara a cara con Roque | Detalles de la reunión |
+
 ---
+
 
 # 💬 Cómo responder
 
@@ -731,7 +949,7 @@ Todo lo que escribas está protegido por:
 
 Gabi: este caso es **más fuerte** que cuando empezaste el cuestionario 55. Tenemos ₲147B adjudicados que muestran el patrón masivo. Tenemos 22+ profesionales públicamente identificables. Tenemos prensa virgen (first-mover advantage). Tenemos inteligencia sobre el fraude previsional masivo.
 
-Cada pregunta de este cuestionario (58) **maximiza la presión sobre Roque** y **minimiza el riesgo para vos**.
+Las 26 preguntas de este cuestionario unificado (59) **maximizan la presión sobre Roque** y **minimizan el riesgo para vos**. Las primeras 10 son urgentes; las 11-18 son importantes; las 19-26 son de refinamiento.
 
 Si algo no te cierra, si tenés miedo de alguna pregunta, si necesitás hablar con Carlos antes de contestar — **no dudes en pedirlo**. Estamos en esto juntas.
 
@@ -744,4 +962,4 @@ Un saludo,
 
 *Documento de profundización. Tus respuestas se agregan al caso y alimentan la estrategia de Carlos.*
 
-*Versión: 1.0 — 13/09/2026*
+*Versión: 1.0 — 13/09/2026 (consolidado 57 + 58)*
