@@ -192,3 +192,32 @@ Respondé honestamente:
 ---
 
 > **Contacto de Iván** (asistente técnico): este repo GitHub tiene todos los documentos. Si necesitás un borrador adicional, una actualización, o un análisis, avisame por acá.
+
+
+### 🆕 Hallazgos críticos de los WhatsApp (sept 2026)
+
+**Volumen de la nueva evidencia:**
+- Chat Roque: 398 mensajes (2018-2026, 8 años) + 36 audios + 7 fotos + 6 stickers
+- Chat Viviana: 946 mensajes (2023-2026, 2.5 años) + 31 audios + 10 fotos + 6 stickers + 1 video
+- **97 mensajes POST-cese** (13-18 julio 2026) con Viviana
+
+**6 hallazgos críticos que cambian el caso:**
+
+1. **Antigüedad confirmada por Gabi explícitamente** (26/3/25): *"hace más de 10 años que estoy acá"* → estabilidad absoluta (Art. 94 CT)
+
+2. **NO fue despido abrupto** (14/7/26): Viviana: *"como habíamos conversado semana pasada, el Dr Roque está en conocimiento también"* → proceso previo
+
+3. **Viviana es testigo amigable** (14/7/26 13:00): *"le voy a extrañar mucho Dra., su amabilidad y buena onda siempre 🥹❤️"* → tono cordial, no hostil
+
+4. **Dra. Gloria = autoridad disciplinaria documentada** (múltiples menciones en chat Roque 14/12/21, 15/12/21, 21/02/22): firmó amonestación, controlaba horarios
+
+5. **Pati entregó físicamente la nota del 26/3/25** (mensaje de Gabi en chat): *"me entregó pati esta nota"* → testigo presencial crítico
+
+6. **Reforma inmediata del consultorio post-cese** (18/7/26): *"hay albañiles trabajando en el que era su consultorio... para la reforma que indicó el Dr"* → reorganización
+
+**3 testigos nuevos identificados:**
+- **Pati** (Asistente RR.HH., entregó nota) — buscar contacto
+- **Chone** (mantenimiento/recepción, acceso llaves) — buscar contacto
+- **Viviana** (Coordinadora, testigo amigable) — invitarla a declarar
+
+**Para ver el análisis completo:** `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md`

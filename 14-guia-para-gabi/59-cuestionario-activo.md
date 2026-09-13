@@ -1094,6 +1094,243 @@ Si Mario es hijo de Roque, eventualmente será heredero de las acciones de O3. E
 
 ---
 
+
+
+## Pregunta 31 — Pati: la persona que entregó la nota del 26/3/2025
+
+**🔴 BLOQUEANTE — Pati es testigo crítico porque entregó físicamente la nota de apercibimiento.**
+
+### Contexto
+
+Del chat con Viviana (26/03/2025), Gabi escribió:
+> "me entregó pati esta nota... ya otra vez"
+
+Pati es la persona que **físicamente entregó la nota de apercibimiento a Gabi** con los 90 días de control estricto. Esto la convierte en **testigo presencial clave** del procedimiento disciplinario.
+
+### Lo que necesito saber
+
+- [ ] **¿Quién es Pati exactamente?** (Asistente de RR.HH.? Recepcionista? Secretaria de Roque?)
+- [ ] **¿Cuál era su rol formal?** (cargo, área)
+- [ ] **¿Sigue trabajando en O3?** (sí/no/no sé)
+- [ ] **¿Tenía autoridad para entregar documentos oficiales?**
+- [ ] **¿Pati entregó otras notas o documentos disciplinarios a Gabi?**
+- [ ] **¿Pati entregó también la carta del 18/6/2026?**
+- [ ] **¿Pati podría testificar a favor de Gabi?** (honest assessment)
+- [ ] **¿Gabi tiene el teléfono o contacto de Pati?**
+- [ ] **¿Pati era la que pasaba mensajes verbales de Roque a Gabi?**
+
+### Por qué Carlos NECESITA esta info
+
+- **Pati es testigo presencial** del procedimiento disciplinario (no se puede negar)
+- Su testimonio puede confirmar: **cómo se entregan las notas, quién las firma, qué dice Roque verbalmente**
+- Si sigue en O3: **testigo hostil probable** (no va a querer declarar contra Roque)
+- Si ya se fue: **posible testigo amigable** (puede hablar sin miedo)
+
+---
+
+## Pregunta 32 — Chone: mantenimiento/recepción de la clínica
+
+**🔴 BLOQUEANTE — Chone vivía en la clínica y tenía acceso a llaves.**
+
+### Contexto
+
+"Chone" aparece 9 veces en los chats. Roque le dijo a Gabi: "que vea Vivi Chone y Verónica y reposicionamos". Gabi le dejó las llaves a Chone el 14/7. El 18/7 Gabi dice: "le pedí a chone que me ponga en el consultorio de óscar y ruthi".
+
+### Lo que necesito saber
+
+- [ ] **¿Quién es Chone exactamente?** (nombre completo si lo sabés)
+- [ ] **¿Cuál era su rol?** (mantenimiento, recepcionista, both?)
+- [ ] **¿Vive en la clínica o tiene horario?**
+- [ ] **¿Tenía llaves de la clínica?**
+- [ ] **¿Sigue trabajando en O3?**
+- [ ] **¿Chone presenció alguna conversación sobre Gabi?**
+- [ ] **¿Chone podría testificar?** (honest assessment)
+- [ ] **¿Gabi tiene su contacto?**
+
+### Por qué importa
+
+- Chone es **testigo presencial cotidiano** (veía el día a día)
+- Si tiene llaves, **accedía al consultorio** (veía si Gabi estaba trabajando)
+- Su testimonio puede confirmar: Gabi cumplía horario, tenía consultorio, atendía pacientes
+
+---
+
+## Pregunta 33 — Gloria: la autoridad disciplinaria intermedia
+
+**🔴 BLOQUEANTE — Gloria firmaba las amonestaciones y hablaba con Roque sobre Gabi.**
+
+### Contexto
+
+Del chat con Roque (14/12/2021):
+> Gabi: "la dra. gloria me dijo que no te escriba, por el afecto que te tengo"
+
+(15/12/2021):
+> Gabi: "la dra. gloria me envio una nota de advertencia… amonestación 😔😔😔 como si yo fuera una criminal"
+
+(21/02/2022):
+> Gabi: "la dra. gloria ya no me quiere.. me va querer menos"
+
+(sin fecha exacta):
+> Gabi: "la dra. gloria le dijo que los jueves a la tarde.. no se puede"
+
+### Lo que necesito saber
+
+- [ ] **¿Quién es Gloria?** (nombre completo, especialidad)
+- [ ] **¿Cuál era su rol formal?** (Gerente? Coordinadora? Esposa de Roque?)
+- [ ] **¿Tenía autoridad para sancionar?**
+- [ ] **¿Es la misma Gloria del 26/3/25?** (la nota la entregó Pati, pero ¿la firmó Gloria?)
+- [ ] **¿Sigue en O3?**
+- [ ] **¿Gloria está casada con Roque?** (parentesco)
+- [ ] **¿Gloria testificaría a favor o en contra?**
+
+### Por qué importa
+
+- **Confirma estructura jerárquica**: Gloria → Gabi, con Roque como jefe final
+- **Confirma poder disciplinario**: la nota del 26/3/25 (firmada o no por Gloria) es prueba del mismo
+- Si Gloria es **esposa de Roque** → más indicio de empresa familiar (suma al caso Mario=hijo)
+
+---
+
+## Pregunta 34 — Contexto exacto de la nota del 26/3/2025
+
+**🟡 IMPORTANTE — Los 90 días de apercibimiento y su cumplimiento.**
+
+### Contexto
+
+La nota del 26/3/25 establecía "90 días de control estricto" sobre Gabi. Eso significa que el plazo vencía alrededor del **26/06/2025**. La 2da carta es del **18/06/2026** — más de un año después.
+
+**Preguntas clave:**
+
+- [ ] **¿Gabi cumplió los 90 días sin más sanciones?** (entre 26/3/25 y 26/6/25)
+- [ ] **¿Recibió alguna otra nota entre 26/6/25 y 18/6/26?**
+- [ ] **¿La 2da carta del 18/6/26 menciona los 90 días?** (sí/no/no sé)
+- [ ] **¿Qué hizo Gabi específicamente que motivó la 2da carta?**
+- [ ] **¿Hubo reunión previa antes de la 2da carta?**
+- [ ] **¿Quién le entregó la 2da carta?** (¿Pati otra vez?)
+
+### Por qué importa
+
+- Si Gabi cumplió los 90 días: la 2da carta fue **nueva causa** (no continuación del 26/3)
+- Si hubo más notas: **patrón de acoso disciplinario**
+- Esto conecta la nota escaneada con el chat de WhatsApp
+
+---
+
+## Pregunta 35 — El chat del 14/7/2026 (detalles del cese)
+
+**🔴 BLOQUEANTE — Para entender qué sabía cada actor del cese.**
+
+### Contexto
+
+Viviana el 14/7/2026 a las 12:55 escribió:
+> "Sí, justo hablé de ello con Pati esta mañana y así como habíamos conversado semana pasada, el Dr Roque está en conocimiento también."
+
+### Lo que necesito saber
+
+- [ ] **¿De qué habló Viviana con Pati "esta mañana"?** (sobre el cese de Gabi)
+- [ ] **¿Qué le dijo Viviana a Gabi "semana pasada"?** (la conversación previa)
+- [ ] **¿Quién más estaba en conocimiento?** (Roque, Pati, alguien más?)
+- [ ] **¿Hubo una reunión formal de "despido" con Gabi?**
+- [ ] **¿Cuándo fue esa reunión?** (fecha exacta)
+- [ ] **¿Quién la convocó?** (¿Viviana, Roque, ambos?)
+- [ ] **¿Le dieron carta documento o algo escrito?**
+- [ ] **¿Gabi firmó algo?**
+- [ ] **¿Gabi preguntó por liquidación/indemnización?**
+
+### Por qué importa
+
+- Confirma que **NO fue abandono** (hubo proceso previo)
+- Identifica **testigos del procedimiento** (Pati, Roque, Viviana)
+- Posibles **pruebas documentales adicionales** (actas, recibos)
+
+---
+
+## Pregunta 36 — La reforma del consultorio (18/7/26)
+
+**🟡 IMPORTANTE — Indicio de reorganización con fines de prescindir de Gabi.**
+
+### Contexto
+
+El 18/7/26 (4 días después del cese), Viviana escribió:
+> "Estamos necesitando por favor que retire su mesa y silla porque ya hay albañiles trabajando en el que era su consultorio. Y precisamos liberar el espacio para la reforma que indicó el Dr"
+
+### Lo que necesito saber
+
+- [ ] **¿Gabi sabía de la reforma antes del 18/7?**
+- [ ] **¿Cuándo se decidió la reforma?**
+- [ ] **¿Gabi hubiera podido seguir trabajando en el consultorio reformado?**
+- [ ] **¿Qué hizo Roque con el espacio "liberado"?**
+- [ ] **¿Entró otro profesional al consultorio de Gabi?**
+- [ ] **¿Gabi tiene el nombre del albañil/empresa que hizo la reforma?**
+
+### Por qué importa
+
+- **Prueba de que Roque YA había decidido prescindir de Gabi** (antes incluso de la 2da carta)
+- La reforma fue **inmediata** post-cese (no fue una decisión de último momento)
+- Posible **fraude procesal** (transferencia de beneficios a otro profesional)
+
+---
+
+## Pregunta 37 — Los audios del 26/3/25 y 18/6/26 (sin transcribir aún)
+
+**🟡 IMPORTANTE — Necesitamos saber qué dicen exactamente.**
+
+### Contexto
+
+Hay **9 audios** del 26/3/25 (día de la 1ra nota) y **4 audios** del 18/6/26 (día de la 2da carta). Estos audios pueden contener:
+- Lectura completa de las notas
+- Detalles del procedimiento
+- Conversación entre Gabi y Viviana sobre las sanciones
+
+### Lo que necesito saber
+
+- [ ] **¿Gabi recuerda de qué hablan esos audios?**
+- [ ] **¿Hay audios que NO haya subido y que sean importantes?**
+- [ ] **¿Quién más estaba presente cuando se entregaron las notas?**
+- [ ] **¿Hay audios del 18/6/26 que contengan la grabación de la reunión con Roque?**
+- [ ] **¿Gabi tiene audios en su celular de los que no estén en este chat?**
+
+### Por qué importa
+
+- Los audios pueden tener **admisiones verbales** de Roque o Viviana
+- Pueden **complementar o contradecir** el contenido escrito de las cartas
+- Esenciales para entender el **contexto completo**
+
+---
+
+## Pregunta 38 — Los colegas mencionados en los chats (que no están en el cuestionario 55)
+
+**🟢 REFINAMIENTO — Para ampliar la red de testigos.**
+
+### Contexto
+
+Aparecen en los chats: **Pati, Chone, Gloria, Manuel, Óscar, Ruthi, Roberto, Ruth**.
+
+### Lo que necesito saber
+
+Para cada uno:
+- [ ] **¿Gabi los conoce personalmente?**
+- [ ] **¿Cómo era su relación con Gabi?**
+- [ ] **¿Sigue trabajando en O3?**
+- [ ] **¿Podrían ser testigos?** (honest assessment)
+- [ ] **¿Algún mensaje sugiere conflicto o afinidad?**
+
+### Especial atención a:
+
+- **Óscar** y **Ruthi** (mencionados 18/7/26 — "el consultorio de óscar y ruthi")
+- **Pati** (ya cubierto en Q31)
+- **Chone** (ya cubierto en Q32)
+- **Manuel** (mencionado por Roque — masonería)
+
+### Por qué importa
+
+- **Ampliar red de testigos** más allá de los 22 profesionales de la web
+- Especialmente Pati y Chone tienen **conocimiento cotidiano**
+- Estos testigos pueden confirmar la operativa diaria
+
+
+---
+
 # 📋 Resumen ejecutivo: qué necesito de vos
 
 ## 🔴 Esta semana (antes del viernes 26/09/2026)

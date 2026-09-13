@@ -1,5 +1,5 @@
 a3e84b416745b1c80e31014fe384d1274167e8dff4f1d7d211e5e7dc2dd762ee        29  .gitignore
-cf6be9941dcea1f2622e76d93ce73ee2765c46d7e10235df978ff890ba357653      5088  00-START-HERE.md
+7fc9ff2a3fea26cf71628bb26170699096e6379dde7c5ffbd3809a82ee5d6ae9      5410  00-START-HERE.md
 85a9da11ba35aeef65ac77c77d662495deee0fa0cc18227912bd527cc19d39c6      5829  01-entrada/00-resumen-ejecutivo.md
 58d723e3afc2900dc483a5700dcef9666df73afeb2bb8846a2d6cd364ada386c     13087  01-entrada/22-indice.md
 79ec20e5443ccc8dda05f30bd57694b2ac9c790e988e510d8896e4ff5b2d737c      9432  01-entrada/79-resumen-integral.md
@@ -33,7 +33,7 @@ a2319665f454f493d3c73dfbe541544d573a940085446c91416add639b88162a      6364  04-e
 fb2256b39f779053a33d474d282229e49fcafdf0de3b9dfbfaacbd385d62feb3     36565  04-estrategia/83-advanced-max-extraction-playbook.md
 147870f187b517d23bc8c93d7b0be746112b85e3d78296a7928325452dab84e2     24290  04-estrategia/84-definitive-negotiation-playbook.md
 488e26150fca1a70c2c97c28a8707119eda4390919f655d879ac05625a215644      7475  04-estrategia/90-carta-personal-gabi-a-roque.md
-a2c113aec5bcd1ac93ffcd27d58f7cddd0b21840f9985c1c04859ea29a0c92de      8126  04-estrategia/91-brief-ejecutivo-carlos.md
+f453b03048ad0e969d7002cc0e91aa349e2e4940c2453d9c387343ee1f10bedb     10301  04-estrategia/91-brief-ejecutivo-carlos.md
 4c50df2f9e91dad4be1c804fdcb41ee78f5ecde048d4a69876a01f5043cac463      1207  04-estrategia/README.md
 a3726a12b87879a6f7b3a6a502d5349452017ad3d5a87e05df1fb88f06c4c2c7     15459  05-cuantificacion/03-cuantificacion.md
 557053e61717c286724e9ecf25a2013a6fb6c6ae9cb1427450f1bf349cd48100      7417  05-cuantificacion/18-modelo-financiero.md
@@ -77,6 +77,7 @@ f3daf8654faa7a9cc41117b0925378c0088c62ca159ce4cf0f751fd1ced6ae07      8329  10-r
 84693e2b25fbcf4d44211ecacb43415256ea370b552f4bc8025004c22739d50b       864  10-riesgos-personales/README.md
 01317151288c560311bf2600a66343bfb0f6aec4b5666454df20456a78c4724a     11571  11-arquitectura-caso/20-plan-upgrade.md
 acbe4cbd3b51b72d5c37429af0feb43c9e529d8fa5564ca0cccea02bf2566725      1093  11-arquitectura-caso/README.md
+e6a24342f4938987fe8539f69508bbca4f039b560e5109d276042b88910d5e60     15898  12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md
 05ce2af771180e56f36a481f0e194cdd5e870f93c1e898f45f784bd8bce1362f     10108  12-evidencia/EVIDENCIA-MENSAJES-CRITICOS-JULIO-2026.md
 6d4615d807b8701c20e5e0575ed9a2f3a0a65dff2263b2b0247c93a2d2396541      3962  12-evidencia/README.md
 4c17cc8ecea0f753af4eb6691e5e3a8d7037d1f3bbd3204253b33f2f3dab9f9f      8559  12-evidencia/_chat.txt
@@ -320,7 +321,7 @@ a6ca92c4413cb6f415128a93d0cad940c02197a112ca54784d0c89237ec3c45c      6794  13-t
 3b46b4ea36c7593f690f41dc5da8e2cde2ebe8b29884d396eb7fc1e64cd410e9      7444  13-templates-procesales/54-oficios-identificacion-testigos.md
 087ec7c8cd7ff96b504f0b0f5870b14da105d42b71d73d15fac2eec46fe43e47      3840  13-templates-procesales/README.md
 141af9c769762d16747e367c83cf4886cdd7cc88a4e6f6e385fb163046a623b3     23682  14-guia-para-gabi/55-cuestionario-RESPONDIDO.md
-7a7c0ba9f3610ebd4bca5a8b5ac2de3a68e0937cb0dce3adc10ca1a8ccd4d9be     60310  14-guia-para-gabi/59-cuestionario-activo.md
+40caf22913bb05fcebdbe6a533b6003b4e40963e6944cc3b9fdcd3e18e97cc05     69567  14-guia-para-gabi/59-cuestionario-activo.md
 f71a67e1b2caa63c5e772c71ca8dc7767209ab7b1d6d32113c87565ad828558d     12479  14-guia-para-gabi/71-guia-operativa.md
 316dbf644345474dacb05a80471eab46b87be22998b0cb8d86ec789f76327fb9      1900  14-guia-para-gabi/README.md
 402fb73aa8698a9e96c305baebde7d98367c3a3126e5bb83e25c98bdba3005da      8820  ESTRUCTURA.md
