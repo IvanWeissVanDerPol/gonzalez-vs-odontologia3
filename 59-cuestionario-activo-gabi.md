@@ -1,6 +1,6 @@
 # 59 · Cuestionario Activo Gabi (consolidado 57 + 58 — preguntas pendientes unificadas)
 
-> *Gabi: este es el **cuestionario activo unificado**. El primero (55) ya está respondido. Las preguntas de seguimiento quedaron consolidadas acá — las que ya estaban en 57 + las nuevas de 58. Cada pregunta tiene contexto, por qué importa, qué cambia según tu respuesta, y cómo impacta en la demanda o el acuerdo.*
+> *Gabi: este es el **cuestionario activo unificado**. El primero (55) ya está respondido. Las preguntas de seguimiento quedaron consolidadas acá — las que ya estaban en 57 + las nuevas de 58 + las que aparecieron con la confirmación de parentesco. Cada pregunta tiene contexto, por qué importa, qué cambia según tu respuesta, y cómo impacta en la demanda o el acuerdo.*
 >
 > *Podés contestar en cualquier orden. Las BLOQUEANTES (🔴) las necesito esta semana (antes del viernes 26/09). Las IMPORTANTES (🟡) las necesito en 2 semanas (antes del viernes 10/10). Las de REFINAMIENTO (🟢) son para mejorar la estrategia pero no bloquean.*
 >
@@ -23,7 +23,7 @@ Cuando completaste el cuestionario 55 y empezamos el 57, todavía no habíamos h
 | Universo de exempleados | **22+ profesionales públicamente identificables** en la web | `odontologia3.com/profesionales` |
 | Productos de la clínica | **Vanguard** (prepaga odontológica B2B lanzada marzo 2019) | Inteligencia propia |
 | Historial de prensa | **Cero cobertura previa negativa** = first-mover advantage | Google News 2018-2025 |
-| Familiares en la clínica | **Dr. Mario Ramírez** (mismo apellido que Roque) y **Dra. Aida Amarilla** (mismo apellido que Lic. Verónica Amarilla de RR.HH.) | Web pública |
+| Familiares en la clínica | ✅ **CONFIRMADO: Dr. Mario Ramírez es HIJO de Roque** + sospecha de parentesco **Dra. Aida Amarilla** ↔ Lic. Verónica Amarilla (RR.HH.) | Vos (sept 2026) |
 | Patrimonio ejecutable | Múltiple: 3 clínicas, adjudicaciones anuales, productos en expansión | Inteligencia |
 
 **Implicación directa:** Tu caso individual es **fuerte**, pero ahora sabemos que es la punta del iceberg. Lo que necesitamos afinar son los detalles que permiten **maximizar la presión sobre Roque** y **protegerte a vos**.
@@ -679,50 +679,84 @@ Esta pregunta es prospectiva. Quiero entender qué pasa si el caso va por distin
 
 > *Estas preguntas vienen del cuestionario 57 original. Las que ya estaban mejor cubiertas en 58 fueron consolidadas ahí. Las que siguen siendo relevantes pero no críticas aparecen acá. Contestá cuando puedas — sin apuro.*
 
-## Pregunta 19 — El parentesco de "Ramírez" y "Amarilla" en la clínica
+## Pregunta 19 — Parentescos en la clínica: Mario es hijo de Roque (CONFIRMADO) + otros
 
-**🔴 IMPORTANTE PARA DECIDIR SI RECUSAMOS TESTIGOS.**
+**🔴 BLOQUEANTE — LA MÁS IMPORTANTE DE TODAS LAS 26. Sin esta respuesta, no podemos recusar testigos ni probar empresa familiar/nepotismo.**
 
-### Contexto
+### Contexto — actualización con info confirmada
 
-En la **página web pública de Odontología 3** ([odontologia3.com/profesionales](https://odontologia3.com/profesionales/)) están listados, entre otros:
+**Ya está confirmado**: **Dr. Mario Ramírez** (rehabilitación oral en O3) es **hijo del Dr. Roque Samuel Ramírez Nizza** (representante legal y Director). Esto es **prueba directa de nepotismo y empresa familiar**.
 
-- **Dr. Roque Ramírez Nizza** — Director (representante legal)
-- **Dr. Mario Ramírez** — Rehabilitación oral y máster en prótesis dental
-- **Lic. Verónica Amarilla** — Recursos Humanos (autora del "no pagamos nada")
-- **Dra. Aida Amarilla** — Operatoria dental
+**Lo que esto significa procesalmente:**
 
-Hay **dos apellidos que se repiten**. Eso puede significar:
-1. **Parentesco real** (Roque y Mario son hermanos/primos; Verónica y Aida son familia)
-2. **Coincidencia** (los apellidos Ramírez y Amarilla son comunes en Paraguay)
+1. **Roque contrató a su propio hijo** bajo el mismo modelo de "prestación de servicios" que usó con los demás.
+2. **Si Mario factura como independiente a la empresa de su padre**, esto es **fraude por simulación** — padre e hijo no son "partes independientes" en una relación comercial real.
+3. **La relación padre-hijo es un conflicto de interés** para cualquier decisión que Roque tome sobre Mario (disciplinaria, económica, etc.).
+4. **La clínica opera como empresa familiar/clan**, no como sociedad anónima formal.
+5. **Esto refuerza que vos eras dependiente**, no independiente — si la propia familia usa el mismo modelo, no es relación comercial real sino empleo encubierto.
 
-### Por qué importa procesalmente
+**Por qué importa procesal ahora mismo:**
 
-**Si son parientes:**
-- Roque tiene **conflicto de interés** para disciplinar a su propio familiar.
-- Verónica (RR.HH. que negó la indemnización) podría tener conflicto de interés para testificar contra su propia familiar odontóloga.
-- Carlos puede pedir **recusación de testigo** (solicitar que Verónica no declare porque su testimonio beneficiaría a una familiar).
-- También es **prueba del patrón familiar/empresa familiar**: la clínica opera como un clan, no como una empresa formal.
+- **Recusación de Roque como testigo** — si en el juicio Roque declara sobre "cómo era la relación con los profesionales", está declarando en interés propio (es padre de uno de los "profesionales")
+- **Prueba del patrón de empresa familiar** — si el dueño contrata a su hijo con el mismo modelo fraudulento, todos los "contratos" son fraudulentos por igual
+- **Inhabilidad para contratar con el Estado** — nepotismo + fraude laboral + facturación simulada = inhabilidad para nuevas licitaciones (DNCP Art. 72)
+- **Querella penal por asociación ilícita** (Art. 239 CP) — si se prueba que la "empresa" es un clan familiar que defrauda al Estado y a sus trabajadores
 
-**Si NO son parientes:**
-- No podemos recusar a Verónica (necesitamos su declaración porque es el smoking gun del "no pagamos nada").
-- Perdemos el argumento de empresa familiar.
+### Lo que necesito saber — preguntas bloqueantes
 
-### Lo que necesito saber
+**Sobre Mario (hijo de Roque):**
 
-- [ ] ¿Sospechás o sabés que Roque y Mario Ramírez son parientes? ¿Hermanos? ¿Primos? ¿Pareja?
-- [ ] ¿Sospechás o sabés que Verónica Amarilla y Aida Amarilla son familia? ¿Madre e hija? ¿Hermanas? ¿Tías?
-- [ ] ¿Alguien en la clínica los llamaba "la hija de...", "la hermana de...", "el primo de..."? ¿Algún comentario que sugiriera parentesco?
-- [ ] ¿Otros apellidos repetidos en la clínica? (Por ejemplo, hay un "Dr. Mario Ibarrola" en la web — ¿hay más Ibarrollas?)
-- [ ] ¿Hay algún caso conocido de que una persona de la clínica sea contratada después por familiaridad (no por meritocracia)?
+- [ ] **¿Mario trabaja full-time en O3 o part-time?** (¿tenía otros trabajos?)
+- [ ] **¿Mario factura como independiente a O3 o cobra sueldo?** (es la pregunta clave para confirmar fraude por simulación)
+- [ ] **¿Mario está en la planilla del IPS?** (si lo inscribieron como dependiente a él, pero a vos NO, hay doble fraude)
+- [ ] **¿Hace cuánto Mario trabaja en O3?** (desde cuándo — ¿antes que vos? ¿después?)
+- [ ] **¿Cuántos años tiene Mario?** (calculo de si fue contratado mayor de edad o recién entrando a la universidad)
+- [ ] **¿Mario tenía especialidad propia (rehabilitación oral + máster) cuando entró a O3?** (o Roque lo contrató igual sin esa formación — favoritismo)
+- [ ] **¿Mario atendía a los mismos pacientes que vos?** (mismo piso, mismo call center que le asignaba pacientes)
+- [ ] **¿Mario tenía horario fijo igual que vos?** (14:30 confirmado)
+- [ ] **¿Mario pagaba o cobraba parte de su facturación a Roque directamente?** (pagos cruzados = simulación de ingreso)
+- [ ] **¿Alguna vez Mario hizo manifestaciones de "soy el hijo del dueño"?** (a vos o a otros profesionales)
+- [ ] **¿Roque alguna vez dijo "mi hijo", "el chiquilín" o similar al referirse a Mario?**
+- [ ] **¿Mario tenía privilegios especiales?** (mejor horario, mejores pacientes, oficina propia, aguinaldo, IPS)
 
-### Si no podés confirmar parentesco
+**Sobre otros parentescos (¿hay más familia?):**
 
-Si realmente no sabés, también es información útil: **decile a Carlos y no se recusa a nadie**. Seguimos con la estrategia normal. La pregunta es solo para **explorar** una línea procesal.
+- [ ] **¿La esposa/pareja de Roque trabaja en O3?** (madre de Mario)
+- [ ] **¿Algún otro hijo de Roque trabaja en O3?** (hermanos de Mario)
+- [ ] **¿Los padres de Roque trabajan en O3?** (abuelos)
+- [ ] **¿Los suegros de Roque trabajan en O3?**
+- [ ] **¿Algún otro apellido repetido en el staff?** (Nidia y Delia Ortiz — ¿son hermanas? Roberto de Jesús y otro? etc.)
+- [ ] **¿Verónica Amarilla y Aida Amarilla siguen siendo sospechosas de parentesco?** (esposa/hermana/sobrina de Roque o de otro directivo)
+- [ ] **¿Viviana Colman es pariente de alguien de la clínica?**
+- [ ] **¿Manuel Amelio es pariente de alguien?** (ya mencionaste masonería)
 
----
+**Sobre la empresa familiar:**
 
+- [ ] **¿O3 SA tiene otros socios además de Roque?** (si los tiene, ¿son familia?)
+- [ ] **¿Las otras 2 clínicas (sajonia, villa morra) tienen otros dueños?** (¿son de Mario? ¿de la esposa?)
+- [ ] **¿Cómo se reparten los ingresos entre las clínicas?** (si van a parar a la misma familia, es unidad económica)
+- [ ] **¿Las clínicas comparten pacientes, staff o plata?**
+- [ ] **¿Mario tiene participación accionaria en O3 SA o en alguna de las otras clínicas?**
+- [ ] **¿La esposa de Roque figura en algún directorio?**
 
+**Sobre lo que vos viste:**
+
+- [ ] **¿Alguna vez escuchaste que Roque hablara de "la clínica de mi hijo", "mi empresa", "mi familia"?** (vocabulario de empresa familiar)
+- [ ] **¿Alguna vez viste a Mario darle plata a Roque o viceversa en la clínica?**
+- [ ] **¿Alguna vez escuchaste a Verónica Amarilla decir algo que sugiriera parentesco con alguien?**
+- [ ] **¿Alguna vez alguien del staff se quejó del trato preferencial a Mario?**
+
+### Por qué Carlos NECESITA esta info
+
+- **Si Mario es dependiente con IPS y vos no** → **doble estándar brutal** = discriminación + fraude previsional agravado
+- **Si Mario factura como vos pero es hijo del dueño** → **simulación legal** que invalida el contrato PS para todos
+- **Si hay más familia en O3** → **clan familiar/empresa familiar** = nueva línea procesal de nepotismo
+- **Si la esposa de Roque trabaja ahí** → posible **administradora de hecho** sin figurar en directorio
+- **Si otras clínicas son de Mario** → posible **ocultamiento patrimonial** para el embargo
+
+### Si no podés confirmar todo
+
+Si realmente no sabés algún dato, poné "no sé". Pero **NO respondas "no sé" por pereza** — esta es la pregunta más valiosa para recusar testigos, demostrar empresa familiar y fundamentar la querella penal. Vale la pena el esfuerzo de recordar.
 
 ---
 
@@ -873,6 +907,193 @@ Aunque ya preguntamos por la grabación en este cuestionario (ver pregunta anter
 
 ---
 
+
+
+## Pregunta 27 — La estructura societaria COMPLETA de Odontología 3 TRES S.A.
+
+**🔴 BLOQUEANTE — sin esto no sabemos a quién demandar, embargar ni recusar.**
+
+### Contexto
+
+Hemos confirmado que **Dr. Mario Ramírez es hijo de Roque**. Esto significa que la clínica no es solo una S.A. formal, sino una **empresa familiar con participación de herederos directos**. Carlos necesita el mapa completo de la estructura societaria para:
+
+1. **Saber a quién demandar** (si hay otros socios con responsabilidad)
+2. **Saber a quién embargar** (si el patrimonio está repartido entre varias personas o sociedades)
+3. **Pedir nulidad de inscripciones** (si hay testaferros o empresas pantalla)
+4. **Detectar fraude procesal** (si Roque transfiere bienes antes del embargo)
+5. **Identificar administradores de hecho** (personas que operan sin figurar formalmente)
+
+### Lo que necesito saber
+
+**Sobre Roque como representante legal:**
+
+- [ ] **¿Roque aparece como Director-Presidente único en el Registro Público?**
+- [ ] **¿Hay otros directores?** (¿familia? ¿socios comerciales?)
+- [ ] **¿Roque tiene poderes generales o solo de administración?**
+
+**Sobre otros socios:**
+
+- [ ] **¿Hay otros socios capitalistas de O3 SA?**
+- [ ] **¿Alguno es familiar de Roque?** (esposa, hijos, hermanos, primos)
+- [ ] **¿Mario Ramírez figura como socio de O3 SA?**
+- [ ] **¿La esposa/pareja de Roque figura como socia?**
+- [ ] **¿Hay testaferros?** (personas que figuran como socias sin poner plata)
+
+**Sobre las otras clínicas del grupo (sajonia, villa morra):**
+
+- [ ] **¿Son propiedad de O3 SA o de otras sociedades separadas?**
+- [ ] **¿Tienen RUCs distintos?**
+- [ ] **¿Quiénes figuran como representantes legales?**
+- [ ] **¿Las clínicas comparten personal, pacientes, plata?**
+- [ ] **¿Alguna es 100% de Mario?**
+- [ ] **¿Alguna es 100% de la esposa de Roque?**
+
+**Sobre administradores de hecho:**
+
+- [ ] **¿Hay personas que toman decisiones operativas sin figurar en el directorio?** (por ejemplo, Verónica Amarilla, Viviana Colman, contador)
+- [ ] **¿Hay algún familiar de Roque que opera las clínicas sin aparecer en papeles?**
+
+**Sobre movimientos recientes (fraude procesal):**
+
+- [ ] **¿Escuchaste rumores de que Roque esté vendiendo bienes, transfiriendo propiedades, o cerrando clínicas?**
+- [ ] **¿Alguna clínica cerró o se mudó en los últimos 6 meses?**
+- [ ] **¿Se vendieron vehículos, equipos, instrumental recientemente?**
+- [ ] **¿Hay nuevas clínicas o nuevas sociedades que están apareciendo?**
+
+### Por qué Carlos NECESITA esta info
+
+- **Demanda**: si hay otros socios, todos son responsables solidarios (Art. 147 Código Civil)
+- **Embargo**: si Roque no tiene bienes a su nombre pero Mario sí, podemos embargar a Mario como administrador de hecho
+- **Recusación**: si la esposa o hijo figuran en directorio, son parte demandada y no pueden ser testigos
+- **Fraude procesal**: si hay movimientos patrimoniales recientes, pedimos inhibición general
+
+---
+
+## Pregunta 28 — El modelo de la clínica vs. lo que pasa con Mario: caso testigo
+
+**🔴 BLOQUEANTE — sin esto no probamos el doble estándar y la discriminación.**
+
+### Contexto
+
+Si Mario (hijo de Roque) es tratado **mejor que vos** en algún aspecto — IPS, aguinaldo, vacaciones, horario flexible, mejor agenda, mejor comisión — eso es **prueba directa de discriminación laboral** y de que el modelo PS era una farsa selectiva.
+
+**Lo que se prueba con esto:**
+
+1. **El patrón "discriminatorio"** — la familia del dueño SÍ cobra beneficios; los externos NO
+2. **Fraude por simulación** — si Mario es hijo del dueño y factura como independiente, no es relación comercial real
+3. **Conflicto de interés probado** — Roque nunca iba a sancionar a su propio hijo
+
+### Lo que necesito saber — comparativa Mario vs. vos
+
+**Sobre Mario:**
+
+- [ ] **¿Mario tenía IPS?** (sí/no/no sé)
+- [ ] **¿Mario cobraba aguinaldo?** (sí/no/no sé)
+- [ ] **¿Mario tenía vacaciones pagas?** (sí/no/no sé)
+- [ ] **¿Mario cobraba sueldo fijo o solo facturación?**
+- [ ] **¿Mario tenía horario flexible o fijo igual que todos?**
+- [ ] **¿Mario podía elegir su agenda o se la asignaban?**
+- [ ] **¿Mario recibía carta de apercibimiento cuando se atrasaba o faltaba?**
+- [ ] **¿Mario tenía oficina propia o compartía consultorio?**
+- [ ] **¿Mario atendía pacientes especiales o de "mayor categoría"?**
+- [ ] **¿Mario tenía auxiliar dental asignado?**
+- [ ] **¿Mario tenía comisione preferencial?** (ej: 60% en vez de 50%)
+
+**Sobre vos (control):**
+
+- [ ] **Confirmá cada uno de los puntos anteriores para tu caso** (ya tenemos del cuestionario 55, pero confirmá)
+
+**Sobre otros profesionales (testigos):**
+
+- [ ] **¿Algún colega te comentó que a Mario lo trataban diferente?**
+- [ ] **¿Alguna vez escuchaste "a Mario no le podés hacer eso porque es el hijo"?**
+- [ ] **¿Los pacientes comunes saben que Mario es hijo de Roque?**
+
+### Implicación procesal
+
+Si la comparativa muestra **doble estándar a favor de Mario**, Carlos puede:
+
+1. **Solicitar pericia contable** que compare ingresos, beneficios y trato entre Mario y otros profesionales
+2. **Pedir declaración de Mario como testigo** sobre las condiciones de su "contrato"
+3. **Alegar discriminación por parentesco** en la demanda laboral
+4. **Solicitar al MTESS** que investigue el trato diferenciado
+
+---
+
+## Pregunta 29 — Lo que vos viste y firmaste: contexto al momento del ingreso
+
+**🔴 BLOQUEANTE — para probar que vos NO sabías que era empresa familiar cuando firmaste.**
+
+### Contexto
+
+Si cuando vos firmaste el contrato en 2014, **no sabías que Mario era hijo de Roque** y **no sabías que la clínica operaba como empresa familiar**, eso refuerza que vos eras víctima de buena fe. Pero si ya lo sabías, Carlos tiene que manejar eso en la estrategia.
+
+### Lo que necesito saber
+
+- [ ] **¿Cuándo te enteraste que Mario era hijo de Roque?** (mes/año aproximado)
+- [ ] **¿Cómo te enteraste?** (¿alguien te dijo? ¿lo viste en la clínica? ¿lo dedujiste?)
+- [ ] **Cuando firmaste tu contrato en 2014, ¿sabías que era empresa familiar?** (sí/no)
+- [ ] **¿La clínica te mencionó que era empresa familiar al momento de contratarte?**
+- [ ] **¿Te ofrecieron alguna vez un ascenso si te "integrabas a la familia"?** (broma, insinuación o propuesta formal)
+- [ ] **¿Alguna vez te dijeron "somos como una familia acá"?** (frase típica de empresas familiares para encubrir fraude laboral)
+
+### Lo que prueba cada respuesta
+
+| Tu respuesta | Implicación |
+|---|---|
+| "No sabía hasta después" | Sos víctima de buena fe. Empresa familiar NO estaba en tu contrato |
+| "Sabía pero no me importaba" | Tenías info, pero no cambia nada (el contrato igual es fraudulento) |
+| "Me lo dijeron al firmar" | Demuestra que ellos mismos reconocían la estructura familiar |
+| "Lo sospechaba pero no me lo confirmaron" | Sos víctima razonable |
+
+### Pregunta crítica
+
+- [ ] **¿El contrato que firmaste en 2014 mencionaba algo sobre la estructura societaria o familiar de O3?** (probablemente no, pero confirmá)
+
+---
+
+## Pregunta 30 — La sucesión, herencia y proyección de la clínica
+
+**🟡 IMPORTANTE — para entender el riesgo de que Roque vacíe la clínica antes de pagar.**
+
+### Contexto
+
+Si Mario es hijo de Roque, eventualmente será heredero de las acciones de O3. Eso significa que:
+
+1. **Roque podría transferirle la clínica a Mario antes del juicio** (fraude procesal)
+2. **Después de pagar la sentencia, Mario podría argumentar que O3 ya no le pertenece a Roque** (no se puede embargar lo que ya no es suyo)
+3. **Roque podría morirse durante el proceso** y la sucesión se complica
+
+### Lo que necesito saber
+
+**Sobre Roque y su salud:**
+
+- [ ] **¿Roque es una persona mayor o joven?** (rango: 40-50, 50-60, 60-70, 70+)
+- [ ] **¿Tiene problemas de salud visibles?**
+- [ ] **¿Sale de la clínica seguido o está siempre?**
+- [ ] **¿Tenía plan de jubilación o vender la clínica?**
+
+**Sobre Mario y la herencia:**
+
+- [ ] **¿Mario tiene hermanos/que también trabajan en O3 o están en otra cosa?**
+- [ ] **¿Mario parece estar preparándose para "heredar" la clínica?** (actos posesorios, decisiones de gestión, etc.)
+- [ ] **¿Mario aparece como gerente, coordinador o director en alguna clínica del grupo?**
+
+**Sobre movimientos patrimoniales:**
+
+- [ ] **¿Hay rumores de venta o fusión de O3?**
+- [ ] **¿Alguien del staff mencionó que se va a cerrar una clínica?**
+- [ ] **¿Roque contrató algún tasador o vendió alguna propiedad?**
+
+### Lo que Carlos puede hacer con esta info
+
+1. **Pedir inhibición general de vender bienes** (Art. 624 CPC) — si hay riesgo de fraude procesal
+2. **Solicitar medida cautelar innovativa** — bloquear transferencia de acciones
+3. **Incluir a Mario como codemandado** si se confirma que es administrador de hecho
+4. **Acelerar la audiencia de conciliación** — si Roque puede morirse o vaciar la clínica, hay urgencia
+
+---
+
 # 📋 Resumen ejecutivo: qué necesito de vos
 
 ## 🔴 Esta semana (antes del viernes 26/09/2026)
@@ -903,9 +1124,12 @@ Aunque ya preguntamos por la grabación en este cuestionario (ver pregunta anter
 | 17 | Tu reputación | Estrategia pública/privada |
 | 18 | Escenarios de salida | Decisiones bajo incertidumbre |
 
-### 🟢 Refinamiento (Q19-26, cuando puedas)
+### 🟢 Refinamiento (Q19-30, cuando puedas)
 
-Las preguntas 19 a 26 vienen del cuestionario 57 original. Son importantes pero no urgentes. Contestá cuando puedas:
+Las preguntas 19 a 30 cubren parentesco + estructura familiar + sucesión. Son importantes pero no urgentes. Contestá cuando puedas:
+
+- **Q19-26** vienen del cuestionario 57 original + actualización parentesco confirmado
+- **Q27-30** son nuevas preguntas específicas sobre la estructura familiar/nepotismo
 
 | # | Pregunta | Tema |
 |---|---|---|
@@ -917,6 +1141,10 @@ Las preguntas 19 a 26 vienen del cuestionario 57 original. Son importantes pero 
 | 24 | Salud laboral específica | EPP + bioseguridad |
 | 25 | Correos y mensajes | Prueba digital |
 | 26 | Reunión cara a cara con Roque | Detalles de la reunión |
+| 27 | Estructura societaria completa | Demanda + embargo + recusación |
+| 28 | Comparativa Mario vs. vos | Discriminación por parentesco |
+| 29 | Lo que sabías al firmar | Víctima de buena fe |
+| 30 | Sucesión y proyección | Riesgo de fraude procesal |
 
 ---
 
@@ -949,7 +1177,7 @@ Todo lo que escribas está protegido por:
 
 Gabi: este caso es **más fuerte** que cuando empezaste el cuestionario 55. Tenemos ₲147B adjudicados que muestran el patrón masivo. Tenemos 22+ profesionales públicamente identificables. Tenemos prensa virgen (first-mover advantage). Tenemos inteligencia sobre el fraude previsional masivo.
 
-Las 26 preguntas de este cuestionario unificado (59) **maximizan la presión sobre Roque** y **minimizan el riesgo para vos**. Las primeras 10 son urgentes; las 11-18 son importantes; las 19-26 son de refinamiento.
+Las 30 preguntas de este cuestionario unificado (59) **maximizan la presión sobre Roque** y **minimizan el riesgo para vos**. Las primeras 10 son urgentes; las 11-18 son importantes; las 19-30 son de refinamiento (parentesco + estructura familiar).
 
 Si algo no te cierra, si tenés miedo de alguna pregunta, si necesitás hablar con Carlos antes de contestar — **no dudes en pedirlo**. Estamos en esto juntas.
 
@@ -962,4 +1190,4 @@ Un saludo,
 
 *Documento de profundización. Tus respuestas se agregan al caso y alimentan la estrategia de Carlos.*
 
-*Versión: 1.0 — 13/09/2026 (consolidado 57 + 58)*
+*Versión: 1.1 — 13/09/2026 (consolidado 57 + 58 + parentesco confirmado)*
