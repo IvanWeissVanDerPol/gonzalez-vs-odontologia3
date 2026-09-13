@@ -57,7 +57,12 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 2. **Dr. Mario Ramírez es hijo de Roque** — empresa familiar confirmada. Implicaciones: recusación de testigos + inhabilidad DNCP.
 3. **22+ profesionales públicamente identificables** en `odontologia3.com`.
 4. **Cero cobertura de prensa negativa** = first-mover advantage si Gabi decide hacerlo público.
-5. **38 audios + 2 cartas + grabación de reunión con Roque** = arsenal probatorio completo.
+5. **3 chats de WhatsApp + 38 audios + 2 cartas + grabación de reunión con Roque** = arsenal probatorio completo:
+   - Chat Gabi ↔ Roque (2018-2026, 8 años, 552 mensajes)
+   - Chat Gabi ↔ Viviana (2023-2026, 2.5 años, 1241 mensajes, 97 POST-cese)
+   - Chat Gabi ↔ Carlos (julio 2026, 38 audios)
+   - 2 cartas firmadas por Roque (marzo 2025 + junio 2026)
+   - Grabación de la reunión 18/06/2026 con Roque
 
 ## Si tenés 1 hora para leer
 

@@ -29,6 +29,9 @@
 | B | `09-areas-investigacion/37-research-compendium.md` | 10+ casos fraude IPS Paraguay 2025-2026 +Cambridge +Harvard PON |
 | C | `12-evidencia/dncp-adjudicaciones-odontologia3.md` | 73 adjudicaciones scrapeadas, tablas, montos |
 | D | `57-cuestionario-seguimiento-gabi.md` | Preguntas pendientes para Gabi (esta semana) |
+| E | `12-evidencia/whatsapp-roque/_chat.txt` | **NUEVO**: Chat completo Gabi ↔ Roque 2018-2026 (8 años, 552 mensajes, prueba relación laboral íntima) |
+| F | `12-evidencia/whatsapp-viviana/_chat.txt` | **NUEVO**: Chat completo Gabi ↔ Viviana 2023-2026 (2.5 años, 1241 mensajes, incluye 97 mensajes POST-cese del 13-18 julio) |
+| G | `12-evidencia/EVIDENCIA-MENSAJES-CRITICOS-JULIO-2026.md` | **NUEVO**: Mensajes extraídos del chat Viviana 13-18 julio (prueba que NO fue despido abrupto) |
 
 ### Playbooks de negociación
 

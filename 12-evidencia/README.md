@@ -1,86 +1,80 @@
-# 12 · Evidencia Original
+# 12 · Evidencia Original (INMUTABLE)
 
-> **Carpeta inmutable.** Los archivos aquí NO deben modificarse. Cualquier alteración rompe la cadena de custodia.
+**Toda la evidencia original del caso Gabi c/ Odontología 3 S.A.** Esta carpeta es INMUTABLE — los archivos aquí son la fuente de verdad para el caso. Cualquier modificación debe ir en una carpeta separada (ej: `02-hechos/`).
 
 ## Contenido
 
-| Carpeta / archivo | Qué es | Cantidad |
+| Subcarpeta | Qué hay | Período |
 |---|---|---|
-| `MANIFEST-SHA256.txt` | Hash SHA-256 de los 166 archivos | 1 |
-| `_chat.txt` | Chat completo de WhatsApp entre Gabi y Carlos | 1 |
-| `audios/` | Audios originales del chat (.opus) | 38 |
-| `cartas-escaneadas/` | Cartas escaneadas enviadas por la demandada | 2 |
-| `transcripciones-whisper/` | Transcripciones automáticas Whisper | 38 |
-| `transcripciones-corregidas/` | Transcripciones Whisper corregidas manualmente | 38 |
-| `README.md` | Este archivo | 1 |
+| `audios/` | 38 audios originales (.opus) del chat Gabi ↔ Carlos (abogado) | Julio 2026 (4 días antes del cese + durante) |
+| `audios/...transcripciones-corregidas/` | Transcripciones Whisper corregidas manualmente de los 38 audios | Julio 2026 |
+| `audios/...transcripciones-whisper/` | Transcripciones Whisper originales (sin corregir) | Julio 2026 |
+| `cartas-escaneadas/` | 2 cartas originales firmadas por Roque | Marzo 2025 + junio 2026 |
+| `whatsapp-roque/` | **Chat completo WhatsApp Gabi ↔ Dr. Roque Ramirez** (8 años) | Junio 2018 → junio 2026 |
+| `whatsapp-viviana/` | **Chat completo WhatsApp Gabi ↔ Viviana (Coordinadora)** (2.5 años) | Diciembre 2023 → julio 2026 |
+| `_chat.txt` | Chat completo con el abogado Carlos | Julio 2026 |
+| `dncp-adjudicaciones-odontologia3.md` | Adjudicaciones scrapeadas de la DNCP (73 contratos, ₲147B) | Histórico + sept 2026 |
+| `MANIFEST-SHA256.txt` | Hashes SHA-256 de todos los archivos del repo (cadena de custodia) | Sept 2026 |
+
+## Total de archivos de evidencia
+
+- **38 audios del chat con Carlos** (julio 2026)
+- **36 audios del chat con Roque** (2019-2022)
+- **31 audios del chat con Viviana** (2023-2024)
+- **67 fotos/stickers/videos**
+- **3 archivos de chat exportados**
+- **2 cartas escaneadas**
+- **Total: ~180 archivos** en esta carpeta
 
 ## Cadena de custodia
 
-Todos los archivos tienen un hash SHA-256 calculado al momento de la descarga del Drive original.
-
-- Algoritmo: SHA-256.
-- Cantidad: 166 archivos.
-- Última verificación: ver `git log`.
+Cada archivo tiene su hash SHA-256 en `MANIFEST-SHA256.txt`. Si se modifica algo, el hash cambia y se detecta inmediatamente.
 
 Para verificar la integridad:
 
 ```bash
-shasum -a 256 -c MANIFEST-SHA256.txt
+sha256sum --check 12-evidencia/MANIFEST-SHA256.txt
 ```
 
-## Tipos de archivo
+## Por qué hay DOS chats de WhatsApp con la clínica
 
-### `audios/` (38 archivos)
+1. **Chat Gabi ↔ Roque (8 años, 552 mensajes)** — prueba de la relación laboral personal-profesional íntima
+2. **Chat Gabi ↔ Viviana (2.5 años, 1241 mensajes)** — prueba de la coordinación cotidiana con la Coordinadora General
 
-Audios originales del chat de WhatsApp entre Gabi y Carlos, en formato `.opus`. Contienen las conversaciones clave del caso.
+**Ambos chats son críticos** porque refutan la tesis de "prestación de servicios independiente":
+- Una relación de 8 años con tono familiar ≠ relación comercial esporádica
+- Una relación cotidiana con la Coordinadora ≠ autonomía profesional
 
-- Fechas: 10/07/2026 – 17/08/2026.
-- Duración total: 22:52 minutos (1372 segundos).
-- Tamaño promedio por audio: 100–300 KB.
+## Hallazgos críticos en los chats
 
-### `cartas-escaneadas/` (2 archivos)
+### Chat Roque
 
-Fotografías de las dos cartas enviadas por la demandada a Gabi:
+- **Mensajes diarios de coordinación** — turnos, pacientes, fichas
+- **Tono informal/familiar** — Roque usa "Gabriela", Gabi le dice "donRa"
+- **Decisiones unilaterales de Roque** — "no hagas nada más", "avisame cuando esta"
+- **Continuidad hasta junio 2026** — el día que le enviaron la carta del 18/06/2026
 
-- `00000020-PHOTO-2026-07-10-19-08-51.jpg`: Carta del 26/03/2025 (primer apercibimiento).
-- `00000044-PHOTO-2026-07-10-19-19-07.jpg`: Carta del 18/06/2026 (segundo apercibimiento con amenaza).
+### Chat Viviana
 
-### `transcripciones-whisper/` (38 archivos)
+- **Coordinación operativa diaria** — turnos, reagendamientos
+- **Tono de colegas** — "maena vivi sabes todo de memoria"
+- **Mensajes del 13/07/2026 y 18/07/2026** — días inmediatamente después del cese (14/07/2026)
+- **Indicios de coordinación post-cese** — entrega de llaves, reagendamiento de pacientes
 
-Transcripciones automáticas con Whisper (modelo `small`, idioma español). Contienen errores de reconocimiento (nombres propios, jerga paraguaya).
+## Para Carlos
 
-### `transcripciones-corregidas/` (38 archivos)
+Estos chats son **la prueba más fuerte** de la relación laboral continua y personal:
+- **8 años** de chat con Roque = no es "prestación de servicios"
+- **2.5 años** de chat con Viviana = Gabi reportaba a la Coordinadora
+- **Mensajes del 18/07/2026** con Viviana = la relación continuaba después del cese formal
 
-Versión corregida manualmente de las transcripciones Whisper. Correcciones aplicadas:
+Recomendamos:
+1. **Solicitar pericia informática** de los archivos _chat.txt (verificar autenticidad)
+2. **Transcribir audios clave** que mencionen horarios, sanciones, IPS, vacaciones
+3. **Citar mensajes verbatim** en la demanda y en la audiencia
+4. **Considerar sumar a Viviana como testigo** (no era hostil al final)
 
-- Nombres propios: "odontología", "Roque", "Roque Ramírez Nizza", "masón", "licenciado", etc.
-- Jerga paraguaya: "hont...", "loquería 3", etc.
-- Muletillas y fonemas mal transcritos.
+## Privacidad
 
-### `_chat.txt`
-
-Chat completo de WhatsApp entre Gabi y su abogado patrocinante (Dr. Carlos). 1 archivo de texto con todo el historial.
-
-## Cómo NO usar esta carpeta
-
-- ❌ NO modificar los archivos originales.
-- ❌ NO agregar archivos aquí sin recalcular el hash.
-- ❌ NO eliminar archivos.
-- ❌ NO compartir fuera del equipo legal sin autorización.
-
-## Cómo SÍ usar esta carpeta
-
-- ✅ Verificar la integridad con el hash.
-- ✅ Referenciar los archivos en la demanda.
-- ✅ Hacer backup cifrado externo.
-- ✅ Presentar como prueba en el juicio (los originales son las cartas escaneadas y los audios).
-
-## Conexión con otras carpetas
-
-Esta carpeta es transversal al caso: los archivos de aquí son referenciados desde los análisis, los templates y los escritos judiciales.
-
-- **Legal** (`../03-legal/`) — usa los audios y cartas como prueba.
-- **Hechos** (`../02-hechos/`) — mapea cada hecho a un archivo de esta carpeta.
-- **Estrategia** (`../04-estrategia/`) — define el orden de presentación de las pruebas.
-- **Cuantificación** (`../05-cuantificacion/`) — usa el contrato para calcular la antigüedad.
-- **Análisis especializado** (`../08-analisis-especializado/`) — usa las cartas para análisis técnico.
+Todos los archivos son privados y están protegidos por patrocinio legal.
+NO publicar ni compartir fuera del expediente de Carlos.
