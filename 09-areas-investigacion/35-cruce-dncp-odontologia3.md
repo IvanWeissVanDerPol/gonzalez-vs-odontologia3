@@ -272,3 +272,92 @@ Ver [`../08-analisis-especializado/24-analisis-penal.md`](../08-analisis-especia
 - Verificar el SIPE mensualmente
 - Configurar alerta DNCP para Odontología 3
 
+---
+
+## 13. ⚠️ Contrato con Honorable Cámara de Diputados (NUEVO 18/09/2026)
+
+**Fuente:** Última Hora 03/12/2018 — https://www.ultimahora.com/diputados-gastan-usd-1-millon-dos-anos-arreglarse-los-dientes-n2782763
+
+**Hallazgo crítico:**
+
+> *"La administración de la Cámara Baja destina la suma de **G. 1.500.000 cada uno** en concepto de seguros médicos y odontológicos. [...] La proveedora se llama **Odontología 3**, con una cobertura del 100% y según su página web incluye todo tipo de tratamiento odontológico, estética, pediatría, ortodoncia, endodoncia, implantes, cirugías, periodoncia, ortopedia, prótesis hasta odontología legal y forense."*
+
+> *"El monto mínimo del contrato es de **G. 2.928.000 hasta la suma de G. 5.856.000.000 en forma plurianual (2017 y 2018)**."*
+
+> *"El representante de la empresa odontológica es el doctor **Roque Samuel Ramírez Nizza** de acuerdo al **contrato N° 58/2016** firmado con el ex diputado Velázquez."*
+
+**Implicaciones procesales adicionales:**
+
+1. **Documento contractual directo** con organismo del Estado — confirma relación cliente-proveedor con un cliente importante.
+2. **Dr. Roque es firmante del contrato N° 58/2016** en representación de O3 — implica poder de decisión pleno.
+3. **El contrato abarca 2017-2018**, periodo durante el cual Gabi trabajaba en O3 — posible prueba de que profesionales como Gabi atendían a los diputados.
+4. **El diputado Velázquez** (firmante del contrato por la Cámara) puede ser **testigo de la operatoria de O3**.
+5. **Cobertura 100%** implica que el servicio debería ser de calidad profesional (no PS) — refuerza la tesis de que O3 cobraba al Estado servicio "completo" pero prestaba con modelo PS.
+
+**Acción para Carlos:**
+- Verificar si el contrato N° 58/2016 incluye los profesionales que atendieron a los diputados.
+- Si la atención la prestaron profesionales en modelo PS, es prueba adicional del fraude sistémico.
+- Citar a Velázquez como testigo (si fue diputado 2017-2018, sigue siendo figura pública local).
+
+---
+
+## 14. ⚠️ Promedent S.A. (Odontos) — nueva adquisición (NUEVO 18/09/2026)
+
+**Fuente:** LinkedIn Gross Brown — https://es.linkedin.com/posts/grossbrown_grossbrown-mergersandacquisitions-legaladvisory-activity-7414387903134425088-iWgC
+
+**Hallazgo crítico:**
+
+Gross Brown (estudio jurídico argentino) asesoró a un grupo de compradores PY en la adquisición del 100% de la participación accionaria de:
+
+- **Promedent S.A. (Odontos Py)**
+- **Laboratorio Dental AG S.A. (Alta Gama)**
+
+**Compradores identificados:**
+- **Nicolás De Gásperi**
+- **Fabricio Serrati Campos Cervera**
+- **Alejandro Mussi**
+- **Colinas del Río S.A.** (persona jurídica)
+
+**Implicación procesal:**
+
+1. **Promedent cambió de dueño** — los actuales propietarios son nuevos inversores que pueden ser **más accesibles** que los anteriores.
+2. **Gross Brown** (abogados) puede ser **intermediario natural** para contactarlos.
+3. **Los compradores son inversores PY** del sector odontológico prepago — pueden ser aliados procesales naturales.
+4. **Laboratorio Dental AG S.A. (Alta Gama)** es una empresa vinculada — también podría usarse en la estrategia procesal.
+5. **Patrón procesal sugerido:**
+   - Ofrecer cooperación a Promedent (testimonio, información) sin pedirles que asuman costo.
+   - Si aceptan, coordinar declaración indagatoria en causa penal.
+   - Si no aceptan, evaluar si Promedent es citado como tercero en el proceso.
+
+**Acción para Carlos:**
+- Identificar a los compradores vía Padrón + Registro Público.
+- Contactar a través de Gross Brown o directamente.
+- Ofrecer acuerdo de cooperación procesal.
+- Ver archivo completo de la transacción si Gross Brown lo publica (link a LinkedIn).
+
+---
+
+## 15. ⚠️ Aníbal Ramírez (DNCP instructor 2018-2021) — competidor externo
+
+**Fuente:** LinkedIn https://py.linkedin.com/in/anibal-ramirez-230072124
+
+**Hallazgo crítico (relevante para recusación):**
+
+> El Abg. **Aníbal Ramírez** que protestó contra O3 en 2016 es el mismo que:
+> - Fue **Director General Jurídico de la Procuraduría General de la República** (enero 2018 - enero 2021).
+> - Fue **Instructor de la Dirección Nacional de Contrataciones Públicas** (DNCP).
+
+**Implicación procesal:**
+
+1. **No es familiar de la familia Ramírez Nizza** (es abogado del Estado, no odontólogo).
+2. **Aníbal Ramírez es competidor externo** de O3 (abogado, no odontólogo).
+3. **El nombre es común** — el de O3 (Roque) y el competidor (Aníbal) solo comparten el apellido, no la familia.
+4. La protesta de Aníbal contra O3 en 2016 refuerza que **O3 tenía competidores externos molestos desde hace una década**.
+
+**Acción:**
+- Descartar la teoría de parentesco Aníbal-Roque.
+- Confirmar con Padrón que no son parientes.
+- Si fueran parientes (¡improbable!), sería un escándalo mayor.
+
+---
+

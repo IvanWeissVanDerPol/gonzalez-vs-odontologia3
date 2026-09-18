@@ -187,7 +187,65 @@
 
 **Fuente:** https://www.iberley.es/jurisprudencia/sentencia-social-tribunal-supremo-sala-lo-social-18-9-25-48704958
 
+**Argumento clave del TS (NUEVO 18/09/2026): gestión de historia clínica como "prueba reina"**
+
+> Si los historiales clínicos, consentimientos informados y documentación son de la clínica y los profesionales acceden como parte del engranaje, hay integración organizativa incompatible con trabajador independiente.
+
+**Aplicación a Gabi:** Si la historia clínica de Gabi está en sistema de O3, es integración organizativa incompatible con trabajador independiente. **Carlos debe pedir pericia sobre quién gestiona las historias clínicas en O3.**
+
 ---
+
+### C.1.1. **STS 830/2025 (TS España, 24/09/2025) — *VDental SLP c/ TGSS* (⚠️ NUEVO 18/09/2026)
+
+**Hechos:** Empresa VDental SPA SLP (clínica dental) tenía 5 odontólogas con contratos de "arrendamiento de servicios". TGSS pidió recharacterización. Sentencia recurrida llegó al TS.
+
+**Decisión del TS:** El caso es **idéntico al Vitaldent (STS 33/2023)** — no hay laboralidad. Pero el TS utiliza un argumento clave nuevo:
+
+> *"quien controla la historia clínica y la documentación asistencial"*
+
+**Aplicación procesal:**
+- En el caso 2025 que **SÍ declaró laboralidad** (Sanitas), la clínica gestionaba la historia clínica.
+- En el caso 2025 que **NO declaró laboralidad** (VDental), la historia clínica también la gestionaba la clínica. **Pero las profesionales atendían en horarios flexibles, tenían otros clientes, y el flujo de pacientes no estaba controlado por la clínica**.
+
+**Para Gabi:** Si Gabi **gestionaba sus propias historias clínicas** → debilita caso. Si O3 **gestionaba todas las historias clínicas** → fortalece caso.
+
+**Acción para Carlos:** verificar en O3 cómo se gestionan las historias clínicas. Es una prueba clave.
+
+**Fuente:** https://vlex.es/vid/1092868835
+
+---
+
+### C.1.2. **Criterios consolidados (TS España 2018-2025) — Odontólogos en clínicas** (NUEVO 18/09/2026)
+
+**Fuente:** https://www.eldentistamoderno.com/texto-diario/mostrar/5823070/
+
+**Requisitos para considerar relación LABORAL:**
+
+✅ Criterio de laboralidad:
+- Actividad continuada de atención a pacientes
+- No pago de canon por uso de instalaciones
+- No asunción de riesgo de impago por la clínica
+- La clínica tiene poder de dirección (organización de jornadas)
+- La clínica custodia la historia clínica y la documentación
+- El paciente paga a la clínica, no al profesional
+
+❌ Criterio de NO laboralidad (adverso):
+- Actividad discontinua, horarios flexibles
+- Pago de canon por uso de instalaciones
+- Asunción de riesgo de impago
+- La clínica no tiene Dirección médica
+- El profesional gestiona su propia historia clínica
+- El paciente puede elegir al profesional o pagarle directamente
+
+**Para Gabi:**
+- ✅ O3 fija tarifas, Gabi atiende pacientes asignados
+- ✅ O3 fija horarios (14:30)
+- ✅ O3 organiza jornadas, sustituciones
+- ❓ ¿O3 gestiona la historia clínica? — **A VERIFICAR**
+- ❓ ¿Gabi paga canon? — Probablemente NO
+- ❓ ¿Gabi asume riesgo? — Probablemente NO
+
+**Recomendación: pericia informática sobre quién gestiona las historias clínicas en O3.**
 
 ### C.2. **STS 33/2023 — TS Sala Social — caso Vitaldent**
 
