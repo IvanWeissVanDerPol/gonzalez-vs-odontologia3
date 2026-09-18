@@ -265,83 +265,108 @@
 
 ---
 
-## 6. Perfil: La "Coordinadora Gral."
+## 6. Perfil: La "Coordinadora Gral." — Lic. Viviana Colman (¿o Dra. Viviana González?) ⚠️ ACTUALIZADO 18/09
 
 ### 6.1. Datos disponibles
 
-- Mencionada en carta 18/06/2026.
-- Identidad desconocida.
-- Probablemente personal administrativo de la clínica.
+- Mencionada en carta 18/06/2026 y chats con Gabi.
+- **Nombre en expediente:** "Lic. Viviana Colman"
+- ⚠️ **ALERTA NOMINAL**: Búsqueda del nombre "Viviana Colman" en Paraguay arroja una persona GERENTE de ZITRO (gaming machines) que **NO está vinculada a O3**. Hipótesis alternativa: la Coordinadora de O3 puede ser **Dra. Viviana González** (Rehabilitación Oral en O3 según web).
+- Mensaje post-cese (14/7/2026): *"Igualmente le voy a extrañar mucho Dra., su amabilidad y buena onda siempre 🥹❤️"* → **tono cordial, posible testigo amigable**.
 
 ### 6.2. Hipótesis
 
 - **Probablemente mujer** (la carta usa "Coordinadora" en femenino).
-- **Probablemente con menor jerarquía que Roque** pero con poder sobre los profesionales.
+- **Probablemente con menor jerarquía que Roque pero con poder sobre los profesionales** (asigna pacientes, organiza agenda).
 - **Probablemente leal a Roque** (no hay señales de conflicto interno).
-- **Probablemente vulnerable** a una presión judicial (testigo clave).
+- **Probablemente vulnerable** a una presión judicial (testigo clave amigable).
+- **Tiene WhatsApp activo** (registrado en auditoría seccional).
 
 ### 6.3. Estrategia
 
-- **Identificarla** antes de la audiencia.
+- **Urgente con Gabi:** confirmar nombre real de la Coordinadora antes de cualquier citación judicial. Si se cita a persona equivocada → nulidad procesal.
 - **No contactarla directamente** (es personal de la demandada).
 - **Citarla como testigo** en la fase probatoria.
-- **Prepararla** para el contrainterrogatorio si declara a favor de la demandada.
+- **Si declara amigable** (probable según chats): traer a colación los audios 43 ("no pagamos nada") para forzar careo.
+- **Posible codemanda:** si tiene poder decisorio (asignación de pacientes), puede ser code demandada solidariamente.
 
 ---
 
-## 7. Perfil: El "licenciado" de RR.HH.
+## 7. Perfil: La "Gerente de Operaciones y Servicios" — Lic. Verónica Amarilla Matto ⚠️ ACTUALIZADO 18/09
 
-### 7.1. Datos disponibles
+### 7.1. Datos disponibles (LinkedIn confirmado)
 
-- Respondió "no pagamos nada" a Gabi (audio 43).
-- Identidad desconocida.
+**LinkedIn verificado:** https://www.linkedin.com/in/ver%C3%B3nica-amarilla-matto-455a08163
+- **Cargo declarado:** "Gerente de Operaciones y Servicios - Odontología 3 (Current)"
+- **NO es "Licenciada en RR.HH."** (como decía el expediente original) — **ES GERENTE con poder decisorio real** sobre operaciones y servicios.
+- Trabaja en O3 desde hace tiempo.
 
-### 7.2. Hipótesis
+### 7.2. Audio 43 — "no pagamos nada"
 
-- Probablemente hombre o mujer con formación en RR.HH. o derecho.
-- Probablemente instruido por Roque sobre la línea de "no pagar nada".
-- Probablemente **testigo hostil pero valioso**: su admisión verbal puede ser usada en el juicio.
+La frase del "licenciado" en realidad puede haber sido dicha por **Verónica Amarilla**:
 
-### 7.3. Estrategia
+> *"La clínica no le va a pagar nada a usted. Pero si nos recumplimos no, por eso está todo estipulado en el contrato."* — Audio 43
 
-- **Identificar su nombre completo** (Gabi puede reconocerlo).
-- **Si declara a favor de la demandada**, contrainterrogatorio agresivo sobre la frase "no pagamos nada".
-- **Si declara a favor de Gabi**, oro puro.
-- **Si no quiere declarar**, solicitar su declaración por oficio (Art. 142 CPC).
+### 7.3. Cambio de tesis procesal
+
+⚠️ **Verónica Amarilla Matto es directamente demandable solidariamente como administradora de hecho con poder real.**
+
+- ❌ NO es "Lic. RR.HH. figura menor"
+- ✅ ES Gerente con acceso a decisiones de personal, contrataciones, sanciones
+
+### 7.4. Estrategia
+
+- **CITAR como TESTIGO** en primera instancia, para tener testimonio grabado.
+- **CO-DEMANDAR solidariamente** (Art. 147 Código Civil) si:
+  1. Se confirma parentesco con Aída Amarilla (familiar político o hermana)
+  2. Firmó cartas de apercibimiento
+  3. Tiene responsabilidad operativa sobre la facturación PS
+- **Careo potencial** con audio 43 si declara en sentido adverso a Gabi.
+- **Verificar Padrón** para cruce familiar y domicilios.
 
 ---
 
-## 8. Mapa de dinámica de poder
+## 8. Mapa de dinámica de poder (⚠️ ACTUALIZADO 18/09)
 
 ```
-                  Dr. Roque (D)
-                  /          \
-            Manuel (S)    Carlos (SI)
-                  \          /
-                   Gabi (IS)
-                       |
-            Coordinadora Gral. (?)
-                       |
-              Licenciado RR.HH. (?)
+                    Dr. Roque (D)
+                  /      |       \
+            José Manuel   Mario (hijo)    Verónica (Gerente)
+                (VP)      |                  |
+                  \      |      Ángel        /
+                   \     v    (Admin)       /
+                    \    |     |          /
+                     \   v    v         /
+                      Gabi (IS)
+                          |
+                   "Coordinadora Gral." (¿Viviana Colman / Viviana González?)
 ```
 
-**Relaciones clave:**
+**Relaciones clave (con datos confirmados):**
 
-| Relación | Tipo | Riesgo |
-|---|---|---|
-| Roque ↔ Manuel | Conocidos de masonería | Manuel no quiere intervenir |
-| Roque ↔ Carlos | Adversarios | Carlos tiene ventaja técnica |
-| Carlos ↔ Gabi | Patrocinante-cliente | Alta confianza, baja urgencia de firma |
-| Gabi ↔ Manuel | Ex-pareja | Distanciada, pero él la ayudó |
-| Gabi ↔ Coordinadora | Desconocida | Necesita identificación |
-| Gabi ↔ Licenciado | Desconocida | Necesita identificación |
+| Relación | Tipo | Riesgo | Fuente |
+|---|---|---|---|
+| Roque ↔ José Manuel | **Padre-hijo o hermano** (a verificar Padrón) | Endogamia empresarial | LinkedIn + ABC |
+| Roque ↔ Mario | Padre-hijo (CONFIRMADO) | Familiar directo en operación conjunta | ABC Color 2024 |
+| Roque ↔ Verónica | **Jefe-Gerente** (jerárquica formal) | Empleada con poder real | LinkedIn |
+| Roque ↔ Ángel | **Jefe-Administrador** | Vocero público | Última Hora/ABC |
+| Roque ↔ Carlos | Adversarios | Carlos tiene ventaja técnica | — |
+| José Manuel ↔ 6 entidades | Propietario/Vice | Solvencia ampliable | LinkedIn |
+| Carlos ↔ Gabi | Patrocinante-cliente | Alta confianza, baja urgencia de firma | — |
+| Gabi ↔ Coordinadora | Mixtas (post-cese cordial) | Testigo amigable potencial | chats |
+| Gabi ↔ Verónica | Empleada-Gerente | Testigo hostil/co-demandable | LinkedIn |
+| Gabi ↔ Manuel | Ex-pareja | Distanciada, pero él la ayudó | chats |
 
-**Dinámicas críticas:**
+**Dinámicas críticas (actualizadas):**
 
-1. **Roque domina Odontología 3 S.A.** pero **no tiene abogado** (probable). Esto es una ventaja para Gabi.
-2. **Manuel podría ser un testigo clave** pero **no quiere intervenir**. Esto es un riesgo.
-3. **La Coordinadora y el Licenciado** son piezas clave **desconocidas** por ahora.
-4. **Carlos es optimista pero lento en formalizar** (aún no ha recibido el poder). Esto es un riesgo de prescripción.
+1. **O3 tiene 4 hombres poderosos** (Roque, José Manuel, Mario, Ángel) + 1 mujer gerente (Verónica). Modelo patriarcal-familiar.
+2. **Modelo fraude previsional:** deliberado entre Roque (cara pública) y José Manuel (operativo real, multi-entidad).
+3. **José Manuel es Business Admin de la Católica** con 7+ años gestionando todo el grupo — sabe lo que hace.
+4. **Verónica como Gerente** tiene acceso a decisiones operativas — posible codemandada.
+5. **Mario firma contratos públicos con Roque** — co-responsable en contratos fraudulentos.
+6. **La Coordinadora y el "licenciado"** son piezas secundarias — posibles testigos amigables.
+7. **Carlos es optimista pero lento** en formalizar el poder. Riesgo de prescripción.
+8. **Manuel podría ser testigo** pero no quiere intervenir.
 
 ---
 
@@ -370,16 +395,30 @@
 
 ---
 
-## 10. Síntesis ejecutiva
+## 10. Síntesis ejecutiva (⚠️ ACTUALIZADO 18/09)
 
-| Parte | Motivación dominante | Estilo | Riesgo principal |
-|---|---|---|---|
-| **Gabi** | Justicia + recursos para proyecto | Cálida, decidida, agotada | Agotamiento emocional |
-| **Roque** | Control + ahorro | Autoritario, evasivo | Resistencia al pago |
-| **Carlos** | Éxito profesional + honorarios | Didáctico, optimista | Retraso en formalizar |
-| **Manuel** | Paz personal | Cuidadoso, distante | No querer declarar |
+| Parte | Motivación dominante | Estilo | Riesgo principal | Cargo confirmado |
+|---|---|---|---|---|
+| **Gabi** | Justicia + recursos para proyecto | Cálida, decidida, agotada | Agotamiento emocional | Actora |
+| **Dr. Roque** | Control + ahorro | Autoritario, evasivo | Resistencia al pago | Presidente + Rep. Legal |
+| **José Manuel Ramírez** | Maximizar utilidades multi-entidad | Operativo, mediático, eficiente | Dispersión patrimonial entre 6 entidades | Vicepresidente + Propietario 6 entidades |
+| **Dr. Mario Ramírez** | Beneficio familiar (discriminación positiva) | Joven, ambicioso | Co-responsabilidad directa en fraude | Odontólogo + Rep. Legal alt. MOPC |
+| **Ángel Valdez de Madariaga** | Defensa pública + representación | Vocero firme pero posiblemente nexo familiar | Vinculación familiar | Administrador público |
+| **Lic. Verónica Amarilla Matto** | Cumplir directivas gerenciales | Administrativa, corporativa | Admisión verbal ("no pagamos nada") | Gerente Operaciones y Servicios |
+| **Dra. Aída Amarilla Jojot** | Litisconsorte natural (mismo modelo) | Odontóloga, técnica | Posible discriminación familiar | Operatoria dental |
+| **"Coordinadora"** | Cumplir agenda + relaciones | Cordial post-cese | Testimonio amigable | (¿Viviana Colman/González?) |
+| **Dr. Carlos** | Éxito profesional + honorarios | Didáctico, optimista | Retraso en formalizar | Abogado patrocinante |
+| **Manuel** | Paz personal | Cuidadoso, distante | No querer declarar | Ex-pareja Gabi |
 
-**Recomendación de gestión:** mantener a Gabi empoderada, a Carlos apurado, a Manuel tranquilo, y a Roque negociando.
+**Recomendación de gestión (actualizada):**
+1. Mantener a **Gabi empoderada**
+2. Apresurar a **Carlos** a firmar el poder
+3. Mantener a **Manuel tranquilo**
+4. Identificar y citar a la **Coordinadora** como testigo
+5. Considerar **co-demanda** de las 5 cabezas (Roque + JM + Mario + Ángel + Verónica)
+6. Preparar **querella penal** con precedentes de IPS Quirófanos
+7. Solicitar **embargo sobre las 7 entidades** del grupo (inoponibilidad de velo)
+8. Considerar **acción colectiva** sumando exempleados
 
 ---
 
