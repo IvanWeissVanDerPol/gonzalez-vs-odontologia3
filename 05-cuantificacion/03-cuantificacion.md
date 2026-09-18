@@ -280,14 +280,65 @@ Presentar demanda por **Gs. 300.000.000** (parte alta del rango), pidiendo:
 > Gabi declaró que **no acepta acuerdo en cuotas** (cuestionario v2 §9.3.6) y que **no puede esperar mucho** (cuestionario v2 §9.3.5) — está en "defaull" económico al 12/09/2026. Esto **endurezce la posición negociadora**: Carlos debe presionar por pago contado o a muy corto plazo.
 
 > **Análisis de sensibilidad adicional (NUEVO):**
->
-> | Escenario | Cuantía demandada | Cuantía recuperada (est.) | Comentario |
-> |---|---|---|---|
-> | Conciliación temprana (alta presión probatoria) | Gs. 300M demandados | Gs. 180–220M | Optimal given financial pressure on Gabi |
-> | Conciliación extendida | Gs. 300M demandados | Gs. 150–180M | Carlos debe evitar este escenario |
-> | Sentencia favorable 1ª instancia | Gs. 300M demandados | Gs. 200–270M | Demora 12–24 meses — riesgo de insolvencia |
-> | Sentencia desfavorable | Gs. 300M demandados | Gs. 0 + Gs. 5–15M en costas | 5% probabilidad |
-> | Acción colectiva (50+ colegas) | Gs. 300M × N demandantes | Multiplicador 5–10x | Cambia radicalmente la presión sobre la demandada |
+
+| Escenario | Cuantía demandada | Cuantía recuperada (est.) | Comentario |
+|---|---|---|---|
+| Conciliación temprana (alta presión probatoria) | Gs. 300M demandados | Gs. 180–220M | Optimal given financial pressure on Gabi |
+| Conciliación extendida | Gs. 300M demandados | Gs. 150–180M | Carlos debe evitar este escenario |
+| Sentencia favorable 1ª instancia | Gs. 300M demandados | Gs. 200–270M | Demora 12–24 meses — riesgo de insolvencia |
+| Sentencia desfavorable | Gs. 300M demandados | Gs. 0 + Gs. 5–15M en costas | 5% probabilidad |
+| Acción colectiva (50+ colegas) | Gs. 300M × N demandantes | Multiplicador 5–10x | Cambia radicalmente la presión sobre la demandada |
+
+---
+
+## 9. ⚠️ Cuantificación penal paralela (NUEVO 18/09/2026)
+
+⚠️ Si se activa la vía penal (Art. 196 CP retención indebida + Art. 187 CP estafa procesal + Art. 192 CP lesión de confianza), hay una **cuantificación penal adicional**.
+
+### 9.1. Cuantificación civil en querella penal
+
+| Concepto | Monto |
+|---|---|
+| Daño material (aportes no ingresados al IPS, 12 años) | **₲ 195.000.000** |
+| Daño moral (ver [`../03-legal/23-dano-moral-y-salud.md`](../03-legal/23-dano-moral-y-salud.md)) | ₲ 30.000.000 – 80.000.000 |
+| Lucro cesante (12 meses sin ingresos, base ₲ 4.500.000 × 12) | **₲ 54.000.000** |
+| **Subtotal cuantificación civil penal** | **₲ 279M – 329M** |
+
+### 9.2. Penalidades adicionales
+
+| Concepto | Monto |
+|---|---|
+| Multa Art. 283 CT (no inscripción IPS, 5 jornales mínimos × cada mes × 12 años) | ₲ 27.000.000 |
+| Decomiso del beneficio indebido (Art. 197 CP) | Variable |
+| **TOTAL en querella penal** | **₲ 306M – 356M** |
+
+### 9.3. Anclaje procesal penal
+
+| Concepto | Anclaje (mínimo) | Anclaje (recomendado) |
+|---|---|---|
+| Embargo preventivo penal | ₲ 2.000.000.000 | **₲ 4.000.000.000** (4x quantum) |
+| Prohibición de salida del país de los 5 querellados | (a discreción del juez) | (a discreción) |
+| Caución real de los querellados | ₲ 500.000.000 c/u | (a discreción) |
+
+### 9.4. Cálculo consolidado ⚠️ (LABORAL + PENAL)
+
+| Vía | Quantum | Status |
+|---|---|---|
+| **Demanda laboral** (cuantía Gs. 300M) | ₲ 300M | Gabi vs. O3 S.A. + 5 cabezas |
+| **Querella penal** (civil ₲ 300M + decomiso) | ₲ 300–360M | Gabi vs. Roque + 4 cabezas |
+| **Embargo preventivo laboral** | ₲ 2.000M – 4.000M | 6 entidades + 4 personas físicas |
+| **Embargo preventivo penal** | ₲ 2.000M – 4.000M | (mismo, pero vía penal) |
+| **Total combinado recuperable** | **₲ 1.000M – 1.500M** | Estimación real con honorarios + descuentos |
+
+> **⚠️ Conclusión crítica:** Las dos vías juntas (laboral + penal) NO multiplican el recupero. Pero **sí fortalecen la posición negociadora** de Gabi al obligar a Roque a litigar en dos fueros simultáneamente con un riesgo combinado de **embargo ₲4.000M + prisión preventiva + inhabilidad DNCP (perdería ₲147B en contratos públicos)**.
+
+### 9.5. Recuperabilidad efectiva del patrimonio del grupo (estimación revisada)
+
+⚠️ **El patrimonio del grupo es suficiente para cubrir la condena consolidada.** Ver [`../08-analisis-especializado/15-solvencia.md`](../08-analisis-especializado/15-solvencia.md) §9 actualizado.
+
+---
+
+*Documento cuantitativo. Carlos debe verificar todos los números con pericia contable y corroborar con Gabi. La cuantificación penal es estimativa y está sujeta a la inflación del proceso.*
 
 ---
 
