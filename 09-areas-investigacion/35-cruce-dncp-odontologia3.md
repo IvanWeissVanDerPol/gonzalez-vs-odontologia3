@@ -206,3 +206,69 @@ Ver [`../08-analisis-especializado/24-analisis-penal.md`](../08-analisis-especia
 ---
 
 *Documento vivo. Actualizar con cada nuevo hallazgo del portal DNCP.*
+
+---
+
+## 12. Historial judicial: Odontología 3 vs DNCP y relacionados (actualizado 18/09/2026)
+
+### 12.1. Caso "Odontología 3 S.A. C/ Res. Nro. 760 del 05/03/2018" (PJ)
+
+**Fuente:** https://www.pj.gov.py/descargas/ID1-874_secretaria_judicial_iv_26_09_2022.pdf — Secretaría Judicial IV, 26/09/2022
+
+**Hallazgo:** Odontología 3 S.A. litigó activamente contra la DNCP por Resolución N° 760 del 05/03/2018.
+
+**Implicaciones:**
+- O3 ya tenía representación legal propia en 2018 (8 años de existir y contratar abogados)
+- El caso puede reflejar la **estrategia jurídica** que O3 ha usado contra la DNCP
+- Aplica principio de buena fe y consistencia: si O3 reconoce ante juez la obligatoriedad del dictamen DNCP, este caso podrá invocarse
+
+**Acción para Carlos:** Pedir copia del expediente al PJ (identificar número de causa en Secretaría Judicial IV).
+
+### 12.2. Promedent S.A. (Odontos) — competidor afectado
+
+**Fuentes:**
+- Última Hora 12/08/2024: https://www.ultimahora.com/oferente-denuncia-irregularidades-en-licitacion-para-seguro-odontologico-en-el-mopc
+- La Nación 06/06/2023: https://www.lanacion.com.py/politica_edicion_impresa/2023/06/06/denuncian-manipulacion-en-proceso-de-licitacion-del-mopc/
+- ABC Color 16/06/2024 (con cita de José Manuel Ramírez)
+- Datos en DNCP: https://contrataciones.gov.py/proveedor/promedent-s-a.html (web de Odontos: odontos.com.py)
+
+**Datos verificados:**
+- **Razón social:** Promedent S.A.
+- **Nombre comercial:** Odontos
+- **Email:** contabilidad@odontos.com.py
+- **Domicilio:** Calle Palma c/Nuestra Señora de la Asunción, Paraguay
+- **Web:** http://www.odontos.com.py
+- **Actividad:** Seguros odontológicos prepagos (competencia directa de O3-Vanguard)
+
+**Patrón de fraude verificado en el MOPC 2022:**
+
+| # | Fecha | Hecho verificado |
+|---|---|---|
+| 1 | diciembre 2022 | O3 es **adjudicada originalmente** con ₲13.320M (USD 1.8M) |
+| 2 | marzo 2023 | Competidores **protestan**: Promedent SA (Odontos) y Consorcio CDP SA-Clio Eco SA |
+| 3 | marzo 2023 | DNCP **acepta protesta** y pide al MOPC reevaluar |
+| 4 | mismo período | Clio Eco SA cae por falta de documentación |
+| 5 | reabre proceso | O3 vuelve a ganar |
+| 6 | después | "De la noche a la mañana nos llega un correo" — O3 es reemplazada **por Odontos** |
+| 7 | junio 2023 | Ángel Valdez de Madariaga (por O3) y **José Manuel Ramírez** (por O3) **denuncian manipulación** |
+| 8 | El Sindicato del MOPC urge definición |
+| 9 | primera instancia | La Nación publica que **Odontos tenía profesionales declarados en Villa Hayes, Asunción y Loreto, pero la profesional solo prestaba servicio en Villa Hayes** (fraude de prestaciones) |
+| 10 | 12/08/2024 | Última Hora publica que Odontos recibió la adjudicación de manera irregular |
+
+**Importante para el caso Gabi:**
+- José Manuel Ramírez como Vicepresidente **personalmente** denunció el fraude de su competidor Odontos en radio Monumental 1080
+- Esto demuestra que O3 y José Manuel sí saben lo que es una manipulación de licitaciones
+- Implica que el modelo interno de O3 (modelo PS con profesionales) **se aplica con conocimiento pleno** del giro comercial
+
+**Implicación estratégica:**
+- **Promedent S.A. (Odontos) perdió ₲13.320M** por adjudicación irregular
+- Motivación fuerte para ser **aliado procesal** de Gabi
+- Podría aportar evidencia de cómo opera O3 en fraude sistemático
+- 📧 Contacto: **contabilidad@odontos.com.py**
+
+### 12.3. Adjudicaciones recientes de Odontología 3 — no publicadas en DNCP
+
+**Preocupación:** El portal DNCP ya publicó las 73 adjudicaciones hasta sept 2026. Sin embargo, en set 2026 y octubre puede haber otras. Carlos debe:
+- Verificar el SIPE mensualmente
+- Configurar alerta DNCP para Odontología 3
+

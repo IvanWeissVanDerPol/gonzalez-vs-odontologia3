@@ -349,14 +349,16 @@ Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odon
 
 ---
 
-## 9.5. Verificación negativa (lo que NO existe públicamente)
+## 5. Verificación negativa (lo que NO existe públicamente) — ACTUALIZADO 18/09/2026
 
-> **Confirmado por investigación exhaustiva con 2 subagentes paralelos (12/09/2026):**
+> **Confirmado por investigación exhaustiva con 2 subagentes paralelos (12/09/2026) y por verificación adicional (18/09/2026):**
 
 - **Cero artículos de prensa** sobre fraude laboral específico contra Odontología 3 S.A. o Roque Ramírez Nizza en ABC, Última Hora, La Nación, El Nacional, Pressreader, DPL News o InfoNegocios.
 - **Cero sentencias CSJ** encontradas para los términos "Odontologia 3", "Ramirez Nizza", "Ramirez", "Nizza", "Roque Samuel", "fraude laboral", "recharacterización", "80010293-2" (19 queries ejecutadas).
-- **No existe perfil público de Roque Ramírez Nizza** en Facebook o LinkedIn (sólo aparece como profesional de la clínica en su web).
-- **No existe Colegio de Odontólogos del Paraguay con web pública identificable** — cop.org.py es el Comité Olímpico Paraguayo (falso positivo).
+- **No existe perfil público de Roque Ramírez Nizza** en Facebook ni LinkedIn (sólo aparece como profesional de la clínica en su web).
+- **✅ Confirmado Colegios Odontólogos del Paraguay: COP `cop.com.py`** (no `cop.org.py` = Comité Olímpico). Gral. 980 c/Colón, tel (021) 493 296, secretaria@cop.com.py, 2000 miembros.
+- **✅ Perfil público del Vicepresidente de O3** en LinkedIn: José Manuel Ramírez (Feb 2019 – presente).
+- **✅ Ángel Valdez de Madariaga** confirmado como administrador y representante de O3 en medios (Última Hora, ABC, La Nación).
 - **No hay expediente público del Ministerio Público** contra Roque.
 - **Ministerio Público (ministeriopublico.gov.py) inaccesible** por DNS desde este host.
 - **iGlobal rating 2.33★** — múltiples quejas de "no contestan el teléfono" (menor pero útil para daño reputacional).
