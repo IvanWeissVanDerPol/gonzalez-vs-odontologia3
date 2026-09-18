@@ -35,12 +35,15 @@
 |---|---|---|
 | Wayback 2022-04-19 | 19/04/2022 | ✅ LISTADA (cita textual en archivo) |
 | Wayback 2025-03-18 | 18/03/2025 | ✅ LISTADA (cita textual en archivo) |
+| Wayback 2025-06-13 | 13/06/2025 | ❌ AUSENTE |
+| Wayback 2025-09-07 | 07/09/2025 | ❌ AUSENTE |
+| Wayback 2025-10-11 | 11/10/2025 | ❌ AUSENTE |
 | Hoy (captura propia) | 18/09/2026 | ❌ AUSENTE |
 
-- La página declara `dateModified: 2025-12-04` → la remoción ocurrió **entre 18/03/2025 y 04/12/2025**.
+- **Ventana de remoción acotada: entre 18/03/2025 y 13/06/2025** (Q2 2025 — el mismo período del escrutinio DNCP sobre el contrato MOPC de O3 y de la operación "ruidito" del 20/05/2025 documentada en las sesiones 21-22).
 - Cinthia Ventre = odontopediatra en Clínica Odontología 3 desde marzo 2014 (LinkedIn propio, 12 años) y **testigo clave** del caso.
-- **Qué prueba esto:** (a) era parte de la plantilla O3 (rosto oficial durante 10+ años), (b) hubo **depuración del roster público** en 2025 — consistente con limpieza de exposición cuando el conflicto laboral se manifestó.
-- **Snapshots adicionales para afinar la fecha exacta** (existen, no descargados aún): 2022-12-06, 2025-06-13, 2025-09-07, 2025-10-11. Carlos puede pedirlos o el equipo puede bajarlos en 5 minutos para acotar la ventana (útil para la narrativa temporal de la demanda).
+- **Qué prueba esto:** (a) era parte de la plantilla O3 (roster oficial durante 10+ años), (b) hubo **depuración del roster público** en Q2 2025 — consistente con limpieza de exposición cuando el conflicto laboral se manifestó.
+- **Snapshots adicionales:** ya descargados todos (los 6 que existen según CDX con `collapse=digest`; el "2022-12-06" que listó la API de availability no aparece en CDX = no existe como captura real). Ventana clavada: Q2 2025.
 - **Cuidado con la causalidad:** no afirmar que la quitaron *por* el caso Gabi sin datos de fecha del conflicto. El hecho objetivo y suficiente: era plantilla O3 durante 12 años (roster oficial + LinkedIn) y el roster fue purgado en 2025.
 
 ---
@@ -75,19 +78,18 @@ Del roster y home de O3 (capturados hoy):
 
 ---
 
-## 6. Inventario Wayback completo de la página de profesionales (para Carlos)
+## 6. Inventario Wayback completo de la página de profesionales (CDX, cerrado)
 
-7 snapshots existentes:
+6 snapshots reales según CDX (`collapse=digest`), **todos descargados y hasheados**:
 ```
-2022-04-19  ✅ descargado (Ventre presente)
-2022-12-06  pendiente
-2025-03-18  ✅ descargado (Ventre presente)
-2025-06-13  pendiente (descargar para acotar remoción)
-2025-09-07  pendiente
-2025-10-11  pendiente
-2026-01-13  ✅ descargado (Ventre ausente)
+20220419094857  ✅ descargado — Ventre PRESENTE
+20250318002737  ✅ descargado — Ventre PRESENTE
+20250613162643  ✅ descargado — Ventre AUSENTE
+20250907235940  ✅ descargado — Ventre AUSENTE
+20251011065840  ✅ descargado — Ventre AUSENTE
+20260113025147  ✅ descargado — Ventre AUSENTE
 ```
-Recomendación: descargar los 4 pendientes y clavar la semana exacta de remoción de Ventre. Costo: minutos. Valor: precisión temporal para la demanda y para cualquier pericia informática cruzada con logs.
+Ventana de remoción: **(18/03/2025, 13/06/2025]** — clavada con 6 puntos de evidencia hasheados.
 
 ---
 
