@@ -636,6 +636,114 @@ Si tuviera que elegir solo **10 items** que más valor aportan:
 
 ---
 
+## ⚠️ ANEXO 18/09/2026 — Gap analysis actualizado con nuevos descubrimientos
+
+> **Como resultado de la investigación profunda N°1-4, el gap analysis original se ha ampliado con:**
+> - 5 cabezas del gobierno corporativo (Roque, José Manuel, Mario, Ángel, Verónica)
+> - 7 entidades del grupo económico (O3, Santé, La Merced, Vanguard, Scultura, La Casa del Odontólogo, Tecnodent)
+> - 5 precedentes análogos vivos (Superintendencia de Salud + IPS Quirófanos + caso Sanitas TS España + SCS Venezuela 724/2016 + CSJ Colombia Villavicencio)
+
+### Z.1. ⚠️ Datos urgentes nuevos (5 cabezas del gobierno corporativo)
+
+| # | Persona | Dato crítico | Fuente | Plazo |
+|---|---|---|---|---|
+| 1 | **José Manuel Ramírez** | C.I. + fecha nacimiento + domicilio + parentesco con Roque | Padrón Electoral | Semana 1 post-poder |
+| 2 | **José Manuel Ramírez** | Composición accionaria en las 6 entidades del grupo | Registro Público | Mes 1 |
+| 3 | **Dr. Mario Ramírez** | C.I. + acta nacimiento (confirmar parentesco padre-hijo con Roque) | Registro Civil + Padrón | Semana 1 |
+| 4 | **Ángel Valdez de Madariaga** | C.I. + parentesco con Ramírez (¿de Madariaga es apellido casado? ¿esposa de alguien de la familia?) | Padrón cruce | Mes 1 |
+| 5 | **Lic. Verónica Amarilla Matto** | C.I. + domicilio + cargo formal en O3 (Gerente) + parentesco con Aída Amarilla | Padrón cruce | Semana 1 |
+| 6 | **Dra. Aída Analy Amarilla Jojot** | C.I. + parentesco con Verónica + IPS-UNA desde 1994 (verificar si es compatible con PS en O3) | Padrón | Mes 1 |
+
+### Z.2. ⚠️ Datos sobre las 7 entidades del grupo económico
+
+| # | Entidad | Dato | Fuente | Plazo |
+|---|---|---|---|---|
+| 1 | Odontología 3 TRES S.A. | Composición accionaria histórica + actual | Registro Público | Mes 1 |
+| 2 | Clínica Santé | RUC + composición + representante legal | SET + Registro Público | Mes 1 |
+| 3 | Clínica La Merced | RUC + composición + representante legal | SET + Registro Público | Mes 1 |
+| 4 | Vanguard (pre-paga) | RUC + composición + representante legal + estado Superintendencia | SET + Registro Público | Mes 1 |
+| 5 | Scultura S.A. | RUC + composición + representante legal | SET + Registro Público | Mes 1 |
+| 6 | La Casa del Odontólogo S.A. | RUC + composición + representante legal | SET + Registro Público | Mes 1 |
+| 7 | Tecnodent | RUC + composición + representante legal | SET + Registro Público | Mes 1 |
+| 8 | **TODAS** | Certificación de que comparten domicilio fiscal, contador, abogado | Análisis cruzado | Mes 1-2 |
+
+### Z.3. ⚠️ Datos sobre la Superintendencia de Salud
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | Copia completa de la auditoría preventiva a O3 S.A. del 1-13 agosto 2025 (N° 45) | Superintendencia Salud (`superintendenciadesalud.gov.py/auditorias-contables-2025/`) | Mes 1 |
+| 2 | Copia completa de la auditoría preventiva a Scultura-Vanguard del 2-15 julio 2025 (N° 37) | Superintendencia Salud | Mes 1 |
+| 3 | Copia completa de la auditoría a O3 del 13-29 agosto 2024 (N° 40) | Superintendencia Salud | Mes 1 |
+| 4 | Copia de los 6 casos jurídicos análogos publicados en su web | Superintendencia Salud (`/auditorias-juridicas/`) | Mes 1 |
+| 5 | Verificar si la Superintendencia tiene expediente abierto de O3 actualmente | Superintendencia Salud (consulta directa) | Mes 1 |
+
+### Z.4. ⚠️ Datos del DNCP
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | Copia del CASO N° 294 — Investigación Preliminar del 10/09/2018 contra O3 | DNCP (oficio) | Mes 1 |
+| 2 | Copia de la Resolución N° 760 del 05/03/2018 que O3 litigó contra | DNCP (oficio) | Mes 1 |
+| 3 | Identificar al oferente competidor que denunció irregularidades en MOPC 2024 (Promedent S.A. — "Odontos") | DNCP + Última Hora | Mes 1 |
+
+### Z.5. ⚠️ Datos de MOPC y ABC 16/06/2024
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | Copia del expediente periodístico completo del dictamen N° 11 que anuló MOPC 2023 | ABC Color | Mes 1 |
+| 2 | Datos del periodista que publicó el artículo (para citación si va a juicio) | ABC Color | Mes 1 |
+| 3 | Datos de la oferente Promedent S.A. para posible aliado procesal | DNCP | Mes 1 |
+
+### Z.6. ⚠️ Datos de la grabación de la reunión 18/06/2026
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | **Confirmar que la grabación existe en el celular de Gabi** | Gabi (memoria) | Semana 1 |
+| 2 | **Captura de pantalla con fecha/hora del archivo de audio** | Gabi (memoria) | Semana 1 |
+| 3 | **Pericia forense de la grabación (extracción + hash + cadena de custodia)** | ForenLab Paraguay (`forenlab@peritosinformaticos.net`) | Sprint 1 |
+
+### Z.7. ⚠️ Datos del Círculo de Odontólogos del Paraguay (COP)
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | Matrícula + vigencia + eventuales sanciones de Roque, José Manuel, Mario, Verónica, Aída, Gloria, Viviana, Gabi | COP (`secretaria@cop.com.py`) | Mes 1 |
+| 2 | Verificar si la COP tiene procedimiento disciplinario contra O3 por uso de PS con profesionales | COP | Mes 1 |
+
+### Z.8. ⚠️ Datos del registro de la reunión 18/06/2026 con la Coordinadora
+
+| # | Dato | Fuente | Plazo |
+|---|---|---|---|
+| 1 | Quién la convocó (verificar si fue la Coordinadora o la Gerenta) | Carta 18/06/2026 | Confirmado |
+| 2 | Quién la presidió (¿Roque, la Coordinadora, otro?) | Carta | Confirmado |
+| 3 | Quiénes estuvieron presentes (incluyendo Gabi) | Gabi (memoria) | Semana 1 |
+| 4 | Minuta o grabación de la reunión (si existe) | Clínica | Mes 1 |
+
+### Z.9. ⚠️ Plan de acción consolidado
+
+**Fase 1 (Semana 1 post-firma de poder):**
+1. Carlos verifica su matrícula del Colegio de Abogados
+2. Padrón Electoral: cruces de parentesco clave (Roque-Mario, Aida-Verónica, José Manuel-Roque)
+3. Confirmar nombre real de la Coordinadora con Gabi
+4. Confirmar si Gabi atendía en La Merced (Luque)
+
+**Fase 2 (Sprint 1 - Mes 1):**
+1. Oficiar a Superintendencia de Salud por auditorías
+2. Oficiar a DNCP por CASO N° 294 + Resolución N° 760
+3. Oficiar a Registro Público por composición de las 7 entidades
+4. Contactar ForenLab Paraguay para pericia
+5. Verificar grabación de la reunión 18/06/2026
+
+**Fase 3 (Sprint 2 - Mes 2):**
+1. Contactar Promedent S.A. (aliado procesal)
+2. Identificar exempleados de O3 que quieran sumarse
+3. Confirmar parentesco Aída-Verónica con Padrón
+
+**Fase 4 (Mes 3+):**
+1. Preparar querella penal (si aplica)
+2. Preparar demanda laboral ampliada
+3. Ejecutar embargo sobre las 7 entidades
+
+---
+
 *Documento vivo. Se actualiza a medida que se completan items.*
 
 # Fin del gap analysis
