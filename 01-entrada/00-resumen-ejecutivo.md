@@ -1,163 +1,110 @@
-# González Pane c/ Odontología 3 S.A. — Análisis Exhaustivo del Caso
+# 00 · Resumen Ejecutivo
 
-> **Repositorio de análisis legal y estratégico del caso laboral de la Dra. Gabriella María González Pane contra Odontología 3 S.A. y el Dr. Roque S. Ramírez Nizza, Asunción, Paraguay.**
-
-> **Status:** Borrador para revisión por el abogado patrocinante (Dr. Carlos).
-> **Privacidad:** los nombres reales están en los documentos internos; este repositorio es **público** por decisión del usuario que lo subió. Si necesitás una versión anonimizada, decime y la genero.
+> *Para decisión rápida. El detalle está en los otros documentos.*
 
 ---
 
-## Qué hay aquí
+## Las partes
 
-Expediente completo y estratégico con:
-
-- **40 documentos markdown** de análisis jurídico, estratégico, táctico, comunicacional, psicológico, financiero, previsional, tributario, penal, comparado, tecnológico y templates procesales.
-- **+ 13 templates procesales** (poder, conciliación, oficios, cartas, interrogatorios, embargo, prueba, alegatos, apelación, casación, querella, investigación, OSINT, etc.).
-- **+ 12 docs operativos y estratégicos** (gap analysis, plan de acción, protocolo, guía, cuestionario, investigación profunda, licitaciones, jurisprudencia internacional, bloque constitucionalidad, juez, presupuesto, cronograma, impacto post-sentencia, checklist diario, redes, escenarios negativos).
-- **+ 1 análisis multiperspectiva** (40 profesionales).
-- **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).
-- **38 audios originales** (`.opus`, `12-evidencia/audios/`).
-- **76 transcripciones** (Whisper + corregidas, en `12-evidencia/transcripciones-*`).
-- **1 chat completo** (`12-evidencia/_chat.txt`).
-- **SHA-256** de los 199 archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
-
----
-
-## Estructura (12 carpetas temáticas)
-
-```
-gonzalez-vs-odontologia3/
-├── README.md                          ← este archivo
-├── ESTRUCTURA.md                      ← mapa completo de carpetas + archivos
-│
-├── 01-entrada/                        ← qué leer primero (00-resumen, 22-índice)
-├── 02-hechos/                         ← cronología + prueba + mapa evidencia
-├── 03-legal/                          ← tesis + jurisprudencia + borrador demanda
-├── 04-estrategia/                     ← plan procesal + plazos + adversarial
-├── 05-cuantificacion/                 ← damages + VPN + escenarios
-├── 06-personas/                       ← perfiles + red social + negociación
-├── 07-comunicacion/                   ← medios + manual táctico canal × canal
-├── 08-analisis-especializado/         ← 8 análisis verticales (solvencia, penal, etc.)
-├── 09-areas-investigacion/            ← 200 áreas + bibliografía + glosario
-├── 10-riesgos-personales/             ← matriz de riesgos + seguridad personal
-├── 11-arquitectura-caso/              ← backups, alertas, monitoreo, contingencia
-├── 12-evidencia/                      ← evidencia original INMUTABLE
-├── 13-templates-procesales/           ← formularios listos para Carlos
-├── 57-checklist-de-mejoras.md         ← 35 mejoras priorizadas
-├── 58-plan-de-accion.md               ← timeline 12 meses
-├── 59-protocolo-de-emergencia.md      ← 14 escenarios de crisis
-├── 60-guia-rapida-para-gabi.md        ← hoja de ruta personal
-└── 55-cuestionario-gabi-LLENO.md      ← cuestionario con opciones
-```
-
-Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
-
----
-
-## TL;DR
-
-| Concepto | Valor |
+| | |
 |---|---|
-| Tipo de caso | Acción laboral declarativa + cobro de prestaciones |
-| Demandada | Odontología 3 S.A. (Dr. Roque S. Ramírez Nizza) |
-| Pretensión principal | Recharacterización de contrato PS → laboral dependiente |
-| Pretensión subsidiaria | Reincorporación por estabilidad absoluta (Art. 94 CT) |
-| Antigüedad | 12 años y 6 meses |
-| Cuantía estimada | Gs. 300–400M |
-| Plazo de prescripción | Hasta 14/07/2027 (322 días restantes al 17/08/2026) |
-| Probabilidad de éxito | 85–95% (estimación Carlos) |
-| VPN esperado del litigio | Gs. 90.7M netos (354% ROI) |
-| Acción inmediata | Firma del poder + inicio de oficios al IPS y SET |
+| **Cliente** | Dra. Gabriella María González Pane |
+| **Demandada** | Odontología 3 S.A. |
+| **Representante** | Dr. Roque S. Ramírez Nizza |
+| **Patrocinante** | Dr. Carlos (Abog.) |
 
 ---
 
-## Cómo usar este repo (por audiencia)
+## El problema en una línea
 
-### Si sos el abogado patrocinante (Dr. Carlos)
+Gabi trabajó 12,5 años como odontóloga en Odontología 3 S.A. con horario fijo, coordinación por jefes internos, sanciones disciplinarias y decisión unilateral de "continuidad" — pero la empresa la tenía contratada bajo un **"Contrato de Prestación de Servicios"** y, al momento del cese, le dijo que **no le correspondía ninguna indemnización** ("La clínica no le va a pagar nada a usted. Pero si nos recumplimos no, por eso está todo estipulado en el contrato." — audio 43, transcripción de la respuesta del "licenciado" de RR.HH.).
 
-1. `01-entrada/00-resumen-ejecutivo.md` (1 página, 1 minuto).
-2. `02-hechos/01-hechos-y-cronologia.md` (timeline).
-3. `03-legal/16-borrador-demanda.md` (borrador listo para presentar).
-4. `03-legal/13-jurisprudencia.md` (citas a verificar en el Buscador de la CSJ).
-5. `04-estrategia/05-estrategia-procesal.md` (plan paso a paso).
-6. `04-estrategia/06-prescripcion-y-plazos.md` (qué urge).
-5. `09-areas-investigacion/34-bibliografia-glosario.md` (bibliografía + glosario + búsqueda jurisprudencia).
-6. `13-templates-procesales/35-poder-para-juicios.md` (poder listo para Gabi firmar).
-7. `13-templates-procesales/36-escrito-conciliacion.md` (escrito de conciliación administrativa).
-8. `13-templates-procesales/37-oficios.md` (8 oficios listos para enviar).
-9. `13-templates-procesales/38-cartas-documento.md` (cartas documento).
-10. `13-templates-procesales/39-interrogatorios.md` (preguntas para audiencias).
-11. `56-analisis-40-roles.md` (40 profesionales analizando el caso).
-12. `57-checklist-de-mejoras.md` (35 mejoras priorizadas).
-13. `58-plan-de-accion.md` (timeline de 12 meses).
-14. `59-protocolo-de-emergencia.md` (14 escenarios de crisis).
-15. `60-guia-rapida-para-gabi.md` (hoja de ruta personal).
-16. `55-cuestionario-gabi-LLENO.md` (cuestionario con opciones para Gabi).
-
-### Si sos la cliente (Dra. Gabi)
-
-1. `01-entrada/00-resumen-ejecutivo.md`.
-2. `02-hechos/01-hechos-y-cronologia.md`.
-3. `07-comunicacion/19-plan-comunicaciones.md` (qué decir en cada canal).
-4. `11-arquitectura-caso/20-plan-upgrade.md` (acciones inmediatas).
-5. `10-riesgos-personales/33-seguridad-personal.md` (cuidado integral).
-6. `55-cuestionario-gabi-LLENO.md` (cuestionario con opciones para vos).
-7. `60-guia-rapida-para-gabi.md` (tu hoja de ruta personal).
-8. `59-protocolo-de-emergencia.md` (qué hacer en cada crisis).
-
-### Si sos un tercero revisor
-
-1. `03-legal/21-brief-legal.md` (brief formal con citas).
-2. `02-hechos/12-mapa-evidencia.md` (cada afirmación ↔ fuente).
-3. `12-evidencia/transcripciones-corregidas/` (verificar prueba testimonial).
+Eso es **fraude laboral** y hay recharacterización legal disponible.
 
 ---
 
-## Materias cubiertas (35 documentos)
+## Lo que Gabi quiere
 
-| Materia | Docs | Carpeta |
+1. Que se reconozca que la relación fue de **dependencia laboral**, no de locación.
+2. Que se le paguen las **prestaciones laborales** que le fueron negadas.
+3. **Aguinaldo, vacaciones, vacaciones proporcionales, preaviso, antigüedad** y, eventualmente, **indemnización por despido sin justa causa** o, en su defecto, **reincorporación** por estabilidad absoluta (10+ años).
+
+---
+
+## Lo que está probado (con el material disponible)
+
+✅ **Vínculo personalísimo** de 12 años y medio (declarado por la cliente, no contradicho).
+✅ **Horario fijo** de inicio (14:30 hs) — admitido en la carta 26/03/2025.
+✅ **Sanción disciplinaria por tardanza** — admitida por la propia empleadora (carta 26/03/2025).
+✅ **"Continuidad dentro de la empresa"** decidida unilateralmente — admitido en la carta 18/06/2026.
+✅ **Coordinación ejercida por terceros** (Coordinadora Gral.) — admitido por la empleadora.
+✅ **Asistencia obligatoria aunque no hubiera pacientes** — declarado por la cliente (audio 82).
+✅ **Ingreso a trabajar por gestión personal** del Dr. Roque Ramírez, conocida por un tercero (masón) — declarado por la cliente (audio 55).
+✅ **Ingreso variable según pacientes y mes** — declarado por la cliente.
+✅ **Reducción progresiva de ingresos** (de 8 → 7 → 6 → 5 → 4M Gs/mes) — declarado.
+✅ **Carta de apercibimiento del 18/06/2026** — suscrita por la empleadora (en poder de Gabi).
+✅ **Carta de apercibimiento del 26/03/2025** — suscrita por la empleadora (en poder de Gabi).
+✅ **Recibo de firma en blanco** de la carta 26/03/2025 — la firma y la fecha no fueron completadas por Gabi (vacío probatorio a favor de ella).
+⚠️ **Contrato firmado por Gabi, sin firma del empleador** — Gabi nunca recibió copia contráfirmada.
+⚠️ **Firma de un "licenciado"** de la clínica en respuesta a consulta sobre indemnización: "no pagamos nada".
+❌ **Libro de asistencia, libro de sueldos, planillas IPS**: a solicitar a la demandada.
+
+---
+
+## Lo que NO está probado (todavía)
+
+- ❌ Si Gabi está inscripta en el IPS (probable: no).
+- ❌ Si la clínica paga aguinaldo en tiempo y forma (probable: no, dado el modelo de PS).
+- ❌ Si la clínica emite facturas a nombre propio por los servicios (probable: sí, porque el contrato es de PS).
+- ❌ Quién decidió el recorte del ingreso mensual del 30–50% en el último año.
+- ❌ Si hay otros profesionales en la misma situación (litisconsorcio posible).
+
+---
+
+## Recomendación procesal inmediata
+
+### Ahora (esta semana)
+
+1. **Reunión de Gabi con Carlos para firma del poder** (pendiente desde el 17/08/2026, audio 101).
+2. **Conciliación administrativa previa ante el Viceministerio del Trabajo** (obligatoria, Art. 4° Ley 842/63).
+3. **Solicitar al IPS certificado de si Gabi figura como asegurada activa** (probable resultado: NO → prueba de oro de la relación laboral encubierta).
+4. **Solicitar a la SET el RUC y representación legal vigente** de Odontología 3 S.A.
+
+### Si la conciliación fracasa (alta probabilidad)
+
+5. **Demanda ordinaria de cobro de prestaciones laborales** ante el Juzgado del Trabajo de turno.
+6. **Solicitud de medida cautelar de embargo preventivo** sobre los bienes de la empresa (inmueble del consultorio, equipos, cuentas).
+7. **Probar pericia contable** sobre los libros de la clínica.
+
+---
+
+## Riesgo principal
+
+**Que la empresa allane parcialmente** ofreciendo un monto bajo (≤Gs. 50M) a cambio de una cláusula confidencial y la renuncia a la acción. En ese caso, comparar contra el valor esperado litigado (Gs. 90–270M) y descontar costos/tiempo.
+
+---
+
+## Valor estimado del crédito laboral
+
+| Concepto | Estimación baja | Estimación alta |
 |---|---|---|
-| **Resumen y entrada** | 2 | `01-entrada/` |
-| **Hechos y prueba** | 3 | `02-hechos/` |
-| **Tesis jurídica** | 4 | `03-legal/` |
-| **Estrategia procesal** | 5 | `04-estrategia/` |
-| **Cuantificación** | 2 | `05-cuantificacion/` |
-| **Personas y psicología** | 3 | `06-personas/` |
-| **Comunicación** | 2 | `07-comunicacion/` |
-| **Análisis especializado** | 8 | `08-analisis-especializado/` |
-| **Áreas de investigación** | 3 | `09-areas-investigacion/` |
-| **Riesgos personales** | 2 | `10-riesgos-personales/` |
-| **Arquitectura del caso** | 1 | `11-arquitectura-caso/` |
-| **Templates procesales** | 5 | `13-templates-procesales/` |
+| Indemnización por antigüedad (Art. 91) | Gs. 7.500.000 | Gs. 7.500.000 |
+| Indemnización por estabilidad absoluta (estimación doctrinal) | Gs. 60.000.000 | Gs. 240.000.000 |
+| Preaviso (Art. 86) | Gs. 5.000.000 | Gs. 5.000.000 |
+| Aguinaldo proporcional | Gs. 2.500.000 | Gs. 2.500.000 |
+| Vacaciones proporcionales | Gs. 2.500.000 | Gs. 2.500.000 |
+| Salario vacacional | Gs. 1.250.000 | Gs. 1.250.000 |
+| Aportes IPS no realizados (estimado 12 meses) | Gs. 9.900.000 | Gs. 9.900.000 |
+| Multas CT (Arts. 244, 283, etc.) | Gs. 5.000.000 | Gs. 15.000.000 |
+| Honorarios abogados demandada (si Gabi pierde) | — | — |
+| **TOTAL** | **Gs. 93.650.000** | **Gs. 283.650.000** |
+
+> **Hipótesis recomendada para negociación:** Gs. 100–150M como base de cualquier acuerdo.
 
 ---
 
-## Advertencias
+## Próximo paso concreto (esta semana)
 
-1. **Análisis preliminar.** Carlos debe verificar las citas en el Buscador de Sentencias de la CSJ antes de presentar cualquier escrito.
-2. **Cifras son estimaciones.** Sujetas a revisión pericial.
-3. **Perfiles psicológicos son orientativos**, no diagnósticos clínicos.
-4. **La estrategia puede cambiar** según la evolución del caso.
+**Firma del poder.** Sin el poder, Carlos no puede iniciar nada. Audio 101 confirma que Gabi todavía no firmó.
 
----
-
-## Privacidad
-
-Nombres reales incluidos por decisión explícita del usuario que lo subió. Para anonimizar: usar `sed` para reemplazar nombres por seudónimos en todos los `.md`. Para privatizar el repo: Settings → Change visibility → Private.
-
----
-
-## Licencia y uso
-
-Documento interno del caso. **No distribuir** sin autorización de la actora o su abogado patrocinante.
-
----
-
-## Contacto
-
-Para preguntas sobre el caso: contactar al abogado patrocinante.
-Para preguntas sobre el repo: abrir un Issue.
-
----
-
-*Última revisión: ver `git log`.*
+Ver [`../04-estrategia/06-prescripcion-y-plazos.md`](../04-estrategia/06-prescripcion-y-plazos.md) para el calendario completo de vencimientos.

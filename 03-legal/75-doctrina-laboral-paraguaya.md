@@ -1,3 +1,7 @@
+> *Documento recuperado del snapshot en `/opt/data/scratchpad/gonzalez-vs-odontologia3/` (versión anterior al 12/09/2026). El repo canónico es `/tmp/gonzalez-vs-odontologia3/`. Este archivo se conserva aquí por valor histórico.*
+
+---
+
 # Análisis Profundo de Doctrina Laboral Paraguaya
 
 > *Doctrina, principios y fundamentos del derecho laboral paraguayo relevantes al caso.*
