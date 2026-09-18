@@ -7,10 +7,11 @@ Documentos específicamente para Gabi (no para Carlos). Esta carpeta tiene todo 
 | Doc | Qué es | Cuándo usarlo |
 |---|---|---|
 | `55-cuestionario-RESPONDIDO.md` | Cuestionario inicial completo que Gabi ya respondió (set 2026) | Referencia histórica — qué declaró Gabi originalmente |
-| `59-cuestionario-activo.md` | Cuestionario de seguimiento con 30 preguntas pendientes (consolidado 57+58+parentesco) | **Lo que Gabi tiene que responder AHORA** |
+| `75-cuestionario-unico-completo.md` | **⭐ EL CUESTIONARIO ÚNICO: 82 preguntas** — fusiona 59 (53 preg.) + 72 (35 preg.), deduplicadas, 13 partes priorizadas 🔴🟡🟢, con espacio de respuesta bajo cada pregunta y tabla de trazabilidad | **Lo que Gabi usa para responder TODO — un solo archivo** |
+| `59-cuestionario-activo.md` | (REEMPLAZADO por 75) Cuestionario activo original de 53 preguntas | Solo para trazabilidad — no responder desde acá |
+| `72-cuestionario-ronda2-nueva-evidencia.md` | (REEMPLAZADO por 75) Ronda 2 original de 35 preguntas | Solo para trazabilidad — no responder desde acá |
 | `71-guia-operativa.md` | Guía operativa consolidada: checklist diario + semanal + mensual + cosas que NO hacer + plan de 1 semana | **Lo que Gabi lee el lunes** para organizar su semana |
-| `72-cuestionario-ronda2-nueva-evidencia.md` | **Ronda 2: Q31-Q65** — turnos (gap histórico cerrado), rebranding "150 odontólogos" nacido 2025, purga vista desde adentro, pagador de los sueldos, uniforme, mitigación | **Lo que Gabi responde después del cuestionario activo** (🔴 Q31-Q39 primero) |
-| `73-datos-y-evidencias-a-preparar.md` | Manual de preparación: carpeta por año, export de audios fuera de WhatsApp, doble respaldo, los 4 PDFs que solo Gabi puede hacer, reglas de custodia | **Junto con 72** — qué material armar mientras responde |
+| `73-datos-y-evidencias-a-preparar.md` | Manual de preparación: carpeta por año, export de audios fuera de WhatsApp, doble respaldo, los 4 PDFs que solo Gabi puede hacer, reglas de custodia | **Junto con 75** — qué material armar mientras responde |
 | `74-analisis-cobertura-y-upgrades-repo.md` | Auditoría de cobertura 25 temas × 3 docs, insights de los 16 asientos de la mesa, defensas esperadas de O3 × contras, backlog del repo | Para Carlos / expediente |
 
 ## Para quién es esta carpeta
@@ -20,16 +21,16 @@ Documentos específicamente para Gabi (no para Carlos). Esta carpeta tiene todo 
 ## Cómo usar
 
 1. **Si recién empezás** → leé `71-guia-operativa.md` completo (10 min).
-2. **Si tenés que responder preguntas** → andá a `59-cuestionario-activo.md` y contestá las 🔴 bloqueantes primero.
+2. **Si tenés que responder preguntas** → andá a `75-cuestionario-unico-completo.md` y contestá las Partes 🔴 (1-6) primero.
 3. **Si querés ver qué declaraste antes** → `55-cuestionario-RESPONDIDO.md` (referencia).
 
 ## Orden de prioridad
 
 🔴 **Esta semana:** leer `71-guia-operativa.md` sección "Las 5 cosas que tenés que hacer esta semana" + sección "Las 10 cosas que NO tenés que hacer"
 
-🟡 **Esta semana:** contestar preguntas bloqueantes (Q1-Q10) de `59-cuestionario-activo.md`
+🟡 **Esta semana:** contestar Partes 🔴 1-6 de `75-cuestionario-unico-completo.md`
 
-🟢 **Cuando puedas:** contestar preguntas importantes (Q11-Q18) + refinamiento (Q19-Q30) del cuestionario activo
+🟢 **Cuando puedas:** contestar Partes 🟡 7-10 + Partes 🟢 11-13 de `75-cuestionario-unico-completo.md`
 
 ## Conexión con el resto del repo
 
