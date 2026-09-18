@@ -50,7 +50,7 @@
 
 ## 3. HOMÓNIMO-CHECK CRÍTICO: ¿"Dra. Gabriella González" del roster = Dra. Gabriela González Pane?
 
-- El roster actual lista a **"Dra. Gabriella González — operatoria y estética dental"**, con fotos `Gonzalez.png` y `Gonzalez-2.png` en el servidor de O3.
+- El roster actual lista a **"Dra. Gabriella González — operatoria y estética dental"**. Su foto en el CMS de O3 (`Dra.-Gabriella-2.png`, capturada y hasheada; los nombres `Gonzalez.png`/`Gonzalez-2.png` de la nota previa eran un artefacto de grep — corresponden a **Viviana**-Gonzalez.png, otra profesional).
 - En 2022 y 2025 la misma entrada decía **"Dra. Gabriella González — Rehabilitación Oral"** (cambió de especialidad publicada).
 - **Acción inmediata para Gabi:** abrir `https://odontologia3.com/profesionales/` y confirmar si la foto/especialidad es SUYA.
   - Si SÍ es ella: **la demandante sigue publicada como profesional activa de O3 HOY** — prueba potente de vínculo continuo (y de que O3 la sigue usando comercialmente pese a negar la relación).
