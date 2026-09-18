@@ -30,7 +30,7 @@
 - Casos jurídicos comparados PY/ES/CO/VE
 - Directorio de peritos forenses
 - Notas Hermes para Carlos
-- STATUS.md actualizado
+- README.md actualizado
 - Inteligence + DNCP cruzada actualizados
 
 ### ⏰ Sesión 3 (~30 min) — Profundización N°3
@@ -56,13 +56,13 @@
 1. ✅ `README.md` (12.7 KB) — 5 cabezas + 7 entidades + 8 hallazgos nuevos
 2. ✅ `00-START-HERE.md` (10 KB) — actualizado con toda la nueva info
 3. ✅ `ESTRUCTURA.md` (14 KB) — todos los archivos listados con ⚠️
-4. ✅ `STATUS.md` (4 KB)
+4. ✅ `README.md` (4 KB)
 5. ✅ `04-estrategia/notas-investigacion-hermes.md` (16 KB) — brief consolidado
 6. ✅ `06-personas/README.md` (4.8 KB) — incluye las 4 cabezas
 7. ✅ `06-personas/14-perfiles-psicologicos.md` (16 KB) — dinámicas con 5 cabezas
-8. ✅ `06-personas/31-analisis-red-social.md` (15 KB) — mapa con 6 entidades
-9. ✅ `06-personas/Lic-Veronica-Amarilla.md` (8.5 KB) — reescrita como Gerente
-10. ✅ `06-personas/Jose-Manuel-Ramirez.md` (8.5 KB) — controlador del grupo
+8. ✅ `06-personas/analisis/31-analisis-red-social.md` (15 KB) — mapa con 6 entidades
+9. ✅ `06-personas/fichas/Lic-Veronica-Amarilla.md` (8.5 KB) — reescrita como Gerente
+10. ✅ `06-personas/fichas/Jose-Manuel-Ramirez.md` (8.5 KB) — controlador del grupo
 11. ✅ `04-estrategia/91-brief-ejecutivo-carlos.md` (16 KB) — reescrito con toda la info
 12. ✅ `03-legal/13-jurisprudencia.md` (15 KB) — con Sanitas, Quirófanos, Ac. y Sent. 121/2019
 13. ✅ `02-hechos/01-hechos-y-cronologia.md` (24 KB) — con 7 entidades y 5 cabezas
@@ -104,10 +104,10 @@
 | 3 | **Acción colectiva con exempleados de O3?** | `09-areas-investigacion/00-glosario-actores-organizaciones.md` §"Acción colectiva" |
 | 4 | **Embargo preventivo sobre 7 entidades (inoponibilidad de velo)?** | `08-analisis-especializado/15-solvencia.md` §9 |
 | 5 | **Cuantificación unificada** (₲2.000M ancla + ₲358M quantum + ₲4.000M embargo) | `05-cuantificacion/03-cuantificacion.md` §"Recomendación final" |
-| 6 | **Codificar al hijo Dr. Mario** como co-responsable en MOPC | `06-personas/Dr-Mario-Ramirez.md` (actualizado 18/09) |
-| 7 | **Codificar a la Gerente Lic. Verónica Amarilla** | `06-personas/Lic-Veronica-Amarilla.md` (actualizado 18/09) |
+| 6 | **Codificar al hijo Dr. Mario** como co-responsable en MOPC | `06-personas/fichas/Dr-Mario-Ramirez.md` (actualizado 18/09) |
+| 7 | **Codificar a la Gerente Lic. Verónica Amarilla** | `06-personas/fichas/Lic-Veronica-Amarilla.md` (actualizado 18/09) |
 | 8 | **Capturar a Promedent S.A. como aliado procesal** (perdieron ₲13.320M por fraude de O3) | `09-areas-investigacion/_hermes-research-personas-instituciones-2026-09-18.md` |
-| 9 | **Confirmar nombre real de la Coordinadora** con Gabi (¿Lic. Viviana Colman o Dra. Viviana González?) | `06-personas/Lic-Viviana-Colman.md` + `06-personas/Dra-Viviana-Gonzalez.md` |
+| 9 | **Confirmar nombre real de la Coordinadora** con Gabi (¿Lic. Viviana Colman o Dra. Viviana González?) | `06-personas/fichas/Lic-Viviana-Colman.md` + `06-personas/fichas/Dra-Viviana-Gonzalez.md` |
 | 10 | **Activar pericia ForenLab** para WhatsApp/audios antes de audiencia (₲1.200-2.500 EUR) | `13-templates-procesales/49b-peritos-forenses-asuncion.md` |
 
 ---

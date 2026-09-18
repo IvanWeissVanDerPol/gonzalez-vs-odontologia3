@@ -284,8 +284,8 @@ Carlos necesita apiKey (tramitar en SET, gratuito probablemente para abogados ma
 
 Si me das luz verde, hago las siguientes integraciones al repo:
 
-1. **Crear `06-personas/Jose-Manuel-Ramirez.md`** con cargo, rol público, contacto.
-2. **Crear `06-personas/Angel-Valdez-de-Madariaga.md`** con misma info.
+1. **Crear `06-personas/fichas/Jose-Manuel-Ramirez.md`** con cargo, rol público, contacto.
+2. **Crear `06-personas/fichas/Angel-Valdez-de-Madariaga.md`** con misma info.
 3. **Actualizar `09-areas-investigacion/36-intelligence-report.md`** con todos los hallazgos.
 4. **Crear `13-templates-procesales/49b-peritos-forenses-asuncion.md`** con lista de peritos disponibles (Forenlab + otros locales).
 5. **Crear `09-areas-investigacion/_casos-comparados-py-2024-2026.md`** con precedentes (Quirófanos, JulidavidRamírez, Promedent, Sanitas, etc.).

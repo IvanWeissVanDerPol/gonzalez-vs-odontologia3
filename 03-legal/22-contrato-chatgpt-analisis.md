@@ -104,7 +104,7 @@ Esta cláusula fue expresamente citada por la demandada en la carta 26/03/2025. 
    - Comparación con templates típicos de ChatGPT (existen bases públicas de prompts jurídicos en Paraguay).
 3. **Cadena de custodia:** desde la foto del celular hasta la presentación judicial.
 
-**Costo estimado de la pericia:** Gs. 3-5M (ver [`../13-templates-procesales/54-oficios-identificacion-testigos.md`](../13-templates-procesales/54-oficios-identificacion-testigos.md) para contactos).
+**Costo estimado de la pericia:** Gs. 3-5M (ver [`../15-colaboracion-carlos/54-oficios-identificacion-testigos.md`](../15-colaboracion-carlos/54-oficios-identificacion-testigos.md) para contactos).
 
 ---
 

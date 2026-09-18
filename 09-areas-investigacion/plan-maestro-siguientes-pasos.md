@@ -53,7 +53,7 @@
 **Fuentes:** LinkedIn, Facebook, Masonería, Prensa local
 **Método:** Investigar vida pública de Roque y familia
 **Valor:** Identificar presión social adicional si se publica el caso
-**Output esperado:** `06-personas/Dr-Roque-Ramirez-Nizza-perfil-publico.md`
+**Output esperado:** `06-personas/fichas/Dr-Roque-Ramirez-Nizza-perfil-publico.md`
 
 ### FRONTERA PROFUNDA - IMPORTANTE (10-12 horas)
 
@@ -87,7 +87,7 @@
 **Fuentes:** Declaraciones públicas, Entrevistas, Patrones de comportamiento
 **Método:** Análisis psicológico conductual para predecir movimientos procesales
 **Valor:** Anticipar cómo reaccionará Roque ante la demanda y la querella
-**Output esperado:** `06-personas/Dr-Roque-Ramirez-Nizza-perfil-psicologico.md`
+**Output esperado:** `06-personas/fichas/Dr-Roque-Ramirez-Nizza-perfil-psicologico.md`
 
 #### 10. Análisis de jurisprudencia del trabajo doméstico PY
 **Fuentes:** Ley 5115/96, CT, Código Procesal, Doctrina

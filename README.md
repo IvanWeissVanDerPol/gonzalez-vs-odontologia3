@@ -19,24 +19,25 @@
 
 ## Qué hay aquí
 
-Expediente completo y estratégico con **~135 documentos markdown** organizados en **15 carpetas temáticas + 5 memos privados de investigación** (prefijados `_hermes-`):
+Expediente completo y estratégico con **~170 documentos markdown** organizados en **16 carpetas temáticas + 5 memos privados de investigación** (prefijados `_hermes-`):
 
 | Carpeta | Contenido | Archivos |
 |---|---|---|
 | `01-entrada/` | Resumen ejecutivo, índice, glosario | 4 |
 | `02-hechos/` | Cronología + prueba + mapa evidencia + datos pendientes | 4 |
-| `03-legal/` | Tesis + jurisprudencia + borrador demanda | 9 |
-| `04-estrategia/` | Plan procesal + playbooks + crisis + memo investigativo | 19 |
+| `03-legal/` | Tesis + jurisprudencia + borrador demanda | 10 |
+| `04-estrategia/` | Plan procesal + playbooks + crisis + manuales role-play (sesiones 101-130) | 26 |
 | `05-cuantificacion/` | Damages + VPN + escenarios + presupuesto + impacto | 5 |
-| `06-personas/` | 11 fichas individuales + perfiles + redes | 17 |
+| `06-personas/` | 12 fichas individuales (`fichas/`) + análisis de redes (`analisis/`) + perfiles | 18 |
 | `07-comunicacion/` | Medios + manual táctico canal × canal | 2 |
 | `08-analisis-especializado/` | 10 análisis verticales (solvencia, penal, etc.) | 10 |
-| `09-areas-investigacion/` | Investigación profunda + intelligence + glosario + casos comparados + memos | 14 |
+| `09-areas-investigacion/` | Investigación profunda + intelligence + glosario + casos comparados + memos | 23 |
 | `10-riesgos-personales/` | Matriz de riesgos + seguridad personal | 2 |
 | `11-arquitectura-caso/` | Plan de tecnología, automatización, contingencia | 1 |
-| `12-evidencia/` | Evidencia original INMUTABLE (audios, transcripciones, WhatsApp, cartas) | ~240 archivos |
-| `13-templates-procesales/` | 21 templates procesales listos para Carlos | 21 |
-| `14-guia-para-gabi/` | Documentos específicos para Gabi + memo investigación | 4 |
+| `12-evidencia/` | Evidencia original INMUTABLE (audios, transcripciones, WhatsApp, cartas, capturas web) | ~250 archivos |
+| `13-templates-procesales/` | 15 plantillas procesales puras (35-49b) | 15 |
+| `14-guia-para-gabi/` | Cuestionario único + respondido + guías para Gabi | 5 |
+| `15-colaboracion-carlos/` | Tareas de investigación y expansión para Carlos (OSINT, colegas, testigos, pericia) | 7 |
 
 ### Evidencia original (~240 archivos multimedia)
 
@@ -50,7 +51,7 @@ Expediente completo y estratégico con **~135 documentos markdown** organizados 
 ### Documentos de investigación privada (Hermes)
 
 5 memos detallados con investigación exhaustiva de LinkedIn, Superintendencia, DNCP, contralorías y medios, prefijados `_hermes-` para no aparecer en el listado público:
-- `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` (notas investigación pública)
+- `09-areas-investigacion/_hermes-notas-investigacion-publica.md` (notas investigación pública)
 - `09-areas-investigacion/_hermes-research-personas-instituciones-2026-09-18.md` (N°1: entidades)
 - `09-areas-investigacion/_hermes-research-profundización-2026-09-18.md` (N°2: peritos + jurisprudencia)
 - `09-areas-investigacion/_hermes-research-profundización-N3-2026-09-18.md` (N°3: Gerardo gerente + 3 clínicas)

@@ -66,7 +66,7 @@
   - Metadatos de fecha de creación
   - Integridad del archivo (no edición)
   - Comparación con Whisper transcripts
-- [ ] **Gabi redacta timeline personal** (puede usar `55-cuestionario-para-gabi-v2-Respuestas.md` como base) y verifica las fechas importantes.
+- [ ] **Gabi redacta timeline personal** (puede usar `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` como base) y verifica las fechas importantes.
 
 ### Día 13-14
 - [ ] **Carlos presenta el escrito de conciliación administrativa ante el Viceministerio del Trabajo** (solicita audiencia de conciliación en 5 días hábiles).
@@ -226,7 +226,7 @@
 - [ ] `09-areas-investigacion/35-cruce-dncp-odontologia3.md` — DNCP datos.
 - [ ] `09-areas-investigacion/36-intelligence-report.md` — intelligence completo.
 - [ ] `12-evidencia/dncp-adjudicaciones-odontologia3.md` — listado de adjudicaciones.
-- [ ] `55-cuestionario-para-gabi-v2-Respuestas.md` — respuestas consolidadas.
+- [ ] `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` — respuestas consolidadas.
 
 ---
 

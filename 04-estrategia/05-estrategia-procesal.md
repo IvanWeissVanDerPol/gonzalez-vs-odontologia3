@@ -144,7 +144,7 @@ Con un crédito laboral superior a Gs. 100M, corresponde la **vía ordinaria**.
 - Si funciona: sentencia con efectos para todos los profesionales en la misma situación.
 - Carlos debe evaluar si hay antecedentes de acciones colectivas laborales exitosas en Paraguay.
 
-> **Recomendación táctica inmediata:** Carlos debe sondear (con discreción, sin comprometer la estrategia de Gabi) si al menos 3-5 colegas estarían dispuestos a sumarse como litisconsortes. Ver template en [`../13-templates-procesales/53-carta-invitacion-colegas.md`](../13-templates-procesales/53-carta-invitacion-colegas.md).
+> **Recomendación táctica inmediata:** Carlos debe sondear (con discreción, sin comprometer la estrategia de Gabi) si al menos 3-5 colegas estarían dispuestos a sumarse como litisconsortes. Ver template en [`../15-colaboracion-carlos/53-carta-invitacion-colegas.md`](../15-colaboracion-carlos/53-carta-invitacion-colegas.md).
 
 > **Implicación en cuantificación:** la acción colectiva **no incrementa directamente** el crédito individual de Gabi, pero **multiplica la presión sobre la demandada** y por tanto aumenta la probabilidad de un acuerdo individual favorable para Gabi en el rango Gs. 200M+.
 

@@ -15,7 +15,7 @@ Estas partes del cuestionario 59 SÍ se pueden contestar con datos públicos. Lo
 - **Fecha:** 18/06/2026 (confirmado por `12-evidencia/cartas-escaneadas/00000044-PHOTO-2026-07-10-19-19-07.jpg` firmada en esa fecha)
 - **Carta resultante:** `12-evidencia/cartas-escaneadas/00000044-PHOTO-2026-07-10-19-19-07.jpg` (segunda carta, amenaza de continuidad)
 - **Nombre del firmante:** Dr. Roque Samuel Ramírez Nizza (cargo declarado en carta: "Auditor Odontólogo" — **inconsistente** con la carta 1 donde firma como "Director – Presidente / Director General"; ver `02-hechos/01-hechos-y-cronologia.md` §1.2)
-- **Grabación:** mencionada en `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md` como evidencia capturada por Gabi en su celular. **No está subida al repo todavía** (92 audios del chat con Roque + 31 del chat con Viviana, pero la grabación de la reunión es OTRA, del celular directo).
+- **Grabación:** mencionada en `09-areas-investigacion/ANALISIS-OPORTUNIDADES-WHATSAPP.md` como evidencia capturada por Gabi en su celular. **No está subida al repo todavía** (92 audios del chat con Roque + 31 del chat con Viviana, pero la grabación de la reunión es OTRA, del celular directo).
 
 **Para verificar con Gabi:** ¿trajo la grabación al celular? ¿está en alguna carpeta?
 

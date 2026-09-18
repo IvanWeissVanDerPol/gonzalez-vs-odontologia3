@@ -180,7 +180,7 @@ El cuestionario v2 §5.1.7 y §14.1 registra que Gabi mencionó "Asismed" como u
 
 ### 4.3. Acción inmediata
 
-**Carlos debe oficiar a Asismed** (ver `13-templates-procesales/54-oficios-identificacion-testigos.md`) para:
+**Carlos debe oficiar a Asismed** (ver `15-colaboracion-carlos/54-oficios-identificacion-testigos.md`) para:
 
 1. Copia del contrato Asismed-Odontología 3 (vigente y anteriores).
 2. Listado de profesionales que prestaban servicio bajo el contrato.

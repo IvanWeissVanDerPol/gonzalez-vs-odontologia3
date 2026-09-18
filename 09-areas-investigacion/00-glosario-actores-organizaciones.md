@@ -12,26 +12,26 @@
 | Nombre | Relación | Carácter | Ficha |
 |---|---|---|---|
 | Dra. Gabriella María González Pane | Actora/Demandante | — | (intake forms Gabi) |
-| Dr. Roque Samuel Ramírez Nizza | Representante legal + Pdte O3 | DEMANDADO principal | `06-personas/Dr-Roque-Ramirez-Nizza.md` |
-| Dr. Mario Ramírez (hijo de Roque) | Rep. Legal alternativo O3 + Odontólogo Rehab Oral | DEMANDABLE (co-responsable) | `06-personas/Dr-Mario-Ramirez.md` |
+| Dr. Roque Samuel Ramírez Nizza | Representante legal + Pdte O3 | DEMANDADO principal | `06-personas/fichas/Dr-Roque-Ramirez-Nizza.md` |
+| Dr. Mario Ramírez (hijo de Roque) | Rep. Legal alternativo O3 + Odontólogo Rehab Oral | DEMANDABLE (co-responsable) | `06-personas/fichas/Dr-Mario-Ramirez.md` |
 
 ### Personas del Gobierno Corporativo de O3
 
 | Nombre | Cargo | Carácter | Ficha |
 |---|---|---|---|
-| José Manuel Ramírez | Vicepresidente desde feb 2019 | DEMANDABLE | `06-personas/Jose-Manuel-Ramirez.md` |
-| Ángel Valdez de Madariaga | Administrador + Representante público | DEMANDABLE | `06-personas/Angel-Valdez-de-Madariaga.md` |
-| Dr. Raúl Ramírez Arana | Co-Fundador 1973 (fallecido 1989) | Solo histórico | `06-personas/Raul-Ramirez-Arana.md` |
+| José Manuel Ramírez | Vicepresidente desde feb 2019 | DEMANDABLE | `06-personas/fichas/Jose-Manuel-Ramirez.md` |
+| Ángel Valdez de Madariaga | Administrador + Representante público | DEMANDABLE | `06-personas/fichas/Angel-Valdez-de-Madariaga.md` |
+| Dr. Raúl Ramírez Arana | Co-Fundador 1973 (fallecido 1989) | Solo histórico | `06-personas/fichas/Raul-Ramirez-Arana.md` |
 
 ### Profesionales de O3 potencialmente vinculados al caso
 
 | Nombre | Especialidad O3 | Carácter | Ficha |
 |---|---|---|---|
-| Lic. Verónica Amarilla | RR.HH. (autora del "no pagamos nada") | DEMANDABLE - testigo | `06-personas/Lic-Veronica-Amarilla.md` |
-| Lic. Viviana Colman (¿o Dra. Viviana González?) | Coordinadora | Testigo | `06-personas/Lic-Viviana-Colman.md` + `06-personas/Dra-Viviana-Gonzalez.md` |
-| Dra. María Gloria Acosta | Ortodoncia/Rehab Oral — sospecha: "la Gloria" de los chats | Testigo ambivalente | `06-personas/Dra-Maria-Gloria-Acosta.md` |
-| Dra. Aida Analy Amarilla Jojot | Operatoria dental — sospechada pariente de Verónica | Litisconsorte posible | `06-personas/Dra-Aida-Analy-Amarilla-Jojot.md` |
-| Sr. Luis Arévalo | Contador externo | Testigo procesal | `06-personas/Sr-Luis-Arevalo.md` |
+| Lic. Verónica Amarilla | RR.HH. (autora del "no pagamos nada") | DEMANDABLE - testigo | `06-personas/fichas/Lic-Veronica-Amarilla.md` |
+| Lic. Viviana Colman (¿o Dra. Viviana González?) | Coordinadora | Testigo | `06-personas/fichas/Lic-Viviana-Colman.md` + `06-personas/fichas/Dra-Viviana-Gonzalez.md` |
+| Dra. María Gloria Acosta | Ortodoncia/Rehab Oral — sospecha: "la Gloria" de los chats | Testigo ambivalente | `06-personas/fichas/Dra-Maria-Gloria-Acosta.md` |
+| Dra. Aida Analy Amarilla Jojot | Operatoria dental — sospechada pariente de Verónica | Litisconsorte posible | `06-personas/fichas/Dra-Aida-Analy-Amarilla-Jojot.md` |
+| Sr. Luis Arévalo | Contador externo | Testigo procesal | `06-personas/fichas/Sr-Luis-Arevalo.md` |
 | Pati | Asistente RR.HH. (entregó carta 26/03/2025) | Testigo CRÍTICO | (en 14-guia/59, Q31) |
 | Chone | Mantenimiento/recepción, llaves | Testigo cotidiano | (en 14-guia/59, Q32) |
 | Manuel Amelio | Ex-pareja Gabi, masón, conector con Roque | Testigo conectivo | (Búsqueda Padrón) |
@@ -184,17 +184,17 @@ De `odontologia3.com/profesionales/` (Phase 12):
 ## ARCHIVOS RELEVANTES DEL REPO (índice rápido)
 
 ### Personas
-- `06-personas/Dr-Roque-Ramirez-Nizza.md`
-- `06-personas/Dr-Mario-Ramirez.md` ⚠️ actualizado 18/09
-- `06-personas/Jose-Manuel-Ramirez.md` ⭐ nuevo 18/09
-- `06-personas/Angel-Valdez-de-Madariaga.md` ⭐ nuevo 18/09
-- `06-personas/Lic-Viviana-Colman.md`
-- `06-personas/Dra-Viviana-Gonzalez.md` ⭐ nuevo 18/09 (alerta confusión)
-- `06-personas/Lic-Veronica-Amarilla.md`
-- `06-personas/Dra-Aida-Analy-Amarilla-Jojot.md` ⭐ nuevo 18/09
-- `06-personas/Dra-Maria-Gloria-Acosta.md` ⭐ nuevo 18/09
-- `06-personas/Sr-Luis-Arevalo.md`
-- `06-personas/Raul-Ramirez-Arana.md` ⭐ nuevo 18/09
+- `06-personas/fichas/Dr-Roque-Ramirez-Nizza.md`
+- `06-personas/fichas/Dr-Mario-Ramirez.md` ⚠️ actualizado 18/09
+- `06-personas/fichas/Jose-Manuel-Ramirez.md` ⭐ nuevo 18/09
+- `06-personas/fichas/Angel-Valdez-de-Madariaga.md` ⭐ nuevo 18/09
+- `06-personas/fichas/Lic-Viviana-Colman.md`
+- `06-personas/fichas/Dra-Viviana-Gonzalez.md` ⭐ nuevo 18/09 (alerta confusión)
+- `06-personas/fichas/Lic-Veronica-Amarilla.md`
+- `06-personas/fichas/Dra-Aida-Analy-Amarilla-Jojot.md` ⭐ nuevo 18/09
+- `06-personas/fichas/Dra-Maria-Gloria-Acosta.md` ⭐ nuevo 18/09
+- `06-personas/fichas/Sr-Luis-Arevalo.md`
+- `06-personas/fichas/Raul-Ramirez-Arana.md` ⭐ nuevo 18/09
 
 ### Investigación
 - `09-areas-investigacion/36-intelligence-report.md` (a actualizar)
@@ -219,7 +219,7 @@ De `odontologia3.com/profesionales/` (Phase 12):
 - `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md`
 - `14-guia-para-gabi/75-cuestionario-unico-completo.md` (82 preguntas pendientes)
 - `14-guia-para-gabi/71-guia-operativa.md`
-- `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` ⭐ nuevo 18/09
+- `09-areas-investigacion/_hermes-notas-investigacion-publica.md` ⭐ nuevo 18/09
 
 ### Memos de Investigación (Hermes)
 - `09-areas-investigacion/_hermes-research-personas-instituciones-2026-09-18.md` ⭐

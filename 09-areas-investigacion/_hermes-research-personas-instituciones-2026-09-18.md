@@ -244,7 +244,7 @@ Dos "Gloria Acosta" en LinkedIn:
 
 ### D.2. Datos que el repo debe incorporar
 
-1. **ABC Color 16/06/2024** — Mario firma como representante → actualizar `06-personas/Dr-Mario-Ramirez.md` y `09-areas-investigacion/36-intelligence-report.md`
+1. **ABC Color 16/06/2024** — Mario firma como representante → actualizar `06-personas/fichas/Dr-Mario-Ramirez.md` y `09-areas-investigacion/36-intelligence-report.md`
 2. **DNCP anulación adjudicación MOPC 2023** → actualizar intelligence
 3. **Superintendencia de Salud auditoría preventiva a O3 (1-13/8/2025)** → agregar a evidencia
 4. **Superintendencia auditoria Scultura S.A. - Vanguard (2-15/7/2025)** → agregar a evidencia
@@ -310,9 +310,9 @@ Dos "Gloria Acosta" en LinkedIn:
 **Acción:** Si querés que integre esto formalmente al repo, crear/modificar:
 
 - `09-areas-investigacion/36-intelligence-report.md` — agregar sección "Auditorías 2025" + "Mario como representante legal alternativo"
-- `06-personas/Dr-Mario-Ramirez.md` — actualizar con dato ABC Color
+- `06-personas/fichas/Dr-Mario-Ramirez.md` — actualizar con dato ABC Color
 - `03-legal/13-jurisprudencia.md` — agregar precedentes Venezuela + Colombia
-- `06-personas/Lic-Viviana-Colman.md` — nota de verificación de nombre
+- `06-personas/fichas/Lic-Viviana-Colman.md` — nota de verificación de nombre
 - `12-evidencia/dncp-adjudicaciones-odontologia3.md` — agregar nota sobre anulación MOPC 2023
 
 **Tiempo estimado de integración:** 2-3 horas de trabajo.

@@ -19,3 +19,14 @@ Marco general de las áreas de investigación y bibliografía.
 ## Conexión con otras carpetas
 
 - Esta carpeta es transversal: alimenta a **legal**, **análisis especializado** y **estrategia**.
+
+
+---
+
+## Incorporados el 18/09 (reorganización)
+
+| Doc | Origen | Qué es |
+|---|---|---|
+| `55-notas-cuestionario-gabi.md` | antes `06-personas/55-cuestionario-para-gabi.md` | Notas y glosario del cuestionario original (las respuestas viven en `../14-guia-para-gabi/55-cuestionario-RESPONDIDO.md`) |
+| `ANALISIS-OPORTUNIDADES-WHATSAPP.md` | antes `12-evidencia/` | Análisis de los 99 archivos WhatsApp: oportunidades probatorias |
+| `_hermes-notas-investigacion-publica.md` | antes `14-guia-para-gabi/` | Memo privado de investigación pública |

@@ -394,7 +394,7 @@ ACUERDO TRANSACCIONAL
 ### Trampa 1 — **Anclar 3x**
 Anclar Gs. 2.500M genera impasse. Anclar Gs. 2.000M (2x) es agresivo pero creíble.
 
-### Trampa 2 — **Aceptar menos de Gs. 600M**
+### Trampa 2 — **Aceptar menos de Gs. 400M**
 Piso innegociable.
 
 ### Trampa 3 — **Aceptar cuotas largas**
@@ -502,7 +502,7 @@ Si Roque rechaza TODAS las propuestas y va a litigio:
 |---|---|
 | **¿Cuánto podemos pedir?** | **Gs. 2.000M** (ancla justificada 2x, no 3x) |
 | **¿Cuánto podemos esperar (midpoint)?** | **Gs. 1.000-1.300M + IPS** |
-| **¿Cuál es el piso aceptable?** | **Gs. 600M** |
+| **¿Cuál es el piso aceptable?** | **Gs. 400M (piso duro de Gabi/Iván — nada por debajo) |
 | **¿Cuál es la palanca más fuerte?** | **Embargo preventivo + amenaza penal + publicity** |
 | **¿Cuál es la palanca más rápida?** | **Embargo preventivo** (7-10 días) |
 | **¿Cuál es el timing óptimo?** | **Octubre-noviembre 2026** (fin de año fiscal + reforma laboral estancada) |

@@ -176,7 +176,7 @@ O3 tiene un equipo legal externo conocido (de las protestas DNCP):
 - O3 web: odontologia3.com/profesionales/
 - O3 LinkedIn (corporativa): https://linkedin.com/company/odontolog%C3%ADa-3
 - Inteligencia corporativa O3: Rep. Legal = Roque Samuel Ramírez Nizza (DNCP)
-- Inteligencia: dos chat/posts analizados en `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md`
+- Inteligencia: dos chat/posts analizados en `09-areas-investigacion/ANALISIS-OPORTUNIDADES-WHATSAPP.md`
 - Audios: 38 audios en `12-evidencia/audios/`
 - Cartas: 2 cartas escaneadas en `12-evidencia/cartas-escaneadas/`
 

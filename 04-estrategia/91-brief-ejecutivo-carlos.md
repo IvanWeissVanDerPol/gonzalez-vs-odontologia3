@@ -43,7 +43,7 @@
 | E | `12-evidencia/dncp-adjudicaciones-odontologia3.md` | 73 adjudicaciones scrapeadas, tablas, montos |
 | F | `12-evidencia/whatsapp-roque/_chat.txt` | Chat completo Gabi ↔ Roque 2018-2026 (8 años, 552 mensajes, 36 audios) |
 | G | `12-evidencia/whatsapp-viviana/_chat.txt` | Chat completo Gabi ↔ Viviana 2023-2026 (2.5 años, 1241 mensajes, 97 POST-cese) |
-| H | `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md` | 6 hallazgos críticos de los WhatsApp |
+| H | `09-areas-investigacion/ANALISIS-OPORTUNIDADES-WHATSAPP.md` | 6 hallazgos críticos de los WhatsApp |
 | I | `12-evidencia/dncp-adjudicaciones-odontologia3.md` | Caso O3 vs DNCP 2018 (Res. 760 del 05/03/2018) — expediente público |
 | J | `13-templates-procesales/49b-peritos-forenses-asuncion.md` | **NUEVO** Directorio de peritos (ForenLab PY — forensia WhatsApp/audios) |
 | K | `06-personas/` | **11 fichas individuales** (Roque, José Manuel, Mario, Ángel, Verónica, Aída, Gloria, Viviana G., Raúl R. A., Viviana Col., Luis Arévalo) |
@@ -75,7 +75,7 @@
 
 - `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` — **completo, base**
 - `14-guia-para-gabi/75-cuestionario-unico-completo.md` — **82 preguntas pendientes** de respuesta (Q1-Q82; lo ya respondido vive en `55-cuestionario-RESPONDIDO.md`)
-- `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` — notas preliminares públicas (privado)
+- `09-areas-investigacion/_hermes-notas-investigacion-publica.md` — notas preliminares públicas (privado)
 - `06-personas/README.md` — glosario de personas
 - `09-areas-investigacion/00-glosario-actores-organizaciones.md` — directorio maestro
 

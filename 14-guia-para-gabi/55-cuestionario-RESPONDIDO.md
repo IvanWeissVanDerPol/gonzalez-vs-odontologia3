@@ -8,7 +8,7 @@
 
 ## Metadatos
 
-- **Cuestionario original:** `55-cuestionario-para-gabi-v2.md` (442 preguntas, 22 partes)
+- **Cuestionario original:** `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` (442 preguntas, 22 partes)
 - **Versión completada:** este archivo
 - **Respondido por:** Dra. Gabriella María González Pane
 - **Fecha de cierre:** 12 de septiembre de 2026
@@ -689,7 +689,7 @@
 
 ## PARTE 19-22 · (Glosario, tareas, resumen)
 
-**Ver el cuestionario v2 original** `55-cuestionario-para-gabi-v2.md` para glosario completo, tareas para Carlos y resumen ejecutivo.
+**Ver el cuestionario v2 original** `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` para glosario completo, tareas para Carlos y resumen ejecutivo.
 
 ---
 
@@ -719,4 +719,4 @@
 
 ---
 
-*Documento cerrado al 12/09/2026. Cualquier nueva respuesta debe documentarse en `55-cuestionario-para-gabi-v2-actualizaciones.md`.*
+*Documento cerrado al 12/09/2026. Cualquier nueva respuesta debe documentarse en `14-guia-para-gabi/75-cuestionario-unico-completo.md`.*

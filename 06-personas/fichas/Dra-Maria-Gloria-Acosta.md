@@ -130,7 +130,7 @@ Si María Gloria Acosta NO firma amonestaciones:
 
 - Web O3: https://odontologia3.com/profesionales/
 - LinkedIn: perfiles de "Maria Gloria Acosta" (multiple, incluyendo Stomping y otros)
-- Análisis de chats en `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md`
+- Análisis de chats en `09-areas-investigacion/ANALISIS-OPORTUNIDADES-WHATSAPP.md`
 - `02-hechos/01-hechos-y-cronologia.md` §1.5
 
 ---

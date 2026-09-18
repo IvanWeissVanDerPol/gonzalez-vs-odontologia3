@@ -39,7 +39,7 @@ El último mensaje conocido del chat es del **18/07/2026** (4 días después del
 
 ## Relación con otros archivos del repo
 
-- **`06-personas/Lic-Viviana-Colman.md`** — perfil de Viviana
+- **`06-personas/fichas/Lic-Viviana-Colman.md`** — perfil de Viviana
 - **`audios/`** — chat con Carlos (julio 2026)
 - **`transcripciones-corregidas/`** — transcripciones Whisper
 

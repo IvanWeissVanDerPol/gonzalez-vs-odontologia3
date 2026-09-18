@@ -143,7 +143,7 @@ Ver análisis específico en [`../05-cuantificacion/19-analisis-asismed.md`](../
 ## 6. Siguientes pasos
 
 **Sprint 1 (esta semana):**
-- [ ] Carlos redacta [`../13-templates-procesales/53-carta-invitacion-colegas.md`](../13-templates-procesales/53-carta-invitacion-colegas.md) y revisa con Gabi.
+- [ ] Carlos redacta [`../15-colaboracion-carlos/53-carta-invitacion-colegas.md`](../15-colaboracion-carlos/53-carta-invitacion-colegas.md) y revisa con Gabi.
 - [ ] Gabi identifica 3-5 colegas "confiables" fuera del círculo Roque-amigos.
 
 **Sprint 2 (primer mes):**

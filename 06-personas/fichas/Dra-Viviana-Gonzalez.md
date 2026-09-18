@@ -53,7 +53,7 @@ En el expediente del caso, Gabi y los chats mencionan una **"Lic. Viviana Colman
 
 ### 4.1. Testigo amigable (de los chats analizados)
 
-De `12-evidencia/ANALISIS-OPORTUNIDADES-WHATSAPP.md`:
+De `09-areas-investigacion/ANALISIS-OPORTUNIDADES-WHATSAPP.md`:
 
 > *"14/07/2026 13:00 — Mensaje (Viviana): 'Igualmente le voy a extrañar mucho Dra., su amabilidad y buena onda siempre 🥹❤️'"*
 

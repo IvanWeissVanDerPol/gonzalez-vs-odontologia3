@@ -18,14 +18,9 @@ Templates listos para que el abogado patrocinante los use o adapte. Cada uno est
 | 44 | `44-recurso-de-casacion.md` | Recurso ante la CSJ | Si la segunda instancia confirma |
 | 45 | `45-querella-penal.md` | Querella penal por estafa procesal | Si se decide ir por penal |
 | 46 | `46-investigacion-registro-publico.md` | Plan de investigación patrimonial | Investigación previa al embargo |
-| 47 | `47-osint-de-roque.md` | Investigación de fuentes abiertas | Conocer perfil del demandado |
 | 48 | `48-guia-declaracion-audiencia.md` | Guía para Gabi antes de declarar | Antes de cada audiencia |
 | 49 | `49-mapa-peritos-asuncion.md` | Directorio de peritos disponibles | Para designar peritos |
-| 50 | `50-analisis-circulo-odontologos.md` | Análisis del Círculo institucional | Investigación del regulador |
-| 51 | `51-investigacion-colegas.md` | Investigación de otros profesionales | Evaluar acción colectiva |
-| 52 | `52-busqueda-jurisprudencia-csj.md` | Búsqueda de jurisprudencia CSJ | Para reforzar escritos |
-| 53 | `53-carta-invitacion-colegas.md` | Carta para invitar colegas a sumarse al caso | Antes de demanda colectiva |
-| 54 | `54-oficios-identificacion-testigos.md` | Oficios para identificar y ubicar testigos | Antes de audiencias |
+| 49b | `49b-peritos-forenses-asuncion.md` | Peritos forenses recomendados (Forenlab, caligrafía, contable) | Para pruebas de audios/WhatsApp/cartas |
 
 ## Cómo usar
 
@@ -37,6 +32,10 @@ Templates listos para que el abogado patrocinante los use o adapte. Cada uno est
 ## Numeración
 
 Los templates usan numeración 35–54 para mantener trazabilidad con los docs de análisis (00–34) sin romper la numeración existente.
+
+## Movido a `15-colaboracion-carlos/`
+
+Los documentos de investigación y expansión del caso (OSINT de Roque, círculo odontológico, colegas, jurisprudencia CSJ, carta a colegas, oficios de testigos, pericia económica) ahora viven en [`../15-colaboracion-carlos/`](../15-colaboracion-carlos/) — esta carpeta queda solo con plantillas procesales puras.
 
 ## Cómo NO usar esta carpeta
 

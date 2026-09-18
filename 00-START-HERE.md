@@ -13,9 +13,10 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 | Orden | Doc | Para qué |
 |---|---|---|
 | 1 | `14-guia-para-gabi/71-guia-operativa.md` | Checklist diario + semanal + mensual |
-| 2 | `14-guia-para-gabi/75-cuestionario-unico-completo.md` | 82 preguntas pendientes de respuesta |
+| 2 | `14-guia-para-gabi/75-cuestionario-unico-completo.md` | 82 preguntas abiertas (responder 🔴 1-6 primero) |
+| 3 | `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` | Lo que ya declaraste — no contradecirte |
 
-**Solo leé esos 2 archivos.** Carlos tiene el resto.
+**Solo leé esos 3 archivos.** Carlos tiene el resto.
 
 ### Si sos Carlos (abogado patrocinante)
 
@@ -73,7 +74,7 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 | **Ancla inicial** (lo que Carlos pide) | ₲2.000M (2x quantum) |
 | **Midpoint esperado** (regla Harvard) | ₲1.000-1.300M |
 | **Objetivo realista** (acuerdo final) | ₲1.500M + IPS retroactivo |
-| **Mínimo aceptable** (piso de Gabi) | ₲600M |
+| **Mínimo aceptable** (piso duro de Gabi) | ₲400M — nada por debajo |
 | **Embargo preventivo** (si fracasa conciliación) | ₲4.000M (4x) |
 | **Antigüedad de Gabi en O3** | 12 años y 6 meses |
 | **Total adjudicado por O3 en DNCP** | ₲146.903.298.000 (~USD 19.5M) |
@@ -146,7 +147,7 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 
 ## Estructura rápida del repo
 
-15 carpetas temáticas (más 14-investigacion/ privada con memos `_hermes-`):
+16 carpetas temáticas (la investigación privada vive en `09-areas-investigacion/`, memos `_hermes-`):
 
 - **01-entrada/** — qué leer primero
 - **02-hechos/** — cronología + prueba + datos pendientes
@@ -162,6 +163,7 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 - **12-evidencia/** — evidencia original INMUTABLE
 - **13-templates-procesales/** — 21 formularios para Carlos
 - **14-guia-para-gabi/** — SOLO para Gabi
+- **15-colaboracion-carlos/** — investigación y expansión para el equipo legal
 
 ## Plan de acción inmediato (esta semana)
 
