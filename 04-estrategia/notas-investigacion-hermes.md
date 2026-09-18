@@ -226,21 +226,42 @@ Cada audiencia es **crítica**:
 | Círculo de Odontólogos | secretaria@cop.com.py |
 | Ministerio Salud — Matrículas | 021 2374000 int. 1.300 |
 | Forenlab PY | forenlab@peritosinformaticos.net |
-| Promedent S.A. | contabilidad@odontos.com.py |
+| Promedent S.A. (Odontos) — Aliado procesal (cambió de dueño 2025-2026) | contabilidad@odontos.com.py |
+| Compradores actuales de Promedent | Nicolás De Gásperi, Fabricio Serrati, Alejandro Mussi, Colinas del Río S.A. |
+| Gross Brown (abogados asesores M&A) | LinkedIn — https://es.linkedin.com/posts/grossbrown_grossbrown-mergersandacquisitions-legaladvisory-activity-7414387903134425088-iWgC |
+| Superintendencia de Salud — auditorías 2024-2025 | superintendenciadesalud.gov.py |
 | DNI Gabi | (en README paciente gaby-lab-results: 1.375.421) |
+| Diputado Velázquez (firmante contrato N° 58/2016 con O3) | (a confirmar) — posible testigo |
+| Rocío Salazar (modelo de comunicación para prensa) | LinkedIn — https://es.linkedin.com/posts/rocio-salazar-1878bb34a_odontolog%C3%ADadigna-modeloabusivo-saludlaboral-activity-7399292071129415680--YNv |
 
 ---
 
-## 🎁 Resumen: ¿qué entrego hoy?
+## 📝 RESUMEN EJECUTIVO DE INVESTIGACIÓN (actualizado 18/09/2026)
 
-1. ✅ 6 fichas individuales nuevas en `06-personas/` (José Manuel, Ángel Valdez, Raúl Ramírez Arana, Dra. Viviana González, Dra. Aida Amarilla, Dra. María Gloria Acosta)
-2. ✅ 1 ficha actualizada con cambio crítico (Dr. Mario Ramírez — co-responsable directo, no "hijo engañado")
-3. ✅ 1 archivo de casos jurídicos comparados (PY/ES/CO/VE) en `09-areas-investigacion/casos-comparados-regional-py-es-co.md`
-4. ✅ 1 glosario maestro de actores y organizaciones en `09-areas-investigacion/00-glosario-actores-organizaciones.md`
-5. ✅ 1 directorio de peritos forenses en `13-templates-procesales/49b-peritos-forenses-asuncion.md`
-6. ✅ 2 memos de investigación en `09-areas-investigacion/_hermes-research-*.md` (≈25 KB + ≈20 KB)
+> *Una vez firmada la investigación profunda N1-6, el caso tiene una base procesal que ningún otro despacho de abogados en Paraguay puede igualar sin horas-hombre de investigación.*
 
-**7 documentos nuevos** + 1 actualizado, todos con fuentes verificadas y pushados a GitHub.
+**Lo que tenemos:**
+
+1. **5 cabezas del gobierno corporativo de O3** (Roque + José Manuel + Mario + Ángel + Verónica) — ver `06-personas/`
+2. **7 entidades del grupo económico** (O3 + Santé + La Merced + Vanguard + Scultura + La Casa del Odontólogo + Tecnodent) — ver `09-areas-investigacion/00-glosario-actores-organizaciones.md`
+3. **Patrimonio consolidado del grupo estimado en ₲510M – ₲3.100M** (suficiente para embargo) — ver `08-analisis-especializado/15-solvencia.md`
+4. **6 precedentes jurisprudenciales vivos** (PY/ES/CO/VE) — ver `09-areas-investigacion/casos-comparados-regional-py-es-co.md`
+5. **6 casos análogos vivos en Superintendencia de Salud PY** — ver `35-cruce-dncp-odontologia3.md` y `precedentes-publicos-odontologos-explotados.md`
+6. **Historial público de irregularidades O3**:
+   - **DNCP CASO N° 294** (2018 Investigación Preliminar)
+   - **DNCP anulación MOPC 2023** (dictamen N° 11)
+   - **Superintendencia auditoría 2024 + 2025** (N° 40, N° 45)
+   - **Scultura-Vanguard auditada 2025** (N° 37)
+   - **Promedent-Odontos auditada 2025** (N° 54)
+7. **2 precedentes penales vivos**: Quirófanos IPS (prisión preventiva + embargo ₲61.000M) + caso 67 personas COVID
+8. **2 aliados procesales**: Promedent S.A. (cambió de dueño — Gross Brown) + Superintendencia de Salud (auditoría 2024-2025)
+9. **Pericia informática forense** (ForenLab PY) con presupuesto 600-1.200 EUR
+10. **Modelo de comunicación probado** (Rocío Salazar LinkedIn) para eventual denuncia pública
+11. **Cuantificación unificada**: laboral (₲300M ancla) + penal (₲300-360M civil + decomiso) + embargo (₲4.000M)
+
+---
+
+## 🎁 Resumen: ¿qué entrego hoy (18/09/2026)?
 
 ---
 
