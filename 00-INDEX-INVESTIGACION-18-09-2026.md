@@ -152,3 +152,14 @@ Si Iván pide más investigación, las áreas que aún no están agotadas son:
 - **ACCION CARLOS (prioridad ALTA)**: `15-colaboracion-carlos/60-pedido-copia-expediente-pj-760.md` — minuta lista para pedir copia certificada; dentro del expediente: desenlace + teoría del caso de O3 + su estudio de abogados contencioso
 - **Contrataciones.gov.py**: ficha proveedor RUC 80010293 (Estigarribia 1414, misma manzana que Santé 1458 → velo) + llamado MOPC 444961 2024 archivados
 - **Precedente adverso preparado para contraste**: STS 33/2023 España (Vitaldent-franquicia, TRADE no laboral) — test del propio fallo (turnos asignados, 365 días, cobro centralizado) diferencia el caso de Gabi; a incorporar en doc 65
+
+## ⏰ Sesión 6 (18/09/2026, tarde II) — Ronda "qué más podemos hacer"
+
+**Artefactos nuevos:**
+- `12-evidencia/doctrina-velo-pj/monografia-pj-corina-uso-personalidad-juridica.pdf` (17 págs) — doctrina PY de descorrimiento del velo (Corina Orué, pj.gov.py), citable por Carlos.
+- `12-evidencia/red-2026-09-18/` — home odontologia3.com HOY: "Más de 150 profesionales" SIGUE publicada (prueba estrella viva) + directorio externo que confirma Estigarribia 1414 y red O3·Santé·La Merced.
+- `09-areas-investigacion/65` §F — STS 33/2023 (Vitaldent) anticipado como precedente adverso con tabla de diferenciación.
+- `14-guia-para-gabi/75` — piso corregido ₲600M→₲400M (residuo de la corrección canónica).
+- Tablero del caso: `/opt/data/scratchpad/caso-gonzalez-odonto3-tablero.html` (299 días prescripción / 118 conciliación).
+
+**Descartes con causa:** Vanguard = "Vanguard Security S.A." ajena al caso (rastro eliminado); Res. 760 texto íntegro no indexado (solo vía expediente — doc 60).

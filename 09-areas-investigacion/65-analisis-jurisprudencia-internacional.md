@@ -231,6 +231,24 @@ Aunque la Corte IDH no tiene jurisdicción directa sobre casos laborales individ
 
 ---
 
+### F. Precedente adverso anticipado: red de clínicas dental como "franquicia" (España, STS 33/2023)
+
+**Qué dice (versión de O3):** el Tribunal Supremo español, en sentencia 33/2023 de 18 de enero, desestimó la laboralidad de una odontóloga que prestaba servicios en clínicas de una red operada bajo régimen de franquicia (caso Vitaldent), calificándola de trabajador autónomo económicamente dependiente (TRADE).
+
+**Por qué NO nos aplica (diferenciación con el propio test del fallo):** la sentencia decide por ausencia de los índices de dependencia, no por la forma jurídica de la red. La dentista del precedente conservaba libertad de horarios, no cumplía turnos asignados por sistema, facturaba por actos y soportaba riesgo económico.
+
+**Nuestro caso, con el MISMO test:**
+| Índice | Vitaldent (STS 33/2023) | Gabi (O3) |
+|---|---|---|
+| Turnos | Sin turnos del sistema | Turnos asignados por agenda central |
+| Urgencias | No obligadas | Guardias 365 días impuestas |
+| Cobro | Facturaba por actos | Cobro centralizado por O3 |
+| Riesgo económico | Lo soportaba ella | 100% de O3 (IPS, insumos, alquiler) |
+
+**Acción procesal:** anticipar la cita (O3 la traerá); diferenciar in totidem verbis con la tabla anterior. Referencia cruzada: `66-informe-expediente-pj-dncp-760-o3.md` (§ precedente adverso).
+
+---
+
 *Documento de referencia. Carlos puede usar estos argumentos en sus escritos.*
 
 # Fin del análisis

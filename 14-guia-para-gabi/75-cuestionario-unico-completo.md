@@ -2289,7 +2289,7 @@ No necesitás responder — pero esto es lo que Carlos va a preguntar:
 
 Si la conciliación funciona, hay un acuerdo. Carlos tiene claro el lado legal, pero necesita tu input sobre:
 
-- **Monto mínimo aceptable** (ya lo tenemos: ₲600M)
+- **Monto mínimo aceptable** (ya lo tenemos: ₲400M)
 - **Forma de pago** (contado vs cuotas vs mixto)
 - **Confidencialidad** (qué pasa si se filtra)
 - **Cláusulas especiales** (carta de recomendación, no-contacto, etc.)
