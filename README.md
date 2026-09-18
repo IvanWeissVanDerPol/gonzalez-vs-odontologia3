@@ -1,97 +1,146 @@
-# González Pane c/ Odontología 3 S.A. — Análisis Exhaustivo del Caso
+# González Pane c/ Odontología 3 TRES S.A. — Análisis Exhaustivo del Caso
 
-> **Repositorio de análisis legal y estratégico del caso laboral de la Dra. Gabriella María González Pane contra Odontología 3 S.A. y el Dr. Roque S. Ramírez Nizza, Asunción, Paraguay.**
-
+> **Repositorio de análisis legal y estratégico del caso laboral de la Dra. Gabriella María González Pane contra Odontología 3 TRES S.A. y el GRUPO ECONÓMICO FAMILIAR encabezado por el Dr. Roque Samuel Ramírez Nizza, Asunción, Paraguay.**
+>
 > **Status:** Borrador para revisión por el abogado patrocinante (Dr. Carlos).
-> **Privacidad:** los nombres reales están en los documentos internos; este repositorio es **público** por decisión del usuario que lo subió. Si necesitás una versión anonimizada, decime y la genero.
+> **Privacidad:** los nombres reales están en los documentos internos; este repositorio es **público** por decisión del usuario. Si necesitás una versión anonimizada, decime y la genero.
+
+---
 
 ## 🎯 Para arrancar rápido
 
 > **→ Leé primero `00-START-HERE.md` (5 min)** — es el mapa más corto del repo.
 
-
-
 - **Si sos Gabi** → andá a `14-guia-para-gabi/` y leé `71-guia-operativa.md`.
 - **Si sos Carlos (abogado)** → empezá por `04-estrategia/91-brief-ejecutivo-carlos.md`.
 - **Si querés entender el caso completo** → empezá por `01-entrada/00-resumen-ejecutivo.md`.
 
+---
+
 ## Qué hay aquí
 
-Expediente completo y estratégico con **106 documentos markdown** organizados en **15 carpetas temáticas**:
+Expediente completo y estratégico con **~135 documentos markdown** organizados en **15 carpetas temáticas + 5 memos privados de investigación** (prefijados `_hermes-`):
 
-| Carpeta | Contenido | Tamaño |
+| Carpeta | Contenido | Archivos |
 |---|---|---|
-| `01-entrada/` | Resumen ejecutivo, índice, glosario | 29 KB |
-| `02-hechos/` | Cronología + prueba + mapa evidencia + datos pendientes | 71 KB |
-| `03-legal/` | Tesis + jurisprudencia + borrador demanda | 90 KB |
-| `04-estrategia/` | Plan procesal + plazos + 4 playbooks + escenarios de crisis | 246 KB |
-| `05-cuantificacion/` | Damages + VPN + escenarios + presupuesto + impacto | 41 KB |
-| `06-personas/` | Perfiles + red social + 4 perfiles individuales | 50 KB |
-| `07-comunicacion/` | Medios + manual táctico canal × canal | 17 KB |
-| `08-analisis-especializado/` | 10 análisis verticales (solvencia, penal, etc.) | 93 KB |
-| `09-areas-investigacion/` | 200 áreas + bibliografía + intelligence + 40 roles | 154 KB |
-| `10-riesgos-personales/` | Matriz de riesgos + seguridad personal | 16 KB |
-| `11-arquitectura-caso/` | Plan de tecnología, automatización, contingencia | 12 KB |
-| `12-evidencia/` | Evidencia original INMUTABLE | 20 KB |
-| `13-templates-procesales/` | 20 templates procesales listos para Carlos | 188 KB |
-| `14-guia-para-gabi/` | Documentos específicos para Gabi | 99 KB |
+| `01-entrada/` | Resumen ejecutivo, índice, glosario | 4 |
+| `02-hechos/` | Cronología + prueba + mapa evidencia + datos pendientes | 4 |
+| `03-legal/` | Tesis + jurisprudencia + borrador demanda | 9 |
+| `04-estrategia/` | Plan procesal + playbooks + crisis + memo investigativo | 19 |
+| `05-cuantificacion/` | Damages + VPN + escenarios + presupuesto + impacto | 5 |
+| `06-personas/` | 11 fichas individuales + perfiles + redes | 17 |
+| `07-comunicacion/` | Medios + manual táctico canal × canal | 2 |
+| `08-analisis-especializado/` | 10 análisis verticales (solvencia, penal, etc.) | 10 |
+| `09-areas-investigacion/` | Investigación profunda + intelligence + glosario + casos comparados + memos | 14 |
+| `10-riesgos-personales/` | Matriz de riesgos + seguridad personal | 2 |
+| `11-arquitectura-caso/` | Plan de tecnología, automatización, contingencia | 1 |
+| `12-evidencia/` | Evidencia original INMUTABLE (audios, transcripciones, WhatsApp, cartas) | ~240 archivos |
+| `13-templates-procesales/` | 21 templates procesales listos para Carlos | 21 |
+| `14-guia-para-gabi/` | Documentos específicos para Gabi + memo investigación | 4 |
 
-### Evidencia original
+### Evidencia original (~240 archivos multimedia)
 
 - **2 cartas originales escaneadas** (`12-evidencia/cartas-escaneadas/`).
-- **38 audios originales** (`.opus`, `12-evidencia/audios/`).
-- **76 transcripciones** (Whisper + corregidas, en `12-evidencia/transcripciones-*`).
-- **1 chat completo** (`12-evidencia/_chat.txt`).
+- **38 audios originales** de 12.5 años (`.opus`, `12-evidencia/audios/`).
+- **76 transcripciones** (Whisper + corregidas en `12-evidencia/transcripciones-*`).
+- **99 archivos WhatsApp** descargados del Drive (chat Roque 51 archivos + chat Viviana 50 archivos) en `12-evidencia/whatsapp-roque/` y `12-evidencia/whatsapp-viviana/`.
 - **SHA-256** de los archivos del repo (`12-evidencia/MANIFEST-SHA256.txt`).
+- **1 chat Carlos-Gabi completo** (`12-evidencia/_chat.txt`).
 
-## Estructura
+### Documentos de investigación privada (Hermes)
 
-```
-gonzalez-vs-odontologia3/
-├── README.md                          ← este archivo
-├── ESTRUCTURA.md                      ← mapa completo de carpetas + archivos
-│
-├── 01-entrada/                        ← qué leer primero
-├── 02-hechos/                         ← qué pasó + prueba + datos pendientes
-├── 03-legal/                          ← argumentación jurídica
-├── 04-estrategia/                     ← estrategia + playbooks + crisis
-├── 05-cuantificacion/                 ← cuánto se pide + impacto
-├── 06-personas/                       ← quién es quién
-├── 07-comunicacion/                   ← cómo se comunica
-├── 08-analisis-especializado/         ← análisis verticales
-├── 09-areas-investigacion/            ← investigación profunda + intelligence
-├── 10-riesgos-personales/             ← riesgos y seguridad
-├── 11-arquitectura-caso/              ← infraestructura operativa
-├── 12-evidencia/                      ← evidencia original INMUTABLE
-├── 13-templates-procesales/           ← formularios para Carlos
-└── 14-guia-para-gabi/                 ← SOLO para Gabi
-```
+5 memos detallados con investigación exhaustiva de LinkedIn, Superintendencia, DNCP, contralorías y medios, prefijados `_hermes-` para no aparecer en el listado público:
+- `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` (notas investigación pública)
+- `09-areas-investigacion/_hermes-research-personas-instituciones-2026-09-18.md` (N°1: entidades)
+- `09-areas-investigacion/_hermes-research-profundización-2026-09-18.md` (N°2: peritos + jurisprudencia)
+- `09-areas-investigacion/_hermes-research-profundización-N3-2026-09-18.md` (N°3: Gerardo gerente + 3 clínicas)
+- `09-areas-investigacion/_hermes-research-profundización-N4-2026-09-18.md` (N°4: José Manuel + Superintendencia)
 
-Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
+---
 
 ## TL;DR
 
 | Concepto | Valor |
 |---|---|
-| Tipo de caso | Acción laboral declarativa + cobro de prestaciones |
-| Demandada | Odontología 3 S.A. (Dr. Roque S. Ramírez Nizza) |
-| Pretensión principal | Recharacterización de contrato PS → laboral dependiente |
-| Pretensión subsidiaria | Reincorporación por estabilidad absoluta (Art. 94 CT) |
-| Antigüedad | 12 años y 6 meses |
-| Cuantía estimada | Gs. 300–400M (con ancla ₲2.000M por midpoint rule) |
-| Plazo de prescripción | Hasta 14/07/2027 (~300 días restantes) |
-| Probabilidad de éxito | 85–95% (estimación Carlos) |
-| Acción inmediata | Firma del poder + inicio de oficios al IPS y SET |
-| Inteligencia clave | ₲147B adjudicados DNCP + 22+ profesionales públicos + Mario Ramírez = hijo de Roque |
+| **Tipo de caso** | Acción laboral declarativa + cobro de prestaciones |
+| **Demandada principal** | Odontología 3 TRES S.A. (RUC 80010293-2, Dr. Roque Samuel Ramírez Nizza) |
+| **Co-demandados identificados** | 5 (Roque Pdte + José Manuel VP + Mario rep. legal alt. + Ángel Valdez admin + Verónica Amarilla Matto Gerente) |
+| **Grupo económico vinculado** | 7+ entidades (O3, Santé, La Merced, Vanguard, Scultura, Casa del Odontólogo, Tecnodent) |
+| **Pretensión principal** | Recharacterización de contrato PS → laboral dependiente |
+| **Pretensión subsidiaria** | Reincorporación por estabilidad absoluta (Art. 94 CT) — Gabi tiene 12+ años |
+| **Antigüedad** | 12 años y 6 meses |
+| **Cuantía estimada** | Ancla ₲2.000M (2x quantum) + Embargo ₲4.000M + Quantum legal ₲358M |
+| **Plazo de prescripción** | Hasta 14/07/2027 (~300 días restantes) |
+| **Probabilidad de éxito** | 85–95% (con jurisprudencia PY consolidada + casos análogos Superintendencia) |
+| **Acción inmediata** | Firma del poder + Padrón Electoral (parentescos) + Superintendencia (auditorías 2024-2025) |
 
-## Hallazgos críticos actualizados (sept 2026)
+---
 
-1. **Patrón masivo de fraude previsional** — Odontología 3 tiene ₲147B adjudicados en DNCP (73 contratos en 17 organismos). El modelo PS es sistémico, no aislado.
-2. **Dr. Mario Ramírez es hijo de Roque** — empresa familiar confirmada. Implicaciones: recusación de testigos, inhabilidad DNCP, querella por asociación ilícita.
-3. **22+ profesionales públicamente identificables** en `odontologia3.com` (incluyendo hijos y posibles socios de Roque).
-4. **Cero cobertura de prensa negativa** = first-mover advantage si Gabi decide hacerlo público.
-5. **Asismed dejó de pagar fijo en 2025** — deterioro financiero reciente de O3 explica los despidos.
-6. **38 audios + 2 cartas escaneadas + grabación de la reunión con Roque** = arsenal probatorio completo.
+## Estructura del Grupo Económico (confirmado Sept 2026)
+
+⚠️ **CRÍTICO:** Odontología 3 no es una empresa aislada. Es la entidad central de un **grupo económico familiar integrado**:
+
+| Entidad | Relación | Cargo de José Manuel | Embargable |
+|---|---|---|---|
+| **Odontología 3 S.A.** (RUC 80010293-2) | S.A. principal demandada | Vicepresidente | ✅ |
+| **Clínica Santé** (Mariscal Estigarribia 1458 e/ Perú y Pai Pérez, Asunción) | Segunda clínica | **Propietario** | ✅ |
+| **Clínica La Merced** (Ingavi e/ Monte Alto y Pitiantuta, Luque) | Tercera clínica, cerca de domicilio de Gabi | (mismo grupo) | ✅ |
+| **Vanguard** (prepaga odontológica, registro EMPP `2POD180005`) | Producto prepago del grupo | Vicepresidente | ✅ |
+| **Scultura S.A.** (laboratorio dental) | Laboratorio propio | **Propietario** | ✅ |
+| **La Casa del Odontólogo S.A.** (venta insumos) | Insumos para las clínicas | Vicepresidente | ✅ |
+| **Tecnodent** (laboratorio CAD/CAM) | Laboratorio digital | **Propietario** | ✅ |
+
+**José Manuel Ramírez** es Vicepresidente/Propietario de todas (cargos simultáneos en LinkedIn: https://www.linkedin.com/in/jose-manuel-ramirez-733892334).
+**Educación:** Universidad Católica — Licenciatura en Business Administration.
+
+⚠️ **Para Carlos:** el embargo se puede pedir contra **cualquiera de las 7 entidades** del grupo, fundamentado en **inoponibilidad del velo societario** (Art. 153 CT + doctrina).
+
+---
+
+## Hallazgos críticos actualizados (Sept 2026)
+
+### 1. Estructura corporativa de O3 — 5 cabezas
+
+| # | Persona | Cargo | Fuente |
+|---|---|---|---|
+| 1 | Dr. Roque Samuel Ramírez Nizza | Presidente + Director + Rep. Legal DNCP | DNCP + cartas |
+| 2 | **José Manuel Ramírez** ⚠️ | Vicepresidente O3 + Propietario/Vice de 6 entidades del grupo | LinkedIn |
+| 3 | Dr. Mario Ramírez (hijo de Roque) | Odontólogo Rehab Oral + Rep. Legal alternativo en MOPC | ABC Color 2024 |
+| 4 | Ángel Valdez de Madariaga | Administrador + Representante público | Última Hora/ABC |
+| 5 | **Lic. Verónica Amarilla Matto** | Gerente de Operaciones y Servicios de O3 | LinkedIn |
+
+### 2. Historial de irregularidades verificado
+
+- **DNCP CASO N° 294 — Investigación Preliminar contra O3** (10/09/2018, Abg. Martha Verón).
+- **DNCP anulación MOPC 2023**: dictamen N° 11 confirmó irregularidades en la adjudicación de O3 (firmada por Roque + Mario).
+- **Superintendencia de Salud auditó O3 en 2024 (N° 40, 13-29 ago) y 2025 (N° 45, 1-13 ago)** + Scultura-Vanguard (N° 37, 2-15 jul 2025).
+- **Abg. Aníbal Ramírez** protestó CONTRA O3 en DNCP en 2016 (¿competidor o familiar?).
+
+### 3. Patrón sectorial de fraude previsional
+
+- **Caso Julidavid Ramírez 67 personas — IPS-PY** (ABC Color 17/9/2025): fraude masivo con trabajadores ficticios.
+- **Caso Quirófanos IPS — 9 exautoridades imputadas** (ABC Color mayo-agosto 2026): lesión de confianza + prisión preventiva + embargo.
+- **Caso Gerardo Javier Medina Halke c/Odonto Excelence** (Superintendencia): incumplimiento contractual odontológico.
+- **Caso Carolina Rodriguez Adorno c/PROMED S.A.** (Superintendencia): ⚠️ **mismo competidor de O3 (Odontos)** tiene caso análogo.
+- **Caso Celso Alejandro Bareiro contra Asismed** (Superintendencia): caso contra aseguradora vinculada al modelo.
+
+### 4. Inteligencia sobre Gabi
+
+- **Grabación reunión 18/06/2026 con Roque** mencionada en chats (a verificar si está subida al repo).
+- 38 audios de chat Carlos-Gabi (julio 2026).
+- 99 archivos WhatsApp descargados del Drive (ROque 51 + Viviana 50).
+- 2 cartas escaneadas firmadas por Roque (26/03/2025 y 18/06/2026).
+- Documentación hospitalizaciones y datos clínicos (cuantificación daño moral).
+
+### 5. Estrategia procesal recomendada (5 puntos)
+
+1. **Demanda laboral co-demandada** contra las 5 cabezas + Odontología 3 S.A.
+2. **Embargo preventivo sobre 6+ entidades** (inoponibilidad del velo societario).
+3. **Querella penal** Art. 196 CP + 187 CP + 239 CP (asociación ilícita) + 192 CP.
+4. **Acción colectiva** si Gabi logra sumar 3-5 exempleados.
+5. **Verificar parentesco clave con Padrón** (Roque-Mario confirmado, Roque-José Manuel / Aida-Verónica / Gloria-Roque / Verónica-Viviana por confirmar).
+
+---
 
 ## Cómo usar este repo (por audiencia)
 
@@ -103,33 +152,62 @@ Para ver el detalle de cada carpeta y de cada documento, ir a `ESTRUCTURA.md`.
 
 ### Si sos el abogado patrocinante (Dr. Carlos)
 
-1. `04-estrategia/91-brief-ejecutivo-carlos.md` (resumen 1 página).
-2. `01-entrada/00-resumen-ejecutivo.md` (1 página con la decisión clave).
-3. `04-estrategia/84-definitive-negotiation-playbook.md` (el playbook final con midpoint rule).
-4. `03-legal/16-borrador-demanda.md` (borrador listo para presentar).
-5. `13-templates-procesales/36-escrito-conciliacion.md` (escrito de conciliación con cuantificación ₲2.000M).
-6. `13-templates-procesales/40-embargo-preventivo.md` (escrito de embargo con jurisprudencia).
-7. `09-areas-investigacion/36-intelligence-report.md` (₲147B DNCP + 22 profesionales + parentesco confirmado).
+1. `04-estrategia/91-brief-ejecutivo-carlos.md` — resumen 1 página de entrada
+2. `01-entrada/00-resumen-ejecutivo.md` — 1 página con la decisión clave
+3. `04-estrategia/84-definitive-negotiation-playbook.md` — el playbook final con midpoint rule
+4. `04-estrategia/notas-investigacion-hermes.md` — **brief consolidado de Hermes** con timeline + cuantificación recomendada + advertencias cautelares
+5. `09-areas-investigacion/36-intelligence-report.md` — inteligencia ₲147B DNCP + 22 profesionales + 4 cabezas
+6. `03-legal/16-borrador-demanda.md` — borrador listo para presentar
+7. `13-templates-procesales/36-escrito-conciliacion.md` — escrito de conciliación administrativa
+8. `13-templates-procesales/40-embargo-preventivo.md` — escrito de embargo con jurisprudencia
 
 ### Si querés entender la estrategia completa
 
-1. `04-estrategia/81-master-negotiation-playbook.md` (versión inicial completa)
-2. `04-estrategia/84-definitive-negotiation-playbook.md` (versión final con midpoint rule)
-3. `04-estrategia/58-plan-de-accion.md` (timeline operativo)
-4. `04-estrategia/73-escenarios-crisis.md` (26 escenarios de crisis consolidados)
-5. `09-areas-investigacion/37-research-compendium.md` (research académico Cambridge + Harvard PON)
+1. `04-estrategia/81-master-negotiation-playbook.md` — versión inicial completa
+2. `04-estrategia/84-definitive-negotiation-playbook.md` — versión final con midpoint rule
+3. `04-estrategia/58-plan-de-accion.md` — timeline operativo
+4. `04-estrategia/73-escenarios-crisis.md` — 26 escenarios de crisis consolidados
+5. `09-areas-investigacion/casos-comparados-regional-py-es-co.md` — precedentes PY/ES/CO/VE con URLs
+6. `09-areas-investigacion/00-glosario-actores-organizaciones.md` — directorio maestro de actores
+7. `09-areas-investigacion/_hermes-research-profundización-N4-2026-09-18.md` — research más reciente (Superintendencia + LinkedIn)
+
+### Material de investigación profunda (privado)
+
+Los memos `_hermes-` en `09-areas-investigacion/` contienen investigación que **no debe divulgarse públicamente** mientras el caso esté en etapa pre-procesal:
+
+- Contactos de competidores (Promedent)
+- Estrategias procesales (codemanda ampliada, querella penal)
+- Identificación de exempleados potenciales
+- Datos comparados de Superintendencia y DNCP
+
+**Solo accesible a Iván (asistente técnico) y al abogado Carlos con poder firmado.**
+
+---
 
 ## Privacidad
 
 - El repo es **público** por decisión del usuario.
-- Los nombres reales de las personas están en documentos internos (`12-evidencia/` y `06-personas/`).
-- Para una versión anonimizada, solicitarla explícitamente.
+- Los nombres reales están en documentos internos (`12-evidencia/`, `06-personas/`, `09-areas-investigacion/`).
+- Los memos `_hermes-` están reservados para uso interno.
+- **Para una versión anonimizada**, solicitarla explícitamente.
+
+---
 
 ## Última actualización
 
-Cleanup + consolidación ejecutado en sept 2026:
-- 14 archivos obsoletos removidos
-- 5 pares de archivos consolidados
-- 7 archivos reorganizados a sus carpetas correctas
-- Nueva carpeta `14-guia-para-gabi/` creada
-- 2 archivos en root (era 23)
+Investigación consolidada al **18 de septiembre de 2026**:
+
+**Commits recientes (última semana):**
+
+| Commit | Descripción |
+|---|---|
+| `d7b1c0e` | N°4: José Manuel controlador + Superintendencia casos análogos + Promedent-Odontos |
+| `2aef12a` | N°3: Verónica = Gerente; 3 clínicas; Vanguard web; DNCP CASO N° 294 |
+| `d25b12f` | Integración completa (6 fichas + glosario + casos + peritos) |
+| `7f5ed0b` | N°2: Promedent, IPS Quirófanos, Forenlab, Sanitas, COP |
+| `0a972d7` | N°1: DNCP, Superintendencia, Vanguard, ABC Color |
+| `c9e00da` | STATUS update + apunte cuestionario |
+| `dcaa670` | Merge remote → main |
+
+**Investigación autónoma:** 4 sesiones intensivas de LinkedIn, Superintendencia, DNCP, contralorías, prensa y peritos.
+**Tamaño del repo:** ~140 archivos `.md` (~1.4 MB) + 240+ archivos de evidencia multimedia (~17 MB).
