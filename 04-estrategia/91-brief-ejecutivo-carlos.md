@@ -74,7 +74,7 @@
 ### 📋 Cuestionarios pendientes
 
 - `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` — **completo, base**
-- `14-guia-para-gabi/59-cuestionario-activo.md` — **53 preguntas pendientes** de respuesta (Q1-Q53)
+- `14-guia-para-gabi/75-cuestionario-unico-completo.md` — **82 preguntas pendientes** de respuesta (Q1-Q82; lo ya respondido vive en `55-cuestionario-RESPONDIDO.md`)
 - `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` — notas preliminares públicas (privado)
 - `06-personas/README.md` — glosario de personas
 - `09-areas-investigacion/00-glosario-actores-organizaciones.md` — directorio maestro

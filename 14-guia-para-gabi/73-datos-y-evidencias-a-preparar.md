@@ -1,6 +1,6 @@
 # 73 · Datos y evidencias que Gabi prepara — manual completo
 
-> **Fecha:** 2026-09-18 · Complemento de `72-cuestionario-ronda2` y `71-guia-operativa`. Aquí está QUÉ material físico y digital armar, en QUÉ orden, y POR QUÉ sirve (qué elemento de la relación laboral prueba cada pieza).
+> **Fecha:** 2026-09-18 · Complemento de `75-cuestionario-unico-completo` y `71-guia-operativa`. Aquí está QUÉ material físico y digital armar, en QUÉ orden, y POR QUÉ sirve (qué elemento de la relación laboral prueba cada pieza).
 > **Regla general:** originales intactos SIEMPRE. Nada se "arregla", nada se recorta. Una copia fiel hoy vale más que un original perfecto mañana.
 
 ---

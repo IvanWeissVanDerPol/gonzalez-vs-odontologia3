@@ -147,7 +147,7 @@ Expediente completo y estratégico con **~135 documentos markdown** organizados 
 ### Si sos Gabi
 
 1. `14-guia-para-gabi/71-guia-operativa.md` — checklist diario + semanal + mensual
-2. `14-guia-para-gabi/59-cuestionario-activo.md` — 30 preguntas pendientes de respuesta
+2. `14-guia-para-gabi/75-cuestionario-unico-completo.md` — 82 preguntas pendientes de respuesta
 3. `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md` — referencia de lo que ya declaraste
 
 ### Si sos el abogado patrocinante (Dr. Carlos)

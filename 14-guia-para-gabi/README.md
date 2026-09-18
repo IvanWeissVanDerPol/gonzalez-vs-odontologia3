@@ -8,8 +8,6 @@ Documentos específicamente para Gabi (no para Carlos). Esta carpeta tiene todo 
 |---|---|---|
 | `55-cuestionario-RESPONDIDO.md` | Cuestionario inicial completo que Gabi ya respondió (set 2026) | Referencia histórica — qué declaró Gabi originalmente |
 | `75-cuestionario-unico-completo.md` | **⭐ EL CUESTIONARIO ÚNICO: 82 preguntas** — fusiona 59 (53 preg.) + 72 (35 preg.), deduplicadas, 13 partes priorizadas 🔴🟡🟢, con espacio de respuesta bajo cada pregunta y tabla de trazabilidad | **Lo que Gabi usa para responder TODO — un solo archivo** |
-| `59-cuestionario-activo.md` | (REEMPLAZADO por 75) Cuestionario activo original de 53 preguntas | Solo para trazabilidad — no responder desde acá |
-| `72-cuestionario-ronda2-nueva-evidencia.md` | (REEMPLAZADO por 75) Ronda 2 original de 35 preguntas | Solo para trazabilidad — no responder desde acá |
 | `71-guia-operativa.md` | Guía operativa consolidada: checklist diario + semanal + mensual + cosas que NO hacer + plan de 1 semana | **Lo que Gabi lee el lunes** para organizar su semana |
 | `73-datos-y-evidencias-a-preparar.md` | Manual de preparación: carpeta por año, export de audios fuera de WhatsApp, doble respaldo, los 4 PDFs que solo Gabi puede hacer, reglas de custodia | **Junto con 75** — qué material armar mientras responde |
 | `74-analisis-cobertura-y-upgrades-repo.md` | Auditoría de cobertura 25 temas × 3 docs, insights de los 16 asientos de la mesa, defensas esperadas de O3 × contras, backlog del repo | Para Carlos / expediente |
@@ -35,4 +33,4 @@ Documentos específicamente para Gabi (no para Carlos). Esta carpeta tiene todo 
 ## Conexión con el resto del repo
 
 - **Esta carpeta es independiente** — Gabi no necesita leer nada más del repo.
-- Todo lo que Gabi responda en `59-cuestionario-activo.md` se usa para alimentar el caso y los playbooks de Carlos en `04-estrategia/`.
+- Todo lo que Gabi responda en `75-cuestionario-unico-completo.md` se usa para alimentar el caso y los playbooks de Carlos en `04-estrategia/`.

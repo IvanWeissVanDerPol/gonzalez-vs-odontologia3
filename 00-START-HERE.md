@@ -13,7 +13,7 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 | Orden | Doc | Para qué |
 |---|---|---|
 | 1 | `14-guia-para-gabi/71-guia-operativa.md` | Checklist diario + semanal + mensual |
-| 2 | `14-guia-para-gabi/59-cuestionario-activo.md` | 30 preguntas pendientes de respuesta |
+| 2 | `14-guia-para-gabi/75-cuestionario-unico-completo.md` | 82 preguntas pendientes de respuesta |
 
 **Solo leé esos 2 archivos.** Carlos tiene el resto.
 
@@ -168,7 +168,7 @@ Es el expediente completo del caso laboral de **Dra. Gabriella María González 
 ### Para Gabi
 
 1. Leer `14-guia-para-gabi/71-guia-operativa.md` completo
-2. Responder las preguntas 🔴 bloqueantes (Q1-Q10) de `14-guia-para-gabi/59-cuestionario-activo.md`
+2. Responder las Partes 🔴 1-6 de `14-guia-para-gabi/75-cuestionario-unico-completo.md`
 3. **CRÍTICO:** confirmar nombre real de la Coordinadora (¿Lic. Viviana Colman o Dra. Viviana González?) — antes de cualquier citación
 4. **CRÍTICO:** confirmar si atendía en **La Merced (Luque)** — cerca de su domicilio en Cerro Corá 62
 5. Confirmar la grabación de la reunión con Roque del 18/06/2026 (buscar en su celular)

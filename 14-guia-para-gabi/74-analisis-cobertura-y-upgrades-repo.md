@@ -79,7 +79,7 @@ Total: 35 preguntas nuevas (Q31-Q65). Instrucciones anti-contaminación incluida
 ## 5. Upgrades del repo — hecho hoy y backlog
 
 ### Hecho (18/09)
-1. `72-cuestionario-ronda2-nueva-evidencia.md` — Q31-Q65, gaps cerrados.
+1. Ronda 2 (Q31-Q65, gaps cerrados) — fusionada en `75-cuestionario-unico-completo.md` y el archivo original eliminado por consolidación.
 2. `73-datos-y-evidencias-a-preparar.md` — manual físico/digital con por-qué por pieza.
 3. `74-análisis` (este doc) — cobertura + insights + defensas.
 4. 9 snapshots nuevos hasheados (knew-when del "150").

@@ -29,7 +29,7 @@ Quién es quién en el caso. Análisis de perfiles, redes y tácticas de negocia
 - **Dra. María Gloria Acosta** — Ortodoncia/Rehab Oral en O3 — posible "la Gloria" de los chats — `Dra-Maria-Gloria-Acosta.md` ⭐ *nuevo 18/09*
 - **Dra. Aida Analy Amarilla Jojot** — Operatoria dental — posible pariente de Verónica — `Dra-Aida-Analy-Amarilla-Jojot.md` ⭐ *nuevo 18/09*
 - **Sr. Luis Arévalo** — Contador externo — `Sr-Luis-Arevalo.md`
-- **Pati** — Asistente RR.HH. (entregó carta 26/03/2025) — ver `14-guia-para-gabi/59-cuestionario-activo.md` Q31
+- **Pati** — Asistente RR.HH. (entregó carta 26/03/2025) — ver `14-guia-para-gabi/75-cuestionario-unico-completo.md` Q41
 - **Chone** — Mantenimiento/recepción, llaves — ver Q32
 
 ### Terceros vinculados

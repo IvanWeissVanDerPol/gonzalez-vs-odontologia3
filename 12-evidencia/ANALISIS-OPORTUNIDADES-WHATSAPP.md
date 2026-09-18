@@ -365,7 +365,7 @@ El chat confirma:
 
 ## 🔗 Referencias cruzadas
 
-- **Cuestionario activo:** `14-guia-para-gabi/59-cuestionario-activo.md` (actualizar con Q31-Q38)
+- **Cuestionario activo:** `14-guia-para-gabi/75-cuestionario-unico-completo.md` (Parte 2: turnos Q7-Q12)
 - **Brief Carlos:** `04-estrategia/91-brief-ejecutivo-carlos.md` (actualizar con nueva evidencia)
 - **Intelligence report:** `09-areas-investigacion/36-intelligence-report.md` (agregar hallazgos)
 - **Playbook definitivo:** `04-estrategia/84-definitive-negotiation-playbook.md` (usar Viviana como palanca)

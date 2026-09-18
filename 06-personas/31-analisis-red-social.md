@@ -27,8 +27,8 @@
 | **Dra. Viviana González** ⚠️ NUEVO | Rehabilitación Oral en O3 | Posible homónimo verdadero de la "Coordinadora" | A confirmar nombre real | `Dra-Viviana-Gonzalez.md` |
 | **"Lic. Viviana Colman"** ⚠️ | Coordinadora según expediente | ALERTA: nombre posiblemente erróneo | Requiere verificación Gabi | `Lic-Viviana-Colman.md` |
 | **Dr. Raúl Ramírez Arana** ⚠️ NUEVO | Cofundador 1973 (fallecido 1989) | Padre de Roque, sucesión societaria | Histórico, no demanda | `Raul-Ramirez-Arana.md` |
-| **Pati** (Asistente RR.HH.) | Entregó carta 26/03/2025 física | TESTIGO CRÍTICO del procedimiento disciplinario | Identificar nombre completo | `59-cuestionario-activo.md` Q31 |
-| **Chone** (mantenimiento) | Llaves de la clínica, vivía ahí | Testigo cotidiano | Identificar nombre completo | `59-cuestionario-activo.md` Q32 |
+| **Pati** (Asistente RR.HH.) | Entregó carta 26/03/2025 física | TESTIGO CRÍTICO del procedimiento disciplinario | Identificar nombre completo | `75-cuestionario-unico-completo.md` Q41 |
+| **Chone** (mantenimiento) | Llaves de la clínica, vivía ahí | Testigo cotidiano | Identificar nombre completo | `75-cuestionario-unico-completo.md` Q42 |
 | **Manuel Amelio** | Ex-pareja de Gabi (masón) | Testigo conector (entrada a clínica) | Tibio, reacio | — |
 | **Lic. Luis Arévalo** | Contador externo | Acceso a libros de O3 (bajo pericia) | A citar post-poder | `Sr-Luis-Arevalo.md` |
 

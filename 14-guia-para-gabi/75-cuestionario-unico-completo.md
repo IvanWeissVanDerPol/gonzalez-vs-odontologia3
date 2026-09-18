@@ -1,6 +1,6 @@
-# 75 · CUESTIONARIO ÚNICO Y COMPLETO para Gabi (todas las preguntas en un solo documento)
+# 75 · CUESTIONARIO ABIERTO de Gabi — las 82 preguntas pendientes en un solo documento
 
-> **Fecha:** 2026-09-18 · **Este documento reemplaza a `59` y `72` como lista de preguntas a responder** (`55` queda como referencia histórica de lo ya declarado). Fusiona el cuestionario activo (53 preguntas) y la ronda 2 de nueva evidencia (35 preguntas): 53 + 35 − 6 duplicadas = **82 preguntas únicas**, organizadas en 13 partes priorizadas.
+> **Fecha:** 2026-09-18 · **ÚNICO archivo de preguntas abiertas.** Todo lo ya respondido vive en `55-cuestionario-RESPONDIDO.md`. Este doc fusionó los antiguos `59` y `72` (eliminados), Fusiona el cuestionario activo (53 preguntas) y la ronda 2 de nueva evidencia (35 preguntas): 53 + 35 − 6 duplicadas = **82 preguntas únicas**, organizadas en 13 partes priorizadas.
 
 ## Cómo responder
 

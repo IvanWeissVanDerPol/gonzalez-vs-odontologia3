@@ -162,7 +162,7 @@ gonzalez-vs-odontologia3/
 │   └── README.md
 ├── 14-guia-para-gabi/                 ← SOLO para Gabi (~110 KB)
 │   ├── 55-cuestionario-RESPONDIDO.md (23.1 KB)
-│   ├── 59-cuestionario-activo.md (94.1 KB)
+│   ├── 75-cuestionario-unico-completo.md (102 KB)
 │   ├── 71-guia-operativa.md (12.2 KB)
 │   ├── _hermes-notas-investigacion-publica.md (8.5 KB) [⭐ NUEVO — privado]
 │   └── README.md

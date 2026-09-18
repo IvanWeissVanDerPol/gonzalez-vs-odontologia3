@@ -217,7 +217,7 @@ De `odontologia3.com/profesionales/` (Phase 12):
 
 ### Cuestionarios (Gabi)
 - `14-guia-para-gabi/55-cuestionario-RESPONDIDO.md`
-- `14-guia-para-gabi/59-cuestionario-activo.md` (30 preguntas pendientes)
+- `14-guia-para-gabi/75-cuestionario-unico-completo.md` (82 preguntas pendientes)
 - `14-guia-para-gabi/71-guia-operativa.md`
 - `14-guia-para-gabi/_hermes-notas-investigacion-publica.md` ⭐ nuevo 18/09
 
