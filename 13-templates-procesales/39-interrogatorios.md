@@ -1,124 +1,153 @@
-# 39 · Interrogatorios (Confesional + Testimonial)
+# 39 · Interrogatorios (Confesional + Testimonial) — ⚠️ ACTUALIZADO 18/09/2026
 
-> *Listas estructuradas de preguntas para los interrogatorios en audiencia. Carlos debe seleccionar y adaptar según el caso.*
+> *Listas estructuradas de preguntas para los interrogatorios en audiencia. **Actualizado con las 5 cabezas del gobierno corporativo de O3.***
+> *Carlos debe seleccionar y adaptar según el caso.*
 
 ---
 
 ## Índice
 
-1. Interrogatorio al representante legal de Odontología 3 S.A. (confesional).
-2. Interrogatorio a la Coordinadora Gral. (testifical).
-3. Interrogatorio al "Licenciado" RR.HH. (testifical).
-4. Interrogatorio a otros profesionales de la clínica (testifical).
+1. Interrogatorio al representante legal de Odontología 3 S.A. (confesional) — Roque.
+2. Interrogatorio a la **Gerente de Operaciones y Servicios** (testifical) — Lic. Verónica Amarilla Matto.
+3. Interrogatorio al "Licenciado" RR.HH. (testifical) — si Gabi puede identificarlo.
+4. Interrogatorio a **otros profesionales de la clínica** (testifical) — incluyendo Aída Amarilla si litisconsorte.
 5. Interrogatorio a Manuel Amelio (testifical).
 6. Interrogatorio a pacientes (testifical).
 7. Interrogatorio al perito contable.
 8. Interrogatorio al perito informático.
+9. **Interrogatorio a José Manuel Ramírez (Vice + Propietario 6 entidades) (testifical o confesional si codemandado).**
+10. **Interrogatorio a Mario Ramírez (Representante Legal alt. MOPC) (testifical o confesional si codemandado).**
 
 ---
 
-## 1. Interrogatorio al representante legal de Odontología 3 S.A. (confesional)
+## 1. Interrogatorio al representante legal de Odontología 3 S.A. — Roque (confesional)
 
 **Tipo de prueba:** confesional (Art. 142 CPC).
-**Sujeto:** Dr. Roque S. Ramírez Nizza, en su carácter de representante legal.
-**Pliego:** preguntas cerradas (sí/no) y abiertas (contexto).
+**Sujeto:** Dr. Roque Samuel Ramírez Nizza, en su carácter de Presidente, Director y Rep. Legal DNCP.
+**⚠️ Pliego:** preguntas cerradas (sí/no) y abiertas (contexto).
 
 ### Bloque 1 — Sobre la relación laboral
 
-1. ¿Es usted el representante legal de Odontología 3 S.A.? — **Sí.**
+1. ¿Es usted el representante legal de Odontología 3 TRES S.A.? — **Sí.**
 2. ¿Lo era desde 2014? — **Sí.**
 3. ¿Conoce usted a la Dra. Gabriella María González Pane? — **Sí.**
-4. ¿Trabajó la Dra. González Pane para Odontología 3 S.A.? — **Sí.**
-5. ¿En qué carácter? — **(Dejar que declare libremente; presionar para que precise).**
-6. ¿Qué tareas realizaba? — **(Dejar que declare; confrontar después con carta 26/03/2025).**
-7. ¿Cuántos años trabajó la Dra. González Pane para la demandada? — **12 años y 6 meses.**
-8. ¿Cuántos días a la semana? — **(Verificar: 5 días según audios).**
-9. ¿Cuántas horas por día? — **(Verificar: 14:30 a 20:00 hs = 5,5 hs por día).**
+4. ¿Trabajó la Dra. González Pane para Odontología 3 TRES S.A. entre 2014 y 2026? — **(Si declara que no, contradicción con cartas 2025/2026).**
+5. ¿Cuántos años trabajó la Dra. González Pane para O3? — **(Cantidad).**
+6. ¿En qué consistió su trabajo? — **(Atención odontológica a pacientes).**
+7. ¿Cuál era el lugar de trabajo de la Dra. González Pane? — **(Mcal. Estigarribia 1414 — Clínica Central).**
+8. ¿Trabajó la Dra. González Pane también en las Clínicas Santé o La Merced? — **(Si declara que sí, ampliar factual).**
+9. ¿Recuerda usted haber firmado la carta del 26/03/2025? — **(Si declara que sí: aceptar el rol).**
+10. ¿Recuerda usted haber firmado la carta del 18/06/2026? — **(Si declara que sí: aceptar el rol).**
 
 ### Bloque 2 — Sobre el contrato
 
-10. ¿La demandada suscribió con la Dra. González Pane un contrato escrito? — **Sí.**
-11. ¿Qué título tenía ese contrato? — **"Contrato de Prestación de Servicios".**
-12. ¿Quién lo redactó? — **(Confrontar: si fue chat GPT, admitir o negar).**
-13. ¿Fue revisado por un abogado? — **(Si sí: ¿cuál? Si no: irregularidad).**
-14. ¿Quién lo firmó por la demandada? — **Dr. Roque S. Ramírez Nizza.**
-15. ¿Contra-firmó la demandada el contrato de Gabi? — **(Si no: admitir; refuerza nuestra tesis).**
+11. ¿Qué tipo de contrato firmó O3 con la Dra. González Pane? — **"Locación de servicios".**
+12. ¿Quién redactó ese contrato? — **(ChatGPT, según el expediente).**
+13. ¿Por qué se eligió un contrato de locación en lugar de un contrato de trabajo? — **(Capturar la respuesta literal; generalmente admite "para evitar cargas sociales").**
+14. ¿Cuántos profesionales en O3 tienen este mismo tipo de contrato? — **(Si declara varios: posible acción colectiva).**
+15. ¿Estos profesionales saben que están bajo relación laboral? — **(Si no, contradicción).**
 
 ### Bloque 3 — Sobre el horario
 
-16. ¿La Dra. González Pane cumplía un horario fijo? — **Sí (negar es incompatible con la carta 18/06/2026 que dice "14:30").**
+16. ¿La Dra. González Pane cumplía un horario fijo? — **Sí.**
 17. ¿Cuál era ese horario? — **14:30 hs.**
-18. ¿Se controlaba la puntualidad? — **Sí (la carta 18/06/2026 menciona apercibimiento por llegada tarde).**
-19. ¿Existía un libro de asistencia? — **(Si sí: pedirlo. Si no: irregularidad Art. 121 CT).**
+18. ¿Quién fijó ese horario? — **O3 (Roque, Coordinadora, etc.).**
+19. ¿La Dra. González Pane podía cambiar su propio horario? — **(Si declara que no: oro puro).**
+20. ¿Qué pasaba si llegaba tarde? — **(Carta de apercibimiento 26/03/2025).**
+21. ¿Y si no asistía? — **(Sanción disciplinaria).**
 
 ### Bloque 4 — Sobre la coordinación
 
-20. ¿Quién coordinaba a los profesionales de la clínica? — **La Coordinadora General.**
-21. ¿Quién es la Coordinadora General? — **(Identificar nombre).**
-22. ¿Tenía autoridad sobre los profesionales? — **(Sí, según carta 18/06/2026).**
-23. ¿Impartía directivas técnicas? — **(Sí).**
+22. ¿Quién coordinaba el trabajo de los profesionales? — **Coordinadora General / Gerente de Operaciones y Servicios.**
+23. ¿Qué nombre tiene esa persona? — **(Verónica Amarilla Matto según LinkedIn).**
+24. ¿Quién le impartía directivas a la Dra. González Pane? — **(La Coordinadora / Gerente).**
+25. ¿Qué tipo de directivas? — **(Asignación de pacientes, protocolos, sanciones).**
+26. ¿Quién decidió el "no pago" mencionado en audio 43? — **(Él mismo / "el licenciado").**
 
 ### Bloque 5 — Sobre el poder disciplinario
 
-24. ¿La demandada remitió cartas de apercibimiento a la Dra. González Pane? — **Sí.**
-25. ¿Cuántas? — **(Si declara 1, mostrar la otra).**
-26. ¿Quién las firmó? — **Dr. Roque S. Ramírez Nizza.**
-27. ¿En qué carácter? — **(Varió: Director-Presidente en una, Auditor Odontólogo en otra).**
-28. ¿Cuál era el motivo? — **(Incumplimiento de horario, según carta).**
+27. ¿Quién sancionó a la Dra. González Pane con la carta 26/03/2025? — **Dr. Roque.**
+28. ¿Quién decidió la carta 18/06/2026? — **Dr. Roque.**
+29. ¿La Coordinadora podía sancionar a los profesionales? — **(Si declara que sí: admitir poder de dirección).**
+30. ¿Cuántas cartas de apercibimiento se enviaron a la Dra. González Pane? — **(2-3 según audio 30).**
 
 ### Bloque 6 — Sobre la continuidad
 
-29. ¿La demandada tenía la facultad de decidir la continuidad de los profesionales? — **Sí (reconocido en carta 18/06/2026).**
-30. ¿Quién decidía? — **El Director de la empresa.**
-31. ¿La Dra. González Pane fue informada de que su "continuidad estaba siendo considerada"? — **Sí (carta 18/06/2026).**
-32. ¿Se le pagó preaviso? — **(Si no: admitir).**
-33. ¿Se le pagó indemnización? — **(Si no: admitir).**
-34. ¿Se le extendió constancia de trabajo? — **(Si no: admitir, irregularidad Art. 96 CT).**
+31. ¿Quién decidió la "continuidad" de la Dra. González Pane? — **Dr. Roque / Directorio.**
+32. ¿La Dra. González Pane participó de esa decisión? — **(Si declara que no: admitir unilateralidad).**
+33. ¿Por qué decidió no pagar prestaciones? — **(Capturar la respuesta literal).**
 
 ### Bloque 7 — Sobre la remuneración
 
-35. ¿Cuánto percibía mensualmente la Dra. González Pane? — **(Verificar: Gs. 4.500.000 promedio).**
-36. ¿Cómo se componía esa remuneración? — **(fijo + variable; verificar).**
-37. ¿Se le pagaba aunque no tuviera pacientes? — **(Esto es la "prueba de hierro" de la laboralidad).**
-38. ¿Quién soportaba el riesgo de no tener pacientes? — **(Si declara la demandada: admitir laboralidad).**
+34. ¿Cuánto pagaba mensualmente a la Dra. González Pane? — **Entre Gs. 4M-8M.**
+35. ¿Cómo se calculaba ese monto? — **Comisión por paciente o monto fijo.**
+36. ¿Quién fijaba los precios de los servicios? — **O3 (no la Dra. González Pane).**
+37. ¿Los pacientes pagaban a O3 o a la Dra. González Pane directamente? — **A O3.**
 
 ### Bloque 8 — Sobre la inscripción en el IPS
 
-39. ¿La Dra. González Pane estaba inscripta en el IPS durante la relación laboral? — **(Si no: admitir la infracción).**
-40. ¿Cuándo se inscribió? — **(Si nunca: admitir).**
-41. ¿Por qué no se la inscribió? — **(Capturar la respuesta literal).**
+38. ¿La Dra. González Pane estaba inscripta en el IPS? — **(Si declara que no, admitir fraude).**
+39. ¿Cuántos profesionales en O3 están inscriptos? — **(Cantidad).**
+40. ¿Por qué no se los inscribe? — **(Capturar la respuesta literal).**
+41. ¿Quién decidió no inscribir? — **Dr. Roque / Directorio.**
 
 ### Bloque 9 — Sobre el "no pagamos nada"
 
-42. ¿Recuerda usted o algún empleado haber dicho a la Dra. González Pane que "no pagamos nada" por despido? — **(Admitir o negar; si admite, oro puro).**
-43. ¿Quién lo dijo? — **(Si declara: nombre del empleado).**
-44. ¿En qué fecha aproximada? — **(audio 43 confirma).**
+42. ¿Conoce usted el audio 43? — **(Si declara que no, mostrarle el audio).**
+43. ¿Quién dijo "no pagamos nada"? — **(Si no lo sabe, preguntar a Gerente de Operaciones y Servicios).**
+44. ¿Esa persona está autorizada por O3 para hacer esa declaración? — **Sí.**
+45. ¿Era política de O3 no pagar prestaciones? — **(Si declara que sí: oro puro para querella).**
 
 ### Bloque 10 — Sobre la naturaleza jurídica
 
-45. ¿La relación con la Dra. González Pane fue de locación de servicios o de trabajo? — **(Verificar).**
 46. ¿La demandada tenía poder de dirección sobre la Dra. González Pane? — **(Sí, según las cartas).**
 47. ¿La Dra. González Pane podía fijar su propio horario? — **(No, según la carta).**
 48. ¿Podía atender pacientes propios? — **(Si declara que no: admitir laboralidad).**
 49. ¿Podía usar instrumental propio? — **(Si declara que no: admitir laboralidad).**
 
+### Bloque 11 — ⚠️ Sobre el grupo económico (NUEVO 18/09/2026)
+
+50. ¿Quién es **José Manuel Ramírez**? — **Vicepresidente de O3 + Propietario de 6 entidades del grupo (Scultura, La Casa del Odontólogo, Tecnodent, Santé, La Merced, Vanguard).**
+51. ¿Cuántos años lleva José Manuel como Vicepresidente? — **Desde febrero 2019.**
+52. ¿Cuántos años trabajó la Dra. González Pane en O3 mientras José Manuel era Vice? — **7 años (2019-2026).**
+53. ¿Tenía José Manuel conocimiento del modelo de facturación de los profesionales? — **(Si declara que no, contradicción con su cargo).**
+54. ¿Cuántas entidades controla el grupo económico de O3? — **(Si declara que no sabe, presentar el listado de 7 entidades verificado).**
+55. ¿Cuál es la relación accionaria entre O3 y Scultura, La Casa del Odontólogo, Vanguard, Tecnodent? — **(Si declara que no sabe, presentar LinkedIn José Manuel).**
+
+### Bloque 12 — ⚠️ Sobre los profesionales relacionados (NUEVO 18/09/2026)
+
+56. ¿Quién es la **Dra. Aída Amarilla Jojot**? — **Profesional de O3 (operatoria dental).**
+57. ¿La Dra. Aída Amarilla trabaja en operatoria dental? — **Sí.**
+58. ¿La Dra. Aída Amarilla está inscripta en el IPS? — **(Si declara que no, sumar a la acción colectiva).**
+59. ¿La Dra. Aída Amarilla es familiar de la Lic. Verónica Amarilla? — **(Si declara que no, probable parentesco por Padrón).**
+60. ¿La **Dra. María Gloria Acosta** (ortodoncia) firma amonestaciones en O3? — **(Si declara que sí, prueba de autoridad informal).**
+
+### Bloque 13 — ⚠️ Sobre Mario Ramírez (NUEVO 18/09/2026)
+
+61. ¿El Dr. Mario Ramírez es odontólogo en O3? — **Sí (Rehabilitación oral).**
+62. ¿Es su hijo? — **(Si declara que sí, relación familiar).**
+63. ¿Mario firma contratos públicos con el Estado en representación de O3? — **(Si declara que sí, admitir la responsabilidad de Mario).**
+64. ¿En qué licitaciones específicas ha firmado como representante legal alternativo? — **(ABC 2024 menciona MOPC).**
+65. ¿Por qué él firmaba y no el Dr. Roque? — **(Capturar la respuesta).**
+
 ### Preguntas sorpresa (opcional)
 
-50. ¿Cuántos odontólogos trabajan actualmente para Odontología 3 S.A. en la misma modalidad? — **(Si declara varios: posible acción colectiva).**
-51. ¿Cuántos de ellos están inscriptos en el IPS? — **(Si declara ninguno: fraude masivo).**
-52. ¿La demandada tiene habilitación del Ministerio de Salud para funcionar como clínica? — **(Si no: irregularidad).**
-53. ¿La demandada tiene habilitación municipal? — **(Si no: irregularidad).**
+66. ¿Cuántos odontólogos trabajan actualmente para Odontología 3 S.A. en la misma modalidad? — **(Si declara varios: posible acción colectiva).**
+67. ¿Cuántos de ellos están inscriptos en el IPS? — **(Si declara ninguno: fraude masivo).**
+68. ¿La demandada tiene habilitación del Ministerio de Salud para funcionar como clínica? — **(Si no: irregularidad).**
+69. ¿La demandada tiene habilitación municipal? — **(Si no: irregularidad).**
 
 ---
 
-## 2. Interrogatorio a la Coordinadora Gral. (testifical)
+## 2. Interrogatorio a la Gerente de Operaciones y Servicios — Lic. Verónica Amarilla Matto (testifical) ⚠️
 
 **Tipo de prueba:** testimonial.
-**Perfil esperado:** probable testigo hostil. Preparar contrainterrogatorio.
+**Perfil esperado:** probable testigo hostil-pero-con-admisión-verbal. Preparar contrainterrogatorio.
+**⚠️ Confirmar antes:** el nombre real de la Coordinadora.
 
 ### Preguntas principales
 
-1. ¿Cuál era su cargo en Odontología 3 S.A.? — **Coordinadora General.**
+1. ¿Cuál era su cargo en Odontología 3 S.A.? — **Gerente de Operaciones y Servicios (verificado LinkedIn).**
 2. ¿Cuándo inició y terminó? — **(Fechas).**
 3. ¿Quién era su jefe directo? — **Dr. Roque S. Ramírez Nizza.**
 4. ¿Cuáles eran sus funciones específicas? — **(Coordinar profesionales, asignar pacientes, gestionar reclamos).**
@@ -134,12 +163,16 @@
 14. ¿Quién decidió no pagarle ninguna prestación? — **(El Dr. Roque / "el licenciado").**
 15. ¿Cuántos profesionales trabajaban para Odontología 3 S.A. en julio de 2026? — **(Cantidad).**
 16. ¿Todos estaban en la misma modalidad contractual? — **(Si sí, fraude masivo).**
+17. ⚠️ **¿Recuerda usted haberle dicho a la Dra. González Pane que "no pagamos nada, todo está estipulado en el contrato" el día del despido? — (Audio 43.)** — **(Admitir o negar; si admite, oro puro).**
+18. ⚠️ Si lo dijo, ¿quién le dio la instrucción de no pagar? — **(El Dr. Roque).**
+19. ⚠️ ¿Tenía usted autoridad para despedir a un profesional? — **(Si declara que no, contradicción con su rol de Gerente).**
 
 ### Preguntas de control cruzado
 
 - Confrontar sus respuestas con las cartas 26/03/2025 y 18/06/2026.
 - Confrontar con los audios originales.
 - Confrontar con los recibos de sueldo (si se aportan).
+- **Si declara que NO es la persona del audio 43 → verificar el nombre real de quien lo dijo.**
 
 ---
 
@@ -147,6 +180,7 @@
 
 **Tipo de prueba:** testimonial.
 **Perfil esperado:** hostil pero con admisión verbal importante ("no pagamos nada").
+**⚠️ Acción previa:** Gabi debe identificarlo (el expediente no tiene su nombre).
 
 ### Preguntas principales
 
@@ -164,7 +198,7 @@
 
 ---
 
-## 4. Interrogatorio a otros profesionales de la clínica (testifical)
+## 4. Interrogatorio a otros profesionales de la clínica (testifical) — ⚠️ Incluye Aída Amarilla
 
 **Perfil esperado:** posibles aliados si están en la misma situación; o testigos hostiles si aceptan el modelo.
 
@@ -177,10 +211,20 @@
 5. ¿Asiste aunque no tenga pacientes? — **(Si sí: oro puro).**
 6. ¿Recibe remuneración fija o solo variable? — **(Composición).**
 7. ¿Está inscripto en el IPS? — **(Si no: oro puro).**
-8. ¿Quién coordina su trabajo? — **Coordinadora General.**
+8. ¿Quién coordina su trabajo? — **Coordinadora General / Gerente de Operaciones y Servicios.**
 9. ¿Alguna vez recibió carta de apercibimiento? — **(Si sí: ¿cuándo y por qué?).**
 10. ¿Conoce otros profesionales en la misma situación? — **(Si sí: posible acción colectiva).**
 11. ¿Ha considerado reclamar sus derechos? — **(Si declara que sí pero no se anima, Gabi puede ofrecerle apoyo).**
+
+### Preguntas específicas para la **Dra. Aída Amarilla Jojot** (LITISCONSORTES natural)
+
+12. ¿Conoce a la Dra. Gabriella María González Pane? — **Sí.**
+13. ¿Sabe si la Dra. González Pane trabajaba bajo la misma modalidad contractual que usted? — **(Si sí: oro puro para acción colectiva).**
+14. ¿Trabaja usted en la especialidad de operatoria dental en O3? — **Sí.**
+15. ¿Cuántos años lleva usted trabajando como odontóloga? — **32 años.**
+16. ¿Trabaja en **IPS-UNA** desde 1994, ¿correcto? — **Sí (LinkedIn).**
+17. ¿En qué condiciones hace su trabajo en O3? — **(Capturar: si horario fijo, si está en IPS, etc.).**
+18. ¿Conoce a la Lic. Verónica Amarilla Matto? — **Si dice "no" o "es mi prima" o "es mi hermana" o "no sé" → según respuesta, distinto parentesco probable).**
 
 ---
 
@@ -199,6 +243,7 @@
 7. ¿Conocía usted los términos del contrato firmado? — **(Si sí, profundizar).**
 8. ¿Tuvo oportunidad de observar la relación de la Dra. González Pane con la clínica durante estos años? — **(Si sí, profundizar).**
 9. ¿Tiene conocimiento de alguna situación irregular en la clínica? — **(Dejar que declare libremente).**
+10. ⚠️ **¿Conoces al José Manuel Ramírez o a otros miembros de la familia Ramírez?** — **(Si declara parentezco, recabar más detalle).**
 
 ### Límites del testigo
 
@@ -236,6 +281,7 @@
 6. ¿La demandada declaró en sus libros contables a la Dra. González Pane como trabajador o como proveedor? — **(Capturar la respuesta).**
 7. ¿Cuánto pagó la demandada a la Dra. González Pane en los últimos 5 años? — **(Monto total).**
 8. ¿Hay inconsistencias entre las declaraciones juradas y los pagos realizados? — **(Si sí, profundizar).**
+9. ⚠️ **¿Existen flujos de dinero entre Odontología 3 S.A. y las 6 entidades vinculadas (Scultura, La Casa del Odontólogo, Vanguard, Tecnodent, Santé, La Merced)?** — **(Si detecta, facturaje cruzado, base para inoponibilidad).**
 
 ---
 
@@ -247,21 +293,49 @@
 2. ¿Cómo extrajo la información del celular de la Dra. González Pane? — **(Metodología).**
 3. ¿Qué preservó y qué preservó en su dictamen? — **(Hash, cadena de custodia).**
 4. ¿Las conversaciones de WhatsApp son íntegras? — **(Si sí, oro puro).**
-5. ¿Cuántas conversaciones de WhatsApp con la demandada se preservaron? — **(Cantidad).**
-6. ¿Hay audios y mensajes textuales? — **(Si sí, profundizar).**
-7. ¿La demandada ha presentado algún elemento para impugnar la integridad? — **(Si no, reforzar).**
-8. ¿Los metadatos de los audios confirman la fecha y hora? — **(Si sí, oro puro).**
+5. ¿La aplicación forense detectó mensajes eliminados o sobre-escritos? — **(Si sí, prueba adicional de intencionalidad).**
+6. ¿Las fechas y horas de los mensajes son consistentes con los registros de WhatsApp? — **(Si sí, prueba de integridad).**
 
 ---
 
-## Notas para Carlos
+## 9. ⚠️ Interrogatorio a José Manuel Ramírez (testifical o confesional si codemandado)
 
-1. **Orden de los testigos:** primero los hostiles (Coordinadora, Licenciado), luego los aliados (otros profesionales), al final los testigos de corroboración (pacientes, Manuel).
+**Cargo:** Vicepresidente de Odontología 3 S.A. + Propietario de 6 entidades del grupo económico.
+**LinkedIn:** https://www.linkedin.com/in/jose-manuel-ramirez-733892334
 
-2. **Confrontación:** tener los audios originales y las cartas a mano para confrontar las respuestas.
+### Preguntas principales
 
-3. **Re-preguntas:** si la respuesta es ambigua, reformular la pregunta hasta obtener un "sí" o "no" claro.
+1. ¿Es usted Vicepresidente de Odontología 3 TRES S.A.? — **Sí.**
+2. ¿Cuántos años lleva en ese cargo? — **Desde febrero 2019.**
+3. ¿Es propietario de Scultura S.A., La Casa del Odontólogo S.A., Vanguard, Tecnodent? — **(Si confirma, admitir la integración del grupo).**
+4. ¿Cuál es la relación accionaria entre esas entidades y Odontología 3 S.A.? — **(Si declara que no sabe, presentar LinkedIn).**
+5. ¿Cuántos profesionales en la modalidad de "locación" trabajaron para el grupo económico durante su gestión como Vice? — **(Si varios: admitir fraude masivo).**
+6. ¿Conocía el modelo de facturación de la clínica? — **Sí (por su cargo).**
+7. ¿Cuántas entidades distintas del grupo económico tienen su firma? — **(Las 6 de las 7).**
+8. ¿Cuántos empleados tiene cada una de esas entidades? — **(Cantidad).**
+9. ¿Quiénes son los representantes legales de cada entidad? — **(Si declara que no sabe, presentar Registro Público).**
 
-4. **Objeciones:** la contraparte puede objetar preguntas sugestivas o compuestas. Estar atento.
+---
 
-5. **Acta:** el acta de audiencia registra textualmente las preguntas y respuestas. Es la prueba clave.
+## 10. ⚠️ Interrogatorio a Mario Ramírez (testifical o confesional si codemandado)
+
+**Cargo:** Odontólogo Rehab Oral en O3 + Rep. Legal alternativo MOPC.
+
+### Preguntas principales
+
+1. ¿Es usted odontólogo de Odontología 3 TRES S.A.? — **Sí (Rehabilitación Oral).**
+2. ¿Es familiar del Dr. Roque S. Ramírez Nizza? — **(Si confirma relación padre-hijo).**
+3. ¿Ha firmado usted contratos públicos con el Estado en representación de O3? — **Sí (MOPC, ABC 2024).**
+4. ¿En cuántas licitaciones específicas ha firmado? — **(Cantidad).**
+5. ¿Por qué firma usted como representante legal alternativo? — **(Capturar la respuesta).**
+6. ¿Sabe que el uso de contratos de "locación" en lugar de contratos laborales es constitutivo de fraude previsional? — **(Si declara que no, contradicción con su nivel formativo).**
+7. ¿Sabe que la firma de su padre, como Director-Presidente, en las cartas 26/03/2025 y 18/06/2026, podría ser nula? — **(Si declara que no, llamar a la atención del juez).**
+8. ¿Sabe que el dictamen N° 11 del MOPC declaró irregulares los contratos públicos con O3? — **(Si declara que no, leerle la fuente).**
+
+---
+
+*Lista de interrogatorios actualizada 18/09/2026 con preguntas para las 5 cabezas del gobierno corporativo. Carlos debe revisar y adaptar según la estrategia que defina con Gabi y con el equipo.*
+
+---
+
+*Las preguntas marcadas con ⚠️ son sensibles y pueden generar oposición de la contraparte. Carlos debe tenerlas listas con respuestas a las objeciones.*

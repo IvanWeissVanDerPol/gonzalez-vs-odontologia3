@@ -1,6 +1,8 @@
-# 45 · Querella Penal
+# 45 · Querella Penal (⚠️ ACTUALIZADO 18/09/2026)
 
-> *Template para presentar la denuncia penal por estafa procesal y fraude laboral. Solo si se decide ir por la vía penal.*
+> *Template para presentar la denuncia penal por estafa procesal y fraude laboral. **Actualizado con precedentes de IPS Quirófanos, las 5 cabezas del gobierno corporativo de O3, y la nueva tipificación penal.***
+>
+> *Solo si se decide ir por la vía penal. Carlos debe evaluar con Iván y con Gabi.*
 
 ---
 
@@ -8,48 +10,75 @@
 
 **SEÑOR AGENTE FISCAL DEL MINISTERIO PÚBLICO DE TURNO / JUEZ PENAL DE GARANTÍAS DE TURNO**
 
-**DRA. GABRIELLA MARÍA GONZÁLEZ PANE**, con cédula de identidad N° [a completar], con domicilio real en [a completar], con patrocinio del abogado **DR. [CARLOS]**, matrícula N° [a completar], con domicilio procesal en [a completar], respetuosamente digo:
-
----
+**DRA. GABRIELLA MARÍA GONZÁLEZ PANE**, con cédula de identidad N° **1.375.421**, con domicilio real en **Cerro Corá N° 62, Luque, Departamento Central**, con patrocinio del abogado **DR. [CARLOS APELLIDO]**, matrícula N° [___], con domicilio procesal en [___], respetuosamente digo:
 
 ## I. FORMULO QUERELLA PENAL
 
-En mi carácter de particular directamente afectado, formulo **QUERELLA PENAL** contra:
+En mi carácter de particular directamente afectado, formulo **QUERELLA PENAL** contra las **5 cabezas del gobierno corporativo de Odontología 3 S.A.** y grupo económico:
 
-- **DR. ROQUE S. RAMÍREZ NIZZA**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de representante legal y administrador de Odontología 3 S.A.
-- **[NOMBRE DEL "LICENCIADO" DE RR.HH.]**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de personal de recursos humanos de Odontología 3 S.A.
-- **[NOMBRE DE LA COORDINADORA GENERAL]**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de coordinadora de Odontología 3 S.A.
+- **DR. ROQUE SAMUEL RAMÍREZ NIZZA**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de **Presidente, Director, Rep. Legal DNCP y firmante de las cartas a Gabi** de Odontología 3 S.A.
+- **JOSÉ MANUEL RAMÍREZ**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de **Vicepresidente de Odontología 3 S.A. y Propietario/Vicepresidente de 6 entidades del grupo económico** (Clínica Santé, Clínica La Merced, Vanguard, Scultura, La Casa del Odontólogo, Tecnodent) — verificado en LinkedIn https://www.linkedin.com/in/jose-manuel-ramirez-733892334.
+- **DR. MARIO RAMÍREZ**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de **odontólogo rehabilitador oral de O3 y Representante Legal alternativo en licitaciones MOPC** (firmó junto a Roque en ABC Color 16/06/2024) — hijo de Roque.
+- **ÁNGEL VALDEZ DE MADARIAGA**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de **administrador y representante público de O3** (verificado en Última Hora, ABC, La Nación).
+- **LIC. VERÓNICA AMARILLA MATTO**, C.I. N° [a completar], con domicilio en [a completar], en su carácter de **Gerente de Operaciones y Servicios de O3** (verificado en LinkedIn https://www.linkedin.com/in/ver%C3%B3nica-amarilla-matto-455a08163) — autora de la manifestación "no pagamos nada" (audio 43).
 
-Por la comisión de los delitos de **ESTAFA PROCESAL** (Art. 187 CP), **FRAUDE PROCESAL** (Art. 287 CP), y en su caso **EVASIÓN DE APORTES PREVISIONALES** (Art. 283 CT).
+Por la comisión de los delitos de:
+
+- **ESTAFA PROCESAL** (Art. 187 CP)
+- **RETENCIÓN INDEBIDA DE APORTES PREVISIONALES** (Art. 196 CP — hasta 5 años cárcel)
+- **LESIÓN DE CONFIANZA AGRAVADA** (Art. 192 CP incisos 1° y 2° — hasta 10 años, **precedente directo: Caso Quirófanos IPS 2026**)
+- **ASOCIACIÓN ILÍCITA** (Art. 239 CP — si se prueba patrón familiar coordinado)
+
+Subsidiariamente:
+
+- **FRAUDE PROCESAL** (Art. 287 CP)
 
 ---
 
 ## II. RELATO DE LOS HECHOS
 
-### 1. Relación laboral encubierta bajo contrato de locación
+### 1. Relación laboral encubierta bajo contrato de locación (12+ años)
 
-La querellante ingresó a trabajar para Odontología 3 S.A. en 2014, en su condición de odontóloga titulada. Las partes suscribieron un contrato titulado "Contrato de Prestación de Servicios", pero la ejecución real se desenvolvió bajo todas las notas características de una relación laboral dependiente:
+La querellante ingresó a trabajar para Odontología 3 S.A. en 2014, en su condición de odontóloga titulada con tres especialidades y doctorado. Las partes suscribieron un contrato titulado "Contrato de Prestación de Servicios", pero la ejecución real se desenvolvió bajo todas las notas características de una relación laboral dependiente:
 
 - Horario fijo de inicio (14:30 hs).
 - Asistencia obligatoria incluso sin pacientes.
-- Coordinación impartida por la "Coordinadora General".
-- Cartas de apercibimiento firmadas por el Sr. Roque S. Ramírez Nizza.
+- Coordinación impartida por la "Coordinadora General" / "Gerente de Operaciones y Servicios" (Lic. Verónica Amarilla Matto).
+- Cartas de apercibimiento firmadas por el Sr. Roque S. Ramírez Nizza (26/03/2025 y 18/06/2026).
+- Decisión unilateral de la demandada sobre la "continuidad" de la actora dentro de la empresa.
 
-### 2. Evasión de aportes previsionales
+### 2. Evasión de aportes previsionales masivos (12 años)
 
-Durante 12 años de relación, la demandada no inscribió a la querellante en el Instituto de Previsión Social (IPS), evadiendo el pago de aportes patronales (16,5%) y obreros (9%). Esto configura evasión masiva de aportes previsionales.
+Durante 12 años de relación, la demandada **no inscribió a la querellante ni a 21+ profesionales similares en el Instituto de Previsión Social (IPS)**, evadiendo el pago de aportes patronales (16,5%) y obreros (9%) sobre ₲5M/mes como mínimo.
 
-### 3. Manifestación verbal del personal
+Estimación: 12 años × 12 meses × 5M × 25,5% (porcentaje aporte total) = **₲ 183.600.000** evadidos solo por Gabi.
 
-El personal de recursos humanos de la demandada, al ser consultado por la querellante sobre prestaciones laborales, manifestó textualmente:
+Para el grupo económico completo (150+ profesionales), la evasión es del orden de **miles de millones de guaraníes**.
 
-> "No pagamos nada, todo está estipulado en el contrato."
+### 3. Manifestación verbal del personal (audio 43)
 
-Esta manifestación, documentada en audio del 17/07/2026, configura admisión de mala fe procesal.
+El personal de O3, al ser consultado por la querellante sobre prestaciones laborales, manifestó textualmente:
 
-### 4. Cartas de apercibimiento
+> *"La clínica no le va a pagar nada a usted. Pero si nos recumplimos no, por eso está todo estipulado en el contrato."* — Audio 43
 
-Con fecha 26/03/2025 y 18/06/2026, el Sr. Ramírez Nizza remitió cartas de apercibimiento invocando la "Cláusula Décima del Contrato firmado de Prestación de Servicios", ejerciendo actos propios del contrato de trabajo mientras invocaba la vigencia de un contrato de locación.
+**⚠️ Este audio es la admisión principal.** Si la persona que lo dijo es **Verónica Amarilla Matto** (Gerente), entonces tenemos la confesión de la autoridad corporativa con poder decisorio.
+
+### 4. Cartas de apercibimiento firmadas
+
+Con fecha **26/03/2025** y **18/06/2026**, el Sr. Roque S. Ramírez Nizza remitió cartas de apercibimiento invocando la "Cláusula Décima del Contrato firmado de Prestación de Servicios", ejerciendo actos propios del contrato de trabajo mientras invocaba la vigencia de un contrato de locación.
+
+⚠️ **Inconsistencia de cargos del firmante:** En distintos documentos, Roque firma como "Director-Presidente/Director General" (carta 2025), "Auditor Odontólogo" (carta 2026), "Representante Legal alternativo MOPC" (ABC 2024), y "Propietario" (LinkedIn).
+
+### 5. Patrón empresarial familiar coordinado
+
+⚠️ **Hechos relevantes (NUEVOS):**
+
+- **Dr. Mario Ramírez (hijo de Roque)** firma como Representante Legal alternativo en contratos MOPC.
+- **José Manuel Ramírez** controla las 6 entidades del grupo económico como Vicepresidente/Propietario.
+- **Verónica Amarilla Matto** es Gerente de Operaciones y Servicios (LinkedIn).
+- **Ángel Valdez de Madariaga** es administrador.
+- **Superintendencia de Salud auditó a O3 en 2024 y 2025** (N° 40 y N° 45, auditorías preventivas).
+- **DNCP anuló MOPC 2023** (dictamen N° 11) por irregularidades en la adjudicación a O3.
 
 ---
 
@@ -60,101 +89,150 @@ Con fecha 26/03/2025 y 18/06/2026, el Sr. Ramírez Nizza remitió cartas de aper
 > *"El que mediante ardid o engaño induzca a error a alguien para obtener un beneficio patrimonial indebido en perjuicio ajeno..."*
 
 **Elementos del tipo:**
-
 - **Ardid o engaño:** suscripción de un contrato de locación que encubría una relación laboral.
 - **Error inducido:** la querellante creyó que era un contrato de PS legítimo.
-- **Beneficio patrimonial indebido:** ahorro de Gs. 165M en aportes al IPS.
+- **Beneficio patrimonial indebido:** ahorro de ₲ 183M en aportes al IPS.
 - **Perjuicio ajeno:** pérdida de cobertura previsional por 12 años.
 
-### 2. Fraude procesal (Art. 287 CP)
+### 2. **Retención indebida de aportes previsionales (Art. 196 CP)** ⚠️ ESTIMAR
 
-> *"El que mediante ardid o engaño procure la celebración de un acto jurídico falso o el reconocimiento de un derecho inexistente..."*
+> *"El que retuviere indebidamente aportes del Instituto de Previsión Social..."*
 
 **Elementos del tipo:**
+- **Aportes del IPS no ingresados** durante 12 años.
+- **Acción deliberada de no inscribir** a la trabajadora.
+- **Beneficio para la empresa**, perjuicio para el IPS y la trabajadora.
 
-- **Ardid o engaño:** suscripción de un contrato falso en su calificación jurídica.
-- **Acto jurídico falso:** contrato de PS que en realidad era laboral.
-- **Reconocimiento de derecho inexistente:** la demandada pretendió ejercer derechos de locador sin haberlos.
+**Pena:** 2-5 años de prisión.
 
-### 3. Evasión de aportes previsionales
+### 3. **Lesión de confianza agravada (Art. 192 CP)** ⚠️ CASO ANÁLOGO
 
-La conducta descrita configura infracción al Art. 283 CT, que establece multa por la falta de inscripción de los trabajadores en el IPS.
+> *"El administrador de bienes ajenos, en beneficio propio o de terceros, abusando de la confianza depositada en él, perjudicare los intereses confiados..."*
+
+**Elementos del tipo:**
+- **Administración fraudulenta de recursos previsionales** (no se ingresaron).
+- **Perjuicio** a la trabajadora y al IPS.
+
+**Caso análogo directo:** *Caso Quirófanos IPS* (mayo-agosto 2026) — 9 exautoridades IPS imputadas por este delito con prisión preventiva y embargo por ₲61.000M.
+
+**Pena:** hasta 10 años de prisión.
+
+### 4. Asociación ilícita (Art. 239 CP) ⚠️ SUBSIDIARIO
+
+> *"Cuando tres o más personas se asocien para cometer delitos..."*
+
+**Elementos del tipo:**
+- 5 cabezas del gobierno corporativo (Roque, José Manuel, Mario, Ángel, Verónica).
+- **Patrón coordinado** de fraude previsional.
+- **Beneficio compartido** (ahorro de aportes + IVA + seguros).
+
+**Acción para Carlos:** mencionar este caso en la presentación penal como precedente inmediato.
 
 ---
 
-## IV. PRUEBA
+## IV. PRECEDENTE PROCESAL VIVO (⚠️ NUEVO)
+
+**Caso "Quirófanos IPS" (mayo-agosto 2026) — precedente directo:**
+
+- 9 exautoridades del IPS imputadas por **lesión de confianza agravada** (Art. 192 CP).
+- Prisión preventiva pedida por la Fiscalía.
+- **Embargo preventivo** hasta ₲ 61.000M.
+- **Inhibición general de vender** bienes de los imputados.
+- **Caución real** ₲ 500M para los que obtuvieron libertad ambulatoria.
+- **Caso activo**, 4 ya con libertad ambulatoria bajo reglas de conducta.
+
+**Aplicación al caso Gabi:**
+- Mismo tipo penal (Art. 192 CP).
+- Mismo patrón: fraude previsional público → enriquecimiento del empresario.
+- Misma entidad afectada (IPS).
+- **Marco procesal ya verificado:** la Fiscalía PY tiene expertise y voluntad de perseguir.
+
+**Fuente:** ABC Color 05/08/2026, Última Hora, Observador (https://observador.com.py/ips-piden-prision-y-embargo-a-ex-presidentes-y-ex-gerentes-por-perjuicio-de-g-61-000-millones-segun-imputacion/).
+
+---
+
+## V. PRUEBA
 
 ### 1. Documental
-
-- Cartas de apercibimiento (26/03/2025 y 18/06/2026).
+- Cartas de apercibimiento (**26/03/2025 y 18/06/2026**) — firmadas por Roque.
 - Contrato de Prestación de Servicios (2014).
-- Mensajes de WhatsApp con el personal de la demandada.
+- Mensajes de WhatsApp (descargados del Drive — 99 archivos en `12-evidencia/whatsapp-roque/` y `12-evidencia/whatsapp-viviana/`).
+- Tabla de las **73 adjudicaciones DNCP por ₲146.903.298.000** en 17 organismos.
+- **Historial de protestas** contra O3 en DNCP (2016-2024).
 
 ### 2. Audiovisual
-
-- 38 audios originales (.opus) que contienen manifestaciones relevantes.
-- Transcripciones realizadas con software Whisper y revisadas manualmente.
+- **38 audios originales** (.opus) que contienen manifestaciones relevantes.
+- 76 transcripciones (Whisper + corregidas).
 
 ### 3. Testimonial
-
 - Testimonio de la querellante.
-- Testimonio del personal administrativo (Coordinadora y "Licenciado").
-- Testimonio de pacientes de la clínica.
+- Testimonio del personal administrativo: **Pati** (Asistente RR.HH., entregó carta 26/03/2025), **Chone** (mantenimiento, llaves).
+- Testimonio de **Dra. Aída Amarilla Jojot** (litisconsorte natural — trabaja en operatoria dental de O3, ya 32 años en IPS-UNA).
+- Testimonio de **Dra. María Gloria Acosta** (ortodoncia + rehabilitación oral en O3).
+- Testimonio de **Dra. Viviana González** (rehabilitación oral — confirmada en O3, ambigua vs. "Coordinadora" del expediente).
 
 ### 4. Pericial
-
-- Pericia informática sobre la integridad de los audios.
-- Pericia contable sobre la facturación de Odontología 3 S.A.
+- **Pericia informática forense** sobre los 38 audios + 99 archivos WhatsApp (ForenLab Paraguay, `forenlab@peritosinformaticos.net`).
+- Pericia contable sobre la facturación de Odontología 3 S.A. y de las 6 entidades del grupo.
+- Pericia caligráfica sobre las cartas de apercibimiento.
 
 ### 5. Informes
-
-- Solicitud al IPS para verificar la no inscripción.
-- Solicitud a la SET para verificar las declaraciones juradas.
+- **Solicitud a Superintendencia de Salud** de las auditorías 2024-2025 a O3.
+- **Solicitud a DNCP** de la Resolución N° 760 que O3 litigó contra y del CASO N° 294 (Investigación Preliminar 2018).
+- **Solicitud al Padrón Electoral** de C.I., domicilio y vehículos de las 5 cabezas.
+- **Solicitud al IPS** de la no inscripción de la querellante.
+- **Solicitud a la SET** de las DDJJ de las 7 entidades del grupo.
 
 ---
 
-## V. MEDIDAS CAUTELARES
+## VI. MEDIDAS CAUTELARES (⚠️ AMPLIADAS)
 
-### 1. Embargo preventivo
+### 1. Embargo preventivo (Art. 624 CPC)
 
-Solicito el embargo preventivo de bienes del querellado hasta cubrir Gs. 400M, por el eventual decomiso del beneficio patrimonial indebido y la indemnización civil.
+Solicito el embargo preventivo de bienes de los querellados hasta cubrir **₲ 4.000.000.000** (cuatro mil millones — 4x quantum pretendido en la demanda laboral).
+
+⚠️ **Ámbito ampliado:** el embargo debe alcanzar:
+- Bienes del Sr. Roque S. Ramírez Nizza.
+- Bienes del Sr. José Manuel Ramírez.
+- Bienes del Sr. Mario Ramírez.
+- Bienes del Sr. Ángel Valdez de Madariaga.
+- Bienes de la Lic. Verónica Amarilla Matto.
+- Bienes de las **7 entidades del grupo económico** (Odontología 3 S.A., Clínica Santé, Clínica La Merced, Vanguard S.A., Scultura S.A., La Casa del Odontólogo S.A., Tecnodent).
+
+Subsidiariamente, embargo por **₲ 2.000.000.000** (ancla pretendida en demanda laboral).
 
 ### 2. Prohibición de salida del país
 
-Solicito la prohibición de salida del país del Sr. Roque S. Ramírez Nizza, para asegurar su presencia en el proceso.
+Solicito la prohibición de salida del país de los **5 querellados**, para asegurar su presencia en el proceso.
+
+### 3. Inhibición general de vender
+
+Solicito que se intime a los querellados y a las 7 entidades del grupo a **no innovar en la composición patrimonial**, para evitar el vaciamiento.
+
+### 4. Caución real
+
+Subsidiariamente, para los querellados que demuestren arraigo suficiente, caución real de **₲ 500M** (siguiendo precedente Quirófanos).
 
 ---
 
-## VI. CONSTITUCIÓN EN PARTE CIVIL
+## VII. CONSTITUCIÓN EN PARTE CIVIL
 
 En este mismo acto me **CONSTITUYO EN PARTE CIVIL** contra los querellados, reclamando la indemnización civil correspondiente:
 
 | Concepto | Monto |
 |---|---|
-| Daño material (aportes no ingresados al IPS) | Gs. 192M |
-| Daño moral | Gs. 30M |
-| Lucro cesante | Gs. 30M |
-| **TOTAL** | **Gs. 252M** |
+| Daño material (aportes no ingresados al IPS, 12 años) | ₲ 195M |
+| Daño moral | ₲ 30M-80M |
+| Lucro cesante (pérdida de ingresos por despido indirecto) | ₲ 30M |
+| **TOTAL (estimación)** | **₲ 255M-305M** |
 
 ---
 
-## VII. COMPETENCIA
+## VIII. COMPETENCIA
 
-- **Fiscalía Penal de turno** (Asunción).
+- **Fiscalía Penal de turno** (Asunción, Unidad Especializada en Hechos Punibles contra el Patrimonio y Delitos Económicos).
 - **Juzgado Penal de Garantías** (si se requiere medida cautelar).
 - **Tribunal Penal de Sentencia** (si se eleva a juicio oral).
-
----
-
-## VIII. MEDIDAS CAUTELARES PROCESALES
-
-### 1. Medida cautelar de prohibición de innovar
-
-Solicito que el querellado Sr. Ramírez Nizza sea intimado a no innovar en la composición patrimonial de Odontología 3 S.A., para evitar el vaciamiento.
-
-### 2. Medida cautelar de embargo
-
-Solicito embargo preventivo sobre bienes del querellado hasta cubrir Gs. 400M.
 
 ---
 
@@ -164,12 +242,15 @@ Por lo expuesto, al Sr. Agente Fiscal solicito:
 
 1. **Tener por presentada** la querella penal.
 2. **Admitir** la querella y ordenar la investigación fiscal.
-3. **Disponer** las medidas cautelares solicitadas (embargo + prohibición de salida).
+3. **Disponer** las medidas cautelares solicitadas (embargo + prohibición de salida + inhibición de innovar).
 4. **Constituir** a la querellante en parte civil.
+5. **Citar** a los 5 querellados a prestar declaración indagatoria.
+6. **Solicitar a la Superintendencia de Salud** las auditorías 2024-2025 a O3 (N° 40, N° 45).
+7. **Solicitar al IPS** la confirmación de la no inscripción de la querellante.
+8. **Solicitar al Registro Público de Comercio** la composición accionaria de las 7 entidades del grupo económico.
 
 Subsidiariamente, si V.S. considera que la competencia es del Juez Penal de Garantías:
-
-5. **Remitir** las actuaciones para el sorteo correspondiente.
+9. **Remitir** las actuaciones para el sorteo correspondiente.
 
 ---
 
@@ -179,3 +260,9 @@ Subsidiariamente, si V.S. considera que la competencia es del Juez Penal de Gara
 
 [Firma de la querellante]
 [Firma y sello del abogado patrocinante]
+
+---
+
+*Template para presentar querella penal en Paraguay. Basado en precedentes vivos (Quirófanos IPS 2026, 67 personas COVID 2025). Carlos debe ajustar el monto del embargo según el quantum de la demanda laboral paralela. Recomendación: presentar la querella DESPUÉS de la conciliación administrativa, no antes, para no quemar puentes de negociación con Roque.*
+
+**Actualización 18/09/2026:** codemanda ampliada a 5 personas, precedentes actualizados, embargo sobre 7 entidades del grupo.
