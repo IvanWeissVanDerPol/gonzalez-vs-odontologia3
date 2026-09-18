@@ -9,6 +9,9 @@ Documentos específicamente para Gabi (no para Carlos). Esta carpeta tiene todo 
 | `55-cuestionario-RESPONDIDO.md` | Cuestionario inicial completo que Gabi ya respondió (set 2026) | Referencia histórica — qué declaró Gabi originalmente |
 | `59-cuestionario-activo.md` | Cuestionario de seguimiento con 30 preguntas pendientes (consolidado 57+58+parentesco) | **Lo que Gabi tiene que responder AHORA** |
 | `71-guia-operativa.md` | Guía operativa consolidada: checklist diario + semanal + mensual + cosas que NO hacer + plan de 1 semana | **Lo que Gabi lee el lunes** para organizar su semana |
+| `72-cuestionario-ronda2-nueva-evidencia.md` | **Ronda 2: Q31-Q65** — turnos (gap histórico cerrado), rebranding "150 odontólogos" nacido 2025, purga vista desde adentro, pagador de los sueldos, uniforme, mitigación | **Lo que Gabi responde después del cuestionario activo** (🔴 Q31-Q39 primero) |
+| `73-datos-y-evidencias-a-preparar.md` | Manual de preparación: carpeta por año, export de audios fuera de WhatsApp, doble respaldo, los 4 PDFs que solo Gabi puede hacer, reglas de custodia | **Junto con 72** — qué material armar mientras responde |
+| `74-analisis-cobertura-y-upgrades-repo.md` | Auditoría de cobertura 25 temas × 3 docs, insights de los 16 asientos de la mesa, defensas esperadas de O3 × contras, backlog del repo | Para Carlos / expediente |
 
 ## Para quién es esta carpeta
 
