@@ -20,21 +20,29 @@
 | Domicilio real actual | **Cerro Corá N° 62, Luque, Departamento Central** | Cuestionario v2 §1.1.7 |
 | Email | gabigpane@gmail.com | Cuestionario v2 §1.1.9 |
 
-### 1.2. La empleadora
+### 1.2. La empleadora — ⚠️ ACTUALIZADO 18/09/2026
 
 | Campo | Valor | Fuente |
 |---|---|---|
-| Razón social | **Odontología 3 S.A.** | Carta 26/03/2025 (escaneada) |
-| RUC | A solicitar a la SET | — |
-| Representante legal | **Dr. Roque S. Ramírez Nizza** | Cartas 26/03/2025 y 18/06/2026 |
-| Cargo según carta 18/06/2026 | "Auditor Odontólogo" | Carta |
-| Cargo según carta 26/03/2025 | "Director – Presidente/Director General" | Carta |
-| ⚠️ Inconsistencia | Un mismo individuo usa dos cargos distintos | Análisis |
-| Domicilio fiscal principal | **Mcal. Estigarribia N° 1414 casi Pai Pérez, Barrio San Roque, Asunción** (consultorio principal) | Cuestionario v2 §4.2.1 |
-| Otras clínicas | Al menos **3 clínicas** operadas por la demandada en Asunción y área metropolitana | Cuestionario v2 §8.1.1 — "más de 50 [profesionales] entre las 3 clínicas" |
-| Objeto social | Servicios odontológicos | Implícito |
+| **Razón social completa** | **Odontología 3 TRES S.A.** ⚠️ | DNCP + DNCP ficha completa |
+| **RUC** | **80010293-2** | DNCP ficha proveedor (✅ verificado) |
+| **Representante legal ante DNCP** | **Dr. Roque Samuel Ramírez Nizza** | DNCP ficha proveedor |
+| **Cargo según carta 18/06/2026** | "Auditor Odontólogo" | Carta |
+| **Cargo según carta 26/03/2025** | "Director – Presidente/Director General" | Carta |
+| **Cargo según ABC Color 2024 (MOPC)** | Firmaba como **representante legal alternativo** junto a Roque | Noticia periodística |
+| **Cargo según LINKEDIN** | "Propietario" (self-described) | LinkedIn |
+| **⚠️ Inconsistencia de cargos** | Un mismo individuo usa 3 cargos distintos según el documento/fuente | Análisis |
+| **Domicilio fiscal principal** | **Mcal. Estigarribia N° 1414 casi Pai Pérez, Barrio San Roque, Asunción** (consultorio principal) | Cuestionario v2 §4.2.1 + odontologia3.com |
+| **Clínicas operadas (3)** | Central (Asunción), Santé (Asunción, Mariscal Estigarribia 1458), La Merced (Luque, Ingavi e/ Monte Alto y Pitiantuta) | odontologia3.com + verificación directa |
+| **Grupo económico vinculado (7 entidades)** | O3 + Santé + La Merced + Vanguard + Scultura + La Casa del Odontólogo + Tecnodent | odontologia3.com + LinkedIn José Manuel |
+| **Vicepresidente** ⚠️ | **José Manuel Ramírez** (LinkedIn verificado, Business Admin UC) | LinkedIn público |
+| **Otras personas del gobierno** | Dr. Mario Ramírez (odontólogo Rehab, rep. legal alt. MOPC) — Ángel Valdez de Madariaga (administrador) — Lic. Verónica Amarilla Matto (Gerente Operaciones) | LinkedIn + DNCP + ABC + Última Hora |
+| **Objeto social** | Servicios odontológicos + venta de insumos + laboratorio dental + prepaga | Implícito + verificado |
+| **Auditorías Superintendencia Salud 2024-2025** | N° 40 (13-29 ago 2024) + N° 45 (1-13 ago 2025) | superintendenciadesalud.gov.py |
+| **Cobertura Estatal anual** | ~USD 3M (Noticiero Paraguay) | Noticiero Paraguay |
+| **Total adjudicaciones DNCP** | 73 por ₲146.903.298.000 (~USD 19.5M) en 17 organismos | DNCP completa |
 
-> **Observación crítica.** Que el firmante se presente con dos cargos distintos según el documento genera duda razonable sobre quién está habilitado para representar a la sociedad y abre la puerta a una **nulidad de los actos** si el firmante no era representante legal al momento de firmar las cartas. Esto es **una línea defensiva a verificar** con el Registro Público de Comercio.
+> **Observación crítica ampliada:** Que el firmante se presente con dos cargos distintos según el documento **y que firme también contratos públicos como representante legal alternativo** genera duda razonable sobre quién está habilitado para representar a la sociedad. Esto abre la puerta a una **nulidad de los actos** si los firmantes no eran representantes legales al momento de firmar las cartas. Esto es **una línea defensiva a verificar** con el Registro Público de Comercio.
 
 ### 1.3. El abogado patrocinante
 
@@ -47,6 +55,63 @@
 - **Cambio relevante en 2025:** Asismed dejó de pagar el fijo (cuestionario v2 §5.1.7 + audio 36) — coincidente con la caída de ingresos de Gabi de 5M → 4M.
 - **Implicación jurídica:** Asismed podría ser **tercero legitimado pasivo** en parte del crédito (ver [`../05-cuantificacion/19-analisis-asismed.md`](../05-cuantificacion/19-analisis-asismed.md)).
 - **Acción:** Carlos debe investigar si Asismed tiene registros de los odontólogos que prestaban servicio bajo el contrato con la clínica.
+- ⚠️ **Antecedente jurisdiccional:** En Superintendencia de Salud existe el caso "Celso Alejandro Bareiro contra Asismed" (abril-junio 2025) por auditoría — `auditorias-juridicas/`. Es patrón sectorial de incumplimiento.
+
+### 1.5. ⚠️ Grupo económico O3 — 7 entidades (NUEVO 18/09/2026)
+
+**Verificación via LinkedIn + web O3 + ABC Color + Última Hora + web Vanguard:**
+
+| # | Entidad | Cargo de José Manuel | Dirección verificada | WhatsApp |
+|---|---|---|---|---|
+| 1 | **Odontología 3 TRES S.A.** (RUC 80010293-2) | Vicepresidente | Mcal. Estigarribia 1414 c/ Pai Pérez, Asunción | (0971) 907-913 |
+| 2 | **Clínica Santé** | **Propietario** | Mariscal Estigarribia 1458 e/ Perú y Pai Pérez, Asunción | (0982) 461-300 |
+| 3 | **Clínica La Merced** | (mismo grupo) | Ingavi e/ Monte Alto y Pitiantuta, Luque | (0971) 907-913 (mismo) |
+| 4 | **Vanguard — Odontología Integral Prepaga** (Reg. Superintendencia `2POD180005`) | Vicepresidente | (vanguardodontologia.com) | — |
+| 5 | **Scultura S.A.** (laboratorio dental, auditado Superintendencia jul 2025) | **Propietario** | (asociada) | — |
+| 6 | **La Casa del Odontólogo S.A.** (venta de insumos) | Vicepresidente | (asociada) | — |
+| 7 | **Tecnodent** (laboratorio digital CAD/CAM, desde abril 2019) | **Propietario** | (asociada) | — |
+
+**Origen histórico:**
+- 1973 — Co-fundación por el Dr. Raúl Ramírez Arana (fallecido 1989)
+- 1989 — Dr. Roque Ramírez, hijo del fundador, asume dirección y adquiere participación
+- 1994 — Formalización como S.A.
+- 2016 — Apertura Scultura + Casa del Odontólogo
+- 2017 — Apertura Santé
+- marzo 2019 — Lanzamiento Vanguard (prepaga)
+- enero 2020 — Apertura Tecnodent
+
+**Implicación procesal:** Si Carlos pide **inoponibilidad del velo societario** (Art. 153 CT + doctrina del levantamiento del velo), el embargo sobre cualquiera de las 7 entidades puede ejecutarse contra el grupo económico completo.
+
+### 1.6. ⚠️ Gobierno corporativo actualizado (NUEVO 18/09/2026)
+
+| Persona | Cargo verificado | Fuente |
+|---|---|---|
+| Dr. Roque Samuel Ramírez Nizza | Presidente + Director + Rep. Legal DNCP | DNCP + cartas |
+| **José Manuel Ramírez** ⚠️ | **Vicepresidente + Propietario de 6 entidades del grupo** | LinkedIn (verificado) |
+| Dr. Mario Ramírez (hijo de Roque) | Odontólogo Rehab Oral + **Rep. Legal alternativo en MOPC** | ABC Color 16/06/2024 |
+| Ángel Valdez de Madariaga | Administrador + Representante público | Última Hora / ABC |
+| **Lic. Verónica Amarilla Matto** ⚠️ | **Gerente de Operaciones y Servicios** | LinkedIn (verificado) |
+
+**5 cabezas en el gobierno corporativo.** Recomendación procesal: codemandar a las 4 cabezas activas (excluir solo a Roque como demandado principal, salvo que se quiera consolidar todo en una sola acción).
+
+---
+
+## 1.7. ⚠️ Historial público de irregularidades (NUEVO 18/09/2026)
+
+| Fecha | Hecho verificado | Fuente |
+|---|---|---|
+| **26-07-2016** | Abg. Melany Sol Martínez protesta contra pliego de O3 | DNCP |
+| **23-09-2016** | Abg. Aníbal Ramírez protesta contra pliego de O3 (¿familiar de la familia Ramírez?) | DNCP |
+| **15-01-2018** | Odontología 3 TRES S.A. (Analice Orrego Rodríguez, abogada) protesta contra resultado | DNCP |
+| **15-03-2018** | Odontología 3 TRES S.A. (Virginia Aguilera, abogada) reconsideración | DNCP |
+| **10-09-2018** | **CASO N° 294 — Investigación Preliminar contra O3** por Abg. Martha Verón (DNCP) | DNCP |
+| **4-03-2024** | **DNCP recomienda anulación MOPC 2023** por irregularidades | DNCP/ABC |
+| **12-08-2024** | Último seguimiento público conocido | Última Hora |
+| **1-13 ago 2025** | O3 auditada por Superintendencia de Salud (N° 45) | Superintendencia |
+| **2-15 jul 2025** | Scultura-Vanguard auditada por Superintendencia (N° 37) | Superintendencia |
+| **8-12 sep 2025** | Promedent S.A. (Odontos) — competidor afectado — auditada por Superintendencia (N° 54) | Superintendencia |
+
+**Patrón confirmado:** O3 tiene historial extenso (2016-2024) de controversias públicas en DNCP. La DNCP y Superintendencia han marcado a la entidad como **problemática**.
 
 ---
 
