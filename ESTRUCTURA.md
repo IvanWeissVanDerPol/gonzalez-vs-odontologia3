@@ -161,6 +161,8 @@
 │   ├── audios/  (38 archivos)
 │   ├── capturas-web-2026-09-18/  (41 archivos)
 │   ├── expediente-pj-2026-09-18/  (5 archivos: 2 PDFs PJ + 2 HTML contrataciones + MANIFEST)
+│   ├── doctrina-velo-pj/  (1 PDF: monografía PJ PY — Corina, descorrimiento del velo, 17 págs + MANIFEST)
+│   ├── red-2026-09-18/  (2 HTML: home odontologia3.com con "150 profesionales" viva + directorio red O3·Santé·La Merced + MANIFEST)
 │   ├── cartas-escaneadas/  (2 archivos)
 │   ├── transcripciones-corregidas/  (38 archivos)
 │   ├── transcripciones-whisper/  (38 archivos)
