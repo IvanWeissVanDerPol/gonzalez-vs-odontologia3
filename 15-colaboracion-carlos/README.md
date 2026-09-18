@@ -10,4 +10,5 @@
 | `52-busqueda-jurisprudencia-csj.md` | Cómo buscar jurisprudencia de la CSJ |
 | `53-carta-invitacion-colegas.md` | Carta modelo para invitar colegas a sumarse |
 | `54-oficios-identificacion-testigos.md` | Oficios para identificar testigos |
+| `60-pedido-copia-expediente-pj-760.md` | **⭐ NUEVO, prioridad ALTA:** pedido de copia del expediente "O3 c/ Res. 760/2018 DNCP" (resuelta en apelación 2022-2026, desenlace desconocido) |
 | `sesiones-38-43-dictamen-pericial-economico.md` | Dictamen pericial económico: qué pedirá el juez |

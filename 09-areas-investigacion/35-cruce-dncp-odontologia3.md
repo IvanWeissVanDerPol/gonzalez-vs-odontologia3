@@ -217,12 +217,18 @@ Ver [`../08-analisis-especializado/24-analisis-penal.md`](../08-analisis-especia
 
 **Hallazgo:** Odontología 3 S.A. litigó activamente contra la DNCP por Resolución N° 760 del 05/03/2018.
 
+**Actualización 18/09/2026 (informe completo → `66-informe-expediente-pj-dncp-760-o3.md`, artefactos → `12-evidencia/expediente-pj-2026-09-18/`):**
+- La causa estaba **pendiente en apelación** en Secretaría Judicial IV al **26/09/2022** (causa N° 4 de la lista oficial; PDF hasheado `8959bdbe…`).
+- Sala de la época: Dr. Ramírez Candia · Dra. Carolina Llanes · Dr. Benítez Riera (preopinante).
+- En la lista oficial de la **misma Secretaría al 20/03/2026** la causa **ya no figura** (PDF hasheado `a5973199…`) → la apelación fue **resuelta entre 2022 y 2026**. Desenlace (confirmación o revocación de la Res. 760) desconocido.
+
 **Implicaciones:**
-- O3 ya tenía representación legal propia en 2018 (8 años de existir y contratar abogados)
-- El caso puede reflejar la **estrategia jurídica** que O3 ha usado contra la DNCP
+- O3 ya tenía representación legal propia en 2018 y sostuvo el litigio institucional ≥4 años (2018→2022)
+- Si la Res. 760 fue CONFIRMADA: sanción firme a O3 por contratación pública irregular → munición institucional de primer nivel
+- Si fue REVOCADA: conocer la sentencia revela la teoría del caso y el estudio de abogados de O3; ajustar la avenida DNCP
 - Aplica principio de buena fe y consistencia: si O3 reconoce ante juez la obligatoriedad del dictamen DNCP, este caso podrá invocarse
 
-**Acción para Carlos:** Pedir copia del expediente al PJ (identificar número de causa en Secretaría Judicial IV).
+**Acción para Carlos (PRIORIDAD ALTA):** pedir copia certificada del expediente por carátula en Secretaría Judicial IV (Tribunal de Apelación en lo Civil, Comercial y Laboral, Asunción); si está en casación, pedir el número de expediente CSJ. Ver doc `15-colaboracion-carlos/` + informe 66 §3.
 
 ### 12.2. Promedent S.A. (Odontos) — competidor afectado
 

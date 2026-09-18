@@ -128,6 +128,7 @@
 │   ├── 57-checklist-de-mejoras.md
 │   ├── 64-analisis-licitaciones-publicas.md
 │   ├── 65-analisis-jurisprudencia-internacional.md
+│   ├── 66-informe-expediente-pj-dncp-760-o3.md
 │   ├── ANALISIS-OPORTUNIDADES-WHATSAPP.md
 │   ├── README.md
 │   ├── casos-comparados-regional-py-es-co.md
@@ -159,6 +160,7 @@
 ├── 12-evidencia/  ← Evidencia original INMUTABLE — audios, transcripciones, WhatsApp, cartas, capturas web (SHA-256 en MANIFEST)
 │   ├── audios/  (38 archivos)
 │   ├── capturas-web-2026-09-18/  (41 archivos)
+│   ├── expediente-pj-2026-09-18/  (5 archivos: 2 PDFs PJ + 2 HTML contrataciones + MANIFEST)
 │   ├── cartas-escaneadas/  (2 archivos)
 │   ├── transcripciones-corregidas/  (38 archivos)
 │   ├── transcripciones-whisper/  (38 archivos)
@@ -200,6 +202,7 @@
     ├── 52-busqueda-jurisprudencia-csj.md
     ├── 53-carta-invitacion-colegas.md
     ├── 54-oficios-identificacion-testigos.md
+    ├── 60-pedido-copia-expediente-pj-760.md
     ├── README.md
     └── sesiones-38-43-dictamen-pericial-economico.md
 ```

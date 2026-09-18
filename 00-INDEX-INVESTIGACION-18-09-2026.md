@@ -139,3 +139,16 @@ Si Iván pide más investigación, las áreas que aún no están agotadas son:
 ---
 
 *Documento vivo. Generado por Hermes Agent el 18/09/2026. Es referencia cronológica de los commits de investigación del día.*
+
+---
+
+## ⏰ Sesión 5 (18/09/2026, tarde) — Expediente PJ localizado + apelación resuelta
+
+**Artefactos:** `12-evidencia/expediente-pj-2026-09-18/` (2 PDFs PJ + 2 HTML contrataciones, SHA-256 en MANIFEST)
+**Informe completo:** `09-areas-investigacion/66-informe-expediente-pj-dncp-760-o3.md`
+
+- **Causa "O3 S.A. c/ Res. 760/2018 DNCP" localizada**: causa N° 4, pendiente en apelación al 26/09/2022, Secretaría Judicial IV (Sala Ramírez Candia · Llanes · Benítez Riera) — PDF oficial hasheado
+- **Apelación RESUELTA entre 2022 y 2026**: la causa NO figura en la lista de pendientes de la misma Secretaría al 20/03/2026 (PDF oficial hasheado). Desenlace (¿confirmó o revocó el Tribunal la Res. 760?) desconocido
+- **ACCION CARLOS (prioridad ALTA)**: `15-colaboracion-carlos/60-pedido-copia-expediente-pj-760.md` — minuta lista para pedir copia certificada; dentro del expediente: desenlace + teoría del caso de O3 + su estudio de abogados contencioso
+- **Contrataciones.gov.py**: ficha proveedor RUC 80010293 (Estigarribia 1414, misma manzana que Santé 1458 → velo) + llamado MOPC 444961 2024 archivados
+- **Precedente adverso preparado para contraste**: STS 33/2023 España (Vitaldent-franquicia, TRADE no laboral) — test del propio fallo (turnos asignados, 365 días, cobro centralizado) diferencia el caso de Gabi; a incorporar en doc 65
