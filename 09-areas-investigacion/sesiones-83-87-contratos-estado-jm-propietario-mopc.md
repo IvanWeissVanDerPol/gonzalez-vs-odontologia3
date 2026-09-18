@@ -26,12 +26,12 @@
 | Año | Licitación (ID DNCP) | Lote/contrato | Monto O3 | Estado | Fuente |
 |---|---|---|---|---|---|
 | 2016-2018 | 314.740 "Seguro odontológico" | múltiples renovaciones | s/d | con 5+ protestas de O3 (§6) | DNCP protestas |
-| 2020 | MOPC ID 377.252 | Seguro odontológico 4.000 funcionarios | **G. 11.220 millones** | ejecutado | El Independiente + ABC 17/11/2020 |
+| 2020 | MOPC ID 377.252 | 4.000 funcionarios × G.3.600.000 | **G. 14.400 millones** (total) | ejecutado | El Independiente (ID 377.252) |
 | 2021 | SENACSA ID 393.129 | Seguro odontológico plurianual (único oferente) | **G. 1.625.000.000** | ejecutado | El Independiente |
 | 2021 | CAH ID 393.077 | Seguro médico+odontológico CAH — O3 lote odontológico | **G. 2.400.000.000** (Medí Plan G.9.600M el 80%) | ejecutado | El Independiente |
-| 2022 | MOPC (res. 3.147, lote 2) | Seguro odontológico 3.700 funcionarios | **G. 13.320 millones** | adjudicado pese a ser la oferta MÁS CARA (Promedent ofertó G.6.216M, 53% menos — la DNCP igual adjudicó a O3, La Nación 02/06/2023) → luego ANULADA 2024 (§3) | ABC 22/12/2022 + La Nación |
+| 2022 | MOPC ID 420.246 (res. 3.147, lote 2) | Seguro odontológico 3.700 funcionarios | **G. 13.320 millones** | adjudicado pese a ser la oferta MÁS CARA (Promedent ofertó G.6.216M, 53% menos; DNCP aprobó protesta 07/03/2023) → ANULADA 04/03/2024 tras investigación de oficio DNCP (§3) | ABC 22/12/2022 + 16/06/2024 + La Nación |
 | 2022 (cierre) | — | **Total adjudicado a O3 en el año: G. 28.500 millones (~USD 4M)** | | ranking principal proveedor Estado | ABC 27/03/2023 |
-| 2024 | MOPC re-llamado G.8.907M | publicado 17/05/2024 | ¿ganó O3 o Promedent? | VERIFICAR resultado final (dictamen clave para presión) | ABC 16/06/2024 |
+| 2024 | MOPC re-llamado Nº23/2024 ID 444.961 (G.8.907M, publicado 17/05/2024) | — | **NO: lo ganó Promedent SA (Odontos, Alfredo Menini) por ~G.8.900M — pero su adjudicación quedó SUSPENDIDA (DNCP exp. 395) y figura "Adjudicación Cancelada" (₲8.436M)** | O3 fuera del MOPC desde 03/2024; gana el rival y el rival también cae | ABC 06/08/2024 + contrataciones.gov.py resumen 444961 |
 | 2025-26 | LinkedIn oficial O3: "La Merced, nuestra tercera [clínica]" + "prestador odontológico con mayor integración [con aseguradoras] del país" | expansión + convenios aseguradoras | — | contexto de solvencia | LinkedIn post 7427444339967934464 |
 
 ### Conclusión económica
@@ -64,6 +64,26 @@ Fuente: superintendenciadesalud.gov.py/registro-nacional-de-empp/
 2. **Roque con doble frente:** además del caso Gabi, tiene un historial DNCP adverso reciente que hace que "ir a la guerra pública" le cueste más (cada nota de prensa sobre Gabi puede reabrir la pregunta de por qué la DNCP lo anuló).
 3. **Argumento de transacción:** "Prefiera cerrar esto rápido y confidencial antes que un expediente MTESS + DNCP + prensa converjan".
 4. **Fecha clave para Carlos:** pedir copia de la **investigación de oficio de la DNCP** (expediente de la licitación MOPC 2023) — es público y documenta irregularidades internas de O3 (mismo patrón de manejo que denuncia Gabi: documentación armada a posteriori, doble página, etc.).
+
+### ACTUALIZACIÓN CRÍTICA (ABC 06/08/2024): el re-llamado 2024 también explotó — pero se lo llevó Promedent
+- El re-llamado Nº23/2024 (ID 444.961, G.8.907M) lo **ganó Promedent SA (Odontos), representada por Alfredo Menini** — NO O3.
+- La adjudicación a Promedent quedó **suspendida por la DNCP (expediente N°395)** tras denuncias múltiples — entre ellas la de **un odontólogo que figuraba como profesional de la firma SIN SU CONSENTIMIENTO** (mismo patrón de manipulación de plantillas profesionales que el modelo PS de O3: profesionales "inflados" en papel).
+- En el portal DNCP el proceso figura como **"Adjudicación Cancelada" (₲8.436M)**.
+- **Lectura estratégica para la mesa:** el duopolio O3/Promedent está en guerra abierta en DNCP desde 2022, ambos con adjudicaciones caídas, y el sector entero quedó bajo la lupa (funcionarios del MOPC SIN cobertura odontológica desde marzo 2024 — escándalo público). Esto es la prueba de contexto perfecta: (a) el modelo de negocio de las prepagas odontológicas está en colapso regulatorio, (b) las listas de profesionales son infladas/manipuladas en TODO el sector, (c) Roque no puede permitirse otro frente público — paga rápido y callado.
+- **Promedent-Odontos como aliado procesal queda CONFIRMADO como activo en guerra** (ya denunció a O3 en DNCP 2022 y ganó; Alfredo Menini es su cara pública). Un contacto estratégico de Carlos con Promedent puede aportar el expediente DNCP 395 completo y antecedentes de las prácticas de O3.
+
+### Cronología consolidada del colapso MOPC-O3 (para demanda y prensa)
+| Fecha | Evento |
+|---|---|
+| 12/2022 | MOPC adjudica a O3 ID 420.246 lote 2 por G.13.320M (res. 3.147) |
+| 01-02/2023 | Protestas de Promedent y Consorcio CPD-Clio ante DNCP |
+| 07/03/2023 | DNCP aprueba protestas; exige al MOPC reevaluar (20 días) |
+| 06/2023 | Reevaluación vuelve a adjudicar a O3; Valdez denuncia manipulación en prensa (GEN/La Nación); O3 se hace de la audiencia aclaratoria |
+| Fin 2023 | Promedent SA finalmente adjudicada (según ÚH/José Manuel: "le sacaron el contrato a la mejor oferente por denuncia anónima") |
+| 21/02/2024 | Dictamen N°11 MOPC: investigación DNCP recomienda anulación por inconsistencias |
+| 04/03/2024 | Resolución MOPC cancela contrato; funcionarios sin cobertura desde entonces |
+| 17/05/2024 | Nuevo llamado Nº23/2024 (ID 444.961, G.8.907M) |
+| 06/08/2024 | ABC: Promedent ganó pero DNCP suspende (exp. 395); profesional incluido sin consentimiento; proceso termina "Cancelada" |
 
 ---
 
