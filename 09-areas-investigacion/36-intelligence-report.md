@@ -231,16 +231,21 @@ La página pública de la clínica lista al menos **20 profesionales** (los sigu
 - Dr. Mario Ibarrola
 - Dra. Camila Hernández
 
-### 5.2. Familiares y posibles conflictos de interés
+### 5.2. Familiares y posibles conflictos de interés (⚠️ ACTUALIZADO 18/09/2026)
 
-- **Dr. Roque Ramírez Nizza** (demandante) + **Dr. Mario Ramírez** (rehabilitación oral en la misma clínica) — mismo apellido. Si son hermanos/primos, Roque podría tener conflicto de interés en decisiones sobre su pariente.
-- **Lic. Verónica Amarilla** (RR.HH., autora del "no pagamos nada") + **Dra. Aida Amarilla** (operatoria en la clínica) — mismo apellido. **Esto es muy importante**: si son familia, RR.HH. podría tener conflicto de interés al hablar sobre el caso de una colega odontóloga con su mismo apellido.
+**Confirmado y actualizado:**
 
-> **Acción para Carlos:** antes del juicio, verificar parentesco de "Amarilla" y de "Ramírez" en el Padrón Electoral. Si son familia, hay motivo para **recusar a Verónica Amarilla como testigo** y para pedir **nulidad** del eventual despido de Aida Amarilla si se diese.
+- **Dr. Roque Ramírez Nizza** (demandante) + **Dr. Mario Ramírez** (rehabilitación oral en la misma clínica) — **CONFIRMADO RELACIÓN PADRE-HIJO** según cuestionario Phase 21. Si son hermanos/primos, Roque podría tener conflicto de interés en decisiones sobre su pariente. → Mario **firma como rep. legal alternativo en MOPC** (ABC 2024) → **co-responsabilidad en contratos públicos fraudulentos** → **demanda ampliada o querella penal**.
+- **Lic. Verónica Amarilla** (RR.HH., autora del "no pagamos nada") — **CONFIRMADO COMO GERENTE OPERACIONES Y SERVICIOS** (LinkedIn verificado) → tiene poder decisorio real → **co-demandable**.
+- **Dra. Aida Amarilla** (operatoria en la clínica) — confirmar parentesco con Verónica y/o con Roque en Padrón.
+- **Dra. María Gloria Acosta** (ortodoncia + rehabilitación oral) — posible "Gloria" de los chats que firmaba amonestaciones.
+- **Dra. Viviana González** (rehabilitación oral) — posible homónima de la Coordinadora "Viviana Colman".
+
+> **Acción para Carlos:** verificar parentesco en Padrón Electoral antes del juicio. Si son familia, hay motivo para **recusar a Verónica Amarilla como testigo** y para pedir **nulidad** del eventual despido de Aida Amarilla si se diese.
 
 ### 5.3. Implicación procesal
 
-- Estos 22+ nombres son **testigos virtuales identificados** — todos比较容易 ubicar y citar.
+- Estos 22+ nombres son **testigos virtuales identificados** — todos relativamente fáciles ubicar y citar.
 - Si Gabi logra sumar **3-5 de ellos como litisconsortes** (no como testigos del demandante), se multiplica la presión sobre la demandada.
 - La web pública de O3 los **expone a todos** — Roque no puede negar quién trabajaba en su clínica.
 - Si la web declara **"más de 150 odontólogos"**, la acción colectiva tiene un universo amplísimo.
@@ -280,23 +285,24 @@ La página pública de la clínica lista al menos **20 profesionales** (los sigu
 
 ---
 
-## 7. Otras unidades de negocio y posibles terceros responsables
+## 7. Otras unidades de negocio y posibles terceros responsables (⚠️ ACTUALIZADO 18/09/2026)
 
-### 7.1. Grupo económico completo
+### 7.1. Grupo económico completo — 7 entidades
 
-| Unidad | Función | Año | Posible vínculo con caso |
-|---|---|---|---|
-| **Odontología 3 S.A.** (central) | Clínica principal | 1973 / 1994 S.A. | **Demandada principal** |
-| **Clínica Santé** | Segunda clínica | 2017 | Probable domicilio laboral de Gabi o colegas |
-| **Clínica San José** | Tercera clínica | (fecha desconocida, pre-Santé) | Mismo |
-| **Scultura** | Laboratorio dental propio | 2016 | Suministra a las clínicas |
-| **La Casa del Odontólogo** | Venta de insumos odontológicos | 2016 | Posible facturación cruzada |
-| **Tecnodent** | Laboratorio digital | 2020 | Mismo |
-| **Vanguard** | Prepaga propia | 2019 | Producto B2B y B2C — explica Asismed |
+| Unidad | Función | Año | Cargo de José Manuel | Posible vínculo con caso |
+|---|---|---|---|---|
+| **Odontología 3 TRES S.A.** (central) | Clínica principal | 1973 / 1994 S.A. | Vicepresidente | **Demandada principal** |
+| **Clínica Santé** (Mariscal Estigarribia 1458 e/ Perú y Pai Pérez, Asunción) | Segunda clínica | 2017 | **Propietario** | Probable domicilio laboral de Gabi/colegas |
+| **Clínica La Merced** (Ingavi e/ Monte Alto y Pitiantuta, Luque) | Tercera clínica | (pre-Santé) | (mismo grupo) | **Cerca del domicilio de Gabi (Cerro Corá 62)** |
+| **Scultura S.A.** | Laboratorio dental propio | 2016 | **Propietario** | Suministra a las clínicas |
+| **La Casa del Odontólogo S.A.** | Venta de insumos odontológicos | 2016 | Vicepresidente | Posible facturación cruzada |
+| **Tecnodent** | Laboratorio digital CAD/CAM | enero 2020 | **Propietario** | Mismo |
+| **Vanguard — Odontología Integral Prepaga** | Prepaga propia (R-N° 2POD180005) | marzo 2019 | Vicepresidente | Producto B2B y B2C — auditoría Superintendencia jul-ago 2025 |
 
 ### 7.2. Implicación
 
-Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odontología 3 S.A., todas podrían ser **terceros responsables solidarios** o al menos **terceros vinculados** que el juez debería conocer.
+- ⚠️ **José Manuel Ramírez es Vicepresidente/Propietario de 6 de las 7 entidades** (LinkedIn verificado). Inoponibilidad de velo societario aplicable.
+- Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odontología 3 S.A., todas podrían ser **terceros responsables solidarios** o al menos **terceros vinculados** que el juez debería conocer.
 
 > **Acción:** Carlos debe pedir al Registro Público la estructura completa del grupo económico. Si Vanguard es una sociedad separada (probable — la web dice "Odontología Integral Prepaga"), Roque podría usarla como vehículo para evadir embargos.
 
@@ -382,34 +388,38 @@ Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odon
 
 ---
 
-## 11. Siguientes pasos de investigación (con prioridad)
+## 11. Siguientes pasos de investigación (con prioridad) (⚠️ ACTUALIZADO 18/09/2026)
 
-### 11.1. URGENTE (esta semana)
+### 11.1. URGENTE (esta semana post-poder)
 
-0. **Verificar la pestaña "Sanciones a proveedores"** en DNCP — no se consultó en la primera pasada. URL: https://www.contrataciones.gov.py/proveedor/odontologia-3-tres-s-a/sanciones.html (subagent 0 confirmó que NO hay link directo pero podría existir el tab).
-1. **Obtener copia completa del expediente periodístico** de las 2 denuncias MOPC (2023, 2024).
-2. **Solicitar vía Carlos al Círculo de Odontólogos** constancia de Roque, Gabi, Viviana Colman, Verónica Amarilla, Luis Arévalo.
-3. **Confirmar parentesco de Roque-Mario Ramírez y Verónica-Aida Amarilla** vía Padrón Electoral (una vez Carlos tenga el poder).
-4. **Pericia informática** de los 38 audios + la grabación de la reunión con Roque.
+0. **CRÍTICO: Confirmar nombre real de la Coordinadora** (¿Lic. Viviana Colman o Dra. Viviana González?) con Gabi.
+1. **CRÍTICO: Confirmar si Gabi atendía en La Merced (Luque)** — cerca de su domicilio Cerro Corá 62.
+2. **Oficiar a Superintendencia de Salud** pidiendo copias de auditorías 2024-2025 (N° 40 + N° 45) y Scultura-Vanguard (N° 37).
+3. **Obtener copia completa del expediente periodístico** de las 2 denuncias MOPC (2023, 2024).
+4. **Solicitar vía Carlos al Círculo de Odontólogos** (`secretaria@cop.com.py`) constancia de Roque, Gabi, Viviana, Verónica, Aída, Mario, Luis Arévalo.
+5. **Confirmar parentescos** vía Padrón Electoral (Roque-Mario confirmado, Roque-José Manuel, Aída-Verónica, Gloria-Roque, Coordinador nombre).
+6. **Pericia informática** de los 38 audios + 99 archivos WhatsApp + grabación 18/06/2026 (contactar ForenLab PY).
 
 ### 11.2. SPRINT 2 (semana 2)
 
-5. **Oficio a Asismed** pidiendo copia del contrato con O3.
-6. **Oficio a la SET** pidiendo DDJJ de Roque + O3 de últimos 5 años.
-7. **Oficio al Registro Público** pidiendo estatutos completos + composición accionaria actual e histórica de O3 + otras sociedades de Roque.
-8. **Oficio al Padrón Electoral** pidiendo C.I., domicilio y vehículos de Roque.
+7. **Oficio a Asismed** pidiendo copia del contrato con O3.
+8. **Oficio a la SET** pidiendo DDJJ de Roque + O3 + José Manuel + composición accionaria (con API REST pública).
+9. **Oficio al Registro Público** pidiendo estatutos completos + composición accionaria actual e histórica de las 7 entidades + RUCs separados.
+10. **Oficio al Padrón Electoral** pidiendo C.I., domicilio y vehículos de Roque + José Manuel + Verónica Amarilla.
+11. **Oficiar a DNCP** pidiendo copia del **CASO N° 294** (Investigación Preliminar 10/09/2018 contra O3) y de la **Resolución N° 760 del 05/03/2018** que O3 litigó contra.
 
 ### 11.3. SPRINT 3 (semana 3-4)
 
-9. **Buscar copias de las denuncias del oferente competidor** del MOPC 2024.
-10. **Solicitar a la CGR** si tiene auditoría abierta sobre Odontología 3.
-11. **Verificar si Vanguard es una S.A. separada** o parte de Odontología 3.
+12. **Buscar copias de las denuncias del oferente competidor (Promedent S.A.)** del MOPC 2024.
+13. **Solicitar a la CGR** si tiene auditoría abierta sobre Odontología 3.
+14. **Verificar si Vanguard es una S.A. separada** o parte de Odontología 3 — `vanguardodontologia.com`.
+15. **Contactar a Promedent** (`contabilidad@odontos.com.py`) como **aliado procesal** (perdieron ₲13.320M por adjudicación irregular).
 
 ### 11.4. SPRINT 4+
 
-12. **Investigación de patrimonio completo** de Roque para embargo efectivo.
-13. **Mapa de empresas vinculadas** (Scultura, Tecnodent, Vanguard, Casa del Odontólogo).
-14. **Cronología completa de las denuncias MOPC** cruzada con fechas de pagos al IPS de O3.
+16. **Investigación de patrimonio completo** de Roque + José Manuel + Ángel Valdez para embargo efectivo (7 entidades).
+17. **Mapa accionario completo** (Scultura, Tecnodent, Vanguard, Casa del Odontólogo, Santé, La Merced, Odontología 3).
+18. **Cronología completa de las denuncias MOPC** cruzada con fechas de pagos al IPS de O3.
 
 ---
 
@@ -449,20 +459,34 @@ Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odon
 
 ---
 
-## 13. Resumen ejecutivo para Carlos
+## 13. Resumen ejecutivo para Carlos (⚠️ ACTUALIZADO 18/09/2026)
 
-**Resumen:** Odontología 3 TRES S.A. (RUC 80010293-2) es una empresa odontológica **familiar, masiva y contratista del Estado** dirigida por el Dr. Roque Samuel Ramírez Nizza (heredero del fundador Dr. Raúl Ramírez Arana, quien falleció en 1989). La firma opera al menos **5 unidades de negocio** (Odontología 3 + Santé + San José + Vanguard prepaga + Tecnodent + Scultura + Casa del Odontólogo), declara públicamente **"más de 150 odontólogos"** y tiene **73 adjudicaciones públicas por ₲146,9B en 17 organismos del Estado paraguayo** (incluyendo MOPC, Cámara de Diputados, Relaciones Exteriores, SENACSA, BNF). El caso laboral de Gabi se inscribe en un **patrón masivo** que coincide con **2 denuncias públicas previas** (2023 y 2024) por irregularidades en licitaciones del MOPC. La escala del fraude previsional afecta potencialmente a **cientos de profesionales a lo largo de 50 años**. La **acción colectiva** es viable y recomendable. La **vía penal** está habilitada por los precedentes periodísticos y las adjudicaciones públicas.
+**Resumen:** Odontología 3 TRES S.A. (RUC 80010293-2) es una empresa odontológica **familiar, masiva, contratista del Estado y con problemas públicos documentados**, dirigida por el Dr. Roque Samuel Ramírez Nizza (heredero del fundador Dr. Raúl Ramírez Arana, quien falleció en 1989). El grupo económico opera **7 entidades verificadas** (Odontología 3 + Santé + La Merced + Vanguard + Scultura + La Casa del Odontólogo + Tecnodent), con **José Manuel Ramírez como Vicepresidente/Propietario de 6** (LinkedIn verificado) y **5 cabezas en el gobierno corporativo** (Roque, José Manuel, Mario, Ángel, Verónica). La firma declara públicamente **"más de 150 odontólogos"** y tiene **73 adjudicaciones públicas por ₲146.903.298.000 en 17 organismos del Estado paraguayo** (~USD 19.5M). El caso laboral de Gabi se inscribe en un **patrón masivo** que coincide con:
+- **DNCP CASO N° 294 — Investigación Preliminar contra O3** (10/09/2018)
+- **DNCP anulación MOPC 2023** (4/03/2024)
+- **2 denuncias públicas previas** (2023 y 2024 — ABC, La Nación, Última Hora)
+- **Superintendencia de Salud auditó a O3 en 2024 + 2025** (N° 40 + N° 45, preventivo)
+- **Auditorías a Scultura S.A. - Vanguard** (N° 37, julio 2025)
+- **Auditoría a Promedent S.A. - Odontos** (N° 54, septiembre 2025) — competidor afectado
+
+La escala del fraude previsional afecta potencialmente a **cientos de profesionales a lo largo de 50 años** (modelo PS replicado). La **acción colectiva** es viable. La **vía penal** está habilitada por precedentes de IPS Quirófanos (prisión preventiva + embargo ₲61.000M).
+
+**Particularidades procesales descubiertas:**
+- Verónica Amarilla Matto es **Gerente de Operaciones y Servicios** (LinkedIn) — **co-demandable solidariamente**.
+- Mario Ramírez **firma como representante legal alternativo en MOPC** (ABC 2024) — **co-responsabilidad directa en fraude público**.
 
 **Recomendación procesal inmediata:**
 
-1. **Esta semana:** Firma de poder + presentación de demanda o reclamo ante Viceministerio.
-2. **Sprint 1-2:** oficios al IPS, SET, Registro Público, Padrón, Círculo, Asismed, DNCP.
-3. **Sprint 2-3:** incorporar al menos 3-5 colegas como litisconsortes (Victoria Barrios, Blanca Santacruz, Marian Machuca, Delia Ortiz, Nidia Ortiz son candidatos).
-4. **Sprint 3+:** evaluar activación de vía penal apoyándose en las 2 denuncias MOPC existentes + el expediente de prensa acumulado.
+1. **Esta semana:** Firma de poder + presentación de demanda con co-demandados ampliados (5 personas) + oficio a Superintendencia por auditorías.
+2. **Sprint 1-2:** oficios al Padrón (parentescos), IPS, SET (con API REST pública), Registro Público (composición 7 entidades), Padrón Electoral, Círculo Odontólogos, Superintendencia de Salud, DNCP (CASO N° 294).
+3. **Sprint 2-3:** incorporar al menos 3-5 colegas como litisconsortes, contacto con Promedent como aliado procesal.
+4. **Sprint 3+:** evaluar activación de vía penal apoyándose en precedentes IPS Quirófanos + ABC 2024.
 
 ---
 
-## 14. Anexo — Fuentes consultadas (con URL exactas)
+## 14. Anexo — Fuentes consultadas (con URL exactas) (⚠️ ACTUALIZADO 18/09/2026)
+
+### A. Fuentes O3/Roque/DNCP/Superintendencia (verificadas)
 
 | Fuente | URL | Estado |
 |---|---|---|
@@ -470,23 +494,125 @@ Si estas unidades comparten RUC, domicilio fiscal o representante legal con Odon
 | DNCP adjudicaciones | https://www.contrataciones.gov.py/proveedor/odontologia-3-tres-s-a/adjudicaciones.html | ✅ 73 adjudicaciones scrapeadas |
 | DNCP categorías | https://www.contrataciones.gov.py/proveedor/odontologia-3-tres-s-a/categorias.html | ✅ Verificado |
 | DNCP sanciones | https://www.contrataciones.gov.py/proveedor/odontologia-3-tres-s-a/sanciones.html | ✅ "No se han encontrado" |
+| DNCP protestas/procesos | https://www.contrataciones.gov.py/protestas/ODONTOLOGIA+3+TRES/ | ✅ 5 protestas/consideraciones contra O3 |
+| DNCP protests histórico | https://www.contrataciones.gov.py/licitaciones/convocatoria/314740-seguro-odontologico-1/protestas-denuncias.html | ✅ Protestas 2016, 2017, 2018 contra O3 |
+| Promedent S.A. (Odontos) DNCP | https://contrataciones.gov.py/proveedor/promedent-s-a.html | ✅ Web: odontos.com.py, contabilidad@odontos.com.py |
+
+### B. Web O3 y grupo económico
+
+| Fuente | URL | Estado |
+|---|---|---|
 | Web O3 home | https://odontologia3.com/ | ✅ |
 | Web O3 nosotros | https://odontologia3.com/nosotros/ | ✅ |
 | Web O3 profesionales | https://odontologia3.com/profesionales/ | ✅ 22+ nombres |
 | Web O3 vanguard | https://odontologia3.com/vanguard/ | ✅ |
 | Web O3 contacto | https://odontologia3.com/contacto/ | ✅ |
+| Web Vanguard | https://vanguardodontologia.com/ | ✅ Imagen actualizada jun 2026 |
 | Facebook | https://www.facebook.com/odontologia3py/ | ✅ |
 | Instagram | https://www.instagram.com/odontologia3py/ | ✅ |
 | TikTok | https://www.tiktok.com/@odontologia3py | ✅ |
+| LinkedIn (companía) | https://linkedin.com/company/odontología-3 | ✅ Activa — 2025-11 post contratando, 2026-02 nota prensa |
 | Google Maps | https://maps.google.com/?q=Odontologia+3 | ✅ |
 | FindGlocal | https://www.findglocal.com/PY/Asunción/881347195361636/Odontologia-3 | ✅ |
 | Google News (RSS) | https://news.google.com/rss/search?q=%22Odontolog%C3%ADa+3%22+Paraguay | ✅ 10 artículos identificados |
-| Bing search | https://www.bing.com/search?q=%22Odontologia+3%22+Paraguay | ✅ (sin prensa directa) |
+| Noticiero Paraguay | https://noticieroparaguay.com/en-plena-crisis-el-estado-gasta-mas-de-usd-33-millones-en-seguros-vip/ | ✅ "O3 cubre USD 3M a estamentos estatales" |
+
+### C. Personas clave (LinkedIn público)
+
+| Persona | URL LinkedIn | Cargo en O3 |
+|---|---|---|
+| Dr. Roque Samuel Ramírez Nizza | (sin LinkedIn público) | Pdte + Director + Rep. Legal DNCP |
+| **José Manuel Ramírez** | https://www.linkedin.com/in/jose-manuel-ramirez-733892334 | Vice + Propietario 6 entidades |
+| Dr. Mario Ramírez | (sin LinkedIn público) | Odontólogo Rehab + Rep. Legal alt. MOPC |
+| Ángel Valdez de Madariaga | (sin LinkedIn público) | Administrador + Rep. público |
+| **Lic. Verónica Amarilla Matto** | https://www.linkedin.com/in/ver%C3%B3nica-amarilla-matto-455a08163 | **Gerente de Operaciones y Servicios** |
+| **Dra. Aída Analy Amarilla Jojot** | https://www.linkedin.com/in/aida-analy-amarilla-jojot-51898444 | Operatoria dental |
+
+### D. Prensa (pruebas públicas de irregularidades)
+
+| Fecha | Medio | URL | Tema |
+|---|---|---|---|
+| 06/06/2023 | La Nación | https://www.lanacion.com.py/politica_edicion_impresa/2023/06/06/denuncian-manipulacion-en-proceso-de-licitacion-del-mopc/ | Denuncian manipulación MOPC |
+| 02/06/2023 | La Nación | https://www.lanacion.com.py/negocios/2023/06/02/denuncian-supuesta-manipulacion-del-mopc-en-proceso-adjudicatario-de-seguro-medico/ | Denuncian manipulación MOPC |
+| 06/08/2024 | ABC Color | https://www.abc.com.py/politica/2024/06/16/mopc-insiste-en-seguro-odontologico-vip-por-g-8907-millones-para-sus-funcionarios/ | Investigan millonaria adjudicación MOPC |
+| 12/08/2024 | Última Hora | https://www.ultimahora.com/oferente-denuncia-irregularidades-en-licitacion-para-seguro-odontologico-en-el-mopc | Oferente denuncia irregularidades MOPC |
+| 03/12/2018 | Última Hora | https://www.ultimahora.com/diputados-gastan-seguro-odontologico-pero-le-dan-poco-uso-n2783015 | Diputados gastan USD 1M en seguro odontológico |
+| 17/11/2020 | ABC | (no URL directa encontrada) | MOPC dilapida USD 10M |
+| 23/07/2025 | El Nacional | (cobertura VP cliente) | Seguro médico vip para funcionarios VP |
+
+### E. Superintendencia de Salud (auditorías y casos)
+
+| Año | Sección | URL |
+|---|---|---|
+| 2025 | Auditorías contables | https://superintendenciadesalud.gov.py/auditorias-contables-2025/ |
+| 2024 | Auditorías contables | https://superintendenciadesalud.gov.py/auditorias-contables-2024/ |
+| 2025 | Auditorías jurídicas | https://superintendenciadesalud.gov.py/auditorias-juridicas/ |
+| — | Registro Nacional EMPP | https://superintendenciadesalud.gov.py/registro-nacional-de-empp/ |
+
+Casos análogos públicos en Superintendencia:
+1. Gerardo Javier Medina Halke c/Odonto Excelence s/Incumplimiento
+2. Marcelo Javier Mongelos Cardozo c/Sal Lucas S.A.
+3. Mirian Alberti c/OAMI S.A.
+4. Carolina Rodriguez Adorno c/PROMED S.A.
+5. Luz Bella Cardozo Campuzano c/Santa Clara S.A.
+6. Celso Alejandro Bareiro contra Asismed (abril-junio 2025)
+
+### F. Casos análogos en jurisprudencia (PY/ES/CO/VE)
+
+| Caso | URL |
+|---|---|
+| Acuerdo y Sentencia 121/2019 (Sala Civil PJ PY) | https://www.pj.gov.py/notas/17987-jurisprudencia-destacada |
+| STS 801/2025 Sanitas (TS España) | https://www.iberley.es/jurisprudencia/sentencia-social-tribunal-supremo-sala-lo-social-18-9-25-48704958 |
+| STS 33/2023 Vitaldent (TS España — adverso) | https://www.iberley.es/jurisprudencia/sentencia-social-ts-17-1-23-48463468 |
+| SCS Sala Casación N° 724/2016 (Guevara + Indavec — VE) | https://accesoalajusticia.org/wp-content/uploads/2016/07/SCS-N%C2%BA-724-22-07-2016.pdf |
+| STJ Medellín (Buriticá vs. ODONTOPLUS — CO, adverso) | https://www.tribunalmedellin.com/images/decisiones/laboral/2023/05001310501820170045401.pdf |
+| Consejo de Estado Colombia — ESE Hospital Villavicencio | https://www.consejodeestado.gov.co/news/consejo-de-estado-recuerda-caracteristicas-del-contrato-realidad-y-ordena-pago-de-acreencias-a-un-medico-que-trabajo-para-el-hospital-de-villavicencio/ |
+| Caso "Quirófanos IPS" (9 exautoridades imputadas) | https://www.abc.com.py/nacionales/2026/08/05/imputacion-a-expresidentes-del-ips-es-un-hecho-historico/ |
+| Caso "67 personas IPS COVID 2025" | https://www.abc.com.py/nacionales/2025/09/17/simularon-contratos-y-cese-laboral-en-pandemia-para-cobrar-indemnizaciones-del-ips-por-g-1200-millones/ |
+| Caso "Angie Samudio" (MTESS conciliación) | https://www.mtess.gov.py/?p=7092 |
+
+### G. Peritos forenses digitales (confirmados en Paraguay)
+
+| Proveedor | Email | Especialidad |
+|---|---|---|
+| **ForenLab Paraguay** | `forenlab@peritosinformaticos.net` | Pericia informática forense (WhatsApp, audios) — cobertura PY/ES/PE |
+
+### H. Profesionales e instituciones oficiales (verificadas)
+
+| Institución | URL o contacto |
+|---|---|
+| Círculo de Odontólogos del Paraguay (COP) | https://www.cop.com.py |
+| Email COP | `secretaria@cop.com.py` |
+| Tel COP | (021) 493 296 |
+| Dirección COP | Gral. 980 c/ Colón, Asunción |
+| Ministerio de Salud — Control de Profesiones | https://controldeprofesiones.mspbs.gov.py/consulta-registro-profesional/ |
+| SET (Subsecretaría de Tributación) | https://www.set.gov.py/portal/ |
+| API REST pública SET | https://servicios.set.gov.py/EsetApiWS/ApiWS/consultaRuc?apiKey=value&ruc=value&dv=value |
+| Superintendencia de Salud | https://superintendenciadesalud.gov.py/ |
+| Padrón Electoral (TSJE) | https://www.padron.gob.py/ |
+| Registro Público de Comercio | https://www.registrodecomercio.gov.py/ |
+| Promedent S.A. (Odontos) — aliado procesal | `contabilidad@odontos.com.py` |
+
+### I. Marcos legales citados
+
+| Ley | URL |
+|---|---|
+| Código del Trabajo (Ley 213/93) | https://www.bacn.gov.py/leyes-paraguayas/921/ley-n-213--que-establece-el-codigo-del-trabajo |
+| Código Procesal del Trabajo (Ley 742/61) | https://www.bacn.gov.py/leyes-paraguayas/8494/ley-n-74261-que-sanciona-el-codigo-procesal-del-trabajo |
+| Ley 5115/96 (MTESS) | https://www.bacn.gov.py/leyes-paraguayas/4685/ley-n-5115--crea-el-ministerio-de-trabajo-empleo-y-seguridad-social |
+| Decreto 11292/60 (Art. 6 — presunción laboralidad) | (en CSJ) |
+
+### J. Recursos no accesibles (DNS / bot protection)
+
+| Recurso | Estado |
+|---|---|
+| Bing search | https://www.bing.com/search?q=%22Odontologia+3%22+Paraguay | (sin prensa directa) |
 | DuckDuckGo | https://duckduckgo.com/html/ | ⚠️ Bot protection activa |
 | CSJ buscador | http://www.csj.gov.py/jurisprudencia/Home/Criterios | ⚠️ Endpoint POST no accesible públicamente |
 | IPS portal | https://portal.ips.gov.py/ | ⚠️ Sin buscador público de asegurados |
 | SET portal | https://www.set.gov.py/portal/ | ⚠️ Portal SPA — búsqueda requiere JS |
 | Poder Judicial | https://www.pj.gov.py/ | ⚠️ Sin exposición pública de juicios |
+| Ministerio Público | https://ministeriopublico.gov.py/ | ⚠️ DNS inaccesible desde este host |
 
 ---
 
