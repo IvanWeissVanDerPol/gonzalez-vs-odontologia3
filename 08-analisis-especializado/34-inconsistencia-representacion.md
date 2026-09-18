@@ -12,18 +12,28 @@
 |---|---|---|
 | **Carta 1** | 26/03/2025 | **"Director – Presidente / Director General"** |
 | **Carta 2** | 18/06/2026 | **"Auditor Odontólogo"** |
+| **ABC Color 16/06/2024** (licitación MOPC) | 16/06/2024 | **"Representante Legal alternativo"** (junto a Roque Samuel Ramírez Nizza) |
+| **LinkedIn self-description** | — | **"Propietario en Odontología 3"** |
 
-**Fuente:** Cartas escaneadas en [`../12-evidencia/cartas-escaneadas/`](../12-evidencia/cartas-escaneadas/).
+**Fuente:** Cartas escaneadas en [`../12-evidencia/cartas-escaneadas/`](../12-evidencia/cartas-escaneadas/), ABC Color 16/06/2024, LinkedIn https://www.linkedin.com/in/jose-manuel-ramirez-733892334 (el perfil vinculado a Roque vía LinkedIn corporativo).
 
-### 1.2. La inconsistencia
+### 1.2. La inconsistencia (⚠️ ampliada 18/09/2026)
 
-Un mismo individuo (Dr. Roque S. Ramírez Nizza) firma dos cartas para la misma persona jurídica (Odontología 3 S.A.) con **dos cargos distintos** en un intervalo de 15 meses.
+**Un mismo individuo usa 4 cargos distintos en documentos públicos:**
+
+1. "Director-Presidente / Director General" (carta 26/03/2025)
+2. "Auditor Odontólogo" (carta 18/06/2026)
+3. "Representante Legal alternativo" (MOPC 2024, junto a Roque)
+4. "Propietario" (LinkedIn)
 
 Esta inconsistencia puede explicarse por:
 
 1. **Cargo realmente diferente en distintos momentos** — pero entonces, ¿cuál era su cargo real al momento de cada carta?
 2. **Uso flexible de la representación** — usa el título que conviene al documento (más autoridad cuando sanciona por horario; menos autoridad cuando se limita a una "auditoría").
 3. **Falsa representación** — si al momento de una de las cartas NO era representante legal, el acto es **nulo** (Art. 168 CC y concordantes).
+4. **Representante alternativo válido (cuestión Mario)** — el hijo firma contratos públicos, lo que indica que el padre **transfirió poder de representación** a Mario, lo cual no se ajusta a las reglas del Código Civil ni al Registro Público.
+
+⚠️ **Acción para Carlos:** Oficiar al Registro Público de Comercio para obtener **certificado de representación legal histórica** de Odontología 3 S.A. + el resto del grupo económico (6 entidades). Si el certificado no coincide con los cargos usados en las cartas, hay nulidad.
 
 ---
 
@@ -115,12 +125,50 @@ La demandada pretende hacer valer el contrato PS como expresión de la voluntad 
 
 ---
 
-## 5. Siguientes pasos
+## 5. ⚠️ Actualización 18/09/2026 — Nueva inconsistencia detectada
 
-- [ ] Carlos oficia al Registro Público en el paquete inicial de prueba anticipada.
-- [ ] Esperar respuesta (5-10 días hábiles).
-- [ ] Decidir activación de Línea A, B o C según hallazgos.
+### 5.1. **Verónica Amarilla Matto = Gerente de Operaciones y Servicios (LinkedIn confirmado)**
+
+⚠️ **Otro actor con inconsistencia de rol relevante para el caso:**
+
+**LinkedIn:** https://www.linkedin.com/in/ver%C3%B3nica-amarilla-matto-455a08163
+
+**Perfil declara:**
+- Cargo: "Gerente de Operaciones y Servicios - Odontología 3 (Current)"
+- Sin perfil personal en LinkedIn que sugiera formación en derecho o recursos humanos
+
+**Implicación:**
+- En el audio 43, la persona que dice *"La clínica no le va a pagar nada a usted. Pero si nos recumplimos no, por eso está todo estipulado en el contrato"* tiene cargo formal de **Gerente** (no RR.HH. operativo).
+- **Gabi recibió un "no" de autoridad**, no de un administrativo menor.
+- El expediente original la subestimó llamándola "Licenciada" (lo cual probablemente es impreciso).
+- Si Gabi cuestiona su rol formal en la audiencia, es un careo a una Gerente de O3 con poder de decisión sobre operaciones y servicios.
+
+### 5.2. **José Manuel Ramírez = Vicepresidente + Propietario de 6 entidades (LinkedIn confirmado)**
+
+⚠️ **Otra inconsistencia importante:** José Manuel firma como Propietario de las 6 entidades del grupo económico (Scultura, La Casa del Odontólogo, Tecnodent, Santé, La Merced, Vanguard), pero **su nombre NO aparece en las cartas a Gabi**. Sin embargo, como Vicepresidente de la S.A. central, debería tener poder de decisión sobre Gabi.
+
+**Posibles líneas procesales:**
+- Si José Manuel es Vicepresidente desde 2019 y Gabi trabajó 7 años más hasta 2026, **¿no sabía de la existencia de Gabi?** Es improbable, lo que sugiere que **sí la conocía y consintió su presencia**.
+- Esa connivencia lo convierte en **co-responsable administrativo** y posible demandable penal.
+
+### 5.3. **Mario Ramírez = Representante Legal alternativo en MOPC (ABC 16/06/2024)**
+
+⚠️ **Tercera inconsistencia grave:** El hijo del Dr. Roque (Mario) firma contratos públicos con el Estado como representante legal alternativo de O3. Esto significa que:
+
+- O3 tiene **dos representantes legales de facto** (padre e hijo) en distintos momentos.
+- Ambos firman en nombre de la S.A. — pero ¿cuándo? ¿Con qué cargo formal?
+- Si la DNCP aceptó ambos firmantes, **la representación legal está duplicada o mal registrada**.
+- Implicación: si Mario firmaba contratos públicos, también firmaba o supervisaba las cartas internas a Gabi y otros profesionales.
+
+### 5.4. Siguientes pasos adicionales
+
+- [ ] Carlos oficia al Registro Público en el paquete inicial de prueba anticipada → **pedir certificado de representación legal histórica de las 7 entidades** (O3, Santé, La Merced, Vanguard, Scultura, La Casa del Odontólogo, Tecnodent).
+- [ ] Oficiar específicamente al Registro Público sobre **qué personas tienen poder de representación en cada una** (Roque, José Manuel, Mario, otros).
+- [ ] **Si el Registro Público muestra firmas autorizadas distintas a las que aparecen en las cartas a Gabi → nulidad de los actos**.
+- [ ] **Si la representación de las 7 entidades es confusa o no coincide → sustento para inoponibilidad del velo societario** (todos son "el mismo" grupo).
+- [ ] Decidir activación de Línea A, B o C según hallazgos del Registro Público.
+- [ ] **Si surge la confirmación de parentesco de José Manuel con Roque → recusación de todos los testigos corporativos + demanda penal ampliada**.
 
 ---
 
-*Documento vivo. Actualizar con la respuesta al oficio al Registro Público.*
+*Documento vivo. Actualizar con la respuesta al oficio al Registro Público. Ampliado 18/09/2026 con inconsistencias adicionales detectadas vía LinkedIn y ABC Color.*

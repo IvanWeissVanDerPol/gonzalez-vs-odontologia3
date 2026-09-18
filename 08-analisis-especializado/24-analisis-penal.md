@@ -23,23 +23,29 @@ La vía penal cumple tres funciones:
 - **Estigmatización:** una denuncia penal puede afectar la reputación de Gabi.
 - **Riesgo de contraataque:** la demandada puede contradenunciar (injuria, calumnia,損害).
 
-### 1.3. Recomendación inicial
+### 1.3. Recomendación inicial (⚠️ ACTUALIZADO 18/09/2026)
 
-**Por defecto: NO presentar denuncia penal.** Razones:
+**Por defecto: NO presentar denuncia penal** — pero **reevaluar** si se confirman parentescos y patrones. Razones:
 - El caso laboral es autosuficiente.
 - La vía penal puede ser contraproducente.
 - El acuerdo confidencial puede ser mejor que una sentencia penal.
 
-**Excepciones a la regla:**
+**Pero la evidencia del 18/09/2026 cambia la ecuación:**
+- **Caso "Quirófanos IPS"** (mayo-agosto 2026): 9 exautoridades IPS imputadas por lesión de confianza (Art. 192 CP), prisión preventiva + embargo ₲61.000M. Demuestra que la Fiscalía PY tiene expertise y voluntad de perseguir fraude previsional masivo.
+- **Caso "67 personas IPS COVID"** (sept 2025): 67 personas imputadas por estafa al IPS.
+- **DNCP anulación MOPC 2023 contra O3**: confirmada la irregularidad en contratos públicos.
 
-| Excepción | Cuándo |
-|---|---|
-| **Robo / hurto** | Si la demandada retiene bienes de Gabi (equipos, instrumentos, etc.) |
-| **Amenaza** | Si Roque amenaza a Gabi o a su familia |
-| **Coacción** | Si la demandada coacciona a Gabi para firmar algo |
-| **Estafa** | Si la demandada engañó a Gabi sobre el contrato |
-| **Evasión de aportes previsionales masivos** | Si la evasión es sistemática y de alto monto |
-| **Lavado de activos** | Si se sospecha que los fondos evadidos se usan para otros fines |
+**Excepciones a la regla (recomendaciones reforzadas):**
+
+| Excepción | Cuándo | Estrategia procesal |
+|---|---|---|
+| **Robo / hurto** | Si la demandada retiene bienes de Gabi (equipos, instrumentos, etc.) | Denuncia inmediata |
+| **Amenaza** | Si Roque amenaza a Gabi o a su familia | Denuncia inmediata |
+| **Coacción** | Si la demandada coacciona a Gabi para firmar algo | Denuncia inmediata |
+| **Estafa** (Art. 187 CP) | Si la demandada engañó a Gabi sobre el contrato | Querella penal con Adhésiva |
+| **Retención indebida de aportes** (Art. 196 CP) | Si la evasión es sistemática y de alto monto | **⭐ QUERELLA PENAL** con precedente Quirófanos |
+| **Asociación ilícita** (Art. 239 CP) | Si se prueba patrón familiar | Querella penal con涉案. de Mario (hijo de Roque), José Manuel (Vice), Verónica (Gerente), Ángel (Admin) |
+| **Lavado de activos** | Si se sospecha que los fondos evadidos se usan para otros fines | Querella penal con pericia contable |
 
 ---
 
@@ -311,13 +317,80 @@ Un proceso penal es emocionalmente agotador. Gabi debe tener:
 
 | Pregunta | Respuesta |
 |---|---|
-| ¿Presentar denuncia penal? | Por defecto: no |
-| ¿Cuándo presentarla? | Si fracasa la vía laboral o hay amenazas |
-| ¿Tipos aplicables? | Estafa procesal (Art. 187 CP) es el principal |
-| ¿Costo? | USD 5,000–15,000 honorarios + pericias |
+| ¿Presentar denuncia penal? | **Por defecto: NO. Pero reevaluar con precedentes de Quirófanos IPS y 67 personas COVID** |
+| ¿Cuándo presentarla? | **Si confirma parentesco familiar + fraude sistémico + audiencias frustradas** |
+| ¿Tipos aplicables? | **Estafa (Art. 187 CP), Retención indebida (Art. 196 CP), Asociación ilícita (Art. 239 CP), Lesión de confianza (Art. 192 CP — análoga Quirófanos)** |
+| ¿Personas codemandables penalmente? | **5 cabezas del gobierno corporativo: Roque + José Manuel + Mario (firmó contratos fraudulentos) + Ángel Valdez + Verónica Amarilla Matto (admitió "no pagamos nada")** |
+| ¿Costo? | USD 5,000–15,000 honorarios + pericias + USD 600-1.200 por pericia de WhatsApp (ForenLab) |
 | ¿Duración? | 12–24 meses |
-| ¿Beneficio? | Disuasión + prueba + justicia |
+| ¿Beneficio? | **Embargo preventivo hasta ₲61.000M (precedente Quirófanos). Disuasión fuerte.Prisión preventiva para Roque y José Manuel.** |
+
+## 11. ⚠️ Precedentes penales vivos (NUEVO 18/09/2026)
+
+### A. Caso "Quirófanos IPS" (mayo-agosto 2026) — *[Caso análogo directo]*
+
+**Fuente:** ABC Color 05/08/2026, Última Hora, Observador.
+
+**Hechos:** Licitación SBE N° 143/2019 → Adjudicación Neighpart S.A. por ₲53.000M → modificada a ₲61.000M con adendas → obras no ejecutadas. 9 exautoridades imputadas, prisión preventiva pedida, embargo hasta ₲61.000M.
+
+**Aplicación al caso Gabi:**
+- **Mismo patrón:** fraude previsional público → enriquecimiento del funcionario/empresario.
+- **Misma ley penal:** Art. 192 CP (lesión de confianza agravada, hasta 10 años).
+- **Marco procesal ya verificado:** la Fiscalía PY tiene expertise técnica en imputar estos casos con prisión preventiva.
+
+**Acción para Carlos:** mencionar este caso en la presentación penal como precedente inmediato.
+
+### B. Caso "67 personas - IPS COVID" (septiembre 2025)
+
+**Fuente:** ABC Color 17/09/2025, Última Hora.
+
+**Hechos:** Empresa ficticia inscribió 83 personas como trabajadores, cobró ₲1.239.565.140 en compensaciones del IPS. 67 personas imputadas, 21 colaboraron.
+
+**Tipos penales:** Estafa (Art. 192 CP) + Declaración falsa.
+
+**Aplicación al caso Gabi:**
+- **Patrón idéntico en sentido inverso:** aquí se crearon trabajadores ficticios; en O3, se evitó inscribir trabajadores reales.
+- **Mismo modus operandi:** fraude masivo al IPS con registros falsos.
+- La Fiscalía ya cuenta con expertise y fallos condenatorios en el sector.
+
+### C. Caso "Celso Alejandro Bareiro contra Asismed" (Superintendencia de Salud, abril-junio 2025) — *[Relevante para Asismed]*
+
+**Naturaleza:** No penal, pero **auditoría de Superintendencia contra aseguradora vinculada al caso Gabi**.
+
+**Aplicación:** Refuerza la tesis de que **Asismed y los modelos de prepaga odontológica en PY** operan con prácticas de incumplimiento contractual sistemático.
+
+### D. Casos Superintendencia de Salud por incumplimiento contractual
+
+| Caso | Estado |
+|---|---|
+| Gerardo Javier Medina Halke c/Odonto Excelence | Caso análogo directo |
+| Marcelo Javier Mongelos Cardozo c/Sal Lucas S.A. | S/Incumplimiento |
+| Mirian Alberti c/OAMI S.A. | Reclamo atención médica |
+| Carolina Rodriguez Adorno c/PROMED S.A. | ⚠️ **Contra competidor (Odontos) de O3 — vinculante** |
+| Luz Bella Cardozo Campuzano c/Santa Clara S.A. | Cobertura Alta Complejidad |
+
+**Aplicación:** Patrón sectorial de incumplimiento contractual odontológico. Si Superintendencia ha resuelto estos casos a favor del consumidor, es precedente administrativo en favor de Gabi.
+
+### E. Querella adhesiva en causa penal
+
+Si O3 quiere querellar penalmente a Gabi (por ejemplo, por difamación al exponer el caso), Gabi puede:
+
+- Constituirse en **querellante adhesiva** (Art. 84 CPP).
+- Ejercer la acción civil derivada del hecho punible (Art. 33 CPP).
+- Solicitar pericia informática forense para acreditar la prueba preconstituida (38 audios + 99 WhatsApp + 2 cartas escaneadas).
+
+**Recurso procesal:** con la jurisprudencia del caso Quirófanos IPS, la querella de O3 puede ser **desestimada in limine** si no hay evidencia robusta.
+
+## 12. ⚠️ Plan de acción penal (NUEVO 18/09/2026)
+
+Si se decide presentar querella penal, los pasos son:
+
+1. **Pre-poder:** consolidar evidencia con ForenLab Paraguay (pericia informática).
+2. **Acción 1:** Querella penal contra las **5 cabezas**: Roque (Pdte + firmante cartas), José Manuel (Vice + Propietario 6 entidades), Mario (firmó contratos MOPC), Ángel (administrador), Verónica (admitió "no pagamos nada").
+3. **Acción 2:** Solicitud de embargo preventivo hasta ₲2.000M (₲4.000M = 4x quantum).
+4. **Acción 3:** Inhibición general de vender bienes de las 7 entidades del grupo.
+5. **Acción 4:** Cooperativa con Jurisprudencia penal PY existente: el caso Quirófanos IPS + 67 personas COVID son los precedentes vivos a invocar.
 
 ---
 
-*Documento jurídico-penal. Carlos debe validar las citas del CP con la legislación vigente al momento de los hechos.*
+*Documento jurídico-penal. Carlos debe validar las citas del CP con la legislación vigente al momento de los hechos. Recomendación actualizada 18/09/2026: evaluar la querella penal con peso en precedentes — ya no es solo "caso laboral aislado".*
